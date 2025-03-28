@@ -1,0 +1,112 @@
+
+/* 主要容器 */
+.process-page-container {
+    padding: 0px;
+    display: grid;
+    grid-template-columns: 5px 1fr 1fr 1fr 1fr 1fr 1fr 5px; /* 第一列宽度为250px，后面两列平分剩余空间 */
+    grid-template-rows: 5px 1fr 1fr 5px; /* 第一行高度自动，第二行占据剩余空间 */
+    gap: 8px;
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* 每个区域的样式 */
+  .TaskDecompose-grid {
+    position: relative; 
+    border: 1px solid #cccccc; /* 浅灰色边框 */
+    border-radius: 15px; /* 圆角大小 */
+
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+    grid-column: 2 / 4;
+    grid-row: 2 / 3; 
+    display: flex; /* 使用flex布局 */
+    flex-direction: column; /* 子元素垂直堆叠 */
+    align-items: center; /* 子元素水平居中 */
+    justify-content: flex-start; /* 子元素从顶部开始排列 */
+  }
+  
+  /* 第一块区域：占据第一行第一列 */
+  .CodeDisplay-grid {
+    position: relative; 
+    border: 1px solid #cccccc; /* 浅灰色边框 */
+    border-radius: 15px; /* 圆角大小 */
+
+  
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+    grid-column: 2 / 4;
+    grid-row:  3 / -2; 
+    display: flex; /* 使用flex布局 */
+    flex-direction: column; /* 子元素垂直堆叠 */
+    align-items: center; /* 子元素水平居中 */
+    justify-content: flex-start; /* 子元素从顶部开始排列 */
+  }
+  
+  /* 第二块区域：占据第二行第一列 */
+  .FlowChart-grid {
+    position: relative; 
+    border: 1px solid #cccccc; /* 浅灰色边框 */
+    border-radius: 15px; /* 圆角大小 */
+
+  
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+    grid-column: 4 / -2;
+    grid-row: 2 / -2; 
+    display: flex; /* 使用flex布局 */
+    flex-direction: column; /* 子元素垂直堆叠 */
+    align-items: center; /* 子元素水平居中 */
+    justify-content: flex-start; /* 子元素从顶部开始排列 */
+  }
+
+  .current-header {
+    font-size: 32px;
+    font-weight: 500;
+    font-weight: bold; /* 字体加粗 */
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding: 4px 8px;
+    letter-spacing: 0.5px;
+    font-weight: bold; /* 字体加粗 */
+    color: #124881; 
+  }
+
+
+
+  .scrollable-container {
+    max-height: 360px;
+    overflow-y: auto;
+    padding-right: 5px;
+  }
+  
+  /* Breakdown Section */
+  .breakdown-section {
+    margin-bottom: 0px;
+  }
+  
+  .breakdown-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .breakdown-item {
+    background: #fcfdfd;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #d9d6d6;
+    font-size: 18px;
+  }
+  
+    /* Divider */
+    .divider {
+        height: 1px;
+        background: #839cb5;
+        margin: 10px 0;
+      }
+
+
+
+
+
+

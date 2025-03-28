@@ -1,0 +1,97 @@
+.data-lake-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+
+.data-lake-dropdown {
+  padding: 4px 8px;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-right: 30px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  color: #333;
+  width: 150px;
+  height: 40px;
+  box-sizing: border-box; /* 包括 padding 和 border 在内的宽度计算 */
+  transition: all 0.3s ease-in-out; /* 过渡效果 */
+}
+
+.data-lake-dropdown:focus {
+  outline: none;
+  border-color: #4a90e2; /* 聚焦时的边框颜色 */
+  box-shadow: 0 0 4px rgba(74, 144, 226, 0.5); /* 聚焦时的阴影效果 */
+}
+
+.data-lake-visualization {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  background-color: #fff; /* 可以根据需要修改背景颜色 */
+  height: 340px;
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  margin-bottom: 10px;
+}
+
+.ManageDataMenu-visualization {
+  width: 100%;
+  height: 450px;
+  padding: 0px;
+  background-color: #f9f9f9;
+  border-top: 1px solid #ddd;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+}
+
+
+
+
+/* 显示卡片*/
+
+  .tooltip {
+    position: absolute;
+    background-color: rgba(235, 242, 245, 0.9);
+    border: 1px solid #ccc;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    width: auto;
+    height: auto;
+    padding: 8px 12px;
+    border-radius: 4px;
+    pointer-events: none;
+    transition: opacity 0.2s ease-in-out;;
+    opacity: 0;
+    z-index: 100;
+    backdrop-filter: blur(5px); /* 背景虚化效果 */
+  }
+  
+  .tooltip.show {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .tooltip-title {
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+  }
+  
+  .tooltip-content {
+    font-size: 16px;
+    color: #010101;
+    margin-bottom: 15px;
+  }
+  

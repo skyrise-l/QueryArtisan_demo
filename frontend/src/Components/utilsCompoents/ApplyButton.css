@@ -1,0 +1,167 @@
+
+
+.allpy-button,
+.allpy-button-batchQuery,
+.allpy-button-confirm,
+.allpy-button-cancel,
+.allpy-button-cancel-small,
+.allpy-button-TaskAnalyzer,
+.allpy-button-TaskAnalyzer-cancel,
+.allpy-button-TaskAnalyzer-search,
+.allpy-button-Pre-Next,
+.allpy-button-QueryChatMenu,
+.allpy-button-Result-Switch,
+.allpy-button-TaskAnalyzer-report,
+.allpy-button-Result-DataLineage,
+.allpy-button-operator-menu {
+  width: 100px; /* 默认宽度 */
+  height: 40px; /* 默认高度 */
+  margin-left: 40px;
+  color: #ffffff; /* 字体颜色 */
+  background-color: #64abee; /* 背景颜色 */
+  cursor: pointer; /* 设置鼠标样式为手指 */
+  font-size: 18px; /* 调整字体大小 */
+  border: none; /* 移除边框 */
+  padding: 1px 8px; /* 内边距 */
+  border-radius: 8px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+  transition: transform 0.1s ease;
+  outline: none;
+}
+
+.allpy-button-cancel-small {
+  width: 160px; 
+  height: 40px;
+  margin-right: 40px;
+  margin-bottom: 20px;
+  background-color: #f2796c; 
+}
+
+.allpy-button-TaskAnalyzer-cancel {
+  width: 130px; 
+  height: 40px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+  background-color: #f2796c; 
+}
+
+.allpy-button-TaskAnalyzer{
+  width: 100px; 
+  height: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  background-color: #126c84; 
+}
+
+.allpy-button-TaskAnalyzer-report{
+  width: 130px; 
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  background-color: #126c84; 
+}
+
+.allpy-button-TaskAnalyzer-search{
+  width: 100px; 
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 2px;
+  background-color: #173e48; 
+}
+
+.allpy-button-batchQuery {
+  width: 160px; 
+  margin-left: 0px;
+  background-color: #293b51; 
+}
+
+.allpy-button-confirm{
+  width: 160px; 
+  margin-left: 150px;
+  background-color: #64b6e9; 
+}
+
+.allpy-button-cancel{
+  width: 160px; 
+  background-color: #f2796c; 
+}
+
+.allpy-button-Pre-Next{
+  width: 50px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px; 
+  background-color: #173e48; 
+}
+
+.allpy-button-QueryChatMenu{
+  width: 120px; 
+  margin-left: 0px;
+  background-color: #293b51; 
+  font-size: 16px;
+}
+
+.allpy-button-Result-Switch{
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px; 
+  background-color: #2a7c90; 
+}
+
+.allpy-button-Result-DataLineage{
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px; 
+  background-color: #2a7c90; 
+}
+
+.allpy-button-operator-menu{
+  width: 120px; 
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: #126c84; 
+}
+
+
+/* 共有的鼠标悬停和点击效果 */
+.allpy-button:hover,
+.allpy-button-batchQuery:hover,
+.allpy-button-confirm:hover
+.allpy-button-cancel:hover,
+.allpy-button-cancel-small:hover,
+.allpy-button-TaskAnalyzer:hover,
+.allpy-button-TaskAnalyzer-cancel:hover,
+.allpy-button-TaskAnalyzer-search:hover,
+.allpy-button-Pre-Next:hover,
+.allpy-button-QueryChatMenu:hover,
+.allpy-button-Result-Switch:hover,
+.allpy-button-TaskAnalyzer-report:hover,
+.allpy-button-Result-DataLineage:hover,
+.allpy-button-operator-menu:hover {
+  background-color: #456885; /* 鼠标悬停时的背景颜色 */
+}
+
+.allpy-button:active,
+.allpy-button-batchQuery:active,
+.allpy-button-confirm:active,
+.allpy-button-cancel:active,
+.allpy-button-cancel-small:active,
+.allpy-button-TaskAnalyzer:active,
+.allpy-button-TaskAnalyzer-cancel:active,
+.allpy-button-TaskAnalyzer-search:active,
+.allpy-button-Pre-Next:active,
+.allpy-button-QueryChatMenu:active,
+.allpy-button-Result-Switch:active,
+.allpy-button-TaskAnalyzer-report:active,
+.allpy-button-Result-DataLineage:active,
+.allpy-button-operator-menu:active {
+  transform: scale(0.85); /* 按钮点击时缩小 */
+}

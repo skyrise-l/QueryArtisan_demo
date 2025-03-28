@@ -1,0 +1,152 @@
+.query-reuse-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    height: 540px; /* 固定最小高度 */
+  }
+  
+  .query-reuse-header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    height: 50px;
+  }
+  
+  .separator {
+    width: 100%;
+    height: 2px;
+    background-color: #0673b3;
+    margin-bottom: 20px;
+  }
+  
+  .query-reuse-info {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .query-reuse-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .cancel-button {
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+  }
+  
+  .pagination {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .query-reuse-table {
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .report-button {
+    background-color: #0673b3;
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .delete-button {
+    background-color: #ff4d4f;
+    color: white;
+  } 
+  
+  .reuse-button:hover, .delete-button:hover {
+    opacity: 0.8;
+  }
+  
+  .empty {
+    color: #bbb;
+    font-style: italic;
+  }
+
+  .query-reuse-table .ant-table-cell {
+    font-size: 16px;  /* 设置字体大小 */
+    font-family: 'Roboto', sans-serif; /* 设置字体风格 */
+    color: #333; /* 设置文本颜色 */
+  }
+
+  .query-reuse-table .ant-table-thead > tr > th {
+    font-size: 18px; /* 设置表头字体大小 */
+    font-weight: bold; /* 设置表头加粗 */
+    color: #0673b3; /* 设置表头颜色 */
+  }
+  
+
+  .ant-modal .ant-modal-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 1px;
+  }
+  
+  /* 调整 Modal 内容 */
+  .modal-content {
+    text-align: center;
+  }
+  
+  .modal-text {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 10px;
+    margin-top: 0px;
+  }
+  
+  /* 按钮布局 */
+  .modal-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* 按钮样式 */
+  .modal-button {
+    padding: 8px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    width: 100px;
+  }
+  
+  .yes-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  .no-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+  }
+  
+  .yes-button:hover {
+    background-color: #45a049;
+  }
+  
+  .no-button:hover {
+    background-color: #e53935;
+  }
+  
+  /* Modal 背景和阴影 */
+  .ant-modal-content {
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }

@@ -1,0 +1,23 @@
+.CustomButton {
+	width: 140px; /* 设置固定的宽度 */
+	height: 40px; /* 设置固定的高度，确保按钮的垂直尺寸也一致 */
+	background-color: #1877cfd2; /* 蓝色背景 */
+	color: #fff; /* 白色文字 */
+	border: none; /* 无边框 */
+	border-radius: 15px; /* 圆角大小 */
+	padding: 8px; /* 根据需要调整内边距 */
+	font-size: 24px; /* 根据需要调整字体大小 */
+	cursor: pointer; /* 鼠标指针变成手形 */
+	display: inline-flex; /* 使用flex布局 */
+	align-items: center; /* 垂直居中图标和文字 */
+	justify-content: center; /* 水平居中图标和文字 */
+	transition: background-color 0.3s; /* 过渡效果 */
+	gap: 12px; /* 设置图标和文字之间的间距 */
+	text-align: center; /* 文字居中 */
+	overflow: hidden; /* 超出部分隐藏 */
+}
+  
+/* 鼠标悬停时的样式 */
+.CustomButton:hover {
+	background-color: #11365e; /* 悬停时的背景颜色 */
+}	

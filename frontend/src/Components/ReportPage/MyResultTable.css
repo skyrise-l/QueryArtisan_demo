@@ -1,0 +1,160 @@
+/* 表格容器，固定高度，并允许滚动 */
+.MyResultTable-wrapper {
+  width: 100%;
+  padding: 0;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  position: relative;
+  height: 380px; /* 固定高度 */
+  display: flex;
+  flex-direction: column;
+}
+
+/* 可横向滚动的表格 */
+.MyResultTable-scroll {
+    overflow-x: auto;
+    overflow-y: auto; /* 避免出现多余滚动条 */
+    flex-grow: 1;
+    width: 100%;
+}
+
+/* 表格样式 */
+.MyResultTable-table {
+  border-collapse: collapse;
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+  text-align: left;
+  width: 600px; /* 确保表格不会太窄 */
+}
+
+/* 表头，固定在顶部 */
+.MyResultTable-table thead {
+  background: #333;
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+/* 表头列 */
+.MyResultTable-table th {
+  padding: 10px;
+  border-bottom: 2px solid #ddd;
+  font-weight: bold;
+  white-space: nowrap;
+  max-width: 130px;
+}
+
+/* 筛选输入框样式 */
+.MyResultTable-filter-input {
+  width: 100%;
+  padding: 3px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* 让表格行可以上下滚动 */
+.MyResultTable-table tbody {
+  max-height: 204px; /* 固定 tbody 高度 */
+  overflow-y: auto;
+  width: 600px
+}
+
+.MyResultTable-table tbody tr {
+  width: 600px
+}
+
+/* 数据行 */
+.MyResultTable-table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 奇偶行区分 */
+.MyResultTable-table tbody tr:nth-child(even) {
+  background: #f2f2f2;
+}
+
+/* 悬停效果 */
+.MyResultTable-table tbody tr:hover {
+  background: #e9ecef;
+}
+
+.MyResultTable-title-column {
+  min-width: 50px;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.MyResultTable-title-cell {
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 悬浮显示完整内容 */
+.MyResultTable-title-cell:hover {
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+
+
+/* 分页器（固定位置） */
+.MyResultTable-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: white;
+  padding: 8px 0;
+  border-top: 1px solid #ddd;
+  position: sticky;
+  bottom: 0;
+  z-index: 10;
+}
+
+/* 分页按钮 */
+.MyResultTable-pagination button {
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  background: #f8f9fa;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.MyResultTable-pagination button:disabled {
+  background: #ddd;
+  cursor: not-allowed;
+}
+
+/* 页码输入框 */
+.MyResultTable-page-input {
+  width: 40px;
+  text-align: center;
+  padding: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
+.no-data-message {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem; /* 大号字体 */
+  font-weight: bold; /* 加粗 */
+  color: #555; /* 根据需要调整颜色 */
+  margin: 0;
+}

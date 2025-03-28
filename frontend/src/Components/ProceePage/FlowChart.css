@@ -1,0 +1,282 @@
+
+
+.flowchart-container {
+  display: grid;
+  grid-template-columns: 1px 1fr 1fr 1fr  1fr 1px; /* 每行2列，平分宽度 */
+  grid-template-rows: 385px 410px 1px;
+  padding: 4px 4px; /* 各个区域之间的间距 */
+}
+
+.flowchart-plan{
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  background-color: #ffffff;
+  border-radius: 15px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 2 / 4;
+  grid-row:  1 / 2; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+
+.flowchart-plan-raw{
+  position: relative;
+  background-color: #ffffff;
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 4 / -2;
+  grid-row:  1 / 2; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+.flowchart-text{
+  background-color: #ffffff;
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 2 / 4;
+  grid-row:  2 / -2; 
+
+  flex-direction: column; /* 子元素垂直堆叠 */
+
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+  overflow-y: auto;
+}
+
+.flowchart-result{
+  background-color: #ffffff;
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 4 / -2;
+  grid-row:  2 / -2; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+.flow-chart-header {
+  position: absolute; 
+  font-size: 24px;
+  font-weight: 1500;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 4px 8px;
+  letter-spacing: 0.5px;
+  font-weight: bold; /* 字体加粗 */
+  text-align: center;
+}
+
+.flow-chart-header2 {
+  font-size: 24px;
+  font-weight: 1500;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 4px 8px;
+  letter-spacing: 0.5px;
+  font-weight: bold; /* 字体加粗 */
+  text-align: center;
+}
+
+
+.react-flow-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+  .react-flow__attribution {
+    display: none;
+  }
+
+
+  .modal-content {
+    font-family: Arial, sans-serif; /* 设置字体 */
+  }
+  
+  .modal-title {
+    font-size: 20px; /* 标题字体大小 */
+    font-weight: bold; /* 标题加粗 */
+    color: #333; /* 标题颜色 */
+    margin-bottom: 16px; /* 与内容的间隔 */
+  }
+  
+  .info-row {
+    padding: 8px 16px; /* 每行内容的内边距 */
+    border-bottom: 1px solid #eaeaea; /* 底部边框，最后一项可以去掉 */
+    display: flex; /* 弹性盒子布局 */
+    justify-content: space-between; /* 内容分布 */
+  }
+  
+  .info-row:last-child {
+    border-bottom: none; /* 去除最后一项的底部边框 */
+  }
+  
+  .info-label {
+    font-size: 16px; /* 小标题字体大小 */
+    font-weight: bold; /* 小标题加粗 */
+    color: #000000; /* 小标题颜色 */
+  }
+  
+  .info-value {
+    font-size: 16px; /* 内容字体大小 */
+    color: #444; /* 内容颜色 */
+  }
+
+
+
+
+
+  /*逻辑计划css */
+  .logical-plan-step {
+    background-color: #f4f7fa;
+    border-radius: 8px;
+    margin-bottom: 0px; /* Reduce margin between steps */
+    padding: 5px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    font-size: 18px; /* Reduce font size for better fit */
+    white-space: pre-wrap; /* Allow text to wrap */
+  }
+  
+  /* Ensure each step is displayed in a compact format */
+  .logical-plan-step p {
+    margin: 0;
+    padding: 4px 0;
+    font-weight: normal;
+    line-height: 2;
+  }
+  
+  /* Style for each "Step X: details" display */
+  strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Optional: For empty details, show "NULL" in gray */
+  .logical-plan-step p:empty {
+    color: #bbb;
+  }
+
+
+
+
+
+
+
+
+
+.optimization-container {
+  padding: 10px;
+  max-width: 600px;
+  font-family: Arial, sans-serif;
+}
+
+.time-header {
+  margin-bottom: 0px;
+}
+
+/* Title */
+.optimization-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-top: 0;
+  color: #333;
+  border-bottom: 2px solid #3d505f;
+  padding-bottom: 5px;
+}
+
+/* Execution time */
+.execution-time {
+  font-size: 16px;
+  margin: 10px 0;
+  color: #555;
+}
+
+.execution-time strong {
+  font-weight: 600;
+}
+
+.optimization-points {
+  height: 185px;
+}
+
+/* Query optimization points */
+.optimization-points h3 {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #333;
+}
+
+.optimization-points ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.optimization-points li {
+  font-size: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  color: #0d0c0c;
+}
+
+.optimization-points .checkbox {
+  margin-right: 10px;
+  color: #4CAF50;
+}
+
+.optimization-points .impact {
+  font-size: 14px;
+  color: #3d4d55;
+}
+
+/* Execution time change */
+.execution-time-change {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #555;
+}
+
+.execution-time-change span {
+  color: #333;
+  font-weight: 600;
+}
+
+/* CPU and Memory usage */
+.cpu-memory {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* 左对齐 */
+  gap: 8px; /* 添加间距 */
+  margin-top: 10px;
+}
+
+.cpu-memory div {
+  display: flex;
+  align-items: center; /* 让 📊 图标和文本对齐 */
+}
+
+.cpu-memory span {
+  width: 20px; /* 确保图标宽度一致 */
+  display: inline-block;
+  text-align: center;
+}
+
+.cpu-memory strong {
+  min-width: 130px; 
+  display: inline-block;
+  color: #333;
+}
+
+

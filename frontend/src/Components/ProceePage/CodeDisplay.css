@@ -1,0 +1,92 @@
+.code-display-container {
+  background-color: #f8f9fa; /* 轻微灰色背景 */
+  border-radius: 15px;
+  align-items: center;
+  padding: 0;
+}
+  
+  .pre-container_report {
+    max-width: 650px; /* 最大宽度 */
+    max-height: 350px;
+    overflow: auto; /* 超出内容滚动 */
+    margin: 0 auto; /* 水平居中 */
+    padding: 1px; /* 一些内边距 */
+    background-color: #f6f8fa; /* 背景色，根据需要调整 */
+    border-radius: 5px; /* 边框圆角 */
+  }
+
+.line {
+  white-space: pre; /* 保留空格和换行 */
+}
+
+.highlighted-line {
+  background-color: #f0f091; /* 特殊高亮的背景颜色 */
+}
+
+.line-number {
+  width: 40px; /* 调整以适应你的行号宽度 */
+  text-align: right;
+  padding-right: 10px; /* 右边距，让行号和代码有间隙 */
+  color: #999;
+  user-select: none; /* 防止选中行号 */
+}
+
+.code-block {
+  flex-grow: 1;
+  overflow-y: auto;
+  background-color: #f3f3f3; /* 代码块背景颜色 */
+  padding: 10px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+pre {
+  margin: 0;
+}
+
+.hljs {
+  background: #f0f0f0; /* 更改背景色 */
+}
+
+.hljs-keyword {
+  color: #075f85; /* 关键字颜色 */
+}
+
+.hljs-string {
+  color: rgb(18, 147, 44); /* 字符串颜色 */
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #5f9ea0; /* 浅绿色 */
+  font-style: italic; /* 斜体表示 */
+}
+
+.highlight-card {
+  position: absolute; /* 让 Card 绝对定位 */
+  background: rgba(255, 255, 255, 0.95); /* 半透明白色背景 */
+  border: 1px solid #ddd; /* 灰色边框 */
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* 轻微阴影 */
+  padding: 15px; /* 内边距 15px，避免文字紧贴边框 */
+  border-radius: 8px; /* 圆角 8px，让卡片更柔和 */
+  width: 330px; /* 设置固定宽度 320px */
+  max-width: 90vw; /* 避免在小屏幕上太大 */
+  min-height: 100px; /* 最小高度 100px */
+  word-wrap: break-word; /* 让长文本自动换行 */
+  z-index: 1000; /* 确保 Card 处于最上层 */
+}
+
+/* 设置 Card 内文字的样式 */
+.highlight-card h4 {
+  font-size: 18px; /* 标题字体大小 */
+  font-weight: bold; /* 标题加粗 */
+  margin-bottom: 10px; /* 标题下方间距 */
+}
+
+.highlight-card p {
+  font-size: 14px; /* 代码字体大小 */
+  line-height: 1.6; /* 行距 1.6 倍 */
+  font-weight: normal; /* 正常字体 */
+  color: #333; /* 深灰色 */
+  margin-bottom: 5px; /* 每行间距 5px */
+}

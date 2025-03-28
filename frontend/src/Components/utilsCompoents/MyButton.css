@@ -1,0 +1,9 @@
+/* MyButton.css */
+.ant-btn-primary {
+    border-radius: 10px; /* 修改按钮的圆角大小 */
+    width: 200px;
+    height: 30px;
+    padding: 0px 20px; /* 修改按钮的内边距 */
+    font-size: 20px; /* 修改按钮的字体大小 */
+  }
+  

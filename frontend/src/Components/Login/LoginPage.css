@@ -1,0 +1,91 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(-45deg, #d4ff68, #44e4da, #23a6d5, #23d5ab, #417d80, #649bc0);
+    background-size: 600% 600%;
+    animation: gradientBG 10s ease infinite;
+  }
+  
+  .login-box {
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 400px;
+  }
+
+  .login-icon {
+    font-size: 38px; /* 设置图标的大小 */
+    margin-right: 24px; /* 在图标和标题之间添加一些间距 */
+  }
+  
+  .login-title {
+    font-size: 32px; /* 设置标题的字体大小 */
+    margin: 0; /* 如果需要，去除默认的外边距 */
+  }
+
+  .ant-input {
+    width: 100% !important; /* 宽度 */
+    font-size: 20px !important; /* 字体大小 */
+    margin-bottom: 2px !important; /* 下边距 */
+    margin-top: 2px !important;
+  }
+
+  .ant-form-item {
+    margin-top: 32px;
+    margin-bottom: 32px; 
+  }
+  
+  /* 调整提示文字大小 */
+  .ant-form-item-explain {
+    font-size: 20px !important; /* 设置为您想要的大小 */
+  }
+  
+  .ant-btn-primary {
+    width: 50% !important; /* 按钮宽度 */
+    height: 40px !important; /* 按钮高度 */
+    font-size: 20px !important; /* 字体大小 */
+    display: block; /* 将按钮变为块级元素 */
+    margin: 1px auto; /* 上下间距10px，左右自动（这会使其居中） */
+
+  }
+
+  .ant-message .ant-message-notice-content {
+    font-size: 22px !important; /* 消息内容的字体大小 */
+    vertical-align: middle;
+  }
+
+    .login-form-footer {
+        text-align: center;
+        margin-top: 4px;
+      }
+      
+      .login-form-footer p {
+        margin-bottom: 4px; /* 或者根据你的设计调整 */
+        font-size: 18px;
+      }
+   
+      @keyframes gradientBG {
+        0% {
+          background-position: 0% 50%;
+        }
+        20% {
+          background-position: 100% 40%;
+        }
+        40% {
+          background-position: 0% 30%;
+        }
+        60% {
+          background-position: 100% 20%;
+        }
+        80% {
+          background-position: 0% 10%;
+        }
+        100% {
+          background-position: 100% 0%;
+        }
+      }
+  

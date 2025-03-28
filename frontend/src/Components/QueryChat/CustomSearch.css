@@ -1,0 +1,103 @@
+/* CustomSearch.css */
+.search-wrapper {
+  position: relative; /* 为了定位备选框 */
+  width: 760px; /* 确保它足够宽以包含搜索框和备选框 */
+}
+
+.custom-search-container {
+    display: flex;
+    align-items: center;
+    width: 760px; /* 设置搜索框宽度 */
+    height: 60px;
+    border: 1px solid #1677ff; /* 设置边框样式 */
+    border-radius: 30px; /* 设置圆角 */
+    overflow: hidden; /* 确保内容不溢出 */
+    position: relative;
+  }
+  
+  .custom-search-input {
+    flex: 1;
+    height: 100%;
+    padding: 8px 12px; /* 设置输入框内边距 */
+    font-size: 20px; /* 设置字体大小 */
+    border: none; /* 去除边框 */
+    outline: none; /* 去除输入框聚焦时的边框 */
+  }
+
+  
+  
+  .custom-search-button {
+    background-color: #1677ff; /* 设置按钮背景颜色 */
+    color: #fff; /* 设置按钮文字颜色 */
+    border: none; /* 去除边框 */
+    width: 80px;
+    height: 70px;
+    padding: 8px 16px; /* 设置按钮内边距 */
+    font-size: 20px; /* 设置字体大小 */
+    cursor: pointer; /* 设置鼠标样式为手型 */
+    transition: background-color 0.3s ease;
+  }
+  
+  .custom-search-button:hover {
+    background-color: #125cb4; /* 设置按钮悬停时的背景颜色 */
+  }
+
+  .custom-search-button:focus {
+    outline: none; /* 去掉按钮的默认轮廓样式 */
+  }
+
+  .custom-search-button:active {
+    animation: buttonClick 0.3s ease; /* 应用按钮点击后的动画效果 */
+  }
+
+  @keyframes buttonClick {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.2);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .suggestions-container {
+    position: absolute;
+    bottom: 100%; /* 确保备选框在输入框的外部 */
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    border-radius: 8px; /* 圆角设计，使外观更柔和 */
+    border: 1px solid #ddd; /* 修改为柔和的灰色边框 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 加强阴影效果，让其更加立体 */
+    z-index: 1000; /* 确保备选框的 z-index 高于其他元素 */
+    width: calc(100% - 2px); /* 减去 border 的宽度，确保宽度和输入框对齐 */
+    max-height: 300px; /* 设置最大高度，避免过长的列表溢出 */
+    overflow-y: auto; /* 增加垂直滚动条以适应更多的建议 */
+    transition: all 0.3s ease; /* 平滑过渡效果 */
+  }
+  
+  .suggestion-item  {
+    padding: 12px 20px; /* 增加内边距，让每个项之间的间距更舒适 */
+    border-bottom: 1px solid #eee; /* 更柔和的分隔线 */
+    background-color: #fff; /* 保持背景颜色为白色 */
+    color: #333; /* 使用深灰色作为文本颜色，避免过于刺眼的黑色 */
+    font-size: 18px; /* 合理的字体大小 */
+    line-height: 1.5; /* 增加行间距，让文本更舒适 */
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s; /* 增加过渡动画 */
+  }
+  
+  .suggestion-item:hover {
+    background-color: #f1f1f1; /* 鼠标悬停时，背景变成浅灰色 */
+    color: #71a8f4; /* 悬停时改变字体颜色，使其更加明显 */
+  }
+  
+  .suggestion-item:active {
+    background-color: #e0e0e0; /* 点击时的背景颜色 */
+  }
+  
+  .suggestion-item:last-child {
+    border-bottom: none;
+  }

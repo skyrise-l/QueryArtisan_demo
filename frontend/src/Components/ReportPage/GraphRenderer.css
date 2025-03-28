@@ -1,0 +1,22 @@
+.tooltip.show {
+    visibility: visible;
+    opacity: 1;
+    background-color: rgb(156, 200, 241);  /* solid white background */
+    border-radius: 5px;  /* Optional: add rounded corners */
+    padding: 10px;  /* Optional: add padding */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Optional: add shadow for better visibility */
+    z-index: 9999;  /* Ensure the tooltip is on top */
+  }
+  
+  .new-tooltip-title {
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+  }
+  
+  .new-tooltip-content {
+    font-size: 16px;
+    color: #010101;
+    margin-bottom: 15px;
+  }

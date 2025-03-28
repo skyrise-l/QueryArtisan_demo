@@ -1,0 +1,196 @@
+.Report-container{
+  padding: 0px;
+  display: grid;
+  grid-template-columns: 5px 400px 1fr 1fr 1fr 1fr 1fr 5px; /* 第一列宽度为250px，后面两列平分剩余空间 */
+  grid-template-rows: 5px 1fr 1fr 5px; /* 第一行高度自动，第二行占据剩余空间 */
+  gap: 8px;
+  height: 100%;
+  width: 100%;
+}
+
+.command-grid{
+  position: relative; 
+  grid-column: 2 / 3;
+  grid-row: 2 / -2; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+.command-grid-item1 {
+  height: 290px; /* 设置固定高度为300px */
+  margin-bottom: 8px; /* 设置间隔 */
+}
+
+.command-grid-item2 {
+  height: 600px; /* 设置固定高度为200px */
+}
+
+
+
+.dataline-grid{
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 3 / -2;
+  grid-row: 2 / 3; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+.Anlysis-result-grid{
+  position: relative; 
+  border: 1px solid #cccccc; /* 浅灰色边框 */
+  border-radius: 15px; /* 圆角大小 */
+
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
+  grid-column: 3 / -2;
+  grid-row: 3 / -2; 
+  display: flex; /* 使用flex布局 */
+  flex-direction: column; /* 子元素垂直堆叠 */
+  align-items: center; /* 子元素水平居中 */
+  justify-content: flex-start; /* 子元素从顶部开始排列 */
+}
+
+
+.command-content {
+  min-width: 380px;
+  min-height: 490px;
+  max-height: 490px; /* 设置历史命令框的最大高度 */
+  overflow-y: auto; /* 允许垂直滚动 */
+  padding: 10px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  margin-bottom: 0px;
+}
+
+.command-item {
+  background-color: #fff;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.command-header {
+  font-weight: bold;
+  font-size: 20px;
+  color: #b4ddff;
+}
+
+.command-body {
+  font-size: 16px;
+  color: #000000;
+  padding-top: 5px;
+}
+
+.command-separator {
+  height: 2px;
+  background-color: #afd8fd;
+  margin-top: 0px;
+}
+
+.no-command {
+  font-style: italic;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.query-input {
+  width: 260px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.history-btn {
+  height: 50px;
+  padding: 10px 20px;
+  background-color: #8dbef3;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.history-btn:hover {
+  background-color: #d2faff;
+}
+
+
+  /* 查询内容 */
+  .query-content {
+
+    min-height: 200px;
+    max-height: 200px; 
+    
+    display: block;  /* 让文本块生效 */
+    font-size: 18px;
+    font-weight: 600;
+    color: #2c3e50;
+    background: #f8f9fa; /* 浅灰背景 */
+    padding: 8px 12px;
+    border-radius: 6px; /* 圆角 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* 轻微阴影 */
+    text-align: justify; /* 让文本两端对齐 */
+    word-wrap: break-word; /* 自动换行 */
+    white-space: normal; /* 允许换行 */
+    overflow: hidden; /* 超出部分隐藏 */
+    border: 1px solid #e0e0e0; /* 细灰色边框 */
+    transition: all 0.2s ease-in-out;
+    margin-bottom: 5px;
+  }
+
+
+
+
+
+
+
+
+/* 旋转加载动画 */
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Darken the background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  overflow: hidden;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 6px solid rgba(0, 0, 0, 0.1);
+  border-top: 6px solid #3498db;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

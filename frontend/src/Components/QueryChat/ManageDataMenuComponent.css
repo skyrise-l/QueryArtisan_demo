@@ -1,0 +1,132 @@
+/* 外层组件容器：固定大小，可自行调整或改为自适应 */
+
+/* 顶部操作区布局 */
+.manage-data-menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+  margin-top: 10px;
+}
+
+.manage-data-menu-header-left,
+.manage-data-menu-header-center,
+.manage-data-menu-header-right {
+  display: flex;
+  align-items: center;
+}
+
+/* 当前表名文案 */
+.manage-data-menu-current-tableName {
+  margin: 0 8px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+/* 表格容器：占用剩余空间，允许滚动 */
+.table-container {
+  overflow-x:auto;
+  overflow-y: hidden;
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+  box-sizing: border-box;
+  height: 340px;
+}
+
+/* 自定义表格：固定布局，以列宽为准 */
+.custom-table {
+  width: 100%;
+  border-collapse: collapse; 
+  table-layout: fixed; /* 关键：固定列宽布局 */
+  overflow: auto;
+}
+
+/* 表头单元格：sticky，固定在顶部 */
+.custom-table thead th {
+  background-color: #b9daf5; /* 适度深蓝 */
+  position: sticky;
+  top: 0;
+
+  z-index: 1;           /* 确保滚动时覆盖表体 */
+  height: 40px;         /* 固定高度，不随文字增高 */
+  line-height: 40px;    /* 文字垂直居中 */
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding: 0 8px;
+  box-sizing: border-box;
+  white-space: nowrap;  /* 表头一般不换行 */
+  overflow: hidden;     
+  text-overflow: ellipsis; 
+  font-size: 18px;
+  max-width: 70px;
+  
+}
+
+/* 表体单元格 */
+.custom-table tbody td {
+  border-bottom: 1px solid #eee;
+  padding: 8px;
+  vertical-align: top;
+  font-size: 18px;
+  height: 30px;
+
+  /* 允许多行文字自动换行 */
+  white-space: normal;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* 隔行变色（可选）*/
+.custom-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+
+/* 上传按钮统一样式 */
+.manage-data-menu-upload-btn {
+  min-width: 60px;     /* 按钮最小宽度，避免文字过多时变形 */
+  color: #ffffff; /* 字体颜色 */
+  cursor: pointer; /* 设置鼠标样式为手指 */
+  font-size: 18px; /* 调整字体大小 */
+  border: none; /* 移除边框 */
+  padding: 1px 8px; /* 内边距 */
+  border-radius: 8px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+  transition: transform 0.1s ease;
+  outline: none;
+  background-color: #8f9b9e;
+  margin-left: 30px;
+}
+
+/* 取消按钮你可以在这里或在 ApplyButton 内部定义 */
+.manage-data-menu-cancel-btn {
+  min-width: 60px;     /* 按钮最小宽度，避免文字过多时变形 */
+  color: #ffffff; /* 字体颜色 */
+  cursor: pointer; /* 设置鼠标样式为手指 */
+  font-size: 18px; /* 调整字体大小 */
+  border: none; /* 移除边框 */
+  padding: 1px 8px; /* 内边距 */
+  border-radius: 8px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+  transition: transform 0.1s ease;
+  outline: none;
+  background-color: #f9969683;
+  margin-right: 30px;
+}
+
+
+.manage-data-menu-View-btn {
+  min-width: 60px;     /* 按钮最小宽度，避免文字过多时变形 */
+  color: #ffffff; /* 字体颜色 */
+  cursor: pointer; /* 设置鼠标样式为手指 */
+  font-size: 18px; /* 调整字体大小 */
+  border: none; /* 移除边框 */
+  padding: 1px 8px; /* 内边距 */
+  border-radius: 8px; /* 圆角大小 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 阴影效果 */
+  transition: transform 0.1s ease;
+  outline: none;
+  background-color: #0349a683;
+  margin-right: 30px;
+}

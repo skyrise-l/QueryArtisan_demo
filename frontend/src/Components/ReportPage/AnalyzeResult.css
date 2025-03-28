@@ -1,0 +1,117 @@
+
+  
+  /* ========================= 左侧输出区域 ========================= */
+  
+  .terminal-style {
+    background-color: #1e1d1d; /* 终端黑色背景 */
+    color: #4cdc72;            /* 终端绿色文本 */
+    font-family: "Courier New", monospace;
+    border-radius: 0px;
+    padding: 1rem;
+    overflow-y: auto;
+    min-height: 450px;
+    max-height: 450px;
+    width: 98%;
+  }
+  
+  /* 终端内容区域 */
+  .terminal-content {
+    position: relative;
+    white-space: pre-wrap; /* 保留换行和空格 */
+    font-size: 0.95rem;
+    line-height: 1.6; /* 行间距 */
+  }
+  
+  /* 终端每一行 */
+  .terminal-line {
+    display: flex; /* 使用Flexbox让图标对齐 */
+    align-items: flex-start; /* 使图标在左侧靠上 */
+    gap: 10px; /* 终端符号与文本的间距 */
+    padding: 3px 0;
+  }
+  
+  /* 终端前缀符号 (>> 或者 ➜ ) */
+  .terminal-prefix {
+    flex-shrink: 0; /* 保持固定大小 */
+    width: 20px;  /* 让所有 ➜ 保持对齐 */
+    text-align: center;
+    color: rgb(236, 236, 236);  /* 绿色 */
+    font-weight: bold;
+  }
+  
+  /* 终端文本 */
+  .terminal-text {
+    word-break: break-word; /* 让长文本自动换行 */
+    flex: 1;
+  }
+
+    /* ========================= 右侧：可视化容器 ========================= */
+
+  .image-carousel{
+    margin-top: 30px;
+  }
+
+  
+  /* 让图片宽度100%，高度自适应 */
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-auto {
+    height: auto;
+  }
+
+  .loading-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1.4rem; /* 大号字体 */
+    font-weight: bold; /* 加粗字体 */
+    color: #666; /* 可按需求调整 */
+    margin: 0;
+  }
+
+
+
+
+    /* LLM 报告容器 */
+    .llm-report-container {
+      background-color: #fafafa;
+      border-radius: 10px;
+      padding: 2px 8px;
+      max-height: 430px; /* 限制高度 */
+      min-height: 430px;
+      overflow-y: auto;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      position: relative;
+    }
+
+
+  
+      .llm-report-content p {
+        margin: 6px 0;
+        line-height: 1.6;
+      }
+    
+    /* 关键字段高亮 */
+    .highlight {
+      color: #0e2338;
+      font-weight: bold;
+    }
+    
+    /* 奇数行（淡灰色背景） */
+    .odd-row {
+      background-color: #f1f1f1;
+      padding: 1px;
+      border-radius: 5px;
+    }
+    
+    /* 偶数行（白色背景） */
+    .even-row {
+      background-color: #ffffff;
+      padding: 1px;
+      border-radius: 5px;
+    }
+    
+  

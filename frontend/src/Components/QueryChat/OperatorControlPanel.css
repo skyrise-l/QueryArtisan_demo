@@ -1,0 +1,108 @@
+/* 整体容器：固定高度 + 垂直布局 */
+.operator-control-panel {
+  background-color: #f9f9f9;
+  border-radius: 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.operator-menu-bar {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  gap: 8px;     
+  padding: 0 16px;
+  background-color: #fafafa;
+  border-bottom: 1px solid #eaeaea;
+}
+
+
+.operator-list-container {
+  overflow: hidden;
+  height: 250px; /* 固定高度 */
+  
+  padding: 4px;
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* 内容从顶部开始排列 */
+}
+
+/* 操作符网格：使用 flexbox 来保证每行 4 个卡片 */
+.operator-grid {
+  display: flex;
+  flex-wrap: wrap;      /* 允许换行 */
+  gap: 8px;            /* 卡片之间的间距 */
+  justify-content: flex-start; /* 确保卡片从左侧开始排列 */
+
+
+  min-height: 230px;
+}
+
+/* 卡片的基本样式 */
+.operator-card {
+  cursor: pointer;
+  width: 100px; 
+  border: 1px solid #d9d9d9;
+  border-radius: 12px;         /* 圆角，增强卡片效果 */
+  text-align: center;
+  padding: 12px 8px;        /* 内边距，增加卡片内容区域 */
+  margin-left: 40px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  transition: all 0.3s ease; /* 平滑过渡效果 */
+  background-color: #fff;    /* 默认背景 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 卡片的阴影效果 */
+  font-size: 18px;
+}
+
+
+/* 鼠标悬停时卡片效果 */
+.operator-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 更强的阴影效果 */
+  transform: scale(1.05); /* 放大效果 */
+}
+
+/* 如果 operator 未激活，给它透明度 */
+.operator-card-inactive {
+  opacity: 0.6;
+}
+
+/* 标准 operator 与自定义 operator 用不同的背景色区分 */
+.operator-card-standard {
+  background-color: #a3d7ff; /* 浅蓝 */
+}
+
+.operator-card-custom {
+  background-color: #f8e3d2; /* 浅橙 */
+}
+
+/* 分页容器：居中对齐 */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+
+
+
+/* 分页容器：居中对齐 */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+
+/* 分页容器，居中一下 */
+.pagination-container {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+/* 如果有 Tooltip 文字颜色需要定制可以加： */
+.ant-tooltip-inner p {
+  margin: 0;
+}

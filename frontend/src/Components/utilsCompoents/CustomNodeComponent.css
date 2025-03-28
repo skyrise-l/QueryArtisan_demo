@@ -1,0 +1,32 @@
+.customNode {
+    width: 120px; /* 定义固定宽度 */
+    height: 30px; /* 定义固定高度 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center; /* 确保文本居中 */
+}
+
+/* CustomNodeComponent.css */
+.detailsPopup {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 100;
+    min-width: 500px;
+    max-width: 1000px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f0f8ff; /* 淡蓝色背景 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    white-space: pre-wrap;
+    line-height: 1.5;
+    text-align: left; /* 明确设置文本左对齐 */
+  }
+  

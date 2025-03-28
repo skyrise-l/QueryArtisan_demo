@@ -1,0 +1,122 @@
+.task-analyzer {
+  background-color: #f9f9f9;
+  border-radius: 15px;
+}
+
+.ant-input {
+  width: 80% !important;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0px;
+}
+
+.task-analyzer-text{
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #015577;
+}
+
+.setting-content{
+  max-height: 230px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+.recommendation-table tbody {
+  overflow-y: auto; 
+}
+
+
+.recommendation-section {
+  margin-top: 10px;
+}
+
+.recommendation-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.recommendation-table th {
+  padding: 10px;
+  text-align: center;
+  font-size: 18px; /* 设置表头字体大小 */
+  font-weight: bold;
+  color: #0673b3; /* 设置表头颜色 */
+  border: 1px solid #b2adad;
+}
+.recommendation-table td {
+  height: 0;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #b2adad;
+  color: #151616;   
+  
+  font-size: 16px
+  
+}
+.recommendation-table th:nth-child(1),
+.recommendation-table td:nth-child(1) {
+  width: 12%;  /* Task Type 列占 25% */
+}
+
+.recommendation-table th:nth-child(2),
+.recommendation-table td:nth-child(2) {
+  width: 20%;  /* Algorithm 列占 25% */
+}
+
+.recommendation-table th:nth-child(3),
+.recommendation-table td:nth-child(3) {
+  width: 25%;  /* Visualization Tool 列占 25% */
+}
+
+.recommendation-table input {
+  padding: 10px;
+  width: 80%;
+  height: 0;
+  text-align: left;
+  border: 1px solid #b2adad;
+  color: #333; /* 设置表头颜色 */
+  font-size: 16px
+  
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.loading-backdrop {
+  position: absolute; /* 使 loading 居中于 task-analyzer */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* 确保 loading 居于上层 */
+}
+
+.spinner {
+  border: 8px solid #f3f3f3;
+  border-top: 8px solid #0673b3;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
