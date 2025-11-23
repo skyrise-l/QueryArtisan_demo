@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+task_id,integer,,"[FOREIGN KEY: ""tasks_project_id"" REFERENCES ""projects.projects_project_id"" (table_name.column_name).]",[],[{'tasks_project_id': 'projects.projects_project_id'}]
+tasks_project_id,integer,,,,
+task_details,text,,,,
+eg agree objectives,text,,,,

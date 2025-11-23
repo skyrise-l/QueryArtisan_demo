@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_customer_id,integer,,[],[],[]
+customer_name,text,,,,
+customer_details,text,,,,

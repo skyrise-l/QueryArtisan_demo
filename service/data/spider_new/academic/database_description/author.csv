@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+author_aid,integer,"PRIMARY KEY : (""author_aid"")",[],['aid'],[]
+author_homepage,text,,,,
+author_name,text,,,,
+author_oid,integer,,,,

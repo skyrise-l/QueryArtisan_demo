@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city_id,integer,"PRIMARY KEY : (""city_id"")",[],['city_id'],[]
+official_name,text,,,,
+status,text,,,,
+area_km_2,double,,,,
+population,double,,,,
+census_ranking,text,,,,

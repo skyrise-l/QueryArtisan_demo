@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+press_press_id,integer,"PRIMARY KEY : (""press_press_id"")",[],['press_id'],[]
+press_name,text,,,,
+month_profits_billion,double,,,,
+year_profits_billion,double,,,,

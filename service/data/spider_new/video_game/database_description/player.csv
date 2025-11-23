@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_player_id,integer,"PRIMARY KEY : (""player_player_id"")",[],['player_id'],[]
+rank_of_the_year,integer,,,,
+player_name,text,,,,
+position,text,,,,
+college,text,,,,

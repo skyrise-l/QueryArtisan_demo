@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+postseason_year,integer,,[],[],[]
+postseason_round,text,,,,
+team_id_winner,text,,,,
+league_id_winner,text,,,,
+team_id_loser,text,,,,
+league_id_loser,text,,,,
+wins,integer,,,,
+losses,integer,,,,
+ties,integer,,,,

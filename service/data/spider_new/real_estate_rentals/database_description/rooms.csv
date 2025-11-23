@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rooms_property_id,integer,,"[FOREIGN KEY: ""rooms_property_id"" REFERENCES ""properties.properties_property_id"" (table_name.column_name)., FOREIGN KEY: ""rooms_room_type_code"" REFERENCES ""ref_room_types.ref_room_types_room_type_code"" (table_name.column_name).]",[],"[{'rooms_property_id': 'properties.properties_property_id'}, {'rooms_room_type_code': 'ref_room_types.ref_room_types_room_type_code'}]"
+room_number,text,,,,
+rooms_room_type_code,text,,,,
+room_size,text,,,,
+other_room_details,text,,,,

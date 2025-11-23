@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+playlisttrack_playlistid,integer,"PRIMARY KEY : (""playlisttrack_playlistid"", ""playlisttrack_trackid"")","[FOREIGN KEY: ""playlisttrack_playlistid"" REFERENCES ""playlist.playlist_playlistid"" (table_name.column_name)., FOREIGN KEY: ""playlisttrack_trackid"" REFERENCES ""track.track_trackid"" (table_name.column_name).]","['playlistid,trackid']","[{'playlisttrack_playlistid': 'playlist.playlist_playlistid'}, {'playlisttrack_trackid': 'track.track_trackid'}]"
+playlisttrack_trackid,integer,,,,

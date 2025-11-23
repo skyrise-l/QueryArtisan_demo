@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+renting_history_id,integer,"PRIMARY KEY : (""renting_history_id"")","[FOREIGN KEY: ""customer_id"" REFERENCES ""customers.customers_id"" (table_name.column_name)., FOREIGN KEY: ""vehicles_id"" REFERENCES ""vehicles.vehicles_id"" (table_name.column_name)., FOREIGN KEY: ""discount_id"" REFERENCES ""discount.discount_id"" (table_name.column_name).]",['id'],"[{'customer_id': 'customers.customers_id'}, {'vehicles_id': 'vehicles.vehicles_id'}, {'discount_id': 'discount.discount_id'}]"
+customer_id,integer,,,,
+discount_id,integer,,,,
+vehicles_id,integer,,,,
+total_hours,integer,,,,

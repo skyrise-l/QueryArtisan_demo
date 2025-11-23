@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+country_country_id,integer,"PRIMARY KEY : (""country_country_id"")",[],['country_id'],[]
+country_name,text,,,,
+population,integer,,,,
+area,integer,,,,
+languages,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+faculty_facid,integer,,[],[],[]
+lname,text,,,,
+faculty_fname,text,,,,
+rank,text,,,,
+faculty_sex,text,,,,
+phone,integer,,,,
+faculty_room,text,,,,
+faculty_building,text,,,,

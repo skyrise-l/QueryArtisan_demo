@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+timed_locations_of_things_thing_id,integer,"PRIMARY KEY : (""timed_locations_of_things_thing_id"", "" date_and_time"", "" location_code"")","[FOREIGN KEY: ""timed_locations_of_things_thing_id"" REFERENCES ""things.things_thing_id"" (table_name.column_name).]","['thing_id, date_and_time, location_code']",[{'timed_locations_of_things_thing_id': 'things.things_thing_id'}]
+date_and_time,date,,,,
+location_code,text,,,,

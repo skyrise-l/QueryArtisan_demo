@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+lake_name,text,,[],[],[]
+lake_area,double,,,,
+lake_country_name,text,,,,
+lake_state_name,text,,,,

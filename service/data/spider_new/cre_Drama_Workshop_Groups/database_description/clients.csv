@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+client_id,integer,"PRIMARY KEY : (""client_id"")","[FOREIGN KEY: ""clients_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name).]",['client_id'],[{'clients_address_id': 'addresses.addresses_address_id'}]
+clients_address_id,integer,,,,
+clients_customer_email_address,text,,,,
+clients_customer_name,text,,,,
+clients_customer_phone,text,,,,
+clients_other_details,text,,,,

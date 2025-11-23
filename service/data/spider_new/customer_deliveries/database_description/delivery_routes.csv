@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+delivery_routes_route_id,integer,,[],[],[]
+route_name,text,,,,
+other_route_details,text,,,,

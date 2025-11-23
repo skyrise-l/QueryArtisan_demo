@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+station_id,integer,"PRIMARY KEY : (""station_id"")",[],['id'],[]
+network_name,text,,,,
+services,text,,,,
+local_authority,text,,,,

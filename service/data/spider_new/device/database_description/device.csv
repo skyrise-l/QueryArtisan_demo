@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+device_device_id,integer,"PRIMARY KEY : (""device_device_id"")",[],['device_id'],[]
+device,text,,,,
+carrier,text,,,,
+package_version,text,,,,
+applications,text,,,,
+software_platform,text,,,,

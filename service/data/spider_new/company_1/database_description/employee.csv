@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+fname,text,,[],[],[]
+minit,text,,,,
+lname,text,,,,
+ssn,integer,,,,
+employee_bdate,text,,,,
+address,text,,,,
+employee_sex,text,,,,
+salary,integer,,,,
+super_ssn,integer,,,,
+dno,integer,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+delivery_route_locations_location_code,text,,"[FOREIGN KEY: ""location_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""delivery_route_locations_route_id"" REFERENCES ""delivery_routes.delivery_routes_route_id"" (table_name.column_name).]",[],"[{'location_address_id': 'addresses.addresses_address_id'}, {'delivery_route_locations_route_id': 'delivery_routes.delivery_routes_route_id'}]"
+delivery_route_locations_route_id,integer,,,,
+location_address_id,integer,,,,
+location_name,text,,,,

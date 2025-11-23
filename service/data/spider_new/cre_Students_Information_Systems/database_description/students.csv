@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+students_student_id,integer,"PRIMARY KEY : (""students_student_id"")",[],['student_id'],[]
+bio_data,text,,,,
+student_details,text,,,,

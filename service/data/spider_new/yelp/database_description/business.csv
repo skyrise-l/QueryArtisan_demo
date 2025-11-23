@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+bid,integer,"PRIMARY KEY : (""bid"")",[],['bid'],[]
+business_business_id,text,,,,
+business_name,text,,,,
+full_address,text,,,,
+city,text,,,,
+latitude,text,,,,
+longitude,text,,,,
+review_count,integer,,,,
+is_open,integer,,,,
+business_rating,double,,,,
+state,text,,,,

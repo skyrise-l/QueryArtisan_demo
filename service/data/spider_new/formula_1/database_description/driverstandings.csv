@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+driverstandingsid,integer,,"[FOREIGN KEY: ""driverstandings_raceid"" REFERENCES ""races.races_raceid"" (table_name.column_name)., FOREIGN KEY: ""driverstandings_driverid"" REFERENCES ""drivers.drivers_driverid"" (table_name.column_name).]",[],"[{'driverstandings_raceid': 'races.races_raceid'}, {'driverstandings_driverid': 'drivers.drivers_driverid'}]"
+driverstandings_raceid,integer,,,,
+driverstandings_driverid,integer,,,,
+driverstandings_points,double,,,,
+driverstandings_position,integer,,,,
+driverstandings_positiontext,text,,,,
+driverstandings_wins,integer,,,,

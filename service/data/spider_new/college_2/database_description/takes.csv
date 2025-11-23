@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+takes_id,text,"PRIMARY KEY : (""takes_id"", "" course_id"", "" sec_id"", "" semester"", "" year"")","[FOREIGN KEY: ""course_id,sec_id, semester, year"" REFERENCES ""section.course_id, sec_id, semester, year"" (table_name.column_name)., FOREIGN KEY: ""takes_id"" REFERENCES ""student.student_id"" (table_name.column_name).]","['id, course_id, sec_id, semester, year']","[{'course_id,sec_id, semester, year': 'section.course_id, sec_id, semester, year'}, {'takes_id': 'student.student_id'}]"
+takes_course_id,text,,,,
+takes_sec_id,text,,,,
+takes_semester,text,,,,
+takes_year,double,,,,
+grade,text,,,,

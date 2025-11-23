@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+bridge_architect_id,integer,"PRIMARY KEY : (""bridge_id"")","[FOREIGN KEY: ""bridge_architect_id"" REFERENCES ""architect.architect_id"" (table_name.column_name).]",['id'],[{'bridge_architect_id': 'architect.architect_id'}]
+bridge_id,integer,,,,
+bridge_name,text,,,,
+bridge_location,text,,,,
+length_meters,double,,,,
+length_feet,double,,,,

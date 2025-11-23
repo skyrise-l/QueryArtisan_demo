@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+paper_paper_id,text,"PRIMARY KEY : (""paper_paper_id"")",[],['paper_id'],[]
+title,text,,,,
+venue,text,,,,
+year,integer,,,,

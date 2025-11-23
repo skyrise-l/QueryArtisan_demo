@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+farm_competition_competition_id,integer,"PRIMARY KEY : (""farm_competition_competition_id"")","[FOREIGN KEY: ""host_city_id"" REFERENCES ""city.city_id"" (table_name.column_name).]",['competition_id'],[{'host_city_id': 'city.city_id'}]
+farm_competition_year,integer,,,,
+theme,text,,,,
+host_city_id,integer,,,,
+hosts,text,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+detention_id,integer,"PRIMARY KEY : (""detention_id"")","[FOREIGN KEY: ""detention_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""detention_detention_type_code"" REFERENCES ""ref_detention_type.ref_detention_type_detention_type_code"" (table_name.column_name).]",['detention_id'],"[{'detention_student_id': 'students.students_student_id'}, {'detention_detention_type_code': 'ref_detention_type.ref_detention_type_detention_type_code'}]"
+detention_detention_type_code,text,,,,
+detention_student_id,integer,,,,
+datetime_detention_start,date,,,,
+datetime_detention_end,date,,,,
+detention_summary,text,,,,
+detention_other_details,text,,,,

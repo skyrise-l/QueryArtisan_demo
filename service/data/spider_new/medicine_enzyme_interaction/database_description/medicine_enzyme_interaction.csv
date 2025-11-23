@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+enzyme_id,integer,"PRIMARY KEY : (""enzyme_id"", "" medicine_id"")","[FOREIGN KEY: ""enzyme_id"" REFERENCES ""enzyme.enzyme_id"" (table_name.column_name)., FOREIGN KEY: ""medicine_id"" REFERENCES ""medicine.medicine_id"" (table_name.column_name).]","['enzyme_id, medicine_id']","[{'enzyme_id': 'enzyme.enzyme_id'}, {'medicine_id': 'medicine.medicine_id'}]"
+medicine_id,integer,,,,
+interaction_type,text,,,,

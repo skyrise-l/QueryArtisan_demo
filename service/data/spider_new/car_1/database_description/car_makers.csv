@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+car_makers_id,integer,,"[FOREIGN KEY: ""country"" REFERENCES ""countries.countryid"" (table_name.column_name).]",[],[{'country': 'countries.countryid'}]
+car_makers_maker,text,,,,
+fullname,text,,,,
+country,text,,,,

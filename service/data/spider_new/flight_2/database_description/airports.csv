@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city,text,,[],[],[]
+airportcode,text,,,,
+airportname,text,,,,
+airports_country,text,,,,
+countryabbrev,text,,,,

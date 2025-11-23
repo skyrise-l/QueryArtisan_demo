@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+countryid,integer,,"[FOREIGN KEY: ""countries_continent"" REFERENCES ""continents.contid"" (table_name.column_name).]",[],[{'countries_continent': 'continents.contid'}]
+countryname,text,,,,
+countries_continent,integer,,,,

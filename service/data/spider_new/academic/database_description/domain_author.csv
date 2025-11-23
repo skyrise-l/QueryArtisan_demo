@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+domain_author_aid,integer,"PRIMARY KEY : (""domain_author_did"", "" aid"")","[FOREIGN KEY: ""domain_author_aid"" REFERENCES ""author.author_aid"" (table_name.column_name)., FOREIGN KEY: ""domain_author_did"" REFERENCES ""domain.domain_did"" (table_name.column_name).]","['did, aid']","[{'domain_author_aid': 'author.author_aid'}, {'domain_author_did': 'domain.domain_did'}]"
+domain_author_did,integer,,,,

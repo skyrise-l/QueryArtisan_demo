@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_customer_id,integer,,[],[],[]
+customer_type_code,text,,,,
+address_line_1,text,,,,
+address_line_2,text,,,,
+town_city,text,,,,
+state,text,,,,
+customers_email_address,text,,,,
+customers_phone_number,text,,,,

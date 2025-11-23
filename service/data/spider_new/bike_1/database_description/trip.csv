@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+trip_id,integer,,[],[],[]
+duration,integer,,,,
+start_date,text,,,,
+start_station_name,text,,,,
+start_station_id,integer,,,,
+end_date,text,,,,
+end_station_name,text,,,,
+end_station_id,integer,,,,
+bike_id,integer,,,,
+subscription_type,text,,,,
+trip_zip_code,integer,,,,

@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+teachers_teacher_id,integer,,"[FOREIGN KEY: ""teachers_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name).]",[],[{'teachers_address_id': 'addresses.addresses_address_id'}]
+teachers_address_id,integer,,,,
+teachers_first_name,text,,,,
+teachers_middle_name,text,,,,
+teachers_last_name,text,,,,
+gender,text,,,,
+teachers_cell_mobile_number,text,,,,
+teachers_email_address,text,,,,
+teachers_other_details,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+teachers_lastname,text,"PRIMARY KEY : (""teachers_lastname"", "" firstname"")",[],"['lastname, firstname']",[]
+teachers_firstname,text,,,,
+teachers_classroom,integer,,,,

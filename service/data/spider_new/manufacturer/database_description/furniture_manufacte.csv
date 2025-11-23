@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+furniture_manufacte_manufacturer_id,integer,"PRIMARY KEY : (""furniture_manufacte_manufacturer_id"", ""furniture_manufacte_furniture_id"")","[FOREIGN KEY: ""furniture_manufacte_manufacturer_id"" REFERENCES ""manufacturer.manufacturer_manufacturer_id"" (table_name.column_name)., FOREIGN KEY: ""furniture_manufacte_furniture_id"" REFERENCES ""furniture.furniture_furniture_id"" (table_name.column_name).]","['manufacturer_id,furniture_id']","[{'furniture_manufacte_manufacturer_id': 'manufacturer.manufacturer_manufacturer_id'}, {'furniture_manufacte_furniture_id': 'furniture.furniture_furniture_id'}]"
+furniture_manufacte_furniture_id,integer,,,,
+price_in_dollar,double,,,,

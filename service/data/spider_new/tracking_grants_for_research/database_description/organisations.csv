@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+organisations_organisation_id,integer,,"[FOREIGN KEY: ""organisations_organisation_type"" REFERENCES ""organisation_types.organisation_types_organisation_type"" (table_name.column_name).]",[],[{'organisations_organisation_type': 'organisation_types.organisation_types_organisation_type'}]
+organisations_organisation_type,text,,,,
+organisation_details,text,,,,

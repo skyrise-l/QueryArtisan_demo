@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+museum_museum_id,integer,"PRIMARY KEY : (""museum_museum_id"")",[],['museum_id'],[]
+museum_name,text,,,,
+num_of_staff,integer,,,,
+open_year,text,,,,

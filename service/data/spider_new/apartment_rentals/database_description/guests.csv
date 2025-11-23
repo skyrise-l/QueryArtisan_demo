@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+guests_guest_id,integer,"PRIMARY KEY : (""guests_guest_id"")",[],['guest_id'],[]
+gender_code,text,,,,
+guest_first_name,text,,,,
+guest_last_name,text,,,,
+date_of_birth,date,,,,

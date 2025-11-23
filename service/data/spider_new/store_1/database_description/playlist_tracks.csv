@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+playlist_id,integer,,"[FOREIGN KEY: ""playlist_id"" REFERENCES ""playlists.playlists_id"" (table_name.column_name)., FOREIGN KEY: ""playlist_tracks_track_id"" REFERENCES ""tracks.tracks_id"" (table_name.column_name).]",[],"[{'playlist_id': 'playlists.playlists_id'}, {'playlist_tracks_track_id': 'tracks.tracks_id'}]"
+playlist_tracks_track_id,integer,,,,

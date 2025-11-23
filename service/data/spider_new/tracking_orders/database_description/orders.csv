@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+orders_order_id,integer,,"[FOREIGN KEY: ""orders_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],[{'orders_customer_id': 'customers.customers_customer_id'}]
+orders_customer_id,integer,,,,
+order_status,text,,,,
+date_order_placed,date,,,,
+order_details,text,,,,

@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+manager_player_id,text,,"[FOREIGN KEY: ""manager_team_id"" REFERENCES ""team.team_team_id"" (table_name.column_name).]",[],[{'manager_team_id': 'team.team_team_id'}]
+manager_year,integer,,,,
+manager_team_id,text,,,,
+manager_league_id,text,,,,
+manager_inseason,integer,,,,
+manager_g,integer,,,,
+manager_w,integer,,,,
+manager_l,integer,,,,
+manager_rank,double,,,,
+plyr_mgr,text,,,,

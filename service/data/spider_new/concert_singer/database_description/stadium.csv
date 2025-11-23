@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stadium_stadium_id,integer,"PRIMARY KEY : (""stadium_stadium_id"")",[],['stadium_id'],[]
+location,text,,,,
+stadium_name,text,,,,
+capacity,integer,,,,
+highest,integer,,,,
+lowest,integer,,,,
+average,integer,,,,

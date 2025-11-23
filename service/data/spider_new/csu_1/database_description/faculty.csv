@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+faculty_campus,integer,,"[FOREIGN KEY: ""faculty_campus"" REFERENCES ""campuses.id"" (table_name.column_name).]",[],[{'faculty_campus': 'campuses.id'}]
+faculty_year,integer,,,,
+faculty,double,,,,

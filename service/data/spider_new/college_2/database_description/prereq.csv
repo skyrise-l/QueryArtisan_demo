@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+prereq_course_id,text,"PRIMARY KEY : (""prereq_course_id"", "" prereq_id"")","[FOREIGN KEY: ""prereq_course_id"" REFERENCES ""course.course_course_id"" (table_name.column_name)., FOREIGN KEY: ""prereq_id"" REFERENCES ""course.course_course_id"" (table_name.column_name).]","['course_id, prereq_id']","[{'prereq_course_id': 'course.course_course_id'}, {'prereq_id': 'course.course_course_id'}]"
+prereq_id,text,,,,

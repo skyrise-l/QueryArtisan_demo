@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+physician_employeeid,integer,"PRIMARY KEY : (""physician_employeeid"")",[],['employeeid'],[]
+physician_name,text,,,,
+physician_position,text,,,,
+physician_ssn,integer,,,,

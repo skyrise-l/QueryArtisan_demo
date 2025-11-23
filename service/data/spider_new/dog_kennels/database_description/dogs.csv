@@ -1,0 +1,14 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+dogs_dog_id,integer,,"[FOREIGN KEY: ""dogs_breed_code"" REFERENCES ""breeds.breeds_breed_code"" (table_name.column_name)., FOREIGN KEY: ""dogs_size_code"" REFERENCES ""sizes.sizes_size_code"" (table_name.column_name)., FOREIGN KEY: ""dogs_owner_id"" REFERENCES ""owners.owners_owner_id"" (table_name.column_name)., FOREIGN KEY: ""dogs_owner_id"" REFERENCES ""owners.owners_owner_id"" (table_name.column_name).]",[],"[{'dogs_breed_code': 'breeds.breeds_breed_code'}, {'dogs_size_code': 'sizes.sizes_size_code'}, {'dogs_owner_id': 'owners.owners_owner_id'}, {'dogs_owner_id': 'owners.owners_owner_id'}]"
+dogs_owner_id,integer,,,,
+abandoned_yn,text,,,,
+dogs_breed_code,text,,,,
+dogs_size_code,text,,,,
+name,text,,,,
+age,text,,,,
+date_of_birth,date,,,,
+gender,text,,,,
+weight,text,,,,
+date_arrived,date,,,,
+date_adopted,date,,,,
+date_departed,date,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+available_policies_policy_id,integer,"PRIMARY KEY : (""available_policies_policy_id"")",[],['policy_id'],[]
+policy_type_code,text,,,,
+customer_phone,text,,,,

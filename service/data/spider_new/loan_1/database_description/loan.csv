@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+loan_id,text,,"[FOREIGN KEY: ""loan_branch_id"" REFERENCES ""bank.bank_branch_id"" (table_name.column_name)., FOREIGN KEY: ""loan_cust_id"" REFERENCES ""customer.customer_cust_id"" (table_name.column_name).]",[],"[{'loan_branch_id': 'bank.bank_branch_id'}, {'loan_cust_id': 'customer.customer_cust_id'}]"
+loan_type,text,,,,
+loan_cust_id,text,,,,
+loan_branch_id,text,,,,
+amount,integer,,,,

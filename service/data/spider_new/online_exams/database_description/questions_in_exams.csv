@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+questions_in_exams_exam_id,integer,"PRIMARY KEY : (""questions_in_exams_exam_id"", "" question_id"")","[FOREIGN KEY: ""questions_in_exams_question_id"" REFERENCES ""questions.questions_question_id"" (table_name.column_name)., FOREIGN KEY: ""questions_in_exams_exam_id"" REFERENCES ""exams.exams_exam_id"" (table_name.column_name).]","['exam_id, question_id']","[{'questions_in_exams_question_id': 'questions.questions_question_id'}, {'questions_in_exams_exam_id': 'exams.exams_exam_id'}]"
+questions_in_exams_question_id,integer,,,,

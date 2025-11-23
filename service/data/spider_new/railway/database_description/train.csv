@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+train_id,integer,"PRIMARY KEY : (""train_id"")","[FOREIGN KEY: ""train_railway_id"" REFERENCES ""railway.railway_railway_id"" (table_name.column_name).]",['train_id'],[{'train_railway_id': 'railway.railway_railway_id'}]
+train_num,text,,,,
+train_name,text,,,,
+from,text,,,,
+arrival,text,,,,
+train_railway_id,integer,,,,

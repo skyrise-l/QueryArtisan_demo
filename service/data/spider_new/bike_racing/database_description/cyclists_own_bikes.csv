@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cyclist_id,integer,"PRIMARY KEY : (""cyclist_id"", "" bike_id"")","[FOREIGN KEY: ""cyclist_id"" REFERENCES ""cyclist.cyclist_id"" (table_name.column_name)., FOREIGN KEY: ""bike_id"" REFERENCES ""bike.bike_id"" (table_name.column_name).]","['cyclist_id, bike_id']","[{'cyclist_id': 'cyclist.cyclist_id'}, {'bike_id': 'bike.bike_id'}]"
+bike_id,integer,,,,
+purchase_year,integer,,,,

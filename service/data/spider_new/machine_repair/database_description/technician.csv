@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+technician_technician_id,double,"PRIMARY KEY : (""technician_technician_id"")",[],['technician_id'],[]
+name,text,,,,
+technician_team,text,,,,
+starting_year,double,,,,
+age,integer,,,,

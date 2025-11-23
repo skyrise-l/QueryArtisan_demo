@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+nomination_artwork_id,integer,"PRIMARY KEY : (""nomination_artwork_id"", ""nomination_festival_id"")","[FOREIGN KEY: ""nomination_artwork_id"" REFERENCES ""artwork.artwork_artwork_id"" (table_name.column_name)., FOREIGN KEY: ""nomination_festival_id"" REFERENCES ""festival_detail.festival_detail_festival_id"" (table_name.column_name).]","['artwork_id,festival_id']","[{'nomination_artwork_id': 'artwork.artwork_artwork_id'}, {'nomination_festival_id': 'festival_detail.festival_detail_festival_id'}]"
+nomination_festival_id,integer,,,,
+result,text,,,,

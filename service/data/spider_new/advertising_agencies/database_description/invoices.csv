@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoices_invoice_id,integer,,"[FOREIGN KEY: ""invoices_client_id"" REFERENCES ""clients.clients_client_id"" (table_name.column_name).]",[],[{'invoices_client_id': 'clients.clients_client_id'}]
+invoices_client_id,integer,,,,
+invoice_status,text,,,,
+invoice_details,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+phone_market_market_id,integer,"PRIMARY KEY : (""phone_market_market_id"", ""phone_market_phone_id"")","[FOREIGN KEY: ""phone_market_market_id"" REFERENCES ""market.market_market_id"" (table_name.column_name)., FOREIGN KEY: ""phone_market_phone_id"" REFERENCES ""phone.phone_phone_id"" (table_name.column_name).]","['market_id,phone_id']","[{'phone_market_market_id': 'market.market_market_id'}, {'phone_market_phone_id': 'phone.phone_phone_id'}]"
+phone_market_phone_id,text,,,,
+num_of_stock,integer,,,,

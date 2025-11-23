@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+paperkeyphrase_paperid,integer,"PRIMARY KEY : (""paperkeyphrase_keyphraseid"", ""paperkeyphrase_paperid"")","[FOREIGN KEY: ""paperkeyphrase_paperid"" REFERENCES ""paper.paper_paperid"" (table_name.column_name)., FOREIGN KEY: ""paperkeyphrase_keyphraseid"" REFERENCES ""keyphrase.keyphrase_keyphraseid"" (table_name.column_name).]","['keyphraseid,paperid']","[{'paperkeyphrase_paperid': 'paper.paper_paperid'}, {'paperkeyphrase_keyphraseid': 'keyphrase.keyphrase_keyphraseid'}]"
+paperkeyphrase_keyphraseid,integer,,,,

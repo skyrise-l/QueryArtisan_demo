@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+manufacturers_code,integer,"PRIMARY KEY : (""manufacturers_code"")",[],['code'],[]
+manufacturers_name,text,,,,
+headquarter,text,,,,
+founder,text,,,,
+revenue,double,,,,

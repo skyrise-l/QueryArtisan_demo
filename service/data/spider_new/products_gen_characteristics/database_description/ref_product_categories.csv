@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ref_product_categories_product_category_code,text,,[],[],[]
+product_category_description,text,,,,
+unit_of_measure,text,,,,

@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+students_student_id,integer,"PRIMARY KEY : (""students_student_id"")",[],['student_id'],[]
+first_name,text,,,,
+middle_name,text,,,,
+last_name,text,,,,
+gender_mfu,text,,,,
+student_address,text,,,,
+email_adress,text,,,,
+cell_mobile_phone,text,,,,
+home_phone,text,,,,

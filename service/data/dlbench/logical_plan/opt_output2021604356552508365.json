@@ -1,0 +1,21 @@
+{
+  "estimatedTimeBefore": "0s",
+  "cpuUsageReduction": "0%",
+  "memoryUsageReduction": "0%",
+  "optimizationPoints": [
+    {
+      "description": "Subquery Expansion",
+      "impact": "approximately 0%."
+    },
+    {
+      "description": "JOIN Optimization",
+      "impact": "approximately 0%."
+    },
+    {
+      "description": "Predicate Pushdown",
+      "impact": "approximately 0%."
+    }
+  ],
+  "executionTime": "0.000180949005880393",
+  "timeImprovement": 0
+}

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_college_player_id,text,,"[FOREIGN KEY: ""player_college_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name)., FOREIGN KEY: ""player_college_college_id"" REFERENCES ""college.college_college_id"" (table_name.column_name).]",[],"[{'player_college_player_id': 'player.player_player_id'}, {'player_college_college_id': 'college.college_college_id'}]"
+player_college_college_id,text,,,,
+player_college_year,integer,,,,

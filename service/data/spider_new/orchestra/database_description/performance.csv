@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+performance_performance_id,integer,"PRIMARY KEY : (""performance_performance_id"")","[FOREIGN KEY: ""performance_orchestra_id"" REFERENCES ""orchestra.orchestra_orchestra_id"" (table_name.column_name).]",['performance_id'],[{'performance_orchestra_id': 'orchestra.orchestra_orchestra_id'}]
+performance_orchestra_id,integer,,,,
+type,text,,,,
+date,text,,,,
+official_ratings_(millions),double,,,,
+weekly_rank,text,,,,
+share,text,,,,

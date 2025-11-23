@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+film_text_film_id,integer,,[],[],[]
+film_text_title,text,,,,
+film_text_description,text,,,,

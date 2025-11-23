@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_details_school_id,integer,"PRIMARY KEY : (""school_details_school_id"")","[FOREIGN KEY: ""school_details_school_id"" REFERENCES ""school.school_school_id"" (table_name.column_name).]",['school_id'],[{'school_details_school_id': 'school.school_school_id'}]
+nickname,text,,,,
+colors,text,,,,
+league,text,,,,
+class,text,,,,
+division,text,,,,

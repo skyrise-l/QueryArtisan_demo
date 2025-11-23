@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+contact_id,integer,,[],[],[]
+contacts_customer_id,integer,,,,
+gender,text,,,,
+first_name,text,,,,
+last_name,text,,,,
+contact_phone,text,,,,

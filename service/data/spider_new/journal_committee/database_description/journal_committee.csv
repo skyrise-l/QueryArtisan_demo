@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+journal_committee_editor_id,integer,"PRIMARY KEY : (""journal_committee_editor_id"", ""journal_committee_journal_id"")","[FOREIGN KEY: ""journal_committee_editor_id"" REFERENCES ""editor.editor_editor_id"" (table_name.column_name)., FOREIGN KEY: ""journal_committee_journal_id"" REFERENCES ""journal.journal_journal_id"" (table_name.column_name).]","['editor_id,journal_id']","[{'journal_committee_editor_id': 'editor.editor_editor_id'}, {'journal_committee_journal_id': 'journal.journal_journal_id'}]"
+journal_committee_journal_id,integer,,,,
+work_type,text,,,,

@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+owners_owner_id,integer,,[],[],[]
+owners_first_name,text,,,,
+owners_last_name,text,,,,
+owners_street,text,,,,
+owners_city,text,,,,
+owners_state,text,,,,
+owners_zip_code,text,,,,
+owners_email_address,text,,,,
+owners_home_phone,text,,,,
+owners_cell_number,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+repair_assignment_technician_id,integer,"PRIMARY KEY : (""repair_assignment_technician_id"", ""repair_assignment_repair_id"", ""repair_assignment_machine_id"")","[FOREIGN KEY: ""repair_assignment_technician_id"" REFERENCES ""technician.technician_technician_id"" (table_name.column_name)., FOREIGN KEY: ""repair_assignment_repair_id"" REFERENCES ""repair.repair_repair_id"" (table_name.column_name)., FOREIGN KEY: ""repair_assignment_machine_id"" REFERENCES ""machine.machine_machine_id"" (table_name.column_name).]","['technician_id,repair_id,machine_id']","[{'repair_assignment_technician_id': 'technician.technician_technician_id'}, {'repair_assignment_repair_id': 'repair.repair_repair_id'}, {'repair_assignment_machine_id': 'machine.machine_machine_id'}]"
+repair_assignment_repair_id,integer,,,,
+repair_assignment_machine_id,integer,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+artist_artist_name,text,"PRIMARY KEY : (""artist_artist_name"")","[FOREIGN KEY: ""preferred_genre"" REFERENCES ""genre.g_name"" (table_name.column_name).]",['artist_name'],[{'preferred_genre': 'genre.g_name'}]
+artist_country,text,,,,
+gender,text,,,,
+preferred_genre,text,,,,

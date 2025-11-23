@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+book_book_id,integer,"PRIMARY KEY : (""book_book_id"")",[],['book_id'],[]
+title,text,,,,
+issues,double,,,,
+writer,text,,,,

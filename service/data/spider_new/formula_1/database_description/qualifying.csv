@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+qualifyid,integer,,"[FOREIGN KEY: ""qualifying_constructorid"" REFERENCES ""constructors.constructors_constructorid"" (table_name.column_name)., FOREIGN KEY: ""qualifying_raceid"" REFERENCES ""races.races_raceid"" (table_name.column_name)., FOREIGN KEY: ""qualifying_driverid"" REFERENCES ""drivers.drivers_driverid"" (table_name.column_name).]",[],"[{'qualifying_constructorid': 'constructors.constructors_constructorid'}, {'qualifying_raceid': 'races.races_raceid'}, {'qualifying_driverid': 'drivers.drivers_driverid'}]"
+qualifying_raceid,integer,,,,
+qualifying_driverid,integer,,,,
+qualifying_constructorid,integer,,,,
+qualifying_number,integer,,,,
+qualifying_position,integer,,,,
+q1,text,,,,
+q2,text,,,,
+q3,text,,,,

@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+drivers_driverid,integer,,[],[],[]
+driverref,text,,,,
+drivers_number,text,,,,
+code,text,,,,
+forename,text,,,,
+surname,text,,,,
+dob,text,,,,
+drivers_nationality,text,,,,
+drivers_url,text,,,,

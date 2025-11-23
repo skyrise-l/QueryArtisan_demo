@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+album_albumid,integer,"PRIMARY KEY : (""album_albumid"")","[FOREIGN KEY: ""album_artistid"" REFERENCES ""artist.artist_artistid"" (table_name.column_name).]",['albumid'],[{'album_artistid': 'artist.artist_artistid'}]
+album_title,text,,,,
+album_artistid,integer,,,,

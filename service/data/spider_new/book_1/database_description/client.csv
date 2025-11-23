@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+client_idclient,text,,[],[],[]
+client_name,text,,,,
+address,text,,,,
+numcc,text,,,,

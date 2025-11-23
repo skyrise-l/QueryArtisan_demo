@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+flights_airline,integer,"PRIMARY KEY : (""flights_airline"", "" flightno"")","[FOREIGN KEY: ""sourceairport"" REFERENCES ""airports.airportcode"" (table_name.column_name)., FOREIGN KEY: ""destairport"" REFERENCES ""airports.airportcode"" (table_name.column_name).]","['airline, flightno']","[{'sourceairport': 'airports.airportcode'}, {'destairport': 'airports.airportcode'}]"
+flightno,integer,,,,
+sourceairport,text,,,,
+destairport,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_answers_student_answer_id,integer,"PRIMARY KEY : (""student_answers_student_answer_id"")","[FOREIGN KEY: ""student_answers_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""exam_id, question_id"" REFERENCES ""questions_in_exams.exam_id,question_id"" (table_name.column_name).]",['student_answer_id'],"[{'student_answers_student_id': 'students.students_student_id'}, {'exam_id, question_id': 'questions_in_exams.exam_id,question_id'}]"
+student_answers_exam_id,integer,,,,
+student_answers_question_id,integer,,,,
+student_answers_student_id,integer,,,,
+date_of_answer,date,,,,
+comments,text,,,,
+student_answers_satisfactory_yn,text,,,,
+student_answers_student_answer_text,text,,,,

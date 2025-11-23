@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+visit_id,integer,"PRIMARY KEY : (""visit_id"")","[FOREIGN KEY: ""visits_tourist_attraction_id"" REFERENCES ""tourist_attractions.tourist_attractions_tourist_attraction_id"" (table_name.column_name)., FOREIGN KEY: ""visits_tourist_id"" REFERENCES ""visitors.visitors_tourist_id"" (table_name.column_name).]",['visit_id'],"[{'visits_tourist_attraction_id': 'tourist_attractions.tourist_attractions_tourist_attraction_id'}, {'visits_tourist_id': 'visitors.visitors_tourist_id'}]"
+visits_tourist_attraction_id,integer,,,,
+visits_tourist_id,integer,,,,
+visit_date,date,,,,
+visit_details,text,,,,

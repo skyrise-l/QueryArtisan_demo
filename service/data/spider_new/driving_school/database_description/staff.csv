@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_staff_id,integer,,"[FOREIGN KEY: ""staff_address_id"" REFERENCES ""addresses.address_id"" (table_name.column_name).]",[],[{'staff_address_id': 'addresses.address_id'}]
+staff_address_id,integer,,,,
+nickname,text,,,,
+staff_first_name,text,,,,
+middle_name,text,,,,
+staff_last_name,text,,,,
+staff_date_of_birth,date,,,,
+date_joined_staff,date,,,,
+date_left_staff,date,,,,

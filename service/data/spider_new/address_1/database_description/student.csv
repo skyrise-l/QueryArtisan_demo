@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stuid,integer,,"[FOREIGN KEY: ""student_city_code"" REFERENCES ""city.city_city_code"" (table_name.column_name).]",[],[{'student_city_code': 'city.city_city_code'}]
+lname,text,,,,
+fname,text,,,,
+age,integer,,,,
+sex,text,,,,
+major,integer,,,,
+advisor,integer,,,,
+student_city_code,text,,,,

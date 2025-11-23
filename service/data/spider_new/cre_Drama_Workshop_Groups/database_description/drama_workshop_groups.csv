@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+drama_workshop_groups_workshop_group_id,integer,"PRIMARY KEY : (""drama_workshop_groups_workshop_group_id"")","[FOREIGN KEY: ""drama_workshop_groups_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name).]",['workshop_group_id'],[{'drama_workshop_groups_address_id': 'addresses.addresses_address_id'}]
+drama_workshop_groups_address_id,integer,,,,
+currency_code,text,,,,
+drama_workshop_groups_marketing_region_code,text,,,,
+drama_workshop_groups_store_name,text,,,,
+drama_workshop_groups_store_phone,text,,,,
+drama_workshop_groups_store_email_address,text,,,,
+drama_workshop_groups_other_details,text,,,,

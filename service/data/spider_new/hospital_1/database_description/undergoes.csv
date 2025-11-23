@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+undergoes_patient,integer,"PRIMARY KEY : (""undergoes_patient"", "" procedures"", "" stay"", "" dateundergoes"")","[FOREIGN KEY: ""undergoes_patient"" REFERENCES ""patient.patient_ssn"" (table_name.column_name)., FOREIGN KEY: ""procedures"" REFERENCES ""procedures.procedures_code"" (table_name.column_name)., FOREIGN KEY: ""stay"" REFERENCES ""stay.stayid"" (table_name.column_name)., FOREIGN KEY: ""undergoes_physician"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name)., FOREIGN KEY: ""assistingnurse"" REFERENCES ""nurse.nurse_employeeid"" (table_name.column_name).]","['patient, procedures, stay, dateundergoes']","[{'undergoes_patient': 'patient.patient_ssn'}, {'procedures': 'procedures.procedures_code'}, {'stay': 'stay.stayid'}, {'undergoes_physician': 'physician.physician_employeeid'}, {'assistingnurse': 'nurse.nurse_employeeid'}]"
+procedures,integer,,,,
+stay,integer,,,,
+dateundergoes,date,,,,
+undergoes_physician,integer,,,,
+assistingnurse,integer,,,,

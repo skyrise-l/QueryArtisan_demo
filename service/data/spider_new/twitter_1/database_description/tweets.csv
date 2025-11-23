@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,"PRIMARY KEY : (""id"")","[FOREIGN KEY: ""tweets_uid"" REFERENCES ""user_profiles.user_profiles_uid"" (table_name.column_name).]",['id'],[{'tweets_uid': 'user_profiles.user_profiles_uid'}]
+tweets_uid,integer,,,,
+text,text,,,,
+createdate,date,,,,

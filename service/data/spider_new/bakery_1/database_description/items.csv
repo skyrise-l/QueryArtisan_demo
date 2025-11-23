@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+receipt,integer,"PRIMARY KEY : (""receipt"", "" ordinal"")","[FOREIGN KEY: ""item"" REFERENCES ""goods.goods_id"" (table_name.column_name).]","['receipt, ordinal']",[{'item': 'goods.goods_id'}]
+ordinal,integer,,,,
+item,text,,,,

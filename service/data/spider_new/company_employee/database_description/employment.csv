@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employment_company_id,integer,"PRIMARY KEY : (""employment_company_id"", ""employment_people_id"")","[FOREIGN KEY: ""employment_company_id"" REFERENCES ""company.company_company_id"" (table_name.column_name)., FOREIGN KEY: ""employment_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]","['company_id,people_id']","[{'employment_company_id': 'company.company_company_id'}, {'employment_people_id': 'people.people_people_id'}]"
+employment_people_id,integer,,,,
+year_working,integer,,,,

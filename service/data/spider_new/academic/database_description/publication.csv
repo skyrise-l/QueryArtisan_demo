@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+abstract,text,"PRIMARY KEY : (""publication_pid"")","[FOREIGN KEY: ""publication_jid"" REFERENCES ""journal.journal_jid"" (table_name.column_name)., FOREIGN KEY: ""publication_cid"" REFERENCES ""conference.conference_cid"" (table_name.column_name).]",['pid'],"[{'publication_jid': 'journal.journal_jid'}, {'publication_cid': 'conference.conference_cid'}]"
+publication_cid,text,,,,
+citation_num,integer,,,,
+publication_jid,integer,,,,
+publication_pid,integer,,,,
+reference_num,integer,,,,
+title,text,,,,
+year,integer,,,,

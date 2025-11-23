@@ -1,0 +1,15 @@
+questions_question_id,type_of_question_code,question_text
+285,Single Choice,When is middle age period
+321,Multiple Choice,Who are from Renaissance age
+585,Multiple Choice,Which are the works from Picasso
+603,Multiple Choice,Which are the works from Van Gogh
+613,Multiple Choice,Which are answers for the blanks in the passage
+655,Multiple Choice,Which are answers for the blanks in the passage
+682,Multiple Choice,Which are answers for the blanks in the passage?
+710,Free Text,Is it true that queue is FIFO
+721,Multiple Choice,Choose which structures are linear
+839,Single Choice,Choose the definition of a foreign key
+856,Single Choice,Choose the definition of SQL
+863,Free Text,What is a join
+948,Multiple Choice,Choose the definition of a primary key
+996,Multiple Choice,What is a table

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+overall_ranking_rank,integer,"PRIMARY KEY : (""overall_ranking_university_id"")","[FOREIGN KEY: ""overall_ranking_university_id"" REFERENCES ""university.university_university_id"" (table_name.column_name).]",['university_id'],[{'overall_ranking_university_id': 'university.university_university_id'}]
+overall_ranking_university_id,integer,,,,
+reputation_point,integer,,,,
+research_point,integer,,,,
+citation_point,integer,,,,
+total,integer,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+trained_in_physician,integer,"PRIMARY KEY : (""trained_in_physician"", "" treatment"")","[FOREIGN KEY: ""trained_in_physician"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name)., FOREIGN KEY: ""treatment"" REFERENCES ""procedures.procedures_code"" (table_name.column_name).]","['physician, treatment']","[{'trained_in_physician': 'physician.physician_employeeid'}, {'treatment': 'procedures.procedures_code'}]"
+treatment,integer,,,,
+certificationdate,date,,,,
+certificationexpires,date,,,,

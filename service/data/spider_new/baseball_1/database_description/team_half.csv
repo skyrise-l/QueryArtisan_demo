@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_half_year,integer,,[],[],[]
+team_half_league_id,text,,,,
+team_half_team_id,text,,,,
+team_half_half,integer,,,,
+team_half_div_id,text,,,,
+team_half_div_win,text,,,,
+team_half_rank,integer,,,,
+team_half_g,integer,,,,
+team_half_w,integer,,,,
+team_half_l,integer,,,,

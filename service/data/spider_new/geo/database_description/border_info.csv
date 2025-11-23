@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+border_info_state_name,text,"PRIMARY KEY : (""border"", ""border_info_state_name"")","[FOREIGN KEY: ""border_info_state_name"" REFERENCES ""state.state_state_name"" (table_name.column_name)., FOREIGN KEY: ""border"" REFERENCES ""state.state_state_name"" (table_name.column_name).]","['border,state_name']","[{'border_info_state_name': 'state.state_state_name'}, {'border': 'state.state_state_name'}]"
+border,text,,,,

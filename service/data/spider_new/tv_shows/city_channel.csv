@@ -1,0 +1,15 @@
+id,city,station_name,owned_since,affiliation
+1,Phoenix,KNXV-TV,1985.0,ABC
+2,"Bakersfield, California",KERO-TV,2011.0,ABC
+3,"Bakersfield, California",KZKC-LP,2011.0,Azteca América
+4,San Diego,KGTV,2011.0,ABC
+5,San Diego,KZSD-LP,2011.0,Azteca América
+6,"Colorado Springs, Colorado",KZKS-LP,2011.0,Azteca América
+7,Denver,KMGH-TV,2011.0,ABC
+8,Denver,KZCO-LP,2011.0,Azteca América
+9,"Fort Collins, Colorado",KZFC-LP,2011.0,Azteca América
+10,Tampa – St. Petersburg,WFTS-TV,1986.0,ABC
+11,West Palm Beach,WPTV,1961.0,NBC
+12,Indianapolis,WRTV,2011.0,ABC
+13,Baltimore,WMAR-TV,1991.0,ABC
+14,Detroit,WXYZ-TV,1986.0,ABC

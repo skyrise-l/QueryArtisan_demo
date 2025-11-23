@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+functional_areas_functional_area_code,text,,[],[],[]
+parent_functional_area_code,text,,,,
+functional_area_description,text,,,,

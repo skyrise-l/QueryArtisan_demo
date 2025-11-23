@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+roller_coaster_id,integer,"PRIMARY KEY : (""roller_coaster_id"")","[FOREIGN KEY: ""roller_coaster_country_id"" REFERENCES ""country.country_country_id"" (table_name.column_name).]",['roller_coaster_id'],[{'roller_coaster_country_id': 'country.country_country_id'}]
+roller_coaster_name,text,,,,
+park,text,,,,
+roller_coaster_country_id,integer,,,,
+length,double,,,,
+height,double,,,,
+speed,text,,,,
+opened,text,,,,
+status,text,,,,

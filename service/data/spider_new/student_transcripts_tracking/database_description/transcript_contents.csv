@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+transcript_contents_student_course_id,integer,,"[FOREIGN KEY: ""transcript_contents_student_course_id"" REFERENCES ""student_enrolment_courses.student_enrolment_courses_student_course_id"" (table_name.column_name)., FOREIGN KEY: ""transcript_contents_transcript_id"" REFERENCES ""transcripts.transcripts_transcript_id"" (table_name.column_name).]",[],"[{'transcript_contents_student_course_id': 'student_enrolment_courses.student_enrolment_courses_student_course_id'}, {'transcript_contents_transcript_id': 'transcripts.transcripts_transcript_id'}]"
+transcript_contents_transcript_id,integer,,,,

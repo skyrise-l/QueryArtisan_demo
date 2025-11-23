@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ref_shipping_agents_shipping_agent_code,text,"PRIMARY KEY : (""ref_shipping_agents_shipping_agent_code"")",[],['shipping_agent_code'],[]
+shipping_agent_name,text,,,,
+shipping_agent_description,text,,,,

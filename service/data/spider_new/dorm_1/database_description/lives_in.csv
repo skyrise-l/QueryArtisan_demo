@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stuid,integer,,"[FOREIGN KEY: ""stuid"" REFERENCES ""student.stuid"" (table_name.column_name)., FOREIGN KEY: ""lives_in_dormid"" REFERENCES ""dorm.dorm_dormid"" (table_name.column_name).]",[],"[{'stuid': 'student.stuid'}, {'lives_in_dormid': 'dorm.dorm_dormid'}]"
+lives_in_dormid,integer,,,,
+room_number,integer,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mountain_mountain_id,integer,"PRIMARY KEY : (""mountain_mountain_id"")",[],['mountain_id'],[]
+mountain_name,text,,,,
+height,double,,,,
+prominence,double,,,,
+range,text,,,,
+mountain_country,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_id,integer,"PRIMARY KEY : (""player_id"")","[FOREIGN KEY: ""player_club_id"" REFERENCES ""club.club_club_id"" (table_name.column_name).]",['player_id'],[{'player_club_id': 'club.club_club_id'}]
+player_name,text,,,,
+position,text,,,,
+player_club_id,integer,,,,
+apps,double,,,,
+tries,double,,,,
+goals,text,,,,
+points,double,,,,

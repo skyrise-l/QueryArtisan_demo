@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+musical_musical_id,integer,"PRIMARY KEY : (""musical_musical_id"")",[],['musical_id'],[]
+musical_name,text,,,,
+year,integer,,,,
+award,text,,,,
+category,text,,,,
+nominee,text,,,,
+result,text,,,,

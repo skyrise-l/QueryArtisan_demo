@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+forms_form_id,integer,,"[FOREIGN KEY: ""forms_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name).]",[],[{'forms_service_id': 'services.services_service_id'}]
+form_type_code,text,,,,
+forms_service_id,integer,,,,
+form_number,text,,,,
+form_name,text,,,,
+form_description,text,,,,

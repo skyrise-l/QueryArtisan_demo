@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+continent,text,"PRIMARY KEY : (""organization_oid"")",[],['oid'],[]
+organization_homepage,text,,,,
+organization_name,text,,,,
+organization_oid,integer,,,,

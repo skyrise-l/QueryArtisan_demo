@@ -1,0 +1,14 @@
+student_answers_student_answer_id,student_answers_exam_id,student_answers_question_id,student_answers_student_id,date_of_answer,comments,student_answers_satisfactory_yn,student_answers_student_answer_text
+127,1,321,52,2017-08-13 06:03:03,Normal,0,D
+149,1,285,22,2017-07-27 06:34:17,Normal,1,ABC
+169,2,585,40,2017-07-30 12:07:59,Normal,1,ABC
+284,2,603,35,2018-02-21 09:14:48,Normal,1,ABC
+374,3,655,6,2017-12-04 10:10:48,Normal,1,ABC
+397,3,613,52,2017-12-21 16:40:17,Normal,0,BCD
+455,3,682,15,2017-05-13 07:29:20,Normal,1,ABC
+460,9,721,93,2018-01-10 21:22:57,Normal,0,AC
+544,8,839,6,2017-11-04 00:23:29,Normal,1,C
+564,8,856,22,2017-07-27 18:22:08,Normal,1,C
+577,5,996,38,2017-10-11 18:29:01,Absent,0,Student absent
+701,7,863,37,2017-05-20 03:44:40,Absent,0,Student absent
+778,4,948,38,2017-07-08 17:36:15,Absent,1,ABC

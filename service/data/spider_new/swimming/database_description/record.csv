@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+record_id,integer,"PRIMARY KEY : (""swimmer_id"", ""event_id"")","[FOREIGN KEY: ""event_id"" REFERENCES ""event.event_id"" (table_name.column_name)., FOREIGN KEY: ""swimmer_id"" REFERENCES ""swimmer.swimmer_id"" (table_name.column_name).]","['swimmer_id,event_id']","[{'event_id': 'event.event_id'}, {'swimmer_id': 'swimmer.swimmer_id'}]"
+result,text,,,,
+swimmer_id,integer,,,,
+event_id,integer,,,,

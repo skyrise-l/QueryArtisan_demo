@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+wedding_church_id,integer,"PRIMARY KEY : (""wedding_church_id"", ""male_id"", ""female_id"")","[FOREIGN KEY: ""wedding_church_id"" REFERENCES ""church.church_church_id"" (table_name.column_name)., FOREIGN KEY: ""male_id"" REFERENCES ""people.people_id"" (table_name.column_name)., FOREIGN KEY: ""female_id"" REFERENCES ""people.people_id"" (table_name.column_name).]","['church_id,male_id,female_id']","[{'wedding_church_id': 'church.church_church_id'}, {'male_id': 'people.people_id'}, {'female_id': 'people.people_id'}]"
+male_id,integer,,,,
+female_id,integer,,,,
+year,integer,,,,

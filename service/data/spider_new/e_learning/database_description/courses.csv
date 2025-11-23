@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+courses_course_id,integer,,"[FOREIGN KEY: ""courses_author_id"" REFERENCES ""course_authors_and_tutors.course_authors_and_tutors_author_id"" (table_name.column_name)., FOREIGN KEY: ""courses_subject_id"" REFERENCES ""subjects.subjects_subject_id"" (table_name.column_name).]",[],"[{'courses_author_id': 'course_authors_and_tutors.course_authors_and_tutors_author_id'}, {'courses_subject_id': 'subjects.subjects_subject_id'}]"
+courses_author_id,integer,,,,
+courses_subject_id,integer,,,,
+course_name,text,,,,
+course_description,text,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+round,double,"PRIMARY KEY : (""round"")","[FOREIGN KEY: ""winning_aircraft"" REFERENCES ""aircraft.aircraft_aircraft_id"" (table_name.column_name)., FOREIGN KEY: ""winning_pilot"" REFERENCES ""pilot.pilot_id"" (table_name.column_name).]",['round'],"[{'winning_aircraft': 'aircraft.aircraft_aircraft_id'}, {'winning_pilot': 'pilot.pilot_id'}]"
+location,text,,,,
+country,text,,,,
+date,text,,,,
+fastest_qualifying,text,,,,
+winning_pilot,text,,,,
+winning_aircraft,text,,,,

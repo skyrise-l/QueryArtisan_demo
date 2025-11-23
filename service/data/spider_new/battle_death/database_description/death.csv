@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+caused_by_ship_id,integer,"PRIMARY KEY : (""death_id"")","[FOREIGN KEY: ""caused_by_ship_id"" REFERENCES ""ship.ship_id"" (table_name.column_name).]",['id'],[{'caused_by_ship_id': 'ship.ship_id'}]
+death_id,integer,,,,
+note,text,,,,
+killed,integer,,,,
+injured,integer,,,,

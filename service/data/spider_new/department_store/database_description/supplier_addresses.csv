@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+supplier_addresses_supplier_id,integer,"PRIMARY KEY : (""supplier_addresses_supplier_id"", "" address_id"")","[FOREIGN KEY: ""supplier_addresses_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""supplier_addresses_supplier_id"" REFERENCES ""suppliers.suppliers_supplier_id"" (table_name.column_name).]","['supplier_id, address_id']","[{'supplier_addresses_address_id': 'addresses.addresses_address_id'}, {'supplier_addresses_supplier_id': 'suppliers.suppliers_supplier_id'}]"
+supplier_addresses_address_id,integer,,,,
+supplier_addresses_date_from,date,,,,
+supplier_addresses_date_to,date,,,,

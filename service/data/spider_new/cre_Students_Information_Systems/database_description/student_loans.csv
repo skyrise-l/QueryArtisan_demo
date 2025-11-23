@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_loan_id,integer,"PRIMARY KEY : (""student_loan_id"")","[FOREIGN KEY: ""student_loans_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",['student_loan_id'],[{'student_loans_student_id': 'students.students_student_id'}]
+student_loans_student_id,integer,,,,
+date_of_loan,date,,,,
+amount_of_loan,text,,,,
+student_loans_other_details,text,,,,

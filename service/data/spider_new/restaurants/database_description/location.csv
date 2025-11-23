@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+restaurant_id,integer,"PRIMARY KEY : (""restaurant_id"")","[FOREIGN KEY: ""location_city_name"" REFERENCES ""geographic.geographic_city_name"" (table_name.column_name)., FOREIGN KEY: ""restaurant_id"" REFERENCES ""restaurant.restaurant_id"" (table_name.column_name).]",['restaurant_id'],"[{'location_city_name': 'geographic.geographic_city_name'}, {'restaurant_id': 'restaurant.restaurant_id'}]"
+house_number,integer,,,,
+street_name,text,,,,
+location_city_name,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+receiptnumber,integer,,"[FOREIGN KEY: ""customerid"" REFERENCES ""customers.customers_id"" (table_name.column_name).]",[],[{'customerid': 'customers.customers_id'}]
+date,text,,,,
+customerid,integer,,,,

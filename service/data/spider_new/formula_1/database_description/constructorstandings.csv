@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+constructorstandingsid,integer,,"[FOREIGN KEY: ""constructorstandings_constructorid"" REFERENCES ""constructors.constructors_constructorid"" (table_name.column_name)., FOREIGN KEY: ""constructorstandings_raceid"" REFERENCES ""races.races_raceid"" (table_name.column_name).]",[],"[{'constructorstandings_constructorid': 'constructors.constructors_constructorid'}, {'constructorstandings_raceid': 'races.races_raceid'}]"
+constructorstandings_raceid,integer,,,,
+constructorstandings_constructorid,integer,,,,
+constructorstandings_points,double,,,,
+constructorstandings_position,integer,,,,
+constructorstandings_positiontext,text,,,,
+constructorstandings_wins,integer,,,,

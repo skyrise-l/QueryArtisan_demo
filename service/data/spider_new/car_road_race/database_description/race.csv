@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+road,integer,"PRIMARY KEY : (""road"")","[FOREIGN KEY: ""race_driver_id"" REFERENCES ""driver.driver_driver_id"" (table_name.column_name).]",['road'],[{'race_driver_id': 'driver.driver_driver_id'}]
+race_driver_id,integer,,,,
+race_name,text,,,,
+pole_position,text,,,,
+fastest_lap,text,,,,
+winning_driver,text,,,,
+winning_team,text,,,,
+report,text,,,,

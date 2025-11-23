@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+sid,integer,"PRIMARY KEY : (""sid"")",[],['sid'],[]
+tv_series_title,text,,,,
+tv_series_release_year,integer,,,,
+num_of_seasons,integer,,,,
+tv_series_num_of_episodes,integer,,,,
+tv_series_title_aka,text,,,,
+tv_series_budget,text,,,,

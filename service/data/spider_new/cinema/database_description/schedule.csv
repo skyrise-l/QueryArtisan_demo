@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+schedule_cinema_id,integer,"PRIMARY KEY : (""schedule_cinema_id"", ""schedule_film_id"")","[FOREIGN KEY: ""schedule_film_id"" REFERENCES ""film.film_film_id"" (table_name.column_name)., FOREIGN KEY: ""schedule_cinema_id"" REFERENCES ""cinema.cinema_cinema_id"" (table_name.column_name).]","['cinema_id,film_id']","[{'schedule_film_id': 'film.film_film_id'}, {'schedule_cinema_id': 'cinema.cinema_cinema_id'}]"
+schedule_film_id,integer,,,,
+date,text,,,,
+show_times_per_day,integer,,,,
+price,double,,,,

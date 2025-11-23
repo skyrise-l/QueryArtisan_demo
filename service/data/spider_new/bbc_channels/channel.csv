@@ -1,0 +1,15 @@
+channel_channel_id,channel_name,analogue_terrestrial_channel,digital_terrestrial_channel,internet
+1,BBC One,1,HD,bbc.co.uk
+2,ITV,3,HD,ITV - itv.com
+3,BBC Two,2,2,bbc.co.uk
+4,Channel 4,4,8,channel4.com
+5,Channel 5,5,44,unavailable
+6,ITV3,unavailable,10,itv.com
+7,ITV2,unavailable,6,itv.com
+8,E4,unavailable,28,e4.com
+9,Sky Sports 1,unavailable,unavailable,skysports.com
+10,Sky1,unavailable,unavailable,sky.com
+11,CBeebies,unavailable,71,bbc.co.uk
+12,ITV4,unavailable,24,itv.com
+13,BBC Three,unavailable,7,bbc.co.uk
+14,Dave,unavailable,12,dave.uktv.co.uk

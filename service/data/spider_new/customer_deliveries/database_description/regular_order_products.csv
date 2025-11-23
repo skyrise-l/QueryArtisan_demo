@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+regular_order_products_regular_order_id,integer,,"[FOREIGN KEY: ""regular_order_products_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name)., FOREIGN KEY: ""regular_order_products_regular_order_id"" REFERENCES ""regular_orders.regular_orders_regular_order_id"" (table_name.column_name).]",[],"[{'regular_order_products_product_id': 'products.products_product_id'}, {'regular_order_products_regular_order_id': 'regular_orders.regular_orders_regular_order_id'}]"
+regular_order_products_product_id,integer,,,,

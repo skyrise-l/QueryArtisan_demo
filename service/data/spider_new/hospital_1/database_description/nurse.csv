@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+nurse_employeeid,integer,,[],[],[]
+nurse_name,text,,,,
+nurse_position,text,,,,
+registered,text,,,,
+nurse_ssn,integer,,,,

@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+contestants_contestant_number,integer,"PRIMARY KEY : (""contestants_contestant_number"")",[],['contestant_number'],[]
+contestant_name,text,,,,

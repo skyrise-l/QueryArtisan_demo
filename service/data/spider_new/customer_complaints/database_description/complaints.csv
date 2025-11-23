@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+complaint_id,integer,,"[FOREIGN KEY: ""complaints_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""complaints_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name)., FOREIGN KEY: ""complaints_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],"[{'complaints_staff_id': 'staff.staff_staff_id'}, {'complaints_product_id': 'products.products_product_id'}, {'complaints_customer_id': 'customers.customers_customer_id'}]"
+complaints_product_id,integer,,,,
+complaints_customer_id,integer,,,,
+complaint_outcome_code,text,,,,
+complaint_status_code,text,,,,
+complaint_type_code,text,,,,
+date_complaint_raised,date,,,,
+date_complaint_closed,date,,,,
+complaints_staff_id,integer,,,,

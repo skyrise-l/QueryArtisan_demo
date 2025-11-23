@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+treatment_types_treatment_type_code,text,,[],[],[]
+treatment_type_description,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+church_church_id,integer,"PRIMARY KEY : (""church_church_id"")",[],['church_id'],[]
+church_name,text,,,,
+organized_by,text,,,,
+open_date,integer,,,,
+continuation_of,text,,,,

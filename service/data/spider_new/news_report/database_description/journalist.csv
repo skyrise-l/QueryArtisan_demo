@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+journalist_journalist_id,integer,"PRIMARY KEY : (""journalist_journalist_id"")",[],['journalist_id'],[]
+journalist_name,text,,,,
+nationality,text,,,,
+age,text,,,,
+years_working,integer,,,,

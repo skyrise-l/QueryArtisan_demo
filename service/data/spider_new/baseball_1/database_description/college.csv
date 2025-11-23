@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+college_college_id,text,,[],[],[]
+name_full,text,,,,
+college_city,text,,,,
+college_state,text,,,,
+college_country,text,,,,

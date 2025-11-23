@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_department_assignments_staff_id,integer,"PRIMARY KEY : (""staff_department_assignments_staff_id"", "" department_id"")","[FOREIGN KEY: ""staff_department_assignments_department_id"" REFERENCES ""departments.departments_department_id"" (table_name.column_name)., FOREIGN KEY: ""staff_department_assignments_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name).]","['staff_id, department_id']","[{'staff_department_assignments_department_id': 'departments.departments_department_id'}, {'staff_department_assignments_staff_id': 'staff.staff_staff_id'}]"
+staff_department_assignments_department_id,integer,,,,
+date_assigned_from,date,,,,
+job_title_code,text,,,,
+date_assigned_to,date,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+match_result_rank,integer,"PRIMARY KEY : (""match_result_rank"", ""match_result_club_id"")","[FOREIGN KEY: ""match_result_club_id"" REFERENCES ""club.club_club_id"" (table_name.column_name).]","['rank,club_id']",[{'match_result_club_id': 'club.club_club_id'}]
+match_result_club_id,integer,,,,
+gold,integer,,,,
+big_silver,integer,,,,
+small_silver,integer,,,,
+bronze,integer,,,,
+points,integer,,,,

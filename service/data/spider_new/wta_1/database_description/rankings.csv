@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ranking_date,integer,,"[FOREIGN KEY: ""rankings_player_id"" REFERENCES ""players.players_player_id"" (table_name.column_name).]",[],[{'rankings_player_id': 'players.players_player_id'}]
+ranking,integer,,,,
+rankings_player_id,integer,,,,
+ranking_points,integer,,,,
+tours,integer,,,,

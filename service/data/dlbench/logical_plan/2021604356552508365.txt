@@ -1,0 +1,43 @@
+Step 1: Operator: read.
+Target_columns: None.
+Target_steps: none.
+Details: Load books.csv into table "books" from /mnt/d/study/vldb_demo/demo/chat/data/dlbench/books.csv.
+relatedCodeLines: []
+
+Step 2: Operator: filter.
+Target_columns: title.
+Target_steps: step 1.
+Details: Filter Step 1 where title = 'Five Silly Turkeys'.
+relatedCodeLines: []
+
+Step 3: Operator: select.
+Target_columns: book_id.
+Target_steps: step 2.
+Details: Select book_id from Step 2.
+relatedCodeLines: []
+
+Step 4: Operator: read.
+Target_columns: None.
+Target_steps: none.
+Details: Load book_reviews.json (extracting all review fields) into table "reviews" from /mnt/d/study/vldb_demo/demo/chat/data/dlbench/book_reviews.json.
+relatedCodeLines: []
+
+Step 5: Operator: filter.
+Target_columns: book_id.
+Target_steps: step 4, step 3.
+Details: Filter Step 4 where book_id matches the book_id value obtained from Step 3.
+relatedCodeLines: []
+
+Step 6: Operator: select.
+Target_columns: review.id, review.review_time, review.score, review.user_id, review.user_name.
+Target_steps: step 5.
+Details: Select review.id, review.review_time, review.score, review.user_id, review.user_name from Step 5.
+relatedCodeLines: []
+
+Step 7: Operator: write.
+Target_columns: None.
+Target_steps: step 6.
+Details: Write the final results to file path './book_reviews_Five_Silly_Turkeys.csv'.
+relatedCodeLines: []
+
+

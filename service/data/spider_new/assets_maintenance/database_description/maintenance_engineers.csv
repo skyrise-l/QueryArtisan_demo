@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+maintenance_engineers_engineer_id,integer,,"[FOREIGN KEY: ""maintenance_engineers_company_id"" REFERENCES ""third_party_companies.third_party_companies_company_id"" (table_name.column_name).]",[],[{'maintenance_engineers_company_id': 'third_party_companies.third_party_companies_company_id'}]
+maintenance_engineers_company_id,integer,,,,
+first_name,text,,,,
+last_name,text,,,,
+other_details,text,,,,

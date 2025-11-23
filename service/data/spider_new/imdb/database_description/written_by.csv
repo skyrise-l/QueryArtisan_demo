@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+written_by_id,integer,,"[FOREIGN KEY: ""written_by_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name)., FOREIGN KEY: ""written_by_wid"" REFERENCES ""writer.writer_wid"" (table_name.column_name).]",[],"[{'written_by_msid': 'copyright.copyright_msid'}, {'written_by_wid': 'writer.writer_wid'}]"
+written_by_msid,integer,,,,
+written_by_wid,integer,,,,

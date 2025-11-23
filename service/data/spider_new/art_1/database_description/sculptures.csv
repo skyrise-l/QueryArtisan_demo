@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+sculptureid,integer,"PRIMARY KEY : (""sculptureid"")","[FOREIGN KEY: ""sculptorid"" REFERENCES ""artists.artistid"" (table_name.column_name).]",['sculptureid'],[{'sculptorid': 'artists.artistid'}]
+sculptures_title,text,,,,
+sculptures_year,integer,,,,
+sculptures_medium,text,,,,
+sculptures_location,text,,,,
+sculptorid,integer,,,,

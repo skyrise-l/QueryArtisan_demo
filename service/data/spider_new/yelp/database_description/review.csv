@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rid,integer,"PRIMARY KEY : (""rid"")","[FOREIGN KEY: ""review_business_id"" REFERENCES ""business.business_business_id"" (table_name.column_name)., FOREIGN KEY: ""review_user_id"" REFERENCES ""user.user_user_id"" (table_name.column_name).]",['rid'],"[{'review_business_id': 'business.business_business_id'}, {'review_user_id': 'user.user_user_id'}]"
+review_business_id,text,,,,
+review_user_id,text,,,,
+review_rating,double,,,,
+review_text,text,,,,
+review_year,integer,,,,
+review_month,text,,,,

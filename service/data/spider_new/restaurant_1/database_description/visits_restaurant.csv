@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+visits_restaurant_stuid,integer,,"[FOREIGN KEY: ""visits_restaurant_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""visits_restaurant_resid"" REFERENCES ""restaurant.restaurant_resid"" (table_name.column_name).]",[],"[{'visits_restaurant_stuid': 'student.student_stuid'}, {'visits_restaurant_resid': 'restaurant.restaurant_resid'}]"
+visits_restaurant_resid,integer,,,,
+time,date,,,,
+spent,double,,,,

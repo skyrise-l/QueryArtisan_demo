@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_customer_id,integer,"PRIMARY KEY : (""customer_customer_id"")",[],['customer_id'],[]
+name,text,,,,
+nationality,text,,,,
+card_credit,double,,,,
+level_of_membership,integer,,,,

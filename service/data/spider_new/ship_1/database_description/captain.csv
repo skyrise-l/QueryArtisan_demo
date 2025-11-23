@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+captain_id,integer,"PRIMARY KEY : (""captain_id"")","[FOREIGN KEY: ""captain_ship_id"" REFERENCES ""ship.ship_ship_id"" (table_name.column_name).]",['captain_id'],[{'captain_ship_id': 'ship.ship_ship_id'}]
+captain_name,text,,,,
+captain_ship_id,integer,,,,
+age,text,,,,
+captain_class,text,,,,
+rank,text,,,,

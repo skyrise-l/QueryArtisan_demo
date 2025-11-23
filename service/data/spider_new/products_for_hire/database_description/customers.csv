@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_customer_id,integer,,"[FOREIGN KEY: ""customers_coupon_id"" REFERENCES ""discount_coupons.discount_coupons_coupon_id"" (table_name.column_name).]",[],[{'customers_coupon_id': 'discount_coupons.discount_coupons_coupon_id'}]
+customers_coupon_id,integer,,,,
+good_or_bad_customer,text,,,,
+first_name,text,,,,
+last_name,text,,,,
+gender_mf,text,,,,
+date_became_customer,date,,,,
+date_last_hire,date,,,,

@@ -1,0 +1,16 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+properties_property_id,integer,,"[FOREIGN KEY: ""owner_user_id"" REFERENCES ""users.users_user_id"" (table_name.column_name)., FOREIGN KEY: ""property_address_id"" REFERENCES ""addresses.address_id"" (table_name.column_name)., FOREIGN KEY: ""properties_property_type_code"" REFERENCES ""ref_property_types.ref_property_types_property_type_code"" (table_name.column_name).]",[],"[{'owner_user_id': 'users.users_user_id'}, {'property_address_id': 'addresses.address_id'}, {'properties_property_type_code': 'ref_property_types.ref_property_types_property_type_code'}]"
+property_address_id,integer,,,,
+owner_user_id,integer,,,,
+properties_property_type_code,text,,,,
+date_on_market,date,,,,
+date_off_market,date,,,,
+property_name,text,,,,
+property_description,text,,,,
+garage_yn,text,,,,
+parking_lots,text,,,,
+room_count,text,,,,
+vendor_requested_price,double,,,,
+price_min,double,,,,
+price_max,double,,,,
+other_property_details,text,,,,

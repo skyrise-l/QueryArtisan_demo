@@ -1,0 +1,7 @@
+customer_order_customer_id,customer_order_branch_id,dish_name,quantity
+2,10,Ma Po Tofu,1
+2,9,Kung Pao Chicken,2
+3,10,Peking Roasted Duck,1
+4,6,Chow Mein,2
+5,6,Chow Mein,1
+1,10,Spring Rolls,4

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+exams_exam_id,integer,"PRIMARY KEY : (""exams_exam_id"")",[],['exam_id'],[]
+subject_code,text,,,,
+exam_date,date,,,,
+exam_name,text,,,,

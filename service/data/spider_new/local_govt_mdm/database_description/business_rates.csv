@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+business_rates_id,integer,"PRIMARY KEY : (""business_rates_id"")","[FOREIGN KEY: ""business_rates_cmi_cross_ref_id"" REFERENCES ""cmi_cross_references.cmi_cross_references_cmi_cross_ref_id"" (table_name.column_name).]",['business_rates_id'],[{'business_rates_cmi_cross_ref_id': 'cmi_cross_references.cmi_cross_references_cmi_cross_ref_id'}]
+business_rates_cmi_cross_ref_id,integer,,,,

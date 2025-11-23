@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+club_clubid,integer,,[],[],[]
+clubname,text,,,,
+clubdesc,text,,,,
+clublocation,text,,,,

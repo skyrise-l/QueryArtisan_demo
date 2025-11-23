@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_crs_code,text,,"[FOREIGN KEY: ""course_dept_code"" REFERENCES ""department.department_dept_code"" (table_name.column_name).]",[],[{'course_dept_code': 'department.department_dept_code'}]
+course_dept_code,text,,,,
+crs_description,text,,,,
+crs_credit,double,,,,

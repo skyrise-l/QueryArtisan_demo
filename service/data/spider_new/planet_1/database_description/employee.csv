@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employeeid,integer,,[],[],[]
+employee_name,text,,,,
+position,text,,,,
+salary,double,,,,
+remarks,text,,,,

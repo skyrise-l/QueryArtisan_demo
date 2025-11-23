@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claims_claim_id,integer,"PRIMARY KEY : (""claims_claim_id"")","[FOREIGN KEY: ""claims_fnol_id"" REFERENCES ""first_notification_of_loss.first_notification_of_loss_fnol_id"" (table_name.column_name).]",['claim_id'],[{'claims_fnol_id': 'first_notification_of_loss.first_notification_of_loss_fnol_id'}]
+claims_fnol_id,integer,,,,
+claims_effective_date,date,,,,

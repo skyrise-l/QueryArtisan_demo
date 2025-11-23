@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_cards_card_id,integer,,[],[],[]
+customers_cards_customer_id,integer,,,,
+card_type_code,text,,,,
+card_number,text,,,,
+date_valid_from,date,,,,
+date_valid_to,date,,,,
+other_card_details,text,,,,

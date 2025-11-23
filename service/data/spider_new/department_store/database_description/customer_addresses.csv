@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_addresses_customer_id,integer,"PRIMARY KEY : (""customer_addresses_customer_id"", "" address_id"")","[FOREIGN KEY: ""customer_addresses_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""customer_addresses_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]","['customer_id, address_id']","[{'customer_addresses_address_id': 'addresses.addresses_address_id'}, {'customer_addresses_customer_id': 'customers.customers_customer_id'}]"
+customer_addresses_address_id,integer,,,,
+customer_addresses_date_from,date,,,,
+customer_addresses_date_to,date,,,,

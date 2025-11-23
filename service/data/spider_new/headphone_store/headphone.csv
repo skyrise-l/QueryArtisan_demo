@@ -1,0 +1,12 @@
+headphone_headphone_id,model,class,driver-matched_db,construction,earpads,price
+1,iGrado,Prestige,0.1,Plastic,Comfort Pads,49
+2,SR60i,Prestige,0.1,Plastic,Comfort Pads,79
+3,SR80i,Prestige,0.1,Plastic,Comfort Pads,99
+4,SR125i,Prestige,0.1,Plastic,Comfort Pads,150
+5,SR225i,Prestige,0.05,Plastic,Bowls,200
+6,SR325i,Prestige,0.05,Aluminum alloy/ Plastic inner sleeve,Bowls,295
+7,RS2i,Reference,0.05,Hand-Crafted Mahogany,Bowls,495
+8,RS1i,Reference,0.05,Hand-Crafted Mahogany,Bowls,695
+9,GS1000i,Statement,0.05,Hand-Crafted Mahogany,Circumaural Bowls,995
+10,PS500,Professional,0.05,Hand-Crafted Mahogany / Aluminum,Bowls,595
+11,PS1000,Professional,0.05,Hand-Crafted Mahogany / Aluminum,Circumaural Bowls,1695

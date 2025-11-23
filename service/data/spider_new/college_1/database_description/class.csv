@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+class_class_code,text,,"[FOREIGN KEY: ""class_crs_code"" REFERENCES ""course.course_crs_code"" (table_name.column_name)., FOREIGN KEY: ""class_prof_num"" REFERENCES ""employee.employee_emp_num"" (table_name.column_name).]",[],"[{'class_crs_code': 'course.course_crs_code'}, {'class_prof_num': 'employee.employee_emp_num'}]"
+class_crs_code,text,,,,
+class_section,text,,,,
+class_time,text,,,,
+class_room,text,,,,
+class_prof_num,integer,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_award_player_id,text,,"[FOREIGN KEY: ""player_award_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name).]",[],[{'player_award_player_id': 'player.player_player_id'}]
+player_award_award_id,text,,,,
+player_award_year,integer,,,,
+player_award_league_id,text,,,,
+player_award_tie,text,,,,
+player_award_notes,text,,,,

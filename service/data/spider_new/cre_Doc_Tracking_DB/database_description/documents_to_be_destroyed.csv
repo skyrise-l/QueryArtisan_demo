@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+documents_to_be_destroyed_document_id,integer,"PRIMARY KEY : (""documents_to_be_destroyed_document_id"")","[FOREIGN KEY: ""destroyed_by_employee_id"" REFERENCES ""employees.employee_id"" (table_name.column_name)., FOREIGN KEY: ""destruction_authorised_by_employee_id"" REFERENCES ""employees.employee_id"" (table_name.column_name)., FOREIGN KEY: ""planned_destruction_date"" REFERENCES ""ref_calendar.calendar_date"" (table_name.column_name)., FOREIGN KEY: ""actual_destruction_date"" REFERENCES ""ref_calendar.calendar_date"" (table_name.column_name)., FOREIGN KEY: ""documents_to_be_destroyed_document_id"" REFERENCES ""all_documents.all_documents_document_id"" (table_name.column_name).]",['document_id'],"[{'destroyed_by_employee_id': 'employees.employee_id'}, {'destruction_authorised_by_employee_id': 'employees.employee_id'}, {'planned_destruction_date': 'ref_calendar.calendar_date'}, {'actual_destruction_date': 'ref_calendar.calendar_date'}, {'documents_to_be_destroyed_document_id': 'all_documents.all_documents_document_id'}]"
+destruction_authorised_by_employee_id,integer,,,,
+destroyed_by_employee_id,integer,,,,
+planned_destruction_date,date,,,,
+actual_destruction_date,date,,,,
+documents_to_be_destroyed_other_details,text,,,,

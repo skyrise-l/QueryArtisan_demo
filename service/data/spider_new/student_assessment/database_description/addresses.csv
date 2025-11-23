@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+addresses_address_id,integer,"PRIMARY KEY : (""addresses_address_id"")",[],['address_id'],[]
+line_1,text,,,,
+line_2,text,,,,
+city,text,,,,
+zip_postcode,text,,,,
+state_province_county,text,,,,
+country,text,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+products_product_id,integer,,[],[],[]
+parent_product_id,integer,,,,
+product_name,text,,,,
+product_price,text,,,,
+product_color,text,,,,
+product_size,text,,,,
+product_description,text,,,,

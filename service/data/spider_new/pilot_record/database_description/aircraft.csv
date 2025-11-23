@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+aircraft_aircraft_id,integer,"PRIMARY KEY : (""aircraft_aircraft_id"")",[],['aircraft_id'],[]
+order_year,integer,,,,
+manufacturer,text,,,,
+model,text,,,,
+fleet_series,text,,,,
+powertrain,text,,,,
+fuel_propulsion,text,,,,

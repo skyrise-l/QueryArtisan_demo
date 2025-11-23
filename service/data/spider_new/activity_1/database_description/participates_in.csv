@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stuid,integer,,"[FOREIGN KEY: ""stuid"" REFERENCES ""student.stuid"" (table_name.column_name)., FOREIGN KEY: ""participates_in_actid"" REFERENCES ""activity.activity_actid"" (table_name.column_name).]",[],"[{'stuid': 'student.stuid'}, {'participates_in_actid': 'activity.activity_actid'}]"
+participates_in_actid,integer,,,,

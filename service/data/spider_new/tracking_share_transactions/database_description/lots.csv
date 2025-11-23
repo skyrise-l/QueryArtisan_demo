@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+lots_lot_id,integer,,"[FOREIGN KEY: ""lots_investor_id"" REFERENCES ""investors.investors_investor_id"" (table_name.column_name).]",[],[{'lots_investor_id': 'investors.investors_investor_id'}]
+lots_investor_id,integer,,,,
+lot_details,text,,,,

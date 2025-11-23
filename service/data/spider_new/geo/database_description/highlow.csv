@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+highlow_state_name,text,"PRIMARY KEY : (""highlow_state_name"")","[FOREIGN KEY: ""highlow_state_name"" REFERENCES ""state.state_state_name"" (table_name.column_name).]",['state_name'],[{'highlow_state_name': 'state.state_state_name'}]
+highest_elevation,text,,,,
+lowest_point,text,,,,
+highest_point,text,,,,
+lowest_elevation,text,,,,

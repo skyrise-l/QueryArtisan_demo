@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tags_id,integer,"PRIMARY KEY : (""tags_id"")","[FOREIGN KEY: ""tags_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name)., FOREIGN KEY: ""kid"" REFERENCES ""keyword.kid"" (table_name.column_name).]",['id'],"[{'tags_msid': 'copyright.copyright_msid'}, {'kid': 'keyword.kid'}]"
+tags_msid,integer,,,,
+kid,integer,,,,

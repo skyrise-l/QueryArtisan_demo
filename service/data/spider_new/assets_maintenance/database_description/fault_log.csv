@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+fault_log_fault_log_entry_id,integer,,"[FOREIGN KEY: ""fault_log_asset_id"" REFERENCES ""assets.assets_asset_id"" (table_name.column_name)., FOREIGN KEY: ""recorded_by_staff_id"" REFERENCES ""staff.staff_id"" (table_name.column_name).]",[],"[{'fault_log_asset_id': 'assets.assets_asset_id'}, {'recorded_by_staff_id': 'staff.staff_id'}]"
+fault_log_asset_id,integer,,,,
+recorded_by_staff_id,integer,,,,
+fault_log_entry_datetime,date,,,,
+fault_log_fault_description,text,,,,
+fault_log_other_fault_details,text,,,,

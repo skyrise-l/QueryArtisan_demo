@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city_id,integer,"PRIMARY KEY : (""city_id"")","[FOREIGN KEY: ""city_county_id"" REFERENCES ""county_public_safety.county_public_safety_county_id"" (table_name.column_name).]",['city_id'],[{'city_county_id': 'county_public_safety.county_public_safety_county_id'}]
+city_county_id,integer,,,,
+city_name,text,,,,
+white,double,,,,
+black,double,,,,
+amerindian,double,,,,
+asian,double,,,,
+multiracial,double,,,,
+hispanic,double,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+performance_performance_id,double,"PRIMARY KEY : (""performance_performance_id"")",[],['performance_id'],[]
+date,text,,,,
+host,text,,,,
+location,text,,,,
+attendance,integer,,,,

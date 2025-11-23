@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+director_admin_director_id,integer,"PRIMARY KEY : (""director_admin_director_id"", ""director_admin_channel_id"")","[FOREIGN KEY: ""director_admin_director_id"" REFERENCES ""director.director_director_id"" (table_name.column_name)., FOREIGN KEY: ""director_admin_channel_id"" REFERENCES ""channel.channel_channel_id"" (table_name.column_name).]","['director_id,channel_id']","[{'director_admin_director_id': 'director.director_director_id'}, {'director_admin_channel_id': 'channel.channel_channel_id'}]"
+director_admin_channel_id,integer,,,,
+is_first_director,text,,,,

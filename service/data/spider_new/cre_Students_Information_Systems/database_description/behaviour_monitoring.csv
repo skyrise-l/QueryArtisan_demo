@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+behaviour_monitoring_id,integer,"PRIMARY KEY : (""behaviour_monitoring_id"")","[FOREIGN KEY: ""behaviour_monitoring_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",['behaviour_monitoring_id'],[{'behaviour_monitoring_student_id': 'students.students_student_id'}]
+behaviour_monitoring_student_id,integer,,,,
+behaviour_monitoring_details,text,,,,

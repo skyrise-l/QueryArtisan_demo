@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+market_market_id,integer,"PRIMARY KEY : (""market_market_id"")",[],['market_id'],[]
+district,text,,,,
+num_of_employees,integer,,,,
+num_of_shops,double,,,,
+ranking,integer,,,,

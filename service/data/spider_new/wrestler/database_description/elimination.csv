@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+elimination_id,text,"PRIMARY KEY : (""elimination_id"")","[FOREIGN KEY: ""elimination_wrestler_id"" REFERENCES ""wrestler.wrestler_wrestler_id"" (table_name.column_name).]",['elimination_id'],[{'elimination_wrestler_id': 'wrestler.wrestler_wrestler_id'}]
+elimination_wrestler_id,text,,,,
+team,text,,,,
+eliminated_by,text,,,,
+elimination_move,text,,,,
+time,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+project_outcomes_project_id,integer,,"[FOREIGN KEY: ""project_outcomes_project_id"" REFERENCES ""projects.projects_project_id"" (table_name.column_name)., FOREIGN KEY: ""project_outcomes_outcome_code"" REFERENCES ""research_outcomes.research_outcomes_outcome_code"" (table_name.column_name).]",[],"[{'project_outcomes_project_id': 'projects.projects_project_id'}, {'project_outcomes_outcome_code': 'research_outcomes.research_outcomes_outcome_code'}]"
+project_outcomes_outcome_code,text,,,,
+outcome_details,text,,,,

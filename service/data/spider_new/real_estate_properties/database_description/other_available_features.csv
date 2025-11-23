@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+other_available_features_feature_id,integer,,"[FOREIGN KEY: ""other_available_features_feature_type_code"" REFERENCES ""ref_feature_types.ref_feature_types_feature_type_code"" (table_name.column_name).]",[],[{'other_available_features_feature_type_code': 'ref_feature_types.ref_feature_types_feature_type_code'}]
+other_available_features_feature_type_code,text,,,,
+feature_name,text,,,,
+feature_description,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claim_processing_id,integer,"PRIMARY KEY : (""claim_processing_id"")","[FOREIGN KEY: ""claims_processing_claim_id"" REFERENCES ""claim_headers.claim_header_id"" (table_name.column_name)., FOREIGN KEY: ""claims_processing_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name).]",['claim_processing_id'],"[{'claims_processing_claim_id': 'claim_headers.claim_header_id'}, {'claims_processing_staff_id': 'staff.staff_staff_id'}]"
+claims_processing_claim_id,integer,,,,
+claim_outcome_code,text,,,,
+claims_processing_claim_stage_id,integer,,,,
+claims_processing_staff_id,integer,,,,

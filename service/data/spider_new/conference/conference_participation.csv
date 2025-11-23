@@ -1,0 +1,10 @@
+conference_participation_conference_id,conference_participation_staff_id,role
+1,6,Speaker
+2,5,Sponsor
+1,4,Speaker
+1,2,Sponsor
+2,7,Speaker
+4,5,Participant
+1,1,Sponsor
+5,5,Speaker
+6,5,Participant

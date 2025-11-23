@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mailshot_customers_mailshot_id,integer,,"[FOREIGN KEY: ""mailshot_customers_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name)., FOREIGN KEY: ""mailshot_customers_mailshot_id"" REFERENCES ""mailshot_campaigns.mailshot_campaigns_mailshot_id"" (table_name.column_name).]",[],"[{'mailshot_customers_customer_id': 'customers.customers_customer_id'}, {'mailshot_customers_mailshot_id': 'mailshot_campaigns.mailshot_campaigns_mailshot_id'}]"
+mailshot_customers_customer_id,integer,,,,
+outcome_code,text,,,,
+mailshot_customer_date,date,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_addresses_customer_id,integer,,"[FOREIGN KEY: ""customer_addresses_premise_id"" REFERENCES ""premises.premises_premise_id"" (table_name.column_name)., FOREIGN KEY: ""customer_addresses_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],"[{'customer_addresses_premise_id': 'premises.premises_premise_id'}, {'customer_addresses_customer_id': 'customers.customers_customer_id'}]"
+customer_addresses_premise_id,integer,,,,
+date_address_from,date,,,,
+address_type_code,text,,,,
+date_address_to,date,,,,

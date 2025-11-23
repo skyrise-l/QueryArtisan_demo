@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+apid,integer,,[],[],[]
+airports_name,text,,,,
+city,text,,,,
+airports_country,text,,,,
+x,double,,,,
+y,double,,,,
+elevation,integer,,,,
+airports_iata,text,,,,
+airports_icao,text,,,,

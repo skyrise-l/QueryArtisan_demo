@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mountain_name,text,"PRIMARY KEY : (""mountain_name"", "" state_name"")","[FOREIGN KEY: ""mountain_state_name"" REFERENCES ""state.state_state_name"" (table_name.column_name).]","['mountain_name, state_name']",[{'mountain_state_name': 'state.state_state_name'}]
+mountain_altitude,integer,,,,
+mountain_country_name,text,,,,
+mountain_state_name,text,,,,

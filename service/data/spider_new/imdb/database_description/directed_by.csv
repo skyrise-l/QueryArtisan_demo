@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+directed_by_id,integer,"PRIMARY KEY : (""directed_by_id"")","[FOREIGN KEY: ""directed_by_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name)., FOREIGN KEY: ""directed_by_did"" REFERENCES ""director.director_did"" (table_name.column_name).]",['id'],"[{'directed_by_msid': 'copyright.copyright_msid'}, {'directed_by_did': 'director.director_did'}]"
+directed_by_msid,integer,,,,
+directed_by_did,integer,,,,

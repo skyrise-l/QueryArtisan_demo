@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+assets_asset_id,integer,,"[FOREIGN KEY: ""assets_maintenance_contract_id"" REFERENCES ""maintenance_contracts.maintenance_contracts_maintenance_contract_id"" (table_name.column_name)., FOREIGN KEY: ""supplier_company_id"" REFERENCES ""third_party_companies.third_party_companies_company_id"" (table_name.column_name).]",[],"[{'assets_maintenance_contract_id': 'maintenance_contracts.maintenance_contracts_maintenance_contract_id'}, {'supplier_company_id': 'third_party_companies.third_party_companies_company_id'}]"
+assets_maintenance_contract_id,integer,,,,
+supplier_company_id,integer,,,,
+asset_details,text,,,,
+asset_make,text,,,,
+asset_model,text,,,,
+asset_acquired_date,date,,,,
+asset_disposed_date,date,,,,
+other_asset_details,text,,,,

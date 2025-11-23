@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mission_id,integer,"PRIMARY KEY : (""mission_id"")","[FOREIGN KEY: ""mission_ship_id"" REFERENCES ""ship.ship_ship_id"" (table_name.column_name).]",['mission_id'],[{'mission_ship_id': 'ship.ship_ship_id'}]
+mission_ship_id,integer,,,,
+code,text,,,,
+launched_year,integer,,,,
+location,text,,,,
+speed_knots,integer,,,,
+fate,text,,,,

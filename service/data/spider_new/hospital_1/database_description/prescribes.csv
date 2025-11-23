@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+prescribes_physician,integer,"PRIMARY KEY : (""prescribes_physician"", "" patient"", "" medication"", "" date"")","[FOREIGN KEY: ""prescribes_physician"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name)., FOREIGN KEY: ""prescribes_patient"" REFERENCES ""patient.patient_ssn"" (table_name.column_name)., FOREIGN KEY: ""medication"" REFERENCES ""medication.medication_code"" (table_name.column_name)., FOREIGN KEY: ""appointment"" REFERENCES ""appointment.appointmentid"" (table_name.column_name).]","['physician, patient, medication, date']","[{'prescribes_physician': 'physician.physician_employeeid'}, {'prescribes_patient': 'patient.patient_ssn'}, {'medication': 'medication.medication_code'}, {'appointment': 'appointment.appointmentid'}]"
+prescribes_patient,integer,,,,
+medication,integer,,,,
+date,date,,,,
+appointment,integer,,,,
+dose,text,,,,

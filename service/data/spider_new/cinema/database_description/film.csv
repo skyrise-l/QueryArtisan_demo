@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+film_film_id,integer,"PRIMARY KEY : (""film_film_id"")",[],['film_id'],[]
+rank_in_series,integer,,,,
+number_in_season,integer,,,,
+title,text,,,,
+directed_by,text,,,,
+original_air_date,text,,,,
+production_code,text,,,,

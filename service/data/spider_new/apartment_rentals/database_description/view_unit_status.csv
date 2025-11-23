@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+view_unit_status_apt_id,integer,"PRIMARY KEY : (""status_date"")","[FOREIGN KEY: ""view_unit_status_apt_id"" REFERENCES ""apartments.apartments_apt_id"" (table_name.column_name)., FOREIGN KEY: ""view_unit_status_apt_booking_id"" REFERENCES ""apartment_bookings.apartment_bookings_apt_booking_id"" (table_name.column_name).]",['status_date'],"[{'view_unit_status_apt_id': 'apartments.apartments_apt_id'}, {'view_unit_status_apt_booking_id': 'apartment_bookings.apartment_bookings_apt_booking_id'}]"
+view_unit_status_apt_booking_id,integer,,,,
+status_date,date,,,,
+available_yn,integer,,,,

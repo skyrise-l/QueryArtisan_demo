@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+singer_singer_id,integer,"PRIMARY KEY : (""singer_singer_id"")",[],['singer_id'],[]
+singer_name,text,,,,
+country,text,,,,
+song_name,text,,,,
+song_release_year,text,,,,
+age,integer,,,,
+is_male,text,,,,

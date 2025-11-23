@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+head_head_id,integer,"PRIMARY KEY : (""head_head_id"")",[],['head_id'],[]
+name,text,,,,
+born_state,text,,,,
+age,double,,,,

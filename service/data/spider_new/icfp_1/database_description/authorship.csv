@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+authorship_authid,integer,"PRIMARY KEY : (""authorship_authid"", "" instid"", "" paperid"")","[FOREIGN KEY: ""authorship_authid"" REFERENCES ""authors.authors_authid"" (table_name.column_name)., FOREIGN KEY: ""authorship_instid"" REFERENCES ""inst.inst_instid"" (table_name.column_name)., FOREIGN KEY: ""authorship_paperid"" REFERENCES ""papers.papers_paperid"" (table_name.column_name).]","['authid, instid, paperid']","[{'authorship_authid': 'authors.authors_authid'}, {'authorship_instid': 'inst.inst_instid'}, {'authorship_paperid': 'papers.papers_paperid'}]"
+authorship_instid,integer,,,,
+authorship_paperid,integer,,,,
+authorder,integer,,,,

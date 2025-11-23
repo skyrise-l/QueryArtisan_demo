@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employee_id,integer,,"[FOREIGN KEY: ""employee_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name).]",[],[{'employee_address_id': 'addresses.addresses_address_id'}]
+employee_address_id,integer,,,,
+employee_name,text,,,,
+employee_phone,text,,,,

@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+has_amenity_dormid,integer,,"[FOREIGN KEY: ""has_amenity_dormid"" REFERENCES ""dorm.dorm_dormid"" (table_name.column_name)., FOREIGN KEY: ""has_amenity_amenid"" REFERENCES ""dorm_amenity.dorm_amenity_amenid"" (table_name.column_name).]",[],"[{'has_amenity_dormid': 'dorm.dorm_dormid'}, {'has_amenity_amenid': 'dorm_amenity.dorm_amenity_amenid'}]"
+has_amenity_amenid,integer,,,,

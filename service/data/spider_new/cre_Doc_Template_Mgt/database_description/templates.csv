@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+templates_template_id,integer,"PRIMARY KEY : (""templates_template_id"")","[FOREIGN KEY: ""templates_template_type_code"" REFERENCES ""ref_template_types.ref_template_types_template_type_code"" (table_name.column_name).]",['template_id'],[{'templates_template_type_code': 'ref_template_types.ref_template_types_template_type_code'}]
+version_number,integer,,,,
+templates_template_type_code,text,,,,
+date_effective_from,date,,,,
+date_effective_to,date,,,,
+template_details,text,,,,

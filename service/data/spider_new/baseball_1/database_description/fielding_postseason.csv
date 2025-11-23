@@ -1,0 +1,18 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+fielding_postseason_player_id,text,,"[FOREIGN KEY: ""fielding_postseason_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name)., FOREIGN KEY: ""fielding_postseason_team_id"" REFERENCES ""player.team_id"" (table_name.column_name).]",[],"[{'fielding_postseason_player_id': 'player.player_player_id'}, {'fielding_postseason_team_id': 'player.team_id'}]"
+fielding_postseason_year,integer,,,,
+fielding_postseason_team_id,text,,,,
+fielding_postseason_league_id,text,,,,
+fielding_postseason_round,text,,,,
+fielding_postseason_pos,text,,,,
+fielding_postseason_g,integer,,,,
+fielding_postseason_gs,double,,,,
+fielding_postseason_inn_outs,double,,,,
+fielding_postseason_po,integer,,,,
+fielding_postseason_a,integer,,,,
+fielding_postseason_e,integer,,,,
+fielding_postseason_dp,integer,,,,
+tp,integer,,,,
+fielding_postseason_pb,double,,,,
+fielding_postseason_sb,double,,,,
+fielding_postseason_cs,double,,,,

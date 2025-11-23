@@ -1,0 +1,11 @@
+driver_driver_id,driver,driver_country,age,car_#,driver_make,points,laps,winnings
+1,Kasey Kahne,2,23,9.0,Dodge,185,334.0,"$530,164"
+2,Matt Kenseth,2,21,17.0,Ford,175,334.0,"$362,491"
+3,Tony Stewart,2,19,20.0,Chevrolet,175,334.0,"$286,386"
+4,Denny Hamlin *,2,25,11.0,Chevrolet,165,334.0,"$208,500"
+5,Kevin Li,3,23,29.0,Chevrolet,160,334.0,"$204,511"
+6,Jeff Chen,3,25,31.0,Chevrolet,150,334.0,"$172,220"
+7,Scott Riggs,1,22,10.0,Dodge,146,334.0,"$133,850"
+8,Mali Lu Jr. *,3,29,1.0,Chevrolet,147,334.0,"$156,608"
+9,Mark Martin,5,21,6.0,Ford,143,334.0,"$151,850"
+10,Bobby Labonte,4,25,43.0,Dodge,134,334.0,"$164,211"

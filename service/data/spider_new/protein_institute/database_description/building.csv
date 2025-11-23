@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+building_building_id,text,"PRIMARY KEY : (""building_building_id"")",[],['building_id'],[]
+name,text,,,,
+street_address,text,,,,
+years_as_tallest,text,,,,
+height_feet,integer,,,,
+floors,integer,,,,

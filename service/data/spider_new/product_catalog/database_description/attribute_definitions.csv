@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+attribute_definitions_attribute_id,integer,,[],[],[]
+attribute_name,text,,,,
+attribute_data_type,text,,,,

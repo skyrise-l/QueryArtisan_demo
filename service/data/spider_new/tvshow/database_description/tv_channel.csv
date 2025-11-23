@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tv_channel_id,text,"PRIMARY KEY : (""tv_channel_id"")",[],['id'],[]
+series_name,text,,,,
+country,text,,,,
+language,text,,,,
+content,text,,,,
+pixel_aspect_ratio_par,text,,,,
+hight_definition_tv,text,,,,
+pay_per_view_ppv,text,,,,
+package_option,text,,,,

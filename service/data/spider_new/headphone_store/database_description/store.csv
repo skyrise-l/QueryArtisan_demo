@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+store_store_id,integer,"PRIMARY KEY : (""store_store_id"")",[],['store_id'],[]
+name,text,,,,
+neighborhood,text,,,,
+parking,text,,,,
+date_opened,text,,,,

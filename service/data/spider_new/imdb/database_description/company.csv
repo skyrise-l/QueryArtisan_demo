@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+company_id,integer,"PRIMARY KEY : (""company_id"")",[],['id'],[]
+company_name,text,,,,
+country_code,text,,,,

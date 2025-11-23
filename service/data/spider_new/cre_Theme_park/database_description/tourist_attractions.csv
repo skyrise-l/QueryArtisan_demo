@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tourist_attractions_tourist_attraction_id,integer,"PRIMARY KEY : (""tourist_attractions_tourist_attraction_id"")","[FOREIGN KEY: ""tourist_attractions_location_id"" REFERENCES ""locations.locations_location_id"" (table_name.column_name)., FOREIGN KEY: ""tourist_attractions_attraction_type_code"" REFERENCES ""ref_attraction_types.ref_attraction_types_attraction_type_code"" (table_name.column_name).]",['tourist_attraction_id'],"[{'tourist_attractions_location_id': 'locations.locations_location_id'}, {'tourist_attractions_attraction_type_code': 'ref_attraction_types.ref_attraction_types_attraction_type_code'}]"
+tourist_attractions_attraction_type_code,text,,,,
+tourist_attractions_location_id,integer,,,,
+how_to_get_there,text,,,,
+tourist_attractions_name,text,,,,
+tourist_attractions_description,text,,,,
+opening_hours,text,,,,
+tourist_attractions_other_details,text,,,,

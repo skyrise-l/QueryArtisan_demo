@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+debate_people_debate_id,integer,"PRIMARY KEY : (""debate_people_debate_id"", ""affirmative"", ""negative"")","[FOREIGN KEY: ""debate_people_debate_id"" REFERENCES ""debate.debate_debate_id"" (table_name.column_name)., FOREIGN KEY: ""affirmative"" REFERENCES ""people.people_id"" (table_name.column_name)., FOREIGN KEY: ""negative"" REFERENCES ""people.people_id"" (table_name.column_name).]","['debate_id,affirmative,negative']","[{'debate_people_debate_id': 'debate.debate_debate_id'}, {'affirmative': 'people.people_id'}, {'negative': 'people.people_id'}]"
+affirmative,integer,,,,
+negative,integer,,,,
+if_affirmative_win,text,,,,

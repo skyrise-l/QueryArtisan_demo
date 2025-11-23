@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+bank_branch_id,integer,,[],[],[]
+bname,text,,,,
+no_of_customers,integer,,,,
+city,text,,,,
+bank_state,text,,,,

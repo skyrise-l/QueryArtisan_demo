@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+song_name,text,"PRIMARY KEY : (""song_name"")","[FOREIGN KEY: ""song_artist_name"" REFERENCES ""artist.artist_artist_name"" (table_name.column_name)., FOREIGN KEY: ""song_f_id"" REFERENCES ""files.files_f_id"" (table_name.column_name)., FOREIGN KEY: ""genre_is"" REFERENCES ""genre.g_name"" (table_name.column_name).]",['song_name'],"[{'song_artist_name': 'artist.artist_artist_name'}, {'song_f_id': 'files.files_f_id'}, {'genre_is': 'genre.g_name'}]"
+song_artist_name,text,,,,
+song_country,text,,,,
+song_f_id,double,,,,
+genre_is,text,,,,
+song_rating,double,,,,
+languages,text,,,,
+releasedate,date,,,,
+resolution,double,,,,

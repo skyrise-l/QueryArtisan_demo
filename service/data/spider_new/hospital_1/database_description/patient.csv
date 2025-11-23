@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+patient_ssn,integer,,"[FOREIGN KEY: ""pcp"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name).]",[],[{'pcp': 'physician.physician_employeeid'}]
+patient_name,text,,,,
+address,text,,,,
+phone,text,,,,
+insuranceid,integer,,,,
+pcp,integer,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+body_builder_id,integer,"PRIMARY KEY : (""body_builder_id"")","[FOREIGN KEY: ""body_builder_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]",['body_builder_id'],[{'body_builder_people_id': 'people.people_people_id'}]
+body_builder_people_id,integer,,,,
+snatch,double,,,,
+clean_jerk,double,,,,
+total,double,,,,

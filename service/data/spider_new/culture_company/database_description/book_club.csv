@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+book_club_book_club_id,integer,"PRIMARY KEY : (""book_club_book_club_id"")",[],['book_club_id'],[]
+book_club_year,integer,,,,
+author_or_editor,text,,,,
+book_title,text,,,,
+publisher,text,,,,
+category,text,,,,
+result,text,,,,

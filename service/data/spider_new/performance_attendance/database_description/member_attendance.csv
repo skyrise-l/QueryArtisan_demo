@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_attendance_member_id,integer,"PRIMARY KEY : (""member_attendance_member_id"", ""member_attendance_performance_id"")","[FOREIGN KEY: ""member_attendance_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name)., FOREIGN KEY: ""member_attendance_performance_id"" REFERENCES ""performance.performance_performance_id"" (table_name.column_name).]","['member_id,performance_id']","[{'member_attendance_member_id': 'member.member_member_id'}, {'member_attendance_performance_id': 'performance.performance_performance_id'}]"
+member_attendance_performance_id,integer,,,,
+num_of_pieces,integer,,,,

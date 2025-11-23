@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,"PRIMARY KEY : (""id"")","[FOREIGN KEY: ""volume"" REFERENCES ""volume.volume_id"" (table_name.column_name).]",['id'],[{'volume': 'volume.volume_id'}]
+music_festival,text,,,,
+date_of_ceremony,text,,,,
+category,text,,,,
+volume,integer,,,,
+result,text,,,,

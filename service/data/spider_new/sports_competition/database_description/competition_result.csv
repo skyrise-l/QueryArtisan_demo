@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+competition_result_competition_id,integer,"PRIMARY KEY : (""competition_result_competition_id"", ""club_id_1"", ""club_id_2"")","[FOREIGN KEY: ""club_id_1"" REFERENCES ""club.club_club_id"" (table_name.column_name)., FOREIGN KEY: ""club_id_2"" REFERENCES ""club.club_club_id"" (table_name.column_name)., FOREIGN KEY: ""competition_result_competition_id"" REFERENCES ""competition.competition_competition_id"" (table_name.column_name).]","['competition_id,club_id_1,club_id_2']","[{'club_id_1': 'club.club_club_id'}, {'club_id_2': 'club.club_club_id'}, {'competition_result_competition_id': 'competition.competition_competition_id'}]"
+club_id_1,integer,,,,
+club_id_2,integer,,,,
+score,text,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_events_customer_event_id,integer,"PRIMARY KEY : (""customer_events_customer_event_id"")","[FOREIGN KEY: ""customer_events_thing_id"" REFERENCES ""things.things_thing_id"" (table_name.column_name)., FOREIGN KEY: ""customer_events_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name)., FOREIGN KEY: ""resident_id, property_id, date_moved_in"" REFERENCES ""residents.resident_id,property_id,date_moved_in"" (table_name.column_name).]",['customer_event_id'],"[{'customer_events_thing_id': 'things.things_thing_id'}, {'customer_events_customer_id': 'customers.customers_customer_id'}, {'resident_id, property_id, date_moved_in': 'residents.resident_id,property_id,date_moved_in'}]"
+customer_events_customer_id,integer,,,,
+customer_events_date_moved_in,date,,,,
+customer_events_property_id,integer,,,,
+customer_events_resident_id,integer,,,,
+customer_events_thing_id,integer,,,,

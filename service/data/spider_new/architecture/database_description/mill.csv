@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mill_architect_id,integer,"PRIMARY KEY : (""mill_id"")","[FOREIGN KEY: ""mill_architect_id"" REFERENCES ""architect.architect_id"" (table_name.column_name).]",['id'],[{'mill_architect_id': 'architect.architect_id'}]
+mill_id,integer,,,,
+mill_location,text,,,,
+mill_name,text,,,,
+type,text,,,,
+built_year,integer,,,,
+notes,text,,,,

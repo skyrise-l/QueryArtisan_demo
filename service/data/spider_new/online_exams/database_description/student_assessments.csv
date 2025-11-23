@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_assessments_student_answer_id,text,"PRIMARY KEY : (""student_assessments_student_answer_id"")","[FOREIGN KEY: ""student_assessments_valid_answer_id"" REFERENCES ""valid_answers.valid_answers_valid_answer_id"" (table_name.column_name).]",['student_answer_id'],[{'student_assessments_valid_answer_id': 'valid_answers.valid_answers_valid_answer_id'}]
+student_assessments_valid_answer_id,integer,,,,
+student_assessments_student_answer_text,text,,,,
+student_assessments_satisfactory_yn,text,,,,
+assessment,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_categories_production_type_code,text,,[],[],[]
+product_type_description,text,,,,
+vat_rating,text,,,,

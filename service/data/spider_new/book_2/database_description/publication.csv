@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+publication_id,integer,"PRIMARY KEY : (""publication_id"")","[FOREIGN KEY: ""publication_book_id"" REFERENCES ""book.book_book_id"" (table_name.column_name).]",['publication_id'],[{'publication_book_id': 'book.book_book_id'}]
+publication_book_id,integer,,,,
+publisher,text,,,,
+publication_date,text,,,,
+price,double,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,,"[FOREIGN KEY: ""city_countrycode"" REFERENCES ""country.code"" (table_name.column_name).]",[],[{'city_countrycode': 'country.code'}]
+city_name,text,,,,
+city_countrycode,text,,,,
+district,text,,,,
+city_population,integer,,,,

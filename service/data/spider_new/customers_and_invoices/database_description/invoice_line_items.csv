@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoice_line_items_order_item_id,integer,,"[FOREIGN KEY: ""invoice_line_items_order_item_id"" REFERENCES ""order_items.order_items_order_item_id"" (table_name.column_name)., FOREIGN KEY: ""invoice_line_items_invoice_number"" REFERENCES ""invoices.invoices_invoice_number"" (table_name.column_name)., FOREIGN KEY: ""invoice_line_items_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name).]",[],"[{'invoice_line_items_order_item_id': 'order_items.order_items_order_item_id'}, {'invoice_line_items_invoice_number': 'invoices.invoices_invoice_number'}, {'invoice_line_items_product_id': 'products.products_product_id'}]"
+invoice_line_items_invoice_number,integer,,,,
+invoice_line_items_product_id,integer,,,,
+product_title,text,,,,
+invoice_line_items_product_quantity,text,,,,
+product_price,text,,,,
+derived_product_cost,text,,,,
+derived_vat_payable,text,,,,
+derived_total_cost,text,,,,

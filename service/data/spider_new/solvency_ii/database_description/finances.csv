@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+finances_finance_id,integer,"PRIMARY KEY : (""finances_finance_id"")",[],['finance_id'],[]
+finances_other_details,text,,,,

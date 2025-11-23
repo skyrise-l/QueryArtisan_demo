@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+actual_orders_actual_order_id,integer,,"[FOREIGN KEY: ""actual_orders_regular_order_id"" REFERENCES ""regular_orders.regular_orders_regular_order_id"" (table_name.column_name).]",[],[{'actual_orders_regular_order_id': 'regular_orders.regular_orders_regular_order_id'}]
+order_status_code,text,,,,
+actual_orders_regular_order_id,integer,,,,
+actual_order_date,date,,,,

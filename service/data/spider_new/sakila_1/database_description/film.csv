@@ -1,0 +1,14 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+film_film_id,integer,,"[FOREIGN KEY: ""film_language_id"" REFERENCES ""language.language_language_id"" (table_name.column_name)., FOREIGN KEY: ""original_language_id"" REFERENCES ""language.language_language_id"" (table_name.column_name).]",[],"[{'film_language_id': 'language.language_language_id'}, {'original_language_id': 'language.language_language_id'}]"
+film_title,text,,,,
+film_description,text,,,,
+release_year,integer,,,,
+film_language_id,integer,,,,
+original_language_id,integer,,,,
+rental_duration,integer,,,,
+rental_rate,text,,,,
+length,integer,,,,
+replacement_cost,text,,,,
+rating,text,,,,
+special_features,text,,,,
+film_last_update,date,,,,

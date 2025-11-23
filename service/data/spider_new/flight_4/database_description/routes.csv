@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rid,integer,,"[FOREIGN KEY: ""dst_apid"" REFERENCES ""airports.apid"" (table_name.column_name)., FOREIGN KEY: ""src_apid"" REFERENCES ""airports.apid"" (table_name.column_name).]",[],"[{'dst_apid': 'airports.apid'}, {'src_apid': 'airports.apid'}]"
+dst_apid,integer,,,,
+dst_ap,text,,,,
+src_apid,integer,,,,
+src_ap,text,,,,
+routes_alid,integer,,,,
+airline,text,,,,
+codeshare,text,,,,

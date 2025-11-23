@@ -1,0 +1,13 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+temperature_city_id,integer,"PRIMARY KEY : (""temperature_city_id"")","[FOREIGN KEY: ""temperature_city_id"" REFERENCES ""city.city_city_id"" (table_name.column_name).]",['city_id'],[{'temperature_city_id': 'city.city_city_id'}]
+jan,double,,,,
+feb,double,,,,
+mar,double,,,,
+apr,double,,,,
+jun,double,,,,
+jul,double,,,,
+aug,double,,,,
+sep,double,,,,
+oct,double,,,,
+nov,double,,,,
+dec,double,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+fielding_outfield_player_id,text,,"[FOREIGN KEY: ""fielding_outfield_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name).]",[],[{'fielding_outfield_player_id': 'player.player_player_id'}]
+fielding_outfield_year,integer,,,,
+fielding_outfield_stint,integer,,,,
+glf,double,,,,
+gcf,double,,,,
+grf,double,,,,

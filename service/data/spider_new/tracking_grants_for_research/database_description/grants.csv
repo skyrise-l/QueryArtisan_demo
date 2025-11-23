@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+grants_grant_id,integer,,"[FOREIGN KEY: ""grants_organisation_id"" REFERENCES ""organisations.organisations_organisation_id"" (table_name.column_name).]",[],[{'grants_organisation_id': 'organisations.organisations_organisation_id'}]
+grants_organisation_id,integer,,,,
+grant_amount,text,,,,
+grant_start_date,date,,,,
+grant_end_date,date,,,,
+grants_other_details,text,,,,

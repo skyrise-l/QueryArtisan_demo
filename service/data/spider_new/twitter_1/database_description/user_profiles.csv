@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+user_profiles_uid,integer,"PRIMARY KEY : (""user_profiles_uid"")",[],['uid'],[]
+name,text,,,,
+email,text,,,,
+partitionid,integer,,,,
+followers,integer,,,,

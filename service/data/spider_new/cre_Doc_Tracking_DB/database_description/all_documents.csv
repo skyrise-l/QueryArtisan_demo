@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+all_documents_document_id,integer,"PRIMARY KEY : (""all_documents_document_id"")","[FOREIGN KEY: ""all_documents_document_type_code"" REFERENCES ""ref_document_types.ref_document_types_document_type_code"" (table_name.column_name)., FOREIGN KEY: ""date_stored"" REFERENCES ""ref_calendar.calendar_date"" (table_name.column_name).]",['document_id'],"[{'all_documents_document_type_code': 'ref_document_types.ref_document_types_document_type_code'}, {'date_stored': 'ref_calendar.calendar_date'}]"
+date_stored,date,,,,
+all_documents_document_type_code,text,,,,
+document_name,text,,,,
+document_description,text,,,,
+all_documents_other_details,text,,,,

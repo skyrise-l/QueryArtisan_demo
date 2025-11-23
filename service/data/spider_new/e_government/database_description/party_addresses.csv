@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_addresses_party_id,integer,"PRIMARY KEY : (""party_addresses_party_id"", "" address_id"")","[FOREIGN KEY: ""party_addresses_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""party_addresses_party_id"" REFERENCES ""parties.parties_party_id"" (table_name.column_name).]","['party_id, address_id']","[{'party_addresses_address_id': 'addresses.addresses_address_id'}, {'party_addresses_party_id': 'parties.parties_party_id'}]"
+party_addresses_address_id,integer,,,,
+date_address_from,date,,,,
+address_type_code,text,,,,
+date_address_to,date,,,,

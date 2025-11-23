@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+photos_id,integer,"PRIMARY KEY : (""photos_id"")","[FOREIGN KEY: ""camera_lens_id"" REFERENCES ""camera_lens.camera_lens_id"" (table_name.column_name)., FOREIGN KEY: ""mountain_id"" REFERENCES ""mountain.mountain_id"" (table_name.column_name).]",['id'],"[{'camera_lens_id': 'camera_lens.camera_lens_id'}, {'mountain_id': 'mountain.mountain_id'}]"
+camera_lens_id,integer,,,,
+mountain_id,integer,,,,
+color,text,,,,
+photos_name,text,,,,

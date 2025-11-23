@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+membership_register_branch_member_id,integer,"PRIMARY KEY : (""membership_register_branch_member_id"")","[FOREIGN KEY: ""membership_register_branch_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name)., FOREIGN KEY: ""membership_register_branch_branch_id"" REFERENCES ""branch.branch_branch_id"" (table_name.column_name).]",['member_id'],"[{'membership_register_branch_member_id': 'member.member_member_id'}, {'membership_register_branch_branch_id': 'branch.branch_branch_id'}]"
+membership_register_branch_branch_id,text,,,,
+register_year,text,,,,

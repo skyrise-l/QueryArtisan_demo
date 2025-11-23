@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+submission_submission_id,integer,"PRIMARY KEY : (""submission_submission_id"")",[],['submission_id'],[]
+scores,double,,,,
+author,text,,,,
+college,text,,,,

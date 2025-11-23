@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+parts_part_id,integer,,[],[],[]
+part_name,text,,,,
+chargeable_yn,text,,,,
+chargeable_amount,text,,,,
+other_part_details,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+books_order_isbn,text,"PRIMARY KEY : (""books_order_isbn"", "" idorder"")","[FOREIGN KEY: ""books_order_isbn"" REFERENCES ""book.book_isbn"" (table_name.column_name)., FOREIGN KEY: ""books_order_idorder"" REFERENCES ""orders.orders_idorder"" (table_name.column_name).]","['isbn, idorder']","[{'books_order_isbn': 'book.book_isbn'}, {'books_order_idorder': 'orders.orders_idorder'}]"
+books_order_idorder,text,,,,
+amount,double,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rating_rid,integer,,"[FOREIGN KEY: ""rating_mid"" REFERENCES ""movie.movie_mid"" (table_name.column_name)., FOREIGN KEY: ""rating_rid"" REFERENCES ""reviewer.reviewer_rid"" (table_name.column_name).]",[],"[{'rating_mid': 'movie.movie_mid'}, {'rating_rid': 'reviewer.reviewer_rid'}]"
+rating_mid,integer,,,,
+stars,integer,,,,
+ratingdate,date,,,,

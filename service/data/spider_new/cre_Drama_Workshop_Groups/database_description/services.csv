@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+service_id,integer,"PRIMARY KEY : (""service_id"")","[FOREIGN KEY: ""services_workshop_group_id"" REFERENCES ""drama_workshop_groups.drama_workshop_groups_workshop_group_id"" (table_name.column_name)., FOREIGN KEY: ""services_service_type_code"" REFERENCES ""ref_service_types.ref_service_types_service_type_code"" (table_name.column_name).]",['service_id'],"[{'services_workshop_group_id': 'drama_workshop_groups.drama_workshop_groups_workshop_group_id'}, {'services_service_type_code': 'ref_service_types.ref_service_types_service_type_code'}]"
+services_service_type_code,text,,,,
+services_workshop_group_id,integer,,,,
+services_product_description,text,,,,
+services_product_name,text,,,,
+services_product_price,text,,,,
+services_other_product_service_details,text,,,,

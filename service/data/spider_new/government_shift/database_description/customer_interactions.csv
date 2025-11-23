@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_interactions_customer_interaction_id,integer,"PRIMARY KEY : (""customer_interactions_customer_interaction_id"")","[FOREIGN KEY: ""customer_interactions_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name)., FOREIGN KEY: ""customer_interactions_channel_id"" REFERENCES ""channels.channels_channel_id"" (table_name.column_name)., FOREIGN KEY: ""customer_interactions_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",['customer_interaction_id'],"[{'customer_interactions_service_id': 'services.services_service_id'}, {'customer_interactions_channel_id': 'channels.channels_channel_id'}, {'customer_interactions_customer_id': 'customers.customers_customer_id'}]"
+customer_interactions_channel_id,integer,,,,
+customer_interactions_customer_id,integer,,,,
+customer_interactions_service_id,integer,,,,
+status_code,text,,,,
+services_and_channels_details,text,,,,

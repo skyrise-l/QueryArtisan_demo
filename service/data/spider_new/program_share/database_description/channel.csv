@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+channel_channel_id,integer,"PRIMARY KEY : (""channel_channel_id"")",[],['channel_id'],[]
+channel_name,text,,,,
+channel_owner,text,,,,
+channel_share_in_percent,double,,,,
+rating_in_percent,double,,,,

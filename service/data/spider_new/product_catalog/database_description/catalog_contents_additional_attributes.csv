@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+catalog_contents_additional_attributes_catalog_entry_id,integer,,"[FOREIGN KEY: ""catalog_contents_additional_attributes_catalog_entry_id"" REFERENCES ""catalog_contents.catalog_contents_catalog_entry_id"" (table_name.column_name)., FOREIGN KEY: ""catalog_contents_additional_attributes_catalog_level_number"" REFERENCES ""catalog_structure.catalog_structure_catalog_level_number"" (table_name.column_name).]",[],"[{'catalog_contents_additional_attributes_catalog_entry_id': 'catalog_contents.catalog_contents_catalog_entry_id'}, {'catalog_contents_additional_attributes_catalog_level_number': 'catalog_structure.catalog_structure_catalog_level_number'}]"
+catalog_contents_additional_attributes_catalog_level_number,integer,,,,
+catalog_contents_additional_attributes_attribute_id,integer,,,,
+attribute_value,text,,,,

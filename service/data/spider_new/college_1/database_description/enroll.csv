@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+enroll_class_code,text,,"[FOREIGN KEY: ""enroll_class_code"" REFERENCES ""class.class_class_code"" (table_name.column_name)., FOREIGN KEY: ""enroll_stu_num"" REFERENCES ""student.student_stu_num"" (table_name.column_name).]",[],"[{'enroll_class_code': 'class.class_class_code'}, {'enroll_stu_num': 'student.student_stu_num'}]"
+enroll_stu_num,integer,,,,
+enroll_grade,text,,,,

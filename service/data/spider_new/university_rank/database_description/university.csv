@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+university_university_id,integer,"PRIMARY KEY : (""university_university_id"")",[],['university_id'],[]
+university_name,text,,,,
+city,text,,,,
+state,text,,,,
+team_name,text,,,,
+affiliation,text,,,,
+enrollment,integer,,,,
+home_conference,text,,,,

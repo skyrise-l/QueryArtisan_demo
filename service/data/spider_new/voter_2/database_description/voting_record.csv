@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+voting_record_stuid,integer,,"[FOREIGN KEY: ""voting_record_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""president_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""vice_president_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""secretary_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""treasurer_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""class_president_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""class_senator_vote"" REFERENCES ""student.student_stuid"" (table_name.column_name).]",[],"[{'voting_record_stuid': 'student.student_stuid'}, {'president_vote': 'student.student_stuid'}, {'vice_president_vote': 'student.student_stuid'}, {'secretary_vote': 'student.student_stuid'}, {'treasurer_vote': 'student.student_stuid'}, {'class_president_vote': 'student.student_stuid'}, {'class_senator_vote': 'student.student_stuid'}]"
+registration_date,text,,,,
+election_cycle,text,,,,
+president_vote,integer,,,,
+vice_president_vote,integer,,,,
+secretary_vote,integer,,,,
+treasurer_vote,integer,,,,
+class_president_vote,integer,,,,
+class_senator_vote,integer,,,,

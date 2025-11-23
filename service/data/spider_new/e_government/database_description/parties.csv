@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+parties_party_id,integer,,[],[],[]
+payment_method_code,text,,,,
+party_phone,text,,,,
+party_email,text,,,,

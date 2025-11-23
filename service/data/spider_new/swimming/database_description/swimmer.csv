@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+swimmer_id,integer,"PRIMARY KEY : (""swimmer_id"")",[],['id'],[]
+swimmer_name,text,,,,
+nationality,text,,,,
+meter_100,double,,,,
+meter_200,text,,,,
+meter_300,text,,,,
+meter_400,text,,,,
+meter_500,text,,,,
+meter_600,text,,,,
+meter_700,text,,,,
+time,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_id,integer,"PRIMARY KEY : (""staff_id"")","[FOREIGN KEY: ""staff_tourist_attraction_id"" REFERENCES ""tourist_attractions.tourist_attractions_tourist_attraction_id"" (table_name.column_name).]",['staff_id'],[{'staff_tourist_attraction_id': 'tourist_attractions.tourist_attractions_tourist_attraction_id'}]
+staff_tourist_attraction_id,integer,,,,
+staff_name,text,,,,
+staff_other_details,text,,,,

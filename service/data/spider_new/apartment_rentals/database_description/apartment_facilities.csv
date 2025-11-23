@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+apartment_facilities_apt_id,integer,"PRIMARY KEY : (""apartment_facilities_apt_id"", "" facility_code"")","[FOREIGN KEY: ""apartment_facilities_apt_id"" REFERENCES ""apartments.apartments_apt_id"" (table_name.column_name).]","['apt_id, facility_code']",[{'apartment_facilities_apt_id': 'apartments.apartments_apt_id'}]
+facility_code,text,,,,

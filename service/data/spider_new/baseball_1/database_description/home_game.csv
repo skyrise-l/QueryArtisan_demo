@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+home_game_year,integer,,"[FOREIGN KEY: ""home_game_team_id"" REFERENCES ""team.team_team_id"" (table_name.column_name)., FOREIGN KEY: ""home_game_park_id"" REFERENCES ""park.park_park_id"" (table_name.column_name).]",[],"[{'home_game_team_id': 'team.team_team_id'}, {'home_game_park_id': 'park.park_park_id'}]"
+home_game_league_id,text,,,,
+home_game_team_id,text,,,,
+home_game_park_id,text,,,,
+span_first,text,,,,
+span_last,text,,,,
+games,integer,,,,
+openings,integer,,,,
+home_game_attendance,integer,,,,

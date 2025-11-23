@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_driver_team_id,integer,"PRIMARY KEY : (""team_driver_team_id"", ""team_driver_driver_id"")","[FOREIGN KEY: ""team_driver_team_id"" REFERENCES ""team.team_team_id"" (table_name.column_name)., FOREIGN KEY: ""team_driver_driver_id"" REFERENCES ""driver.driver_driver_id"" (table_name.column_name).]","['team_id,driver_id']","[{'team_driver_team_id': 'team.team_team_id'}, {'team_driver_driver_id': 'driver.driver_driver_id'}]"
+team_driver_driver_id,integer,,,,

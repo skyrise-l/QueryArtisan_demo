@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+section_course_id,text,"PRIMARY KEY : (""section_course_id"", "" sec_id"", "" semester"", "" year"")","[FOREIGN KEY: ""section_course_id"" REFERENCES ""course.course_course_id"" (table_name.column_name)., FOREIGN KEY: ""building, room_number"" REFERENCES ""classroom.building, room_number"" (table_name.column_name).]","['course_id, sec_id, semester, year']","[{'section_course_id': 'course.course_course_id'}, {'building, room_number': 'classroom.building, room_number'}]"
+section_sec_id,text,,,,
+section_semester,text,,,,
+section_year,double,,,,
+section_building,text,,,,
+section_room_number,text,,,,
+section_time_slot_id,text,,,,

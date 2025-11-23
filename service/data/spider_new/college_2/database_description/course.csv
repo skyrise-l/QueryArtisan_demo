@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_course_id,text,"PRIMARY KEY : (""course_course_id"")",[],['course_id'],[]
+title,text,,,,
+course_dept_name,text,,,,
+credits,double,,,,

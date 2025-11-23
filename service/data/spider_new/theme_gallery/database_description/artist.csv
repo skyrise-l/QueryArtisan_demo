@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+artist_artist_id,integer,"PRIMARY KEY : (""artist_artist_id"")",[],['artist_id'],[]
+name,text,,,,
+country,text,,,,
+year_join,integer,,,,
+age,integer,,,,

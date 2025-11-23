@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+wrestler_wrestler_id,integer,"PRIMARY KEY : (""wrestler_wrestler_id"")",[],['wrestler_id'],[]
+name,text,,,,
+reign,text,,,,
+days_held,text,,,,
+location,text,,,,
+event,text,,,,

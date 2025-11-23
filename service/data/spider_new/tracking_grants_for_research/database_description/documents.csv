@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_id,integer,,"[FOREIGN KEY: ""documents_document_type_code"" REFERENCES ""document_types.document_types_document_type_code"" (table_name.column_name)., FOREIGN KEY: ""documents_grant_id"" REFERENCES ""grants.grants_grant_id"" (table_name.column_name).]",[],"[{'documents_document_type_code': 'document_types.document_types_document_type_code'}, {'documents_grant_id': 'grants.grants_grant_id'}]"
+documents_document_type_code,text,,,,
+documents_grant_id,integer,,,,
+sent_date,date,,,,
+response_received_date,date,,,,
+documents_other_details,text,,,,

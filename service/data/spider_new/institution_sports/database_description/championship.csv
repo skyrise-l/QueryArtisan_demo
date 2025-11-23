@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+championship_institution_id,integer,"PRIMARY KEY : (""championship_institution_id"")","[FOREIGN KEY: ""championship_institution_id"" REFERENCES ""institution.institution_institution_id"" (table_name.column_name).]",['institution_id'],[{'championship_institution_id': 'institution.institution_institution_id'}]
+nickname,text,,,,
+joined,double,,,,
+number_of_championships,double,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+conductor_conductor_id,integer,"PRIMARY KEY : (""conductor_conductor_id"")",[],['conductor_id'],[]
+name,text,,,,
+age,integer,,,,
+nationality,text,,,,
+year_of_work,integer,,,,

@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+sales_transaction_id,integer,,"[FOREIGN KEY: ""sales_transaction_id"" REFERENCES ""transactions.transactions_transaction_id"" (table_name.column_name).]",[],[{'sales_transaction_id': 'transactions.transactions_transaction_id'}]
+sales_details,text,,,,

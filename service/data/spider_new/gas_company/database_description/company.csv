@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+company_company_id,integer,"PRIMARY KEY : (""company_company_id"")",[],['company_id'],[]
+rank,integer,,,,
+company,text,,,,
+headquarters,text,,,,
+main_industry,text,,,,
+sales_billion,double,,,,
+profits_billion,double,,,,
+assets_billion,double,,,,
+market_value,double,,,,

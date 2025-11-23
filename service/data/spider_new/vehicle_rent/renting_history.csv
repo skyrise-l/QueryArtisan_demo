@@ -1,0 +1,8 @@
+renting_history_id,customer_id,discount_id,vehicles_id,total_hours
+1,1,1,2,1
+2,2,2,5,10
+3,3,3,7,24
+4,4,4,3,24
+5,1,1,5,36
+6,2,2,1,24
+7,5,4,4,72

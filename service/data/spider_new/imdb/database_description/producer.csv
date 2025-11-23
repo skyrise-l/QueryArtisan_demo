@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+producer_pid,integer,"PRIMARY KEY : (""producer_pid"")",[],['pid'],[]
+producer_gender,text,,,,
+producer_name,text,,,,
+producer_nationality,text,,,,
+producer_birth_city,text,,,,
+producer_birth_year,integer,,,,

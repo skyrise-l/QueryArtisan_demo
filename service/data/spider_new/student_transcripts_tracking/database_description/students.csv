@@ -1,0 +1,13 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+students_student_id,integer,,"[FOREIGN KEY: ""current_address_id"" REFERENCES ""addresses.address_id"" (table_name.column_name)., FOREIGN KEY: ""permanent_address_id"" REFERENCES ""addresses.address_id"" (table_name.column_name).]",[],"[{'current_address_id': 'addresses.address_id'}, {'permanent_address_id': 'addresses.address_id'}]"
+current_address_id,integer,,,,
+permanent_address_id,integer,,,,
+first_name,text,,,,
+middle_name,text,,,,
+last_name,text,,,,
+cell_mobile_number,text,,,,
+email_address,text,,,,
+ssn,text,,,,
+date_first_registered,date,,,,
+date_left,date,,,,
+other_student_details,text,,,,

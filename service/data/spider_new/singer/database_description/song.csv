@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+song_id,integer,"PRIMARY KEY : (""song_id"")","[FOREIGN KEY: ""song_singer_id"" REFERENCES ""singer.singer_singer_id"" (table_name.column_name).]",['song_id'],[{'song_singer_id': 'singer.singer_singer_id'}]
+title,text,,,,
+song_singer_id,integer,,,,
+sales,double,,,,
+highest_position,double,,,,

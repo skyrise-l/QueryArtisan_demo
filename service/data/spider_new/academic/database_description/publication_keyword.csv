@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+publication_keyword_pid,integer,"PRIMARY KEY : (""publication_keyword_kid"", "" pid"")","[FOREIGN KEY: ""publication_keyword_pid"" REFERENCES ""publication.publication_pid"" (table_name.column_name)., FOREIGN KEY: ""publication_keyword_kid"" REFERENCES ""keyword.keyword_kid"" (table_name.column_name).]","['kid, pid']","[{'publication_keyword_pid': 'publication.publication_pid'}, {'publication_keyword_kid': 'keyword.keyword_kid'}]"
+publication_keyword_kid,integer,,,,

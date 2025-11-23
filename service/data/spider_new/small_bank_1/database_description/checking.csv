@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+checking_custid,integer,,"[FOREIGN KEY: ""checking_custid"" REFERENCES ""accounts.accounts_custid"" (table_name.column_name).]",[],[{'checking_custid': 'accounts.accounts_custid'}]
+checking_balance,double,,,,

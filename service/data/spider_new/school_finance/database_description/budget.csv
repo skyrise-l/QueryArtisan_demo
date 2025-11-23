@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+budget_school_id,integer,"PRIMARY KEY : (""budget_school_id"", ""year"")","[FOREIGN KEY: ""budget_school_id"" REFERENCES ""school.school_school_id"" (table_name.column_name).]","['school_id,year']",[{'budget_school_id': 'school.school_school_id'}]
+year,integer,,,,
+budgeted,integer,,,,
+total_budget_percent_budgeted,double,,,,
+invested,integer,,,,
+total_budget_percent_invested,double,,,,
+budget_invested_percent,text,,,,

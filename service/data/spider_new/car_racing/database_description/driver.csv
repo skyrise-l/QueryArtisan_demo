@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+driver_driver_id,integer,"PRIMARY KEY : (""driver_driver_id"")","[FOREIGN KEY: ""driver_country"" REFERENCES ""country.country_id"" (table_name.column_name).]",['driver_id'],[{'driver_country': 'country.country_id'}]
+driver,text,,,,
+driver_country,integer,,,,
+age,integer,,,,
+car_#,double,,,,
+driver_make,text,,,,
+points,text,,,,
+laps,double,,,,
+winnings,text,,,,

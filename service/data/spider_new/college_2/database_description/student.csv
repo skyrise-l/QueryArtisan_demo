@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_id,text,"PRIMARY KEY : (""student_id"")","[FOREIGN KEY: ""student_dept_name"" REFERENCES ""department.department_dept_name"" (table_name.column_name).]",['id'],[{'student_dept_name': 'department.department_dept_name'}]
+student_name,text,,,,
+student_dept_name,text,,,,
+tot_cred,double,,,,

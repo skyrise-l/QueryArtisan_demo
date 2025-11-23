@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_in_processes_document_id,integer,"PRIMARY KEY : (""staff_in_processes_document_id"", "" process_id"", "" staff_id"")","[FOREIGN KEY: ""staff_in_processes_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""document_id, process_id"" REFERENCES ""documents_processes.document_id,process_id"" (table_name.column_name)., FOREIGN KEY: ""staff_in_processes_staff_role_code"" REFERENCES ""ref_staff_roles.ref_staff_roles_staff_role_code"" (table_name.column_name).]","['document_id, process_id, staff_id']","[{'staff_in_processes_staff_id': 'staff.staff_staff_id'}, {'document_id, process_id': 'documents_processes.document_id,process_id'}, {'staff_in_processes_staff_role_code': 'ref_staff_roles.ref_staff_roles_staff_role_code'}]"
+staff_in_processes_process_id,integer,,,,
+staff_in_processes_staff_id,integer,,,,
+staff_in_processes_staff_role_code,text,,,,
+date_from,date,,,,
+date_to,date,,,,
+staff_in_processes_other_details,text,,,,

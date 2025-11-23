@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+vote_id,integer,,"[FOREIGN KEY: ""votes_state"" REFERENCES ""area_code_state.area_code_state_state"" (table_name.column_name)., FOREIGN KEY: ""votes_contestant_number"" REFERENCES ""contestants.contestants_contestant_number"" (table_name.column_name).]",[],"[{'votes_state': 'area_code_state.area_code_state_state'}, {'votes_contestant_number': 'contestants.contestants_contestant_number'}]"
+phone_number,integer,,,,
+votes_state,text,,,,
+votes_contestant_number,integer,,,,
+created,date,,,,

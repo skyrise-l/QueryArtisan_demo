@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+research_staff_staff_id,integer,,"[FOREIGN KEY: ""employer_organisation_id"" REFERENCES ""organisations.organisations_organisation_id"" (table_name.column_name).]",[],[{'employer_organisation_id': 'organisations.organisations_organisation_id'}]
+employer_organisation_id,integer,,,,
+staff_details,text,,,,

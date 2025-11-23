@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+nurse,integer,"PRIMARY KEY : (""nurse"", "" blockfloor"", "" blockcode"", "" oncallstart"", "" oncallend"")","[FOREIGN KEY: ""nurse"" REFERENCES ""nurse.nurse_employeeid"" (table_name.column_name)., FOREIGN KEY: ""blockfloor, blockcode"" REFERENCES ""block.blockfloor, blockcode"" (table_name.column_name).]","['nurse, blockfloor, blockcode, oncallstart, oncallend']","[{'nurse': 'nurse.nurse_employeeid'}, {'blockfloor, blockcode': 'block.blockfloor, blockcode'}]"
+on_call_blockfloor,integer,,,,
+on_call_blockcode,integer,,,,
+oncallstart,date,,,,
+oncallend,date,,,,

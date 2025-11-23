@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ref_document_types_document_type_code,text,"PRIMARY KEY : (""ref_document_types_document_type_code"")",[],['document_type_code'],[]
+document_type_name,text,,,,
+document_type_description,text,,,,

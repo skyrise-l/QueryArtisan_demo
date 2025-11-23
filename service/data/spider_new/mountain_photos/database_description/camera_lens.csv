@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+camera_lens_id,integer,"PRIMARY KEY : (""camera_lens_id"")",[],['id'],[]
+brand,text,,,,
+camera_lens_name,text,,,,
+focal_length_mm,double,,,,
+max_aperture,double,,,,

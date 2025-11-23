@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+view_product_availability_product_id,integer,,"[FOREIGN KEY: ""view_product_availability_booking_id"" REFERENCES ""bookings.bookings_booking_id"" (table_name.column_name)., FOREIGN KEY: ""view_product_availability_product_id"" REFERENCES ""products_for_hire.products_for_hire_product_id"" (table_name.column_name).]",[],"[{'view_product_availability_booking_id': 'bookings.bookings_booking_id'}, {'view_product_availability_product_id': 'products_for_hire.products_for_hire_product_id'}]"
+view_product_availability_booking_id,integer,,,,
+status_date,date,,,,
+available_yn,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+exhibition_exhibition_id,integer,"PRIMARY KEY : (""exhibition_exhibition_id"")","[FOREIGN KEY: ""exhibition_artist_id"" REFERENCES ""artist.artist_artist_id"" (table_name.column_name).]",['exhibition_id'],[{'exhibition_artist_id': 'artist.artist_artist_id'}]
+year,integer,,,,
+theme,text,,,,
+exhibition_artist_id,integer,,,,
+ticket_price,double,,,,

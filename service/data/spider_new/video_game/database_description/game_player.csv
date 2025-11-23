@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+game_player_player_id,integer,"PRIMARY KEY : (""game_player_player_id"", ""game_player_game_id"")","[FOREIGN KEY: ""game_player_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name)., FOREIGN KEY: ""game_player_game_id"" REFERENCES ""game.game_game_id"" (table_name.column_name).]","['player_id,game_id']","[{'game_player_player_id': 'player.player_player_id'}, {'game_player_game_id': 'game.game_game_id'}]"
+game_player_game_id,integer,,,,
+if_active,text,,,,

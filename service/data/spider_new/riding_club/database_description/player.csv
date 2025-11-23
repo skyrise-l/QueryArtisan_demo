@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_player_id,integer,"PRIMARY KEY : (""player_player_id"")",[],['player_id'],[]
+sponsor_name,text,,,,
+player_name,text,,,,
+player_gender,text,,,,
+residence,text,,,,
+occupation,text,,,,
+votes,integer,,,,
+player_rank,text,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+common_name,text,"PRIMARY KEY : (""common_name"")","[FOREIGN KEY: ""protein_institution_id"" REFERENCES ""institution.institution_institution_id"" (table_name.column_name).]",['common_name'],[{'protein_institution_id': 'institution.institution_institution_id'}]
+protein_name,text,,,,
+divergence_from_human_lineage,double,,,,
+accession_number,text,,,,
+sequence_length,double,,,,
+sequence_identity_to_human_protein,text,,,,
+protein_institution_id,text,,,,

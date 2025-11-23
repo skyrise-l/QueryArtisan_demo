@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+characteristics_characteristic_id,integer,,"[FOREIGN KEY: ""characteristics_characteristic_type_code"" REFERENCES ""ref_characteristic_types.ref_characteristic_types_characteristic_type_code"" (table_name.column_name).]",[],[{'characteristics_characteristic_type_code': 'ref_characteristic_types.ref_characteristic_types_characteristic_type_code'}]
+characteristics_characteristic_type_code,text,,,,
+characteristic_data_type,text,,,,
+characteristic_name,text,,,,
+other_characteristic_details,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+record_id,integer,"PRIMARY KEY : (""pilot_record_pilot_id"", "" aircraft_id"", "" date"")","[FOREIGN KEY: ""pilot_record_pilot_id"" REFERENCES ""pilot.pilot_pilot_id"" (table_name.column_name)., FOREIGN KEY: ""pilot_record_aircraft_id"" REFERENCES ""aircraft.aircraft_aircraft_id"" (table_name.column_name).]","['pilot_id, aircraft_id, date']","[{'pilot_record_pilot_id': 'pilot.pilot_pilot_id'}, {'pilot_record_aircraft_id': 'aircraft.aircraft_aircraft_id'}]"
+pilot_record_pilot_id,integer,,,,
+pilot_record_aircraft_id,integer,,,,
+date,text,,,,

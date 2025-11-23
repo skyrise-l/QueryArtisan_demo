@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+actor_actor_id,integer,,[],[],[]
+actor_first_name,text,,,,
+actor_last_name,text,,,,
+actor_last_update,date,,,,

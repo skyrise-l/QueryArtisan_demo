@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_franchise_franchise_id,text,,[],[],[]
+franchise_name,text,,,,
+active,text,,,,
+na_assoc,text,,,,

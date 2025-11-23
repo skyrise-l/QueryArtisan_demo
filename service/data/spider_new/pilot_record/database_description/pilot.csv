@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+pilot_pilot_id,integer,"PRIMARY KEY : (""pilot_pilot_id"")",[],['pilot_id'],[]
+pilot_name,text,,,,
+rank,integer,,,,
+age,integer,,,,
+nationality,text,,,,
+position,text,,,,
+join_year,integer,,,,
+team,text,,,,

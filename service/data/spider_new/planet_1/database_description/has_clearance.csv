@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employee,integer,"PRIMARY KEY : (""employee"", "" planet"")","[FOREIGN KEY: ""employee"" REFERENCES ""employee.employeeid"" (table_name.column_name)., FOREIGN KEY: ""has_clearance_planet"" REFERENCES ""planet.planetid"" (table_name.column_name).]","['employee, planet']","[{'employee': 'employee.employeeid'}, {'has_clearance_planet': 'planet.planetid'}]"
+has_clearance_planet,integer,,,,
+level,integer,,,,

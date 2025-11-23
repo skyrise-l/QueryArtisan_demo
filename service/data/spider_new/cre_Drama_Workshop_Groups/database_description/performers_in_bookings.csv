@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+performers_in_bookings_order_id,integer,"PRIMARY KEY : (""performers_in_bookings_order_id"", "" performer_id"")","[FOREIGN KEY: ""performers_in_bookings_performer_id"" REFERENCES ""performers.performers_performer_id"" (table_name.column_name)., FOREIGN KEY: ""performers_in_bookings_order_id"" REFERENCES ""bookings.booking_id"" (table_name.column_name).]","['order_id, performer_id']","[{'performers_in_bookings_performer_id': 'performers.performers_performer_id'}, {'performers_in_bookings_order_id': 'bookings.booking_id'}]"
+performers_in_bookings_performer_id,integer,,,,

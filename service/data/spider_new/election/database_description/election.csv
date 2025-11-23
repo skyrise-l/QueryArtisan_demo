@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+election_id,integer,"PRIMARY KEY : (""election_id"")","[FOREIGN KEY: ""election_party"" REFERENCES ""party.party_id"" (table_name.column_name)., FOREIGN KEY: ""district"" REFERENCES ""county.county_id"" (table_name.column_name).]",['election_id'],"[{'election_party': 'party.party_id'}, {'district': 'county.county_id'}]"
+counties_represented,text,,,,
+district,integer,,,,
+delegate,text,,,,
+election_party,integer,,,,
+first_elected,double,,,,
+committee,text,,,,

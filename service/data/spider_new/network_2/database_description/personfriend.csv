@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+personfriend_name,text,,"[FOREIGN KEY: ""personfriend_name"" REFERENCES ""person.person_name"" (table_name.column_name)., FOREIGN KEY: ""friend"" REFERENCES ""person.person_name"" (table_name.column_name).]",[],"[{'personfriend_name': 'person.person_name'}, {'friend': 'person.person_name'}]"
+friend,text,,,,
+year,integer,,,,

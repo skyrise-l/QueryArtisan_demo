@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cinema_cinema_id,integer,"PRIMARY KEY : (""cinema_cinema_id"")",[],['cinema_id'],[]
+name,text,,,,
+openning_year,integer,,,,
+capacity,integer,,,,
+location,text,,,,

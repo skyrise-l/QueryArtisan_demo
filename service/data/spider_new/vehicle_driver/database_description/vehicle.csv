@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+vehicle_vehicle_id,integer,"PRIMARY KEY : (""vehicle_vehicle_id"")",[],['vehicle_id'],[]
+model,text,,,,
+build_year,text,,,,
+top_speed,integer,,,,
+power,integer,,,,
+builder,text,,,,
+total_production,text,,,,

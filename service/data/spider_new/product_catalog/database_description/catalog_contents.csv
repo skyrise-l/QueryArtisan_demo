@@ -1,0 +1,15 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+catalog_contents_catalog_entry_id,integer,,"[FOREIGN KEY: ""catalog_contents_catalog_level_number"" REFERENCES ""catalog_structure.catalog_structure_catalog_level_number"" (table_name.column_name).]",[],[{'catalog_contents_catalog_level_number': 'catalog_structure.catalog_structure_catalog_level_number'}]
+catalog_contents_catalog_level_number,integer,,,,
+parent_entry_id,integer,,,,
+previous_entry_id,integer,,,,
+next_entry_id,integer,,,,
+catalog_entry_name,text,,,,
+product_stock_number,text,,,,
+price_in_dollars,double,,,,
+price_in_euros,double,,,,
+price_in_pounds,double,,,,
+capacity,text,,,,
+length,text,,,,
+height,text,,,,
+width,text,,,,

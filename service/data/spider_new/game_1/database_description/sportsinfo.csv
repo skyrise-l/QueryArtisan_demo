@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+sportsinfo_stuid,integer,,"[FOREIGN KEY: ""sportsinfo_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name).]",[],[{'sportsinfo_stuid': 'student.student_stuid'}]
+sportname,text,,,,
+hoursperweek,integer,,,,
+gamesplayed,integer,,,,
+onscholarship,text,,,,

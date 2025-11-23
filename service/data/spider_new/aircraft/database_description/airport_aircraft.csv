@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,"PRIMARY KEY : (""airport_aircraft_airport_id"", ""airport_aircraft_aircraft_id"")","[FOREIGN KEY: ""airport_aircraft_airport_id"" REFERENCES ""airport.airport_airport_id"" (table_name.column_name)., FOREIGN KEY: ""airport_aircraft_aircraft_id"" REFERENCES ""aircraft.aircraft_aircraft_id"" (table_name.column_name).]","['airport_id,aircraft_id']","[{'airport_aircraft_airport_id': 'airport.airport_airport_id'}, {'airport_aircraft_aircraft_id': 'aircraft.aircraft_aircraft_id'}]"
+airport_aircraft_airport_id,integer,,,,
+airport_aircraft_aircraft_id,integer,,,,

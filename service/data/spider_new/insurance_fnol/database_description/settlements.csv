@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+settlement_id,integer,"PRIMARY KEY : (""settlement_id"")","[FOREIGN KEY: ""settlements_claim_id"" REFERENCES ""claims.claims_claim_id"" (table_name.column_name).]",['settlement_id'],[{'settlements_claim_id': 'claims.claims_claim_id'}]
+settlements_claim_id,integer,,,,
+settlements_effective_date,date,,,,
+settlement_amount,double,,,,

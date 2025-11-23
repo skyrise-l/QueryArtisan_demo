@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+works_on_essn,integer,"PRIMARY KEY : (""works_on_essn"", "" pno"")",[],"['essn, pno']",[]
+pno,integer,,,,
+hours,double,,,,

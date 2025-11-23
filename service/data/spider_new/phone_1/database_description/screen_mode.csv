@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+graphics_mode,double,"PRIMARY KEY : (""graphics_mode"")",[],['graphics_mode'],[]
+char_cells,text,,,,
+pixels,text,,,,
+hardware_colours,double,,,,
+used_kb,double,,,,
+map,text,,,,
+type,text,,,,

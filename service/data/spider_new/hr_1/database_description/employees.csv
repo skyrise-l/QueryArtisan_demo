@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employees_employee_id,text,"PRIMARY KEY : (""employees_employee_id"")","[FOREIGN KEY: ""employees_department_id"" REFERENCES ""departments.departments_department_id"" (table_name.column_name)., FOREIGN KEY: ""employees_job_id"" REFERENCES ""jobs.jobs_job_id"" (table_name.column_name).]",['employee_id'],"[{'employees_department_id': 'departments.departments_department_id'}, {'employees_job_id': 'jobs.jobs_job_id'}]"
+first_name,text,,,,
+last_name,text,,,,
+email,text,,,,
+phone_number,text,,,,
+hire_date,date,,,,
+employees_job_id,text,,,,
+salary,text,,,,
+commission_pct,text,,,,
+employees_manager_id,text,,,,
+employees_department_id,text,,,,

@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+institution_institution_id,integer,"PRIMARY KEY : (""institution_institution_id"")",[],['institution_id'],[]
+name,text,,,,
+team,text,,,,
+city,text,,,,
+province,text,,,,
+founded,double,,,,
+affiliation,text,,,,
+enrollment,double,,,,
+endowment,text,,,,
+stadium,text,,,,
+capacity,double,,,,

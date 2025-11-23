@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_of_club_stuid,integer,,"[FOREIGN KEY: ""member_of_club_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""member_of_club_clubid"" REFERENCES ""club.club_clubid"" (table_name.column_name).]",[],"[{'member_of_club_stuid': 'student.student_stuid'}, {'member_of_club_clubid': 'club.club_clubid'}]"
+member_of_club_clubid,integer,,,,
+position,text,,,,

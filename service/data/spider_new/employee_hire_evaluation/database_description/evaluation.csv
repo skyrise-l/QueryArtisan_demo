@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+evaluation_employee_id,text,"PRIMARY KEY : (""evaluation_employee_id"", ""year_awarded"")","[FOREIGN KEY: ""evaluation_employee_id"" REFERENCES ""employee.employee_employee_id"" (table_name.column_name).]","['employee_id,year_awarded']",[{'evaluation_employee_id': 'employee.employee_employee_id'}]
+year_awarded,text,,,,
+bonus,double,,,,

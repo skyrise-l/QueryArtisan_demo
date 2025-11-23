@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+transactions_transaction_id,integer,,"[FOREIGN KEY: ""transactions_investor_id"" REFERENCES ""investors.investors_investor_id"" (table_name.column_name)., FOREIGN KEY: ""transactions_transaction_type_code"" REFERENCES ""ref_transaction_types.ref_transaction_types_transaction_type_code"" (table_name.column_name).]",[],"[{'transactions_investor_id': 'investors.investors_investor_id'}, {'transactions_transaction_type_code': 'ref_transaction_types.ref_transaction_types_transaction_type_code'}]"
+transactions_investor_id,integer,,,,
+transactions_transaction_type_code,text,,,,
+date_of_transaction,date,,,,
+amount_of_transaction,text,,,,
+share_count,text,,,,
+other_details,text,,,,

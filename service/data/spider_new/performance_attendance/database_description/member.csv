@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_member_id,text,"PRIMARY KEY : (""member_member_id"")",[],['member_id'],[]
+name,text,,,,
+nationality,text,,,,
+role,text,,,,

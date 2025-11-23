@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+author_author_id,integer,"PRIMARY KEY : (""author_author_id"")",[],['author_id'],[]
+author_name,text,,,,
+age,integer,,,,
+gender,text,,,,

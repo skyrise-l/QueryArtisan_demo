@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_id,integer,"PRIMARY KEY : (""party_id"")",[],['party_id'],[]
+year,double,,,,
+party_party,text,,,,
+governor,text,,,,
+lieutenant_governor,text,,,,
+comptroller,text,,,,
+attorney_general,text,,,,
+us_senate,text,,,,

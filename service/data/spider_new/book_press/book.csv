@@ -1,0 +1,11 @@
+book_id,title,book_series,book_author_id,book_press_id,sale_amount,release_date
+1,Book Revue,LT,1,1,1234,2016-01-05
+2,Baseball Bugs,LT,2,2,1214,2016-02-02
+3,Holiday for Shoestrings,MM,3,3,714,2016-02-23
+4,Quentin Quail,MM,4,4,615,2016-03-02
+5,Baby Bottleneck,LT,5,5,1256,2016-03-16
+6,Hare Remover,MM,5,4,1014,2016-03-23
+7,Daffy Doodles,MM,1,9,1307,2016-04-06
+8,Hollywood Canine Canteen,MM,1,2,1114,2016-04-20
+9,Hush My Mouse,LT,2,3,1258,2016-05-04
+10,Hair-Raising Hare,MM,5,2,115,2016-05-25

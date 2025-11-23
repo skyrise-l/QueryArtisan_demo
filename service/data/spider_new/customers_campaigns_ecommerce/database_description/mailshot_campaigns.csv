@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mailshot_campaigns_mailshot_id,integer,,[],[],[]
+mailshot_campaigns_product_category,text,,,,
+mailshot_name,text,,,,
+mailshot_start_date,date,,,,
+mailshot_end_date,date,,,,

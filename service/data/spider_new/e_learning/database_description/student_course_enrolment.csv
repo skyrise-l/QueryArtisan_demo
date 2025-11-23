@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_course_enrolment_registration_id,integer,,"[FOREIGN KEY: ""student_course_enrolment_course_id"" REFERENCES ""courses.courses_course_id"" (table_name.column_name)., FOREIGN KEY: ""student_course_enrolment_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",[],"[{'student_course_enrolment_course_id': 'courses.courses_course_id'}, {'student_course_enrolment_student_id': 'students.students_student_id'}]"
+student_course_enrolment_student_id,integer,,,,
+student_course_enrolment_course_id,integer,,,,
+date_of_enrolment,date,,,,
+date_of_completion,date,,,,

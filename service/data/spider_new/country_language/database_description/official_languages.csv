@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+language_id,integer,"PRIMARY KEY : (""language_id"", "" country_id"")","[FOREIGN KEY: ""language_id"" REFERENCES ""languages.languages_id"" (table_name.column_name)., FOREIGN KEY: ""country_id"" REFERENCES ""countries.countries_id"" (table_name.column_name).]","['language_id, country_id']","[{'language_id': 'languages.languages_id'}, {'country_id': 'countries.countries_id'}]"
+country_id,integer,,,,

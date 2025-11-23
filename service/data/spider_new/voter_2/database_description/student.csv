@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_stuid,integer,,[],[],[]
+lname,text,,,,
+fname,text,,,,
+age,integer,,,,
+sex,text,,,,
+major,integer,,,,
+advisor,integer,,,,
+city_code,text,,,,

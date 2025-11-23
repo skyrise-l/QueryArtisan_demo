@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+dependent_essn,integer,"PRIMARY KEY : (""dependent_essn"", "" dependent_name"")",[],"['essn, dependent_name']",[]
+dependent_name,text,,,,
+dependent_sex,text,,,,
+dependent_bdate,text,,,,
+relationship,text,,,,

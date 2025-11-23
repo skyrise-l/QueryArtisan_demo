@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+club_leader_club_id,integer,"PRIMARY KEY : (""club_leader_club_id"", ""club_leader_member_id"")","[FOREIGN KEY: ""club_leader_club_id"" REFERENCES ""club.club_club_id"" (table_name.column_name)., FOREIGN KEY: ""club_leader_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name).]","['club_id,member_id']","[{'club_leader_club_id': 'club.club_club_id'}, {'club_leader_member_id': 'member.member_member_id'}]"
+club_leader_member_id,integer,,,,
+year_join,text,,,,

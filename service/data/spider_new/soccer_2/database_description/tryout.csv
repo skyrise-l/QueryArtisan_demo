@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tryout_pid,double,"PRIMARY KEY : (""tryout_pid"", "" cname"")","[FOREIGN KEY: ""tryout_pid"" REFERENCES ""player.player_pid"" (table_name.column_name)., FOREIGN KEY: ""tryout_cname"" REFERENCES ""college.college_cname"" (table_name.column_name).]","['pid, cname']","[{'tryout_pid': 'player.player_pid'}, {'tryout_cname': 'college.college_cname'}]"
+tryout_cname,text,,,,
+ppos,text,,,,
+decision,text,,,,

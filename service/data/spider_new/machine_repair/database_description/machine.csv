@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+machine_machine_id,integer,"PRIMARY KEY : (""machine_machine_id"")",[],['machine_id'],[]
+making_year,integer,,,,
+class,text,,,,
+machine_team,text,,,,
+machine_series,text,,,,
+value_points,double,,,,
+quality_rank,integer,,,,

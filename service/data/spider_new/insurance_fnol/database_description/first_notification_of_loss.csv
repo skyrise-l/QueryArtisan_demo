@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+first_notification_of_loss_fnol_id,integer,"PRIMARY KEY : (""first_notification_of_loss_fnol_id"")","[FOREIGN KEY: ""first_notification_of_loss_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name)., FOREIGN KEY: ""customer_id, policy_id"" REFERENCES ""customers_policies.customer_id,policy_id"" (table_name.column_name).]",['fnol_id'],"[{'first_notification_of_loss_service_id': 'services.services_service_id'}, {'customer_id, policy_id': 'customers_policies.customer_id,policy_id'}]"
+first_notification_of_loss_customer_id,integer,,,,
+first_notification_of_loss_policy_id,integer,,,,
+first_notification_of_loss_service_id,integer,,,,

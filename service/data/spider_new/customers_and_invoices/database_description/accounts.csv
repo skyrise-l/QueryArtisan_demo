@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+accounts_account_id,integer,,"[FOREIGN KEY: ""accounts_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],[{'accounts_customer_id': 'customers.customers_customer_id'}]
+accounts_customer_id,integer,,,,
+date_account_opened,date,,,,
+account_name,text,,,,
+other_account_details,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+enrolled_in_stuid,integer,,"[FOREIGN KEY: ""enrolled_in_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""enrolled_in_cid"" REFERENCES ""course.course_cid"" (table_name.column_name)., FOREIGN KEY: ""grade"" REFERENCES ""gradeconversion.lettergrade"" (table_name.column_name).]",[],"[{'enrolled_in_stuid': 'student.student_stuid'}, {'enrolled_in_cid': 'course.course_cid'}, {'grade': 'gradeconversion.lettergrade'}]"
+enrolled_in_cid,text,,,,
+grade,text,,,,

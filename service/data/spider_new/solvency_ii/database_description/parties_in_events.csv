@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+parties_in_events_party_id,integer,"PRIMARY KEY : (""parties_in_events_party_id"", "" event_id"")","[FOREIGN KEY: ""parties_in_events_party_id"" REFERENCES ""parties.parties_party_id"" (table_name.column_name)., FOREIGN KEY: ""parties_in_events_event_id"" REFERENCES ""events.events_event_id"" (table_name.column_name).]","['party_id, event_id']","[{'parties_in_events_party_id': 'parties.parties_party_id'}, {'parties_in_events_event_id': 'events.events_event_id'}]"
+parties_in_events_event_id,integer,,,,
+role_code,text,,,,

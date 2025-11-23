@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+notes_id,integer,,"[FOREIGN KEY: ""assessment_notes_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""assessment_notes_teacher_id"" REFERENCES ""teachers.teachers_teacher_id"" (table_name.column_name).]",[],"[{'assessment_notes_student_id': 'students.students_student_id'}, {'assessment_notes_teacher_id': 'teachers.teachers_teacher_id'}]"
+assessment_notes_student_id,integer,,,,
+assessment_notes_teacher_id,integer,,,,
+date_of_notes,date,,,,
+text_of_notes,text,,,,
+assessment_notes_other_details,text,,,,

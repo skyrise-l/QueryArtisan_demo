@@ -1,0 +1,6 @@
+products_product_id,parent_product_id,product_name,product_price,product_color,product_size,product_description
+1,8,Dell monitor,795.62,Red,Medium,Latest model!
+2,3,Dell keyboard,104.0,Yellow,Medium,Keyboard for games!
+3,1,iPhone6s,560.93,Red,Small,Second hand!
+4,6,iWatch,369.11,Red,Medium,Designed for sports!
+5,2,Lenovo keyboard,382.67,Yellow,Medium,Work smartly!

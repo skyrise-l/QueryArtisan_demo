@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+uid,integer,,[],[],[]
+airlines_airline,text,,,,
+abbreviation,text,,,,
+airlines_country,text,,,,

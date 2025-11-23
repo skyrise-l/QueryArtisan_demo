@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+writes_paperid,integer,"PRIMARY KEY : (""writes_paperid"", ""writes_authorid"")","[FOREIGN KEY: ""writes_paperid"" REFERENCES ""paper.paper_paperid"" (table_name.column_name)., FOREIGN KEY: ""writes_authorid"" REFERENCES ""author.author_authorid"" (table_name.column_name).]","['paperid,authorid']","[{'writes_paperid': 'paper.paper_paperid'}, {'writes_authorid': 'author.author_authorid'}]"
+writes_authorid,integer,,,,

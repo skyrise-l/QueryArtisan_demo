@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_suppliers_product_id,integer,"PRIMARY KEY : (""product_suppliers_product_id"", "" supplier_id"")","[FOREIGN KEY: ""product_suppliers_supplier_id"" REFERENCES ""suppliers.suppliers_supplier_id"" (table_name.column_name)., FOREIGN KEY: ""product_suppliers_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name).]","['product_id, supplier_id']","[{'product_suppliers_supplier_id': 'suppliers.suppliers_supplier_id'}, {'product_suppliers_product_id': 'products.products_product_id'}]"
+product_suppliers_supplier_id,integer,,,,
+date_supplied_from,date,,,,
+date_supplied_to,date,,,,
+total_amount_purchased,text,,,,
+total_value_purchased,text,,,,

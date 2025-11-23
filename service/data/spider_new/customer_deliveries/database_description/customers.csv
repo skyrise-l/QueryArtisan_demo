@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_customer_id,integer,,[],[],[]
+payment_method,text,,,,
+customer_name,text,,,,
+customer_phone,text,,,,
+customer_email,text,,,,
+date_became_customer,date,,,,

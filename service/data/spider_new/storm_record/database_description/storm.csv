@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+storm_storm_id,integer,"PRIMARY KEY : (""storm_storm_id"")",[],['storm_id'],[]
+name,text,,,,
+dates_active,text,,,,
+max_speed,integer,,,,
+damage_millions_usd,double,,,,
+number_deaths,integer,,,,

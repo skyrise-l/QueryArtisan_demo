@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+classification_id,integer,"PRIMARY KEY : (""classification_id"")","[FOREIGN KEY: ""classification_gid"" REFERENCES ""genre.genre_gid"" (table_name.column_name)., FOREIGN KEY: ""classification_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name).]",['id'],"[{'classification_gid': 'genre.genre_gid'}, {'classification_msid': 'copyright.copyright_msid'}]"
+classification_msid,integer,,,,
+classification_gid,integer,,,,

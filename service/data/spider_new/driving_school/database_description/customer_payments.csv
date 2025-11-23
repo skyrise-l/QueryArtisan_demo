@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_payments_customer_id,integer,"PRIMARY KEY : (""customer_payments_customer_id"", ""datetime_payment"")","[FOREIGN KEY: ""customer_payments_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]","['customer_id,datetime_payment']",[{'customer_payments_customer_id': 'customers.customers_customer_id'}]
+datetime_payment,date,,,,
+payment_method_code,text,,,,
+amount_payment,double,,,,

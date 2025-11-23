@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+pilot_name,text,"PRIMARY KEY : (""pilot_name"", "" plane_name"")","[FOREIGN KEY: ""pilotskills_plane_name"" REFERENCES ""hangar.hangar_plane_name"" (table_name.column_name).]","['pilot_name, plane_name']",[{'pilotskills_plane_name': 'hangar.hangar_plane_name'}]
+pilotskills_plane_name,text,,,,
+age,integer,,,,

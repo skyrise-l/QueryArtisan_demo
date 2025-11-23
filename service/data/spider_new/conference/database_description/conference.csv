@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+conference_conference_id,integer,"PRIMARY KEY : (""conference_conference_id"")",[],['conference_id'],[]
+conference_name,text,,,,
+year,integer,,,,
+conference_location,text,,,,

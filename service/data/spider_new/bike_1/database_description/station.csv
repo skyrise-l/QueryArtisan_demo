@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+station_id,integer,,[],[],[]
+name,text,,,,
+lat,double,,,,
+long,double,,,,
+dock_count,integer,,,,
+city,text,,,,
+installation_date,text,,,,

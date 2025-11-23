@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ref_locations_location_code,text,"PRIMARY KEY : (""ref_locations_location_code"")",[],['location_code'],[]
+location_name,text,,,,
+location_description,text,,,,

@@ -1,0 +1,16 @@
+customer_interactions_customer_interaction_id,customer_interactions_channel_id,customer_interactions_customer_id,customer_interactions_service_id,status_code,services_and_channels_details
+13,16,98,828,Close,bad
+21,78,12,606,Close,good
+71,16,295,430,Close,bad
+117,45,103,313,Open,bad
+169,65,119,828,Open,good
+225,55,173,313,Close,bad
+237,55,103,313,Close,bad
+322,65,78,575,Stuck,bad
+336,78,286,457,Stuck,good
+514,55,113,313,Close,good
+552,45,32,575,Open,good
+591,16,113,828,Close,good
+607,16,286,430,Stuck,bad
+749,65,103,313,Open,good
+871,78,293,620,Stuck,bad

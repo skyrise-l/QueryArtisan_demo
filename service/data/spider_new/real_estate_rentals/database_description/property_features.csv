@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+property_features_property_id,integer,,"[FOREIGN KEY: ""property_features_feature_id"" REFERENCES ""features.features_feature_id"" (table_name.column_name)., FOREIGN KEY: ""property_features_property_id"" REFERENCES ""properties.properties_property_id"" (table_name.column_name).]",[],"[{'property_features_feature_id': 'features.features_feature_id'}, {'property_features_property_id': 'properties.properties_property_id'}]"
+property_features_feature_id,integer,,,,
+feature_value,text,,,,
+property_feature_description,text,,,,

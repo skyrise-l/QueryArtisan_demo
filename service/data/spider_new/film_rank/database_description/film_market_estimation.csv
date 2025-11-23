@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+estimation_id,integer,"PRIMARY KEY : (""estimation_id"")","[FOREIGN KEY: ""film_market_estimation_film_id"" REFERENCES ""film.film_film_id"" (table_name.column_name)., FOREIGN KEY: ""film_market_estimation_market_id"" REFERENCES ""market.market_market_id"" (table_name.column_name).]",['estimation_id'],"[{'film_market_estimation_film_id': 'film.film_film_id'}, {'film_market_estimation_market_id': 'market.market_market_id'}]"
+low_estimate,double,,,,
+high_estimate,double,,,,
+film_market_estimation_film_id,integer,,,,
+type,text,,,,
+film_market_estimation_market_id,integer,,,,
+year,integer,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_bus_school_id,integer,"PRIMARY KEY : (""school_bus_school_id"", ""school_bus_driver_id"")","[FOREIGN KEY: ""school_bus_school_id"" REFERENCES ""school.school_school_id"" (table_name.column_name)., FOREIGN KEY: ""school_bus_driver_id"" REFERENCES ""driver.driver_driver_id"" (table_name.column_name).]","['school_id,driver_id']","[{'school_bus_school_id': 'school.school_school_id'}, {'school_bus_driver_id': 'driver.driver_driver_id'}]"
+school_bus_driver_id,integer,,,,
+years_working,integer,,,,
+if_full_time,text,,,,

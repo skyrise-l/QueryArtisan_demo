@@ -1,0 +1,14 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+users_user_id,integer,,[],[],[]
+users_age_category_code,text,,,,
+users_user_category_code,text,,,,
+user_address_id,integer,,,,
+is_buyer,text,,,,
+is_seller,text,,,,
+login_name,text,,,,
+password,text,,,,
+date_registered,date,,,,
+first_name,text,,,,
+middle_name,text,,,,
+last_name,text,,,,
+other_user_details,text,,,,

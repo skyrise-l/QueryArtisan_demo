@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoice_invoiceid,integer,"PRIMARY KEY : (""invoice_invoiceid"")","[FOREIGN KEY: ""invoice_customerid"" REFERENCES ""customer.customer_customerid"" (table_name.column_name).]",['invoiceid'],[{'invoice_customerid': 'customer.customer_customerid'}]
+invoice_customerid,integer,,,,
+invoicedate,date,,,,
+billingaddress,text,,,,
+billingcity,text,,,,
+billingstate,text,,,,
+billingcountry,text,,,,
+billingpostalcode,text,,,,
+total,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+degree_programs_degree_program_id,integer,,"[FOREIGN KEY: ""degree_programs_department_id"" REFERENCES ""departments.departments_department_id"" (table_name.column_name).]",[],[{'degree_programs_department_id': 'departments.departments_department_id'}]
+degree_programs_department_id,integer,,,,
+degree_summary_name,text,,,,
+degree_summary_description,text,,,,
+degree_programs_other_details,text,,,,

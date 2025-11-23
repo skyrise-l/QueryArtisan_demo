@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+source_u_id,integer,,"[FOREIGN KEY: ""source_u_id"" REFERENCES ""useracct.useracct_u_id"" (table_name.column_name)., FOREIGN KEY: ""target_u_id"" REFERENCES ""useracct.useracct_u_id"" (table_name.column_name).]",[],"[{'source_u_id': 'useracct.useracct_u_id'}, {'target_u_id': 'useracct.useracct_u_id'}]"
+target_u_id,integer,,,,
+trust,integer,,,,

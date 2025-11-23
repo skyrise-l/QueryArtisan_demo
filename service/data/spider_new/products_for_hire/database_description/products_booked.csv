@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+products_booked_booking_id,integer,"PRIMARY KEY : (""products_booked_booking_id"", "" product_id"")","[FOREIGN KEY: ""products_booked_booking_id"" REFERENCES ""bookings.bookings_booking_id"" (table_name.column_name)., FOREIGN KEY: ""products_booked_product_id"" REFERENCES ""products_for_hire.products_for_hire_product_id"" (table_name.column_name).]","['booking_id, product_id']","[{'products_booked_booking_id': 'bookings.bookings_booking_id'}, {'products_booked_product_id': 'products_for_hire.products_for_hire_product_id'}]"
+products_booked_product_id,integer,,,,
+returned_yn,text,,,,
+returned_late_yn,text,,,,
+booked_count,integer,,,,
+booked_amount,double,,,,

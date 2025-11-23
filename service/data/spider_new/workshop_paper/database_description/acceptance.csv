@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+acceptance_submission_id,integer,"PRIMARY KEY : (""acceptance_submission_id"", ""acceptance_workshop_id"")","[FOREIGN KEY: ""acceptance_submission_id"" REFERENCES ""submission.submission_submission_id"" (table_name.column_name)., FOREIGN KEY: ""acceptance_workshop_id"" REFERENCES ""workshop.workshop_workshop_id"" (table_name.column_name).]","['submission_id,workshop_id']","[{'acceptance_submission_id': 'submission.submission_submission_id'}, {'acceptance_workshop_id': 'workshop.workshop_workshop_id'}]"
+acceptance_workshop_id,integer,,,,
+result,text,,,,

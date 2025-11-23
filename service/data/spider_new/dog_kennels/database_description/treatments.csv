@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+treatment_id,integer,,"[FOREIGN KEY: ""treatments_treatment_type_code"" REFERENCES ""treatment_types.treatment_types_treatment_type_code"" (table_name.column_name)., FOREIGN KEY: ""treatments_professional_id"" REFERENCES ""professionals.professionals_professional_id"" (table_name.column_name)., FOREIGN KEY: ""treatments_dog_id"" REFERENCES ""dogs.dogs_dog_id"" (table_name.column_name).]",[],"[{'treatments_treatment_type_code': 'treatment_types.treatment_types_treatment_type_code'}, {'treatments_professional_id': 'professionals.professionals_professional_id'}, {'treatments_dog_id': 'dogs.dogs_dog_id'}]"
+treatments_dog_id,integer,,,,
+treatments_professional_id,integer,,,,
+treatments_treatment_type_code,text,,,,
+date_of_treatment,date,,,,
+cost_of_treatment,text,,,,

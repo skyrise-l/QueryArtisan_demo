@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+gymnast_id,integer,"PRIMARY KEY : (""gymnast_id"")","[FOREIGN KEY: ""gymnast_id"" REFERENCES ""people.people_id"" (table_name.column_name).]",['gymnast_id'],[{'gymnast_id': 'people.people_id'}]
+floor_exercise_points,double,,,,
+pommel_horse_points,double,,,,
+rings_points,double,,,,
+vault_points,double,,,,
+parallel_bars_points,double,,,,
+horizontal_bar_points,double,,,,
+total_points,double,,,,

@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+bookings_booking_id,integer,,"[FOREIGN KEY: ""bookings_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],[{'bookings_customer_id': 'customers.customers_customer_id'}]
+bookings_customer_id,integer,,,,
+booking_status_code,text,,,,
+returned_damaged_yn,text,,,,
+booking_start_date,date,,,,
+booking_end_date,date,,,,
+count_hired,text,,,,
+amount_payable,text,,,,
+amount_of_discount,text,,,,
+amount_outstanding,text,,,,
+amount_of_refund,text,,,,

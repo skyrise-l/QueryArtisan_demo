@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+county_id,integer,"PRIMARY KEY : (""county_id"")",[],['county_id'],[]
+county_name,text,,,,
+population,double,,,,
+zip_code,text,,,,

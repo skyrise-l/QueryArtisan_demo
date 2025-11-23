@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+exhibition_record_exhibition_id,integer,"PRIMARY KEY : (""exhibition_record_exhibition_id"", ""date"")","[FOREIGN KEY: ""exhibition_record_exhibition_id"" REFERENCES ""exhibition.exhibition_exhibition_id"" (table_name.column_name).]","['exhibition_id,date']",[{'exhibition_record_exhibition_id': 'exhibition.exhibition_exhibition_id'}]
+date,text,,,,
+attendance,integer,,,,

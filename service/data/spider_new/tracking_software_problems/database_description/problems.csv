@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+problems_problem_id,integer,,"[FOREIGN KEY: ""closure_authorised_by_staff_id"" REFERENCES ""staff.staff_id"" (table_name.column_name)., FOREIGN KEY: ""problems_product_id"" REFERENCES ""product.product_product_id"" (table_name.column_name)., FOREIGN KEY: ""reported_by_staff_id"" REFERENCES ""staff.staff_id"" (table_name.column_name).]",[],"[{'closure_authorised_by_staff_id': 'staff.staff_id'}, {'problems_product_id': 'product.product_product_id'}, {'reported_by_staff_id': 'staff.staff_id'}]"
+problems_product_id,integer,,,,
+closure_authorised_by_staff_id,integer,,,,
+reported_by_staff_id,integer,,,,
+date_problem_reported,date,,,,
+date_problem_closed,date,,,,
+problem_description,text,,,,
+other_problem_details,text,,,,

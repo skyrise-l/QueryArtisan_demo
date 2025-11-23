@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_in_event_id,integer,"PRIMARY KEY : (""product_in_event_id"")","[FOREIGN KEY: ""products_in_events_event_id"" REFERENCES ""events.events_event_id"" (table_name.column_name)., FOREIGN KEY: ""products_in_events_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name).]",['product_in_event_id'],"[{'products_in_events_event_id': 'events.events_event_id'}, {'products_in_events_product_id': 'products.products_product_id'}]"
+products_in_events_event_id,integer,,,,
+products_in_events_product_id,integer,,,,

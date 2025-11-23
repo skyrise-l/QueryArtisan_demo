@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+authors_author_name,text,"PRIMARY KEY : (""authors_author_name"")",[],['author_name'],[]
+authors_other_details,text,,,,

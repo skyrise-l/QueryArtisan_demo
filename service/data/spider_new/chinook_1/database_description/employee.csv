@@ -1,0 +1,16 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employeeid,integer,"PRIMARY KEY : (""employeeid"")","[FOREIGN KEY: ""reportsto"" REFERENCES ""employee.employeeid"" (table_name.column_name).]",['employeeid'],[{'reportsto': 'employee.employeeid'}]
+employee_lastname,text,,,,
+employee_firstname,text,,,,
+employee_title,text,,,,
+reportsto,integer,,,,
+birthdate,date,,,,
+hiredate,date,,,,
+employee_address,text,,,,
+employee_city,text,,,,
+employee_state,text,,,,
+employee_country,text,,,,
+employee_postalcode,text,,,,
+employee_phone,text,,,,
+employee_fax,text,,,,
+employee_email,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+shipmentid,integer,,"[FOREIGN KEY: ""manager"" REFERENCES ""employee.employeeid"" (table_name.column_name)., FOREIGN KEY: ""shipment_planet"" REFERENCES ""planet.planetid"" (table_name.column_name).]",[],"[{'manager': 'employee.employeeid'}, {'shipment_planet': 'planet.planetid'}]"
+date,text,,,,
+manager,integer,,,,
+shipment_planet,integer,,,,

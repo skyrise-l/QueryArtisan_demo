@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+building_id,integer,"PRIMARY KEY : (""building_id"", "" company_id"")","[FOREIGN KEY: ""building_id"" REFERENCES ""buildings.buildings_id"" (table_name.column_name)., FOREIGN KEY: ""company_id"" REFERENCES ""companies.companies_id"" (table_name.column_name).]","['building_id, company_id']","[{'building_id': 'buildings.buildings_id'}, {'company_id': 'companies.companies_id'}]"
+company_id,integer,,,,
+move_in_year,integer,,,,

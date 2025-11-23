@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+circuits_circuitid,integer,,[],[],[]
+circuitref,text,,,,
+circuits_name,text,,,,
+location,text,,,,
+country,text,,,,
+lat,double,,,,
+lng,double,,,,
+alt,text,,,,
+circuits_url,text,,,,

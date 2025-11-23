@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+program_program_id,integer,"PRIMARY KEY : (""program_program_id"")",[],['program_id'],[]
+program_name,text,,,,
+origin,text,,,,
+launch,double,,,,
+program_owner,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_course_attendance_student_id,integer,"PRIMARY KEY : (""student_course_attendance_student_id"", "" course_id"")","[FOREIGN KEY: ""student_id, course_id"" REFERENCES ""student_course_registrations.student_id,course_id"" (table_name.column_name).]","['student_id, course_id']","[{'student_id, course_id': 'student_course_registrations.student_id,course_id'}]"
+student_course_attendance_course_id,integer,,,,
+date_of_attendance,date,,,,

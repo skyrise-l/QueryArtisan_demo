@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rental_rental_id,integer,"PRIMARY KEY : (""rental_rental_id"")","[FOREIGN KEY: ""rental_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""rental_inventory_id"" REFERENCES ""inventory.inventory_inventory_id"" (table_name.column_name)., FOREIGN KEY: ""rental_customer_id"" REFERENCES ""customer.customer_customer_id"" (table_name.column_name).]",['rental_id'],"[{'rental_staff_id': 'staff.staff_staff_id'}, {'rental_inventory_id': 'inventory.inventory_inventory_id'}, {'rental_customer_id': 'customer.customer_customer_id'}]"
+rental_date,date,,,,
+rental_inventory_id,integer,,,,
+rental_customer_id,integer,,,,
+return_date,date,,,,
+rental_staff_id,integer,,,,
+rental_last_update,date,,,,

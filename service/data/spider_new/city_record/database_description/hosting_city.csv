@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+year,integer,"PRIMARY KEY : (""year"")","[FOREIGN KEY: ""host_city"" REFERENCES ""city.city_city_id"" (table_name.column_name)., FOREIGN KEY: ""hosting_city_match_id"" REFERENCES ""match.match_match_id"" (table_name.column_name).]",['year'],"[{'host_city': 'city.city_city_id'}, {'hosting_city_match_id': 'match.match_match_id'}]"
+hosting_city_match_id,integer,,,,
+host_city,text,,,,

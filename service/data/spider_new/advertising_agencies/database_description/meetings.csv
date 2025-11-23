@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+meetings_meeting_id,integer,,"[FOREIGN KEY: ""meetings_client_id"" REFERENCES ""clients.clients_client_id"" (table_name.column_name).]",[],[{'meetings_client_id': 'clients.clients_client_id'}]
+meetings_client_id,integer,,,,
+meeting_outcome,text,,,,
+meeting_type,text,,,,
+billable_yn,text,,,,
+start_date_time,date,,,,
+end_date_time,date,,,,
+purpose_of_meeting,text,,,,
+other_details,text,,,,

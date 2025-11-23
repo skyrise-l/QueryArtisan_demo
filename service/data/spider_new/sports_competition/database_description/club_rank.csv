@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+rank,double,"PRIMARY KEY : (""rank"", ""club_rank_club_id"")","[FOREIGN KEY: ""club_rank_club_id"" REFERENCES ""club.club_club_id"" (table_name.column_name).]","['rank,club_id']",[{'club_rank_club_id': 'club.club_club_id'}]
+club_rank_club_id,integer,,,,
+gold,double,,,,
+silver,double,,,,
+bronze,double,,,,
+total,double,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoice_lines_id,integer,,"[FOREIGN KEY: ""invoice_id"" REFERENCES ""invoices.invoices_id"" (table_name.column_name)., FOREIGN KEY: ""invoice_lines_track_id"" REFERENCES ""tracks.tracks_id"" (table_name.column_name).]",[],"[{'invoice_id': 'invoices.invoices_id'}, {'invoice_lines_track_id': 'tracks.tracks_id'}]"
+invoice_id,integer,,,,
+invoice_lines_track_id,integer,,,,
+invoice_lines_unit_price,double,,,,
+quantity,integer,,,,

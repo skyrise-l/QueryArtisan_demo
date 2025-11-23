@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+all_star_player_id,text,,"[FOREIGN KEY: ""all_star_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name).]",[],[{'all_star_player_id': 'player.player_player_id'}]
+all_star_year,integer,,,,
+game_num,integer,,,,
+game_id,text,,,,
+all_star_team_id,text,,,,
+all_star_league_id,text,,,,
+gp,double,,,,
+starting_pos,double,,,,

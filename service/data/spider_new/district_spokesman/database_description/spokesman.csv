@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+spokesman_spokesman_id,integer,"PRIMARY KEY : (""spokesman_spokesman_id"")",[],['spokesman_id'],[]
+spokesman_name,text,,,,
+age,integer,,,,
+speach_title,text,,,,
+rank_position,double,,,,
+points,double,,,,

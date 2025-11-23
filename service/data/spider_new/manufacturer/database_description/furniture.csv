@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+furniture_furniture_id,integer,"PRIMARY KEY : (""furniture_furniture_id"")",[],['furniture_id'],[]
+furniture_name,text,,,,
+num_of_component,integer,,,,
+market_rate,double,,,,

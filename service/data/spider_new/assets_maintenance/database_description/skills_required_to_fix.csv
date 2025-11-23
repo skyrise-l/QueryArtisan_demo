@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+skills_required_to_fix_part_fault_id,integer,,"[FOREIGN KEY: ""skills_required_to_fix_part_fault_id"" REFERENCES ""part_faults.part_faults_part_fault_id"" (table_name.column_name)., FOREIGN KEY: ""skills_required_to_fix_skill_id"" REFERENCES ""skills.skills_skill_id"" (table_name.column_name).]",[],"[{'skills_required_to_fix_part_fault_id': 'part_faults.part_faults_part_fault_id'}, {'skills_required_to_fix_skill_id': 'skills.skills_skill_id'}]"
+skills_required_to_fix_skill_id,integer,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+account_id,integer,"PRIMARY KEY : (""account_id"")","[FOREIGN KEY: ""accounts_statement_id"" REFERENCES ""statements.statements_statement_id"" (table_name.column_name).]",['account_id'],[{'accounts_statement_id': 'statements.statements_statement_id'}]
+accounts_statement_id,integer,,,,
+account_details,text,,,,

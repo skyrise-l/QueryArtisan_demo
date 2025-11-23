@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+property_photos_property_id,integer,,"[FOREIGN KEY: ""property_photos_property_id"" REFERENCES ""properties.properties_property_id"" (table_name.column_name).]",[],[{'property_photos_property_id': 'properties.properties_property_id'}]
+photo_seq,integer,,,,
+photo_title,text,,,,
+photo_description,text,,,,
+photo_filename,text,,,,

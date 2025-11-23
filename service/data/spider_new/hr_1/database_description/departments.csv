@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+departments_department_id,text,"PRIMARY KEY : (""departments_department_id"")",[],['department_id'],[]
+department_name,text,,,,
+departments_manager_id,text,,,,
+departments_location_id,text,,,,

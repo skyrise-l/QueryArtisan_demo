@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+user_searches_user_id,integer,,"[FOREIGN KEY: ""user_searches_user_id"" REFERENCES ""users.users_user_id"" (table_name.column_name).]",[],[{'user_searches_user_id': 'users.users_user_id'}]
+search_seq,integer,,,,
+search_datetime,date,,,,
+search_string,text,,,,

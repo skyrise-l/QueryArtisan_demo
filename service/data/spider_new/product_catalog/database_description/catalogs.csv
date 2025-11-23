@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+catalogs_catalog_id,integer,,[],[],[]
+catalog_name,text,,,,
+catalog_publisher,text,,,,
+date_of_publication,date,,,,
+date_of_latest_revision,date,,,,

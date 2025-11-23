@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_forms_party_id,integer,"PRIMARY KEY : (""party_forms_party_id"", "" form_id"")","[FOREIGN KEY: ""party_forms_party_id"" REFERENCES ""parties.parties_party_id"" (table_name.column_name)., FOREIGN KEY: ""party_forms_form_id"" REFERENCES ""forms.forms_form_id"" (table_name.column_name).]","['party_id, form_id']","[{'party_forms_party_id': 'parties.parties_party_id'}, {'party_forms_form_id': 'forms.forms_form_id'}]"
+party_forms_form_id,integer,,,,
+date_completion_started,date,,,,
+form_status_code,text,,,,
+date_fully_completed,date,,,,

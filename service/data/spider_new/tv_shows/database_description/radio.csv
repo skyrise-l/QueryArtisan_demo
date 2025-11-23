@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+radio_radio_id,integer,"PRIMARY KEY : (""radio_radio_id"")",[],['radio_id'],[]
+transmitter,text,,,,
+radio_mhz,text,,,,
+2fm_mhz,text,,,,
+rnag_mhz,text,,,,
+lyric_fm_mhz,text,,,,
+erp_kw,text,,,,

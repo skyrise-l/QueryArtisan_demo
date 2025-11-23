@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+order_deliveries_location_code,text,,"[FOREIGN KEY: ""order_deliveries_truck_id"" REFERENCES ""trucks.trucks_truck_id"" (table_name.column_name)., FOREIGN KEY: ""order_deliveries_actual_order_id"" REFERENCES ""actual_orders.actual_orders_actual_order_id"" (table_name.column_name)., FOREIGN KEY: ""order_deliveries_location_code"" REFERENCES ""delivery_route_locations.delivery_route_locations_location_code"" (table_name.column_name)., FOREIGN KEY: ""driver_employee_id"" REFERENCES ""employees.employee_id"" (table_name.column_name).]",[],"[{'order_deliveries_truck_id': 'trucks.trucks_truck_id'}, {'order_deliveries_actual_order_id': 'actual_orders.actual_orders_actual_order_id'}, {'order_deliveries_location_code': 'delivery_route_locations.delivery_route_locations_location_code'}, {'driver_employee_id': 'employees.employee_id'}]"
+order_deliveries_actual_order_id,integer,,,,
+delivery_status_code,text,,,,
+driver_employee_id,integer,,,,
+order_deliveries_truck_id,integer,,,,
+delivery_date,date,,,,

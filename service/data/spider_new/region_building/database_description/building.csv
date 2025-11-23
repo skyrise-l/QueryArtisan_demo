@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+building_id,integer,"PRIMARY KEY : (""building_id"")","[FOREIGN KEY: ""building_region_id"" REFERENCES ""region.region_region_id"" (table_name.column_name).]",['building_id'],[{'building_region_id': 'region.region_region_id'}]
+building_region_id,integer,,,,
+building_name,text,,,,
+address,text,,,,
+number_of_stories,integer,,,,
+completed_year,integer,,,,

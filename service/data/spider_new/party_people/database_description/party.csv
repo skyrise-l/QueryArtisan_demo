@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_party_id,integer,"PRIMARY KEY : (""party_party_id"")","[FOREIGN KEY: ""party_region_id"" REFERENCES ""region.region_region_id"" (table_name.column_name).]",['party_id'],[{'party_region_id': 'region.region_region_id'}]
+minister,text,,,,
+took_office,text,,,,
+left_office,text,,,,
+party_region_id,integer,,,,
+party_name,text,,,,

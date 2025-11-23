@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+skills_skill_id,integer,,[],[],[]
+skill_code,text,,,,
+skill_description,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,"PRIMARY KEY : (""id"")",[],['id'],[]
+city,text,,,,
+station_name,text,,,,
+owned_since,double,,,,
+affiliation,text,,,,

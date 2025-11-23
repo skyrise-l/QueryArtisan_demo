@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+store_store_id,integer,,"[FOREIGN KEY: ""manager_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""store_address_id"" REFERENCES ""address.address_address_id"" (table_name.column_name).]",[],"[{'manager_staff_id': 'staff.staff_staff_id'}, {'store_address_id': 'address.address_address_id'}]"
+manager_staff_id,integer,,,,
+store_address_id,integer,,,,
+store_last_update,text,,,,

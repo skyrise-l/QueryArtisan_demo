@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+season,double,"PRIMARY KEY : (""season"")","[FOREIGN KEY: ""country"" REFERENCES ""country.country_id"" (table_name.column_name)., FOREIGN KEY: ""match_season_team"" REFERENCES ""team.team_id"" (table_name.column_name).]",['season'],"[{'country': 'country.country_id'}, {'match_season_team': 'team.team_id'}]"
+match_season_player,text,,,,
+position,text,,,,
+country,integer,,,,
+match_season_team,integer,,,,
+draft_pick_number,integer,,,,
+draft_class,text,,,,
+college,text,,,,

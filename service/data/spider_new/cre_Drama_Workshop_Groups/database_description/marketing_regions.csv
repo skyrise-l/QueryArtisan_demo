@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+marketing_regions_marketing_region_code,text,"PRIMARY KEY : (""marketing_regions_marketing_region_code"")",[],['marketing_region_code'],[]
+marketing_region_name,text,,,,
+marketing_region_descriptrion,text,,,,
+marketing_regions_other_details,text,,,,

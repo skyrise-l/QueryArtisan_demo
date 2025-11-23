@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cmi_cross_references_cmi_cross_ref_id,integer,"PRIMARY KEY : (""cmi_cross_references_cmi_cross_ref_id"")","[FOREIGN KEY: ""cmi_cross_references_master_customer_id"" REFERENCES ""customer_master_index.customer_master_index_master_customer_id"" (table_name.column_name).]",['cmi_cross_ref_id'],[{'cmi_cross_references_master_customer_id': 'customer_master_index.customer_master_index_master_customer_id'}]
+cmi_cross_references_master_customer_id,integer,,,,
+source_system_code,text,,,,

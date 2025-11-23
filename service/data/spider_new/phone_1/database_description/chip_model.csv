@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+model_name,text,"PRIMARY KEY : (""model_name"")",[],['model_name'],[]
+launch_year,double,,,,
+ram_mib,double,,,,
+rom_mib,double,,,,
+slots,text,,,,
+wifi,text,,,,
+bluetooth,text,,,,

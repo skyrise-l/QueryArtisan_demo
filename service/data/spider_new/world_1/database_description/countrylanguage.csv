@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+countrylanguage_countrycode,text,"PRIMARY KEY : (""countrylanguage_countrycode"", ""language"")","[FOREIGN KEY: ""countrylanguage_countrycode"" REFERENCES ""country.code"" (table_name.column_name).]","['countrycode,language']",[{'countrylanguage_countrycode': 'country.code'}]
+language,text,,,,
+isofficial,text,,,,
+percentage,double,,,,

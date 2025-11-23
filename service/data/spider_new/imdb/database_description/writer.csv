@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+writer_wid,integer,"PRIMARY KEY : (""writer_wid"")",[],['wid'],[]
+writer_gender,text,,,,
+writer_name,integer,,,,
+writer_nationality,integer,,,,
+writer_num_of_episodes,integer,,,,
+writer_birth_city,text,,,,
+writer_birth_year,integer,,,,

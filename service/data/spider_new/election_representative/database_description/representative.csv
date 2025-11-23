@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+representative_representative_id,integer,"PRIMARY KEY : (""representative_representative_id"")",[],['representative_id'],[]
+name,text,,,,
+state,text,,,,
+party,text,,,,
+lifespan,text,,,,

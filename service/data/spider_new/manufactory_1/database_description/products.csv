@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+products_code,integer,"PRIMARY KEY : (""products_code"")","[FOREIGN KEY: ""manufacturer"" REFERENCES ""manufacturers.manufacturers_code"" (table_name.column_name).]",['code'],[{'manufacturer': 'manufacturers.manufacturers_code'}]
+products_name,text,,,,
+price,text,,,,
+manufacturer,integer,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoice_item_id,integer,"PRIMARY KEY : (""invoice_item_id"")","[FOREIGN KEY: ""invoice_items_order_item_id"" REFERENCES ""order_items.order_items_order_item_id"" (table_name.column_name)., FOREIGN KEY: ""invoice_items_invoice_id"" REFERENCES ""invoices.invoices_invoice_id"" (table_name.column_name)., FOREIGN KEY: ""order_id, product_id"" REFERENCES ""bookings_services.order_id,product_id"" (table_name.column_name).]",['invoice_item_id'],"[{'invoice_items_order_item_id': 'order_items.order_items_order_item_id'}, {'invoice_items_invoice_id': 'invoices.invoices_invoice_id'}, {'order_id, product_id': 'bookings_services.order_id,product_id'}]"
+invoice_items_invoice_id,integer,,,,
+invoice_items_order_id,integer,,,,
+invoice_items_order_item_id,integer,,,,
+invoice_items_product_id,integer,,,,
+invoice_items_order_quantity,integer,,,,
+invoice_items_other_item_details,text,,,,

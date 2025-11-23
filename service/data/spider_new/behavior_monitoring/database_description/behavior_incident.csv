@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+behavior_incident_incident_id,integer,,"[FOREIGN KEY: ""behavior_incident_incident_type_code"" REFERENCES ""ref_incident_type.ref_incident_type_incident_type_code"" (table_name.column_name)., FOREIGN KEY: ""behavior_incident_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",[],"[{'behavior_incident_incident_type_code': 'ref_incident_type.ref_incident_type_incident_type_code'}, {'behavior_incident_student_id': 'students.students_student_id'}]"
+behavior_incident_incident_type_code,text,,,,
+behavior_incident_student_id,integer,,,,
+date_incident_start,date,,,,
+date_incident_end,date,,,,
+incident_summary,text,,,,
+recommendations,text,,,,
+behavior_incident_other_details,text,,,,

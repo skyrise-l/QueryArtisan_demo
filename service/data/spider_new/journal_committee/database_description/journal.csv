@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+journal_journal_id,integer,"PRIMARY KEY : (""journal_journal_id"")",[],['journal_id'],[]
+date,text,,,,
+theme,text,,,,
+sales,integer,,,,

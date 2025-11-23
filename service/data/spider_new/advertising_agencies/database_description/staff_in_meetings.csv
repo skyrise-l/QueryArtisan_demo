@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_in_meetings_meeting_id,integer,,"[FOREIGN KEY: ""staff_in_meetings_meeting_id"" REFERENCES ""meetings.meetings_meeting_id"" (table_name.column_name)., FOREIGN KEY: ""staff_in_meetings_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name).]",[],"[{'staff_in_meetings_meeting_id': 'meetings.meetings_meeting_id'}, {'staff_in_meetings_staff_id': 'staff.staff_staff_id'}]"
+staff_in_meetings_staff_id,integer,,,,

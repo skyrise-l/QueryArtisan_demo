@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+perpetrator_id,integer,"PRIMARY KEY : (""perpetrator_id"")","[FOREIGN KEY: ""perpetrator_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]",['perpetrator_id'],[{'perpetrator_people_id': 'people.people_people_id'}]
+perpetrator_people_id,integer,,,,
+date,text,,,,
+year,double,,,,
+location,text,,,,
+country,text,,,,
+killed,integer,,,,
+injured,integer,,,,

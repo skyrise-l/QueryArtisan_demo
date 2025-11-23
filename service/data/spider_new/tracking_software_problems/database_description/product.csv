@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_product_id,integer,,[],[],[]
+product_name,text,,,,
+product_details,text,,,,

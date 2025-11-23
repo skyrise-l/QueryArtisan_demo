@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+laptimes_raceid,integer,"PRIMARY KEY : (""laptimes_raceid"", "" driverid"", "" lap"")","[FOREIGN KEY: ""laptimes_raceid"" REFERENCES ""races.races_raceid"" (table_name.column_name)., FOREIGN KEY: ""laptimes_driverid"" REFERENCES ""drivers.drivers_driverid"" (table_name.column_name).]","['raceid, driverid, lap']","[{'laptimes_raceid': 'races.races_raceid'}, {'laptimes_driverid': 'drivers.drivers_driverid'}]"
+laptimes_driverid,integer,,,,
+laptimes_lap,integer,,,,
+laptimes_position,integer,,,,
+laptimes_time,text,,,,
+laptimes_milliseconds,integer,,,,

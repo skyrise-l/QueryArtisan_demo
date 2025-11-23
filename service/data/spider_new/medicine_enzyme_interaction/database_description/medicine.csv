@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+medicine_id,integer,"PRIMARY KEY : (""medicine_id"")",[],['id'],[]
+medicine_name,text,,,,
+trade_name,text,,,,
+fda_approved,text,,,,

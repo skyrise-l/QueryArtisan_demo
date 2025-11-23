@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+events_event_id,integer,"PRIMARY KEY : (""events_event_id"")","[FOREIGN KEY: ""events_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name).]",['event_id'],[{'events_service_id': 'services.services_service_id'}]
+events_service_id,integer,,,,
+event_details,text,,,,

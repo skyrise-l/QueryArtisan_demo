@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city_channel_radio_city_channel_id,integer,"PRIMARY KEY : (""city_channel_radio_city_channel_id"", ""city_channel_radio_radio_id"")","[FOREIGN KEY: ""city_channel_radio_city_channel_id"" REFERENCES ""city_channel.id"" (table_name.column_name)., FOREIGN KEY: ""city_channel_radio_radio_id"" REFERENCES ""radio.radio_radio_id"" (table_name.column_name).]","['city_channel_id,radio_id']","[{'city_channel_radio_city_channel_id': 'city_channel.id'}, {'city_channel_radio_radio_id': 'radio.radio_radio_id'}]"
+city_channel_radio_radio_id,integer,,,,
+city_channel_radio_is_online,text,,,,

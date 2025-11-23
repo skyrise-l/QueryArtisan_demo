@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_cid,text,,"[FOREIGN KEY: ""instructor"" REFERENCES ""faculty.faculty_facid"" (table_name.column_name)., FOREIGN KEY: ""course_dno"" REFERENCES ""department.department_dno"" (table_name.column_name).]",[],"[{'instructor': 'faculty.faculty_facid'}, {'course_dno': 'department.department_dno'}]"
+cname,text,,,,
+credits,integer,,,,
+instructor,integer,,,,
+days,text,,,,
+hours,text,,,,
+course_dno,integer,,,,

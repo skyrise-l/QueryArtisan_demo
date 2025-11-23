@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+songs_id,integer,"PRIMARY KEY : (""songs_id"")",[],['id'],[]
+language,text,,,,
+original_artist,text,,,,
+songs_name,text,,,,
+english_translation,text,,,,

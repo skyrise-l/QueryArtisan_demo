@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+payment_id,integer,"PRIMARY KEY : (""payment_id"")","[FOREIGN KEY: ""payments_settlement_id"" REFERENCES ""settlements.settlements_settlement_id"" (table_name.column_name).]",['payment_id'],[{'payments_settlement_id': 'settlements.settlements_settlement_id'}]
+payments_settlement_id,integer,,,,
+payment_method_code,text,,,,
+date_payment_made,date,,,,
+amount_payment,integer,,,,

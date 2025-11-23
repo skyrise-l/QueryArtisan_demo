@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+copyright_id,integer,"PRIMARY KEY : (""copyright_id"")",[],['id'],[]
+copyright_msid,integer,,,,
+cid,integer,,,,

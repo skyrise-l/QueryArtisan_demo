@@ -1,0 +1,16 @@
+customers_customer_id,customers_address_id,payment_method_code,customer_number,customer_name,customer_address,customer_phone,customer_email
+1,9,Credit Card,601,Jeromy,422 Bode Mount Apt. 688,1-968-453-3485,everett.kautzer@example.com
+2,8,Credit Card,920,Edmond,0965 Dickens Springs,+92(8)6677749570,maegan54@example.net
+3,3,Credit Card,990,Twila,878 Joy Fields Apt. 366,(291)441-3432,dedric.bailey@example.org
+4,11,Credit Card,037,Madelynn,9128 Berry Mountains Suite 608,1-909-419-5704x7658,white.barney@example.net
+5,7,Credit Card,949,Nya,689 Wilkinson Coves Apt. 107,739-333-7916,eldred44@example.net
+6,1,Credit Card,892,Kenna,5425 Vern Rue Suite 490,804-701-9307,thomas67@example.org
+7,10,Credit Card,707,Katrina,73546 Gaylord Harbors Suite 881,239.351.4998x35742,hoyt80@example.org
+8,9,Credit Card,979,Jaylan,76957 Kohler Via Suite 315,+10(8)9243074470,penelope.koepp@example.com
+9,7,Credit Card,025,Jeremie,97464 Greenholt Tunnel,1-766-484-5984x4558,kuhn.mable@example.org
+10,9,Direct Debit,319,Lenny,869 Anastasia Knoll Apt. 100,457.149.5849,brooks08@example.org
+11,2,Direct Debit,102,Gunner,44535 Lisette Valleys Apt. 520,09657208451,katelynn81@example.net
+12,13,Credit Card,759,Abe,022 Turner Shore Suite 221,+96(9)6593071847,floyd.boyer@example.net
+13,1,Direct Debit,769,Kennith,047 Lang Island Apt. 977,100-037-1493x19148,tromp.maye@example.net
+14,2,Credit Card,431,Mittie,31742 Grant Plain Suite 093,+22(4)3215644293,daniel.hilma@example.net
+15,15,Direct Debit,202,Alexandrine,85441 Frieda Skyway,183.800.7178x7079,marguerite93@example.net

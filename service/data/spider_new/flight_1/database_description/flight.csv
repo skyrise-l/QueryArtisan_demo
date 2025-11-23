@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+flno,double,,"[FOREIGN KEY: ""flight_aid"" REFERENCES ""aircraft.aircraft_aid"" (table_name.column_name).]",[],[{'flight_aid': 'aircraft.aircraft_aid'}]
+origin,text,,,,
+destination,text,,,,
+flight_distance,double,,,,
+departure_date,date,,,,
+arrival_date,date,,,,
+price,double,,,,
+flight_aid,double,,,,

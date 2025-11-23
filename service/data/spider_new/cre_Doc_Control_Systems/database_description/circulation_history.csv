@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+circulation_history_document_id,integer,"PRIMARY KEY : (""circulation_history_document_id"", "" draft_number"", "" copy_number"", "" employee_id"")","[FOREIGN KEY: ""document_id, draft_number, copy_number"" REFERENCES ""draft_copies.document_id,draft_number,copy_number"" (table_name.column_name)., FOREIGN KEY: ""circulation_history_employee_id"" REFERENCES ""employees.employees_employee_id"" (table_name.column_name).]","['document_id, draft_number, copy_number, employee_id']","[{'document_id, draft_number, copy_number': 'draft_copies.document_id,draft_number,copy_number'}, {'circulation_history_employee_id': 'employees.employees_employee_id'}]"
+circulation_history_draft_number,integer,,,,
+circulation_history_copy_number,integer,,,,
+circulation_history_employee_id,integer,,,,

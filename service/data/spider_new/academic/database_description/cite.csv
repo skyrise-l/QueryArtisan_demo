@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cited,integer,,"[FOREIGN KEY: ""cited"" REFERENCES ""publication.publication_pid"" (table_name.column_name)., FOREIGN KEY: ""citing"" REFERENCES ""publication.publication_pid"" (table_name.column_name).]",[],"[{'cited': 'publication.publication_pid'}, {'citing': 'publication.publication_pid'}]"
+citing,integer,,,,

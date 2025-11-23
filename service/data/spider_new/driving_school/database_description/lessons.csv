@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+lesson_id,integer,,"[FOREIGN KEY: ""lessons_vehicle_id"" REFERENCES ""vehicles.vehicles_vehicle_id"" (table_name.column_name)., FOREIGN KEY: ""lessons_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""lessons_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],"[{'lessons_vehicle_id': 'vehicles.vehicles_vehicle_id'}, {'lessons_staff_id': 'staff.staff_staff_id'}, {'lessons_customer_id': 'customers.customers_customer_id'}]"
+lessons_customer_id,integer,,,,
+lesson_status_code,text,,,,
+lessons_staff_id,integer,,,,
+lessons_vehicle_id,integer,,,,
+lesson_date,date,,,,
+lesson_time,text,,,,
+price,double,,,,

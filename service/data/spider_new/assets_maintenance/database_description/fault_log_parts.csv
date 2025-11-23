@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+fault_log_parts_fault_log_entry_id,integer,,"[FOREIGN KEY: ""fault_log_parts_part_fault_id"" REFERENCES ""part_faults.part_faults_part_fault_id"" (table_name.column_name)., FOREIGN KEY: ""fault_log_parts_fault_log_entry_id"" REFERENCES ""fault_log.fault_log_fault_log_entry_id"" (table_name.column_name).]",[],"[{'fault_log_parts_part_fault_id': 'part_faults.part_faults_part_fault_id'}, {'fault_log_parts_fault_log_entry_id': 'fault_log.fault_log_fault_log_entry_id'}]"
+fault_log_parts_part_fault_id,integer,,,,
+fault_log_parts_fault_status,text,,,,

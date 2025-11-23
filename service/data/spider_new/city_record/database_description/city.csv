@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city_city_id,integer,"PRIMARY KEY : (""city_city_id"")",[],['city_id'],[]
+city,text,,,,
+hanzi,text,,,,
+hanyu_pinyin,text,,,,
+regional_population,integer,,,,
+gdp,double,,,,

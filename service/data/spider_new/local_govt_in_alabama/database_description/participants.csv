@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+participants_participant_id,integer,"PRIMARY KEY : (""participants_participant_id"")",[],['participant_id'],[]
+participant_type_code,text,,,,
+participant_details,text,,,,

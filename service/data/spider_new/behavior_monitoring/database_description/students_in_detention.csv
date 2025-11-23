@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+students_in_detention_student_id,integer,,"[FOREIGN KEY: ""students_in_detention_incident_id"" REFERENCES ""behavior_incident.behavior_incident_incident_id"" (table_name.column_name)., FOREIGN KEY: ""students_in_detention_detention_id"" REFERENCES ""detention.detention_detention_id"" (table_name.column_name)., FOREIGN KEY: ""students_in_detention_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",[],"[{'students_in_detention_incident_id': 'behavior_incident.behavior_incident_incident_id'}, {'students_in_detention_detention_id': 'detention.detention_detention_id'}, {'students_in_detention_student_id': 'students.students_student_id'}]"
+students_in_detention_detention_id,integer,,,,
+students_in_detention_incident_id,integer,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+entrepreneur_id,integer,"PRIMARY KEY : (""entrepreneur_id"")","[FOREIGN KEY: ""entrepreneur_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]",['entrepreneur_id'],[{'entrepreneur_people_id': 'people.people_people_id'}]
+entrepreneur_people_id,integer,,,,
+company,text,,,,
+money_requested,double,,,,
+investor,text,,,,

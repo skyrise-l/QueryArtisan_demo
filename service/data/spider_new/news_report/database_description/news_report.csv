@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+news_report_journalist_id,integer,"PRIMARY KEY : (""news_report_journalist_id"", ""news_report_event_id"")","[FOREIGN KEY: ""news_report_journalist_id"" REFERENCES ""journalist.journalist_journalist_id"" (table_name.column_name)., FOREIGN KEY: ""news_report_event_id"" REFERENCES ""event.event_event_id"" (table_name.column_name).]","['journalist_id,event_id']","[{'news_report_journalist_id': 'journalist.journalist_journalist_id'}, {'news_report_event_id': 'event.event_event_id'}]"
+news_report_event_id,integer,,,,
+work_type,text,,,,

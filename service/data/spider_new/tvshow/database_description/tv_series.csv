@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tv_series_id,double,"PRIMARY KEY : (""tv_series_id"")","[FOREIGN KEY: ""tv_series_channel"" REFERENCES ""tv_channel.tv_channel_id"" (table_name.column_name).]",['id'],[{'tv_series_channel': 'tv_channel.tv_channel_id'}]
+episode,text,,,,
+air_date,text,,,,
+rating,text,,,,
+share,double,,,,
+18_49_rating_share,text,,,,
+viewers_m,text,,,,
+weekly_rank,double,,,,
+tv_series_channel,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+person_address_id,integer,"PRIMARY KEY : (""person_address_id"")","[FOREIGN KEY: ""people_addresses_person_id"" REFERENCES ""people.people_person_id"" (table_name.column_name)., FOREIGN KEY: ""people_addresses_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name).]",['person_address_id'],"[{'people_addresses_person_id': 'people.people_person_id'}, {'people_addresses_address_id': 'addresses.addresses_address_id'}]"
+people_addresses_person_id,integer,,,,
+people_addresses_address_id,integer,,,,
+date_from,date,,,,
+date_to,date,,,,

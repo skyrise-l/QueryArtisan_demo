@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+film_film_id,integer,"PRIMARY KEY : (""film_film_id"")",[],['film_id'],[]
+title,text,,,,
+studio,text,,,,
+director,text,,,,
+gross_in_dollar,integer,,,,

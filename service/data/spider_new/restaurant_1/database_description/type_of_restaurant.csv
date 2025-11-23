@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+type_of_restaurant_resid,integer,,"[FOREIGN KEY: ""type_of_restaurant_resid"" REFERENCES ""restaurant.restaurant_resid"" (table_name.column_name)., FOREIGN KEY: ""type_of_restaurant_restypeid"" REFERENCES ""restaurant_type.restaurant_type_restypeid"" (table_name.column_name).]",[],"[{'type_of_restaurant_resid': 'restaurant.restaurant_resid'}, {'type_of_restaurant_restypeid': 'restaurant_type.restaurant_type_restypeid'}]"
+type_of_restaurant_restypeid,integer,,,,

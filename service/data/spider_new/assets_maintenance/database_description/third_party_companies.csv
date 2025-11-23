@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+third_party_companies_company_id,integer,,[],[],[]
+company_type,text,,,,
+company_name,text,,,,
+company_address,text,,,,
+other_company_details,text,,,,

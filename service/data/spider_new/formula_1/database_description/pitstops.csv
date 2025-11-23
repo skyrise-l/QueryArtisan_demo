@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+pitstops_raceid,integer,"PRIMARY KEY : (""pitstops_raceid"", "" driverid"", "" stop"")","[FOREIGN KEY: ""pitstops_raceid"" REFERENCES ""races.races_raceid"" (table_name.column_name)., FOREIGN KEY: ""pitstops_driverid"" REFERENCES ""drivers.drivers_driverid"" (table_name.column_name).]","['raceid, driverid, stop']","[{'pitstops_raceid': 'races.races_raceid'}, {'pitstops_driverid': 'drivers.drivers_driverid'}]"
+pitstops_driverid,integer,,,,
+stop,integer,,,,
+pitstops_lap,integer,,,,
+pitstops_time,text,,,,
+duration,text,,,,
+pitstops_milliseconds,integer,,,,

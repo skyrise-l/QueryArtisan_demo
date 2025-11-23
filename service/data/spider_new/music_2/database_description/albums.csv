@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+aid,integer,,[],[],[]
+albums_title,text,,,,
+year,integer,,,,
+label,text,,,,
+albums_type,text,,,,

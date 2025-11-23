@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+people_person_id,integer,"PRIMARY KEY : (""people_person_id"")",[],['person_id'],[]
+first_name,text,,,,
+middle_name,text,,,,
+last_name,text,,,,
+cell_mobile_number,text,,,,
+email_address,text,,,,
+login_name,text,,,,
+password,text,,,,

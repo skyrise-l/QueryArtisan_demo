@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+accelerator_id,integer,"PRIMARY KEY : (""accelerator_id"", "" browser_id"")","[FOREIGN KEY: ""accelerator_id"" REFERENCES ""web_client_accelerator.web_client_accelerator_id"" (table_name.column_name)., FOREIGN KEY: ""browser_id"" REFERENCES ""browser.browser_id"" (table_name.column_name).]","['accelerator_id, browser_id']","[{'accelerator_id': 'web_client_accelerator.web_client_accelerator_id'}, {'browser_id': 'browser.browser_id'}]"
+browser_id,integer,,,,
+compatible_since_year,integer,,,,

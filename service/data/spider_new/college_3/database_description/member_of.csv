@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_of_facid,integer,,"[FOREIGN KEY: ""member_of_facid"" REFERENCES ""faculty.faculty_facid"" (table_name.column_name)., FOREIGN KEY: ""member_of_dno"" REFERENCES ""department.department_dno"" (table_name.column_name).]",[],"[{'member_of_facid': 'faculty.faculty_facid'}, {'member_of_dno': 'department.department_dno'}]"
+member_of_dno,integer,,,,
+appt_type,text,,,,

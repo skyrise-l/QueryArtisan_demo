@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+state_state_name,text,"PRIMARY KEY : (""state_state_name"")",[],['state_name'],[]
+state_population,integer,,,,
+state_area,double,,,,
+state_country_name,text,,,,
+capital,text,,,,
+density,double,,,,

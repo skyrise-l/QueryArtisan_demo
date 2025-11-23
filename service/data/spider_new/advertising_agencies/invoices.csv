@@ -1,0 +1,16 @@
+invoices_invoice_id,invoices_client_id,invoice_status,invoice_details
+1,5,Working,excellent
+2,9,Starting,good
+3,15,Starting,excellent
+4,8,Starting,ok
+5,7,Finish,excellent
+6,8,Working,excellent
+7,7,Finish,excellent
+8,14,Finish,excellent
+9,12,Starting,good
+10,2,Finish,excellent
+11,11,Working,excellent
+12,9,Starting,good
+13,4,Starting,excellent
+14,14,Working,excellent
+15,14,Working,excellent

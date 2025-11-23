@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+competition_record_competition_id,integer,"PRIMARY KEY : (""competition_record_competition_id"", ""competition_record_farm_id"")","[FOREIGN KEY: ""competition_record_competition_id"" REFERENCES ""farm_competition.farm_competition_competition_id"" (table_name.column_name)., FOREIGN KEY: ""competition_record_farm_id"" REFERENCES ""farm.farm_farm_id"" (table_name.column_name).]","['competition_id,farm_id']","[{'competition_record_competition_id': 'farm_competition.farm_competition_competition_id'}, {'competition_record_farm_id': 'farm.farm_farm_id'}]"
+competition_record_farm_id,integer,,,,
+rank,integer,,,,

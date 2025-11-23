@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+purchase_member_id,integer,"PRIMARY KEY : (""purchase_member_id"", ""purchase_branch_id"", ""year"")","[FOREIGN KEY: ""purchase_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name)., FOREIGN KEY: ""purchase_branch_id"" REFERENCES ""branch.branch_branch_id"" (table_name.column_name).]","['member_id,branch_id,year']","[{'purchase_member_id': 'member.member_member_id'}, {'purchase_branch_id': 'branch.branch_branch_id'}]"
+purchase_branch_id,text,,,,
+year,text,,,,
+total_pounds,double,,,,

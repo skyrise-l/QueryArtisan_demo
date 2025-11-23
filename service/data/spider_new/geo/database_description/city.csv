@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city_name,text,"PRIMARY KEY : (""city_name"", ""city_state_name"")","[FOREIGN KEY: ""city_state_name"" REFERENCES ""state.state_state_name"" (table_name.column_name).]","['city_name,state_name']",[{'city_state_name': 'state.state_state_name'}]
+city_population,integer,,,,
+city_country_name,text,,,,
+city_state_name,text,,,,

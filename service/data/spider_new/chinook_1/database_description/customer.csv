@@ -1,0 +1,14 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_customerid,integer,"PRIMARY KEY : (""customer_customerid"")","[FOREIGN KEY: ""supportrepid"" REFERENCES ""employee.employeeid"" (table_name.column_name).]",['customerid'],[{'supportrepid': 'employee.employeeid'}]
+customer_firstname,text,,,,
+customer_lastname,text,,,,
+company,text,,,,
+customer_address,text,,,,
+customer_city,text,,,,
+customer_state,text,,,,
+customer_country,text,,,,
+customer_postalcode,text,,,,
+customer_phone,text,,,,
+customer_fax,text,,,,
+customer_email,text,,,,
+supportrepid,integer,,,,

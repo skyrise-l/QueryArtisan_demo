@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+problem_log_id,integer,,"[FOREIGN KEY: ""problem_log_problem_category_code"" REFERENCES ""problem_category_codes.problem_category_codes_problem_category_code"" (table_name.column_name)., FOREIGN KEY: ""assigned_to_staff_id"" REFERENCES ""staff.staff_id"" (table_name.column_name)., FOREIGN KEY: ""problem_log_problem_id"" REFERENCES ""problems.problems_problem_id"" (table_name.column_name)., FOREIGN KEY: ""problem_log_problem_status_code"" REFERENCES ""problem_status_codes.problem_status_codes_problem_status_code"" (table_name.column_name).]",[],"[{'problem_log_problem_category_code': 'problem_category_codes.problem_category_codes_problem_category_code'}, {'assigned_to_staff_id': 'staff.staff_id'}, {'problem_log_problem_id': 'problems.problems_problem_id'}, {'problem_log_problem_status_code': 'problem_status_codes.problem_status_codes_problem_status_code'}]"
+assigned_to_staff_id,integer,,,,
+problem_log_problem_id,integer,,,,
+problem_log_problem_category_code,text,,,,
+problem_log_problem_status_code,text,,,,
+log_entry_date,date,,,,
+log_entry_description,text,,,,
+log_entry_fix,text,,,,
+other_log_details,text,,,,

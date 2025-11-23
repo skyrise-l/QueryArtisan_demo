@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+department_dept_name,text,"PRIMARY KEY : (""department_dept_name"")",[],['dept_name'],[]
+department_building,text,,,,
+budget,double,,,,

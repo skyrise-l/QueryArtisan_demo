@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+students_student_id,integer,,[],[],[]
+date_of_registration,date,,,,
+date_of_latest_logon,date,,,,
+students_login_name,text,,,,
+students_password,text,,,,
+students_personal_name,text,,,,
+students_middle_name,text,,,,
+students_family_name,text,,,,

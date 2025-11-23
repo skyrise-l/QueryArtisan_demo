@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+departments_department_id,integer,,[],[],[]
+department_name,text,,,,
+department_description,text,,,,
+departments_other_details,text,,,,

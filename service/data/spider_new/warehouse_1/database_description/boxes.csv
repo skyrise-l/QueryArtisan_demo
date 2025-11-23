@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+boxes_code,text,"PRIMARY KEY : (""boxes_code"")","[FOREIGN KEY: ""warehouse"" REFERENCES ""warehouses.warehouses_code"" (table_name.column_name).]",['code'],[{'warehouse': 'warehouses.warehouses_code'}]
+contents,text,,,,
+value,double,,,,
+warehouse,integer,,,,

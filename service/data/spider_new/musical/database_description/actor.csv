@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+actor_id,integer,"PRIMARY KEY : (""actor_id"")","[FOREIGN KEY: ""actor_musical_id"" REFERENCES ""actor.actor_id"" (table_name.column_name).]",['actor_id'],[{'actor_musical_id': 'actor.actor_id'}]
+actor_name,text,,,,
+actor_musical_id,integer,,,,
+character,text,,,,
+duration,text,,,,
+age,integer,,,,

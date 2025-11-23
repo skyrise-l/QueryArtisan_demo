@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+user_property_history_user_id,integer,,"[FOREIGN KEY: ""user_property_history_user_id"" REFERENCES ""users.users_user_id"" (table_name.column_name)., FOREIGN KEY: ""user_property_history_property_id"" REFERENCES ""properties.properties_property_id"" (table_name.column_name).]",[],"[{'user_property_history_user_id': 'users.users_user_id'}, {'user_property_history_property_id': 'properties.properties_property_id'}]"
+user_property_history_property_id,integer,,,,
+datestamp,date,,,,

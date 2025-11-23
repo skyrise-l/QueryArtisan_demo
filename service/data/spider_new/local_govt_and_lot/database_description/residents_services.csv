@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+residents_services_resident_id,integer,"PRIMARY KEY : (""residents_services_resident_id"", "" service_id"")","[FOREIGN KEY: ""residents_services_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name)., FOREIGN KEY: ""resident_id, property_id, date_moved_in"" REFERENCES ""residents.resident_id,property_id,date_moved_in"" (table_name.column_name).]","['resident_id, service_id']","[{'residents_services_service_id': 'services.services_service_id'}, {'resident_id, property_id, date_moved_in': 'residents.resident_id,property_id,date_moved_in'}]"
+residents_services_service_id,integer,,,,
+residents_services_date_moved_in,date,,,,
+residents_services_property_id,integer,,,,
+date_requested,date,,,,
+date_provided,date,,,,
+residents_services_other_details,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+happy_hour_hh_id,integer,"PRIMARY KEY : (""happy_hour_hh_id"", ""happy_hour_shop_id"", ""month"")","[FOREIGN KEY: ""happy_hour_shop_id"" REFERENCES ""shop.shop_shop_id"" (table_name.column_name).]","['hh_id,shop_id,month']",[{'happy_hour_shop_id': 'shop.shop_shop_id'}]
+happy_hour_shop_id,integer,,,,
+month,text,,,,
+num_of_shaff_in_charge,integer,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_party_id,integer,"PRIMARY KEY : (""party_party_id"")",[],['party_id'],[]
+party_theme,text,,,,
+location,text,,,,
+first_year,text,,,,
+last_year,text,,,,
+number_of_hosts,integer,,,,

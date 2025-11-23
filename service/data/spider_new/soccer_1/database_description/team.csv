@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_id,integer,,[],[],[]
+team_team_api_id,integer,,,,
+team_team_fifa_api_id,integer,,,,
+team_long_name,text,,,,
+team_short_name,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_course_id,integer,"PRIMARY KEY : (""course_course_id"")",[],['course_id'],[]
+staring_date,text,,,,
+course,text,,,,

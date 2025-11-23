@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+weekly_weather_station_id,integer,"PRIMARY KEY : (""weekly_weather_station_id"", "" day_of_week"")","[FOREIGN KEY: ""weekly_weather_station_id"" REFERENCES ""station.station_id"" (table_name.column_name).]","['station_id, day_of_week']",[{'weekly_weather_station_id': 'station.station_id'}]
+day_of_week,text,,,,
+high_temperature,integer,,,,
+low_temperature,integer,,,,
+precipitation,double,,,,
+wind_speed_mph,integer,,,,

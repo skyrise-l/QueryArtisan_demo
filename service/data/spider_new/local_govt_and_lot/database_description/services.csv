@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+services_service_id,integer,"PRIMARY KEY : (""services_service_id"")","[FOREIGN KEY: ""services_organization_id"" REFERENCES ""organizations.organizations_organization_id"" (table_name.column_name).]",['service_id'],[{'services_organization_id': 'organizations.organizations_organization_id'}]
+services_organization_id,integer,,,,
+services_service_type_code,text,,,,
+services_service_details,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+job_history_employee_id,text,"PRIMARY KEY : (""job_history_employee_id"", ""start_date"")","[FOREIGN KEY: ""job_history_employee_id"" REFERENCES ""employees.employees_employee_id"" (table_name.column_name)., FOREIGN KEY: ""job_history_department_id"" REFERENCES ""departments.departments_department_id"" (table_name.column_name)., FOREIGN KEY: ""job_history_job_id"" REFERENCES ""jobs.jobs_job_id"" (table_name.column_name).]","['employee_id,start_date']","[{'job_history_employee_id': 'employees.employees_employee_id'}, {'job_history_department_id': 'departments.departments_department_id'}, {'job_history_job_id': 'jobs.jobs_job_id'}]"
+start_date,text,,,,
+end_date,text,,,,
+job_history_job_id,text,,,,
+job_history_department_id,text,,,,

@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+domain_journal_did,integer,"PRIMARY KEY : (""domain_journal_did"", "" jid"")","[FOREIGN KEY: ""domain_journal_jid"" REFERENCES ""journal.journal_jid"" (table_name.column_name)., FOREIGN KEY: ""domain_journal_did"" REFERENCES ""domain.domain_did"" (table_name.column_name).]","['did, jid']","[{'domain_journal_jid': 'journal.journal_jid'}, {'domain_journal_did': 'domain.domain_did'}]"
+domain_journal_jid,integer,,,,

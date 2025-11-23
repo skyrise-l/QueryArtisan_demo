@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+code,integer,,"[FOREIGN KEY: ""room"" REFERENCES ""rooms.roomid"" (table_name.column_name).]",[],[{'room': 'rooms.roomid'}]
+room,text,,,,
+checkin,text,,,,
+checkout,text,,,,
+rate,double,,,,
+lastname,text,,,,
+firstname,text,,,,
+adults,integer,,,,
+kids,integer,,,,

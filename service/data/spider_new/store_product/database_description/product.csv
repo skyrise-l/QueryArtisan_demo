@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_id,integer,"PRIMARY KEY : (""product_id"")",[],['product_id'],[]
+product,text,,,,
+dimensions,text,,,,
+dpi,double,,,,
+pages_per_minute_color,double,,,,
+max_page_size,text,,,,
+interface,text,,,,

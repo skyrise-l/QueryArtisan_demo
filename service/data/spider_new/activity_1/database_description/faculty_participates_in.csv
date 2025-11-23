@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+faculty_participates_in_facid,integer,,"[FOREIGN KEY: ""faculty_participates_in_facid"" REFERENCES ""faculty.faculty_facid"" (table_name.column_name)., FOREIGN KEY: ""faculty_participates_in_actid"" REFERENCES ""activity.activity_actid"" (table_name.column_name).]",[],"[{'faculty_participates_in_facid': 'faculty.faculty_facid'}, {'faculty_participates_in_actid': 'activity.activity_actid'}]"
+faculty_participates_in_actid,integer,,,,

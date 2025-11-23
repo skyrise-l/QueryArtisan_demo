@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+departmentid,integer,"PRIMARY KEY : (""departmentid"")","[FOREIGN KEY: ""head"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name).]",['departmentid'],[{'head': 'physician.physician_employeeid'}]
+department_name,text,,,,
+head,integer,,,,

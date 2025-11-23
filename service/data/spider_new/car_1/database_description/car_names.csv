@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+makeid,integer,,"[FOREIGN KEY: ""car_names_model"" REFERENCES ""model_list.model_list_model"" (table_name.column_name).]",[],[{'car_names_model': 'model_list.model_list_model'}]
+car_names_model,text,,,,
+make,text,,,,

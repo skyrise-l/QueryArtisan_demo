@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+countries_id,integer,"PRIMARY KEY : (""countries_id"")",[],['id'],[]
+countries_name,text,,,,
+overall_score,double,,,,
+justice_score,double,,,,
+health_score,double,,,,
+education_score,double,,,,
+economics_score,double,,,,
+politics_score,double,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_id,integer,"PRIMARY KEY : (""school_id"", ""school_year"")","[FOREIGN KEY: ""school_id"" REFERENCES ""school.school_school_id"" (table_name.column_name).]","['school_id,school_year']",[{'school_id': 'school.school_school_id'}]
+school_year,text,,,,
+class_a,text,,,,
+class_aa,text,,,,

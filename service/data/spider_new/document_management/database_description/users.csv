@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+user_id,integer,,"[FOREIGN KEY: ""users_role_code"" REFERENCES ""roles.roles_role_code"" (table_name.column_name).]",[],[{'users_role_code': 'roles.roles_role_code'}]
+users_role_code,text,,,,
+user_name,text,,,,
+user_login,text,,,,
+password,text,,,,

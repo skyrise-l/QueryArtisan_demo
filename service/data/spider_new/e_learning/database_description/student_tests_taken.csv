@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_tests_taken_registration_id,integer,,"[FOREIGN KEY: ""student_tests_taken_registration_id"" REFERENCES ""student_course_enrolment.student_course_enrolment_registration_id"" (table_name.column_name).]",[],[{'student_tests_taken_registration_id': 'student_course_enrolment.student_course_enrolment_registration_id'}]
+date_test_taken,date,,,,
+test_result,text,,,,

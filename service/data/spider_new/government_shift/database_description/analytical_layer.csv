@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+analytical_id,integer,"PRIMARY KEY : (""analytical_id"")","[FOREIGN KEY: ""analytical_layer_customers_and_services_id"" REFERENCES ""customers_and_services.customers_and_services_customers_and_services_id"" (table_name.column_name).]",['analytical_id'],[{'analytical_layer_customers_and_services_id': 'customers_and_services.customers_and_services_customers_and_services_id'}]
+analytical_layer_customers_and_services_id,text,,,,
+pattern_recognition,text,,,,
+analytical_layer_type_code,text,,,,

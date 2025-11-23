@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+railway_manage_railway_id,integer,"PRIMARY KEY : (""railway_manage_railway_id"", ""railway_manage_manager_id"")","[FOREIGN KEY: ""railway_manage_manager_id"" REFERENCES ""manager.manager_manager_id"" (table_name.column_name)., FOREIGN KEY: ""railway_manage_railway_id"" REFERENCES ""railway.railway_railway_id"" (table_name.column_name).]","['railway_id,manager_id']","[{'railway_manage_manager_id': 'manager.manager_manager_id'}, {'railway_manage_railway_id': 'railway.railway_railway_id'}]"
+railway_manage_manager_id,integer,,,,
+from_year,text,,,,

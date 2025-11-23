@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+questions_question_id,integer,"PRIMARY KEY : (""questions_question_id"")",[],['question_id'],[]
+type_of_question_code,text,,,,
+question_text,text,,,,

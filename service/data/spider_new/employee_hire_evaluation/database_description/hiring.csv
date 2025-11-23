@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+hiring_shop_id,integer,"PRIMARY KEY : (""hiring_employee_id"")","[FOREIGN KEY: ""hiring_shop_id"" REFERENCES ""shop.shop_shop_id"" (table_name.column_name)., FOREIGN KEY: ""hiring_employee_id"" REFERENCES ""employee.employee_employee_id"" (table_name.column_name).]",['employee_id'],"[{'hiring_shop_id': 'shop.shop_shop_id'}, {'hiring_employee_id': 'employee.employee_employee_id'}]"
+hiring_employee_id,integer,,,,
+start_from,text,,,,
+is_full_time,text,,,,

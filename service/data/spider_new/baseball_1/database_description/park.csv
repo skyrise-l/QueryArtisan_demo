@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+park_park_id,text,,[],[],[]
+park_name,text,,,,
+park_alias,text,,,,
+park_city,text,,,,
+park_state,text,,,,
+park_country,text,,,,

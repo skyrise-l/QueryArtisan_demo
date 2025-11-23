@@ -1,0 +1,16 @@
+payment_id,payments_invoice_id,payment_details
+1,3,MasterCard
+2,5,Visa
+3,8,Discover Card
+4,11,MasterCard
+5,12,Visa
+6,9,Visa
+7,14,Visa
+8,2,American Express
+9,8,Visa
+10,8,Visa
+11,12,Visa
+12,11,Visa
+13,2,MasterCard
+14,6,Visa
+15,3,Visa

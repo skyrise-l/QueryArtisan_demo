@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+appointmentid,integer,,"[FOREIGN KEY: ""appointment_patient"" REFERENCES ""patient.patient_ssn"" (table_name.column_name)., FOREIGN KEY: ""prepnurse"" REFERENCES ""nurse.nurse_employeeid"" (table_name.column_name)., FOREIGN KEY: ""appointment_physician"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name).]",[],"[{'appointment_patient': 'patient.patient_ssn'}, {'prepnurse': 'nurse.nurse_employeeid'}, {'appointment_physician': 'physician.physician_employeeid'}]"
+appointment_patient,integer,,,,
+prepnurse,integer,,,,
+appointment_physician,integer,,,,
+start,date,,,,
+end,date,,,,
+examinationroom,text,,,,

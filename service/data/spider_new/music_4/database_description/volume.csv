@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+volume_id,integer,"PRIMARY KEY : (""volume_id"")","[FOREIGN KEY: ""volume_artist_id"" REFERENCES ""artist.artist_artist_id"" (table_name.column_name).]",['volume_id'],[{'volume_artist_id': 'artist.artist_artist_id'}]
+volume_issue,text,,,,
+issue_date,text,,,,
+weeks_on_top,double,,,,
+song,text,,,,
+volume_artist_id,integer,,,,

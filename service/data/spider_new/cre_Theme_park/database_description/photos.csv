@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+photo_id,integer,"PRIMARY KEY : (""photo_id"")","[FOREIGN KEY: ""photos_tourist_attraction_id"" REFERENCES ""tourist_attractions.tourist_attractions_tourist_attraction_id"" (table_name.column_name).]",['photo_id'],[{'photos_tourist_attraction_id': 'tourist_attractions.tourist_attractions_tourist_attraction_id'}]
+photos_tourist_attraction_id,integer,,,,
+photos_name,text,,,,
+photos_description,text,,,,
+filename,text,,,,
+photos_other_details,text,,,,

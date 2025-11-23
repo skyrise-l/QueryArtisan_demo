@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+singer_in_concert_concert_id,integer,"PRIMARY KEY : (""singer_in_concert_concert_id"", ""singer_in_concert_singer_id"")","[FOREIGN KEY: ""singer_in_concert_concert_id"" REFERENCES ""concert.concert_concert_id"" (table_name.column_name)., FOREIGN KEY: ""singer_in_concert_singer_id"" REFERENCES ""singer.singer_singer_id"" (table_name.column_name).]","['concert_id,singer_id']","[{'singer_in_concert_concert_id': 'concert.concert_concert_id'}, {'singer_in_concert_singer_id': 'singer.singer_singer_id'}]"
+singer_in_concert_singer_id,text,,,,

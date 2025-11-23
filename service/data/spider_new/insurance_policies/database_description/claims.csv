@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claims_claim_id,integer,"PRIMARY KEY : (""claims_claim_id"")","[FOREIGN KEY: ""claims_policy_id"" REFERENCES ""customer_policies.customer_policies_policy_id"" (table_name.column_name).]",['claim_id'],[{'claims_policy_id': 'customer_policies.customer_policies_policy_id'}]
+claims_policy_id,integer,,,,
+claims_date_claim_made,date,,,,
+claims_date_claim_settled,date,,,,
+claims_amount_claimed,integer,,,,
+claims_amount_settled,integer,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+climber_id,integer,"PRIMARY KEY : (""climber_id"")","[FOREIGN KEY: ""climber_mountain_id"" REFERENCES ""mountain.mountain_mountain_id"" (table_name.column_name).]",['climber_id'],[{'climber_mountain_id': 'mountain.mountain_mountain_id'}]
+climber_name,text,,,,
+climber_country,text,,,,
+time,text,,,,
+points,double,,,,
+climber_mountain_id,integer,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+reserves_sid,integer,,"[FOREIGN KEY: ""reserves_sid"" REFERENCES ""sailors.sailors_sid"" (table_name.column_name)., FOREIGN KEY: ""reserves_bid"" REFERENCES ""boats.boats_bid"" (table_name.column_name).]",[],"[{'reserves_sid': 'sailors.sailors_sid'}, {'reserves_bid': 'boats.boats_bid'}]"
+reserves_bid,integer,,,,
+day,text,,,,

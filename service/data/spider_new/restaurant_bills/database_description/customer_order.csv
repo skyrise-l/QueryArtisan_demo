@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_order_customer_id,integer,"PRIMARY KEY : (""customer_order_customer_id"", ""customer_order_branch_id"", ""dish_name"")","[FOREIGN KEY: ""customer_order_customer_id"" REFERENCES ""customer.customer_customer_id"" (table_name.column_name)., FOREIGN KEY: ""customer_order_branch_id"" REFERENCES ""branch.branch_branch_id"" (table_name.column_name).]","['customer_id,branch_id,dish_name']","[{'customer_order_customer_id': 'customer.customer_customer_id'}, {'customer_order_branch_id': 'branch.branch_branch_id'}]"
+customer_order_branch_id,integer,,,,
+dish_name,text,,,,
+quantity,integer,,,,

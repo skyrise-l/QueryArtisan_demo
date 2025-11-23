@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+branch_branch_id,integer,"PRIMARY KEY : (""branch_branch_id"")",[],['branch_id'],[]
+manager,text,,,,
+years_opened,integer,,,,
+location_of_office,text,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+players_player_id,integer,,[],[],[]
+first_name,text,,,,
+last_name,text,,,,
+hand,text,,,,
+birth_date,integer,,,,
+country_code,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cid,integer,"PRIMARY KEY : (""cid"")","[FOREIGN KEY: ""checkin_business_id"" REFERENCES ""business.business_business_id"" (table_name.column_name).]",['cid'],[{'checkin_business_id': 'business.business_business_id'}]
+checkin_business_id,text,,,,
+count,integer,,,,
+day,text,,,,

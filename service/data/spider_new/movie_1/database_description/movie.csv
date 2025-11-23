@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+movie_mid,integer,,[],[],[]
+title,text,,,,
+year,integer,,,,
+director,text,,,,

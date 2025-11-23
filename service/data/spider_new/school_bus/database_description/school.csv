@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_school_id,integer,"PRIMARY KEY : (""school_school_id"")",[],['school_id'],[]
+grade,text,,,,
+school,text,,,,
+location,text,,,,
+type,text,,,,

@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+vehicles_id,integer,"PRIMARY KEY : (""vehicles_id"")",[],['id'],[]
+vehicles_name,text,,,,
+model_year,integer,,,,
+type_of_powertrain,text,,,,
+combined_fuel_economy_rate,integer,,,,
+city_fuel_economy_rate,integer,,,,
+highway_fuel_economy_rate,integer,,,,
+cost_per_25_miles,double,,,,
+annual_fuel_cost,double,,,,
+notes,text,,,,

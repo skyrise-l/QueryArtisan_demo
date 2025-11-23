@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+paragraph_id,integer,"PRIMARY KEY : (""paragraph_id"")","[FOREIGN KEY: ""paragraphs_document_id"" REFERENCES ""documents.documents_document_id"" (table_name.column_name).]",['paragraph_id'],[{'paragraphs_document_id': 'documents.documents_document_id'}]
+paragraphs_document_id,integer,,,,
+paragraph_text,text,,,,
+paragraphs_other_details,text,,,,

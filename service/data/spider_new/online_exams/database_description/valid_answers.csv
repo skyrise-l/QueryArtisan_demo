@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+valid_answers_valid_answer_id,integer,"PRIMARY KEY : (""valid_answers_valid_answer_id"")","[FOREIGN KEY: ""valid_answers_question_id"" REFERENCES ""questions.questions_question_id"" (table_name.column_name).]",['valid_answer_id'],[{'valid_answers_question_id': 'questions.questions_question_id'}]
+valid_answers_question_id,integer,,,,
+valid_answer_text,text,,,,

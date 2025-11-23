@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+a_id,integer,,"[FOREIGN KEY: ""review_u_id"" REFERENCES ""useracct.useracct_u_id"" (table_name.column_name)., FOREIGN KEY: ""review_i_id"" REFERENCES ""item.item_i_id"" (table_name.column_name).]",[],"[{'review_u_id': 'useracct.useracct_u_id'}, {'review_i_id': 'item.item_i_id'}]"
+review_u_id,integer,,,,
+review_i_id,integer,,,,
+rating,integer,,,,
+rank,integer,,,,

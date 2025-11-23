@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+scientist,integer,"PRIMARY KEY : (""scientist"", "" project"")","[FOREIGN KEY: ""scientist"" REFERENCES ""scientists.ssn"" (table_name.column_name)., FOREIGN KEY: ""project"" REFERENCES ""projects.code"" (table_name.column_name).]","['scientist, project']","[{'scientist': 'scientists.ssn'}, {'project': 'projects.code'}]"
+project,text,,,,

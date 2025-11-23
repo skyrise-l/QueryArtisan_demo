@@ -1,0 +1,16 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+code,text,"PRIMARY KEY : (""code"")",[],['code'],[]
+country_name,text,,,,
+continent,text,,,,
+region,text,,,,
+surfacearea,double,,,,
+indepyear,integer,,,,
+country_population,integer,,,,
+lifeexpectancy,double,,,,
+gnp,double,,,,
+gnpold,double,,,,
+localname,text,,,,
+governmentform,text,,,,
+headofstate,text,,,,
+capital,integer,,,,
+code2,text,,,,

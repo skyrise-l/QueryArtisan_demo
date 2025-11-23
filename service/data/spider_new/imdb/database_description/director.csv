@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+director_did,integer,"PRIMARY KEY : (""director_did"")",[],['did'],[]
+director_gender,text,,,,
+director_name,text,,,,
+director_nationality,text,,,,
+director_birth_city,text,,,,
+director_birth_year,integer,,,,

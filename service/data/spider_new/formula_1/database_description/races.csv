@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+races_raceid,integer,,"[FOREIGN KEY: ""races_circuitid"" REFERENCES ""circuits.circuits_circuitid"" (table_name.column_name).]",[],[{'races_circuitid': 'circuits.circuits_circuitid'}]
+races_year,integer,,,,
+round,integer,,,,
+races_circuitid,integer,,,,
+races_name,text,,,,
+date,text,,,,
+races_time,text,,,,
+races_url,text,,,,

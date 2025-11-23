@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+debate_debate_id,integer,"PRIMARY KEY : (""debate_debate_id"")",[],['debate_id'],[]
+date,text,,,,
+venue,text,,,,
+num_of_audience,integer,,,,

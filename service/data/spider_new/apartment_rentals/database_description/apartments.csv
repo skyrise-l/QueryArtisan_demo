@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+apartments_apt_id,integer,"PRIMARY KEY : (""apartments_apt_id"")","[FOREIGN KEY: ""apartments_building_id"" REFERENCES ""apartment_buildings.apartment_buildings_building_id"" (table_name.column_name).]",['apt_id'],[{'apartments_building_id': 'apartment_buildings.apartment_buildings_building_id'}]
+apartments_building_id,integer,,,,
+apt_type_code,text,,,,
+apt_number,text,,,,
+bathroom_count,integer,,,,
+bedroom_count,integer,,,,
+room_count,text,,,,

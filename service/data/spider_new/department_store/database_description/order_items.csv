@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+order_item_id,integer,,"[FOREIGN KEY: ""order_items_order_id"" REFERENCES ""customer_orders.customer_orders_order_id"" (table_name.column_name)., FOREIGN KEY: ""order_items_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name).]",[],"[{'order_items_order_id': 'customer_orders.customer_orders_order_id'}, {'order_items_product_id': 'products.products_product_id'}]"
+order_items_order_id,integer,,,,
+order_items_product_id,integer,,,,

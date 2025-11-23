@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+county_public_safety_county_id,integer,"PRIMARY KEY : (""county_public_safety_county_id"")",[],['county_id'],[]
+county_public_safety_name,text,,,,
+population,integer,,,,
+police_officers,integer,,,,
+residents_per_officer,integer,,,,
+case_burden,integer,,,,
+crime_rate,double,,,,
+police_force,text,,,,
+location,text,,,,

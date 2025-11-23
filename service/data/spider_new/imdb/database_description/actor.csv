@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+actor_aid,integer,"PRIMARY KEY : (""actor_aid"")",[],['aid'],[]
+actor_gender,text,,,,
+actor_name,text,,,,
+actor_nationality,text,,,,
+actor_birth_city,text,,,,
+actor_birth_year,integer,,,,

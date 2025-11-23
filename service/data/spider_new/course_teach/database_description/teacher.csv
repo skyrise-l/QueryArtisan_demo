@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+teacher_teacher_id,integer,"PRIMARY KEY : (""teacher_teacher_id"")",[],['teacher_id'],[]
+name,text,,,,
+age,text,,,,
+hometown,text,,,,

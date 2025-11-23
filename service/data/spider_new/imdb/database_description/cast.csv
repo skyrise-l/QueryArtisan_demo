@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cast_id,integer,"PRIMARY KEY : (""cast_id"")","[FOREIGN KEY: ""cast_aid"" REFERENCES ""actor.actor_aid"" (table_name.column_name)., FOREIGN KEY: ""cast_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name).]",['id'],"[{'cast_aid': 'actor.actor_aid'}, {'cast_msid': 'copyright.copyright_msid'}]"
+cast_msid,integer,,,,
+cast_aid,integer,,,,
+role,integer,,,,

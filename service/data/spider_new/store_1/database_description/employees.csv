@@ -1,0 +1,16 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employees_id,integer,,"[FOREIGN KEY: ""reports_to"" REFERENCES ""employees.employees_id"" (table_name.column_name).]",[],[{'reports_to': 'employees.employees_id'}]
+employees_last_name,text,,,,
+employees_first_name,text,,,,
+employees_title,text,,,,
+reports_to,integer,,,,
+birth_date,date,,,,
+hire_date,date,,,,
+employees_address,text,,,,
+employees_city,text,,,,
+employees_state,text,,,,
+employees_country,text,,,,
+employees_postal_code,text,,,,
+employees_phone,text,,,,
+employees_fax,text,,,,
+employees_email,text,,,,

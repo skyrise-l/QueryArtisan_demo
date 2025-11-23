@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+project_staff_staff_id,double,,"[FOREIGN KEY: ""project_staff_project_id"" REFERENCES ""projects.projects_project_id"" (table_name.column_name)., FOREIGN KEY: ""project_staff_role_code"" REFERENCES ""staff_roles.staff_roles_role_code"" (table_name.column_name).]",[],"[{'project_staff_project_id': 'projects.projects_project_id'}, {'project_staff_role_code': 'staff_roles.staff_roles_role_code'}]"
+project_staff_project_id,integer,,,,
+project_staff_role_code,text,,,,
+date_from,date,,,,
+date_to,date,,,,
+project_staff_other_details,text,,,,

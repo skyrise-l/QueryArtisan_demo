@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+albumid,integer,"PRIMARY KEY : (""albumid"", "" position"")","[FOREIGN KEY: ""tracklists_songid"" REFERENCES ""songs.songs_songid"" (table_name.column_name)., FOREIGN KEY: ""albumid"" REFERENCES ""albums.aid"" (table_name.column_name).]","['albumid, position']","[{'tracklists_songid': 'songs.songs_songid'}, {'albumid': 'albums.aid'}]"
+position,integer,,,,
+tracklists_songid,integer,,,,

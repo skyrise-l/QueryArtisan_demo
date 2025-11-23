@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+shipments_shipment_id,integer,,"[FOREIGN KEY: ""shipments_order_id"" REFERENCES ""orders.orders_order_id"" (table_name.column_name)., FOREIGN KEY: ""shipments_invoice_number"" REFERENCES ""invoices.invoices_invoice_number"" (table_name.column_name).]",[],"[{'shipments_order_id': 'orders.orders_order_id'}, {'shipments_invoice_number': 'invoices.invoices_invoice_number'}]"
+shipments_order_id,integer,,,,
+shipments_invoice_number,integer,,,,
+shipment_tracking_number,text,,,,
+shipment_date,date,,,,
+other_shipment_details,text,,,,

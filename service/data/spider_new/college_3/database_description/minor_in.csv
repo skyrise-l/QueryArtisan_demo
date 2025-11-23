@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+minor_in_stuid,integer,,"[FOREIGN KEY: ""minor_in_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name)., FOREIGN KEY: ""minor_in_dno"" REFERENCES ""department.department_dno"" (table_name.column_name).]",[],"[{'minor_in_stuid': 'student.student_stuid'}, {'minor_in_dno': 'department.department_dno'}]"
+minor_in_dno,integer,,,,

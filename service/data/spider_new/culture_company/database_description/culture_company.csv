@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+company_name,text,"PRIMARY KEY : (""company_name"")","[FOREIGN KEY: ""culture_company_book_club_id"" REFERENCES ""book_club.book_club_book_club_id"" (table_name.column_name)., FOREIGN KEY: ""culture_company_movie_id"" REFERENCES ""movie.movie_movie_id"" (table_name.column_name).]",['company_name'],"[{'culture_company_book_club_id': 'book_club.book_club_book_club_id'}, {'culture_company_movie_id': 'movie.movie_movie_id'}]"
+type,text,,,,
+incorporated_in,text,,,,
+group_equity_shareholding,double,,,,
+culture_company_book_club_id,text,,,,
+culture_company_movie_id,text,,,,

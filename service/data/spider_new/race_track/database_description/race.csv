@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+race_id,integer,"PRIMARY KEY : (""race_id"")","[FOREIGN KEY: ""race_track_id"" REFERENCES ""track.track_track_id"" (table_name.column_name).]",['race_id'],[{'race_track_id': 'track.track_track_id'}]
+race_name,text,,,,
+class,text,,,,
+date,text,,,,
+race_track_id,text,,,,

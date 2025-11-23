@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stock_store_id,integer,"PRIMARY KEY : (""stock_store_id"", ""stock_headphone_id"")","[FOREIGN KEY: ""stock_store_id"" REFERENCES ""store.store_store_id"" (table_name.column_name)., FOREIGN KEY: ""stock_headphone_id"" REFERENCES ""headphone.headphone_headphone_id"" (table_name.column_name).]","['store_id,headphone_id']","[{'stock_store_id': 'store.store_store_id'}, {'stock_headphone_id': 'headphone.headphone_headphone_id'}]"
+stock_headphone_id,integer,,,,
+quantity,integer,,,,

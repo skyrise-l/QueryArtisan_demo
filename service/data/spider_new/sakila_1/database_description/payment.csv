@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+payment_id,integer,,"[FOREIGN KEY: ""payment_rental_id"" REFERENCES ""rental.rental_rental_id"" (table_name.column_name)., FOREIGN KEY: ""payment_customer_id"" REFERENCES ""customer.customer_customer_id"" (table_name.column_name)., FOREIGN KEY: ""payment_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name).]",[],"[{'payment_rental_id': 'rental.rental_rental_id'}, {'payment_customer_id': 'customer.customer_customer_id'}, {'payment_staff_id': 'staff.staff_staff_id'}]"
+payment_customer_id,integer,,,,
+payment_staff_id,integer,,,,
+payment_rental_id,integer,,,,
+amount,text,,,,
+payment_date,date,,,,
+payment_last_update,date,,,,

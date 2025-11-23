@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+major_major_id,integer,"PRIMARY KEY : (""major_major_id"")",[],['major_id'],[]
+major_name,text,,,,
+major_code,integer,,,,

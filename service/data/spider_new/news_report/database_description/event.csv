@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+event_event_id,integer,"PRIMARY KEY : (""event_event_id"")",[],['event_id'],[]
+date,text,,,,
+venue,text,,,,
+event_name,text,,,,
+event_attendance,integer,,,,

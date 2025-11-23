@@ -1,0 +1,13 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_id,integer,"PRIMARY KEY : (""team_id"")","[FOREIGN KEY: ""basketball_match_school_id"" REFERENCES ""university.university_school_id"" (table_name.column_name).]",['team_id'],[{'basketball_match_school_id': 'university.university_school_id'}]
+basketball_match_school_id,integer,,,,
+team_name,text,,,,
+acc_regular_season,text,,,,
+acc_percent,text,,,,
+acc_home,text,,,,
+acc_road,text,,,,
+all_games,text,,,,
+all_games_percent,integer,,,,
+all_home,text,,,,
+all_road,text,,,,
+all_neutral,text,,,,

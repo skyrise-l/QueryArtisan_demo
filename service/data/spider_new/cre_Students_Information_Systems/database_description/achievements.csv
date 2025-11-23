@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+achievement_id,integer,"PRIMARY KEY : (""achievement_id"")","[FOREIGN KEY: ""achievements_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""achievements_achievement_type_code"" REFERENCES ""ref_achievement_type.ref_achievement_type_achievement_type_code"" (table_name.column_name).]",['achievement_id'],"[{'achievements_student_id': 'students.students_student_id'}, {'achievements_achievement_type_code': 'ref_achievement_type.ref_achievement_type_achievement_type_code'}]"
+achievements_achievement_type_code,text,,,,
+achievements_student_id,integer,,,,
+date_achievement,integer,,,,
+achievement_details,text,,,,
+achievements_other_details,text,,,,

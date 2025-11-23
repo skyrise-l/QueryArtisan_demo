@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employee_emp_num,integer,,[],[],[]
+emp_lname,text,,,,
+emp_fname,text,,,,
+emp_initial,text,,,,
+emp_jobcode,text,,,,
+emp_hiredate,date,,,,
+emp_dob,date,,,,

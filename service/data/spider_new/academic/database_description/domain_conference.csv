@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+domain_conference_cid,integer,"PRIMARY KEY : (""domain_conference_did"", "" cid"")","[FOREIGN KEY: ""domain_conference_cid"" REFERENCES ""conference.conference_cid"" (table_name.column_name)., FOREIGN KEY: ""domain_conference_did"" REFERENCES ""domain.domain_did"" (table_name.column_name).]","['did, cid']","[{'domain_conference_cid': 'conference.conference_cid'}, {'domain_conference_did': 'domain.domain_did'}]"
+domain_conference_did,integer,,,,

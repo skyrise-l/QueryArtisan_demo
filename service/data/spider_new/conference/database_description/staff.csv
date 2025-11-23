@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_staff_id,integer,"PRIMARY KEY : (""staff_staff_id"")","[FOREIGN KEY: ""staff_institution_id"" REFERENCES ""institution.institution_institution_id"" (table_name.column_name).]",['staff_id'],[{'staff_institution_id': 'institution.institution_institution_id'}]
+name,text,,,,
+age,integer,,,,
+nationality,text,,,,
+staff_institution_id,integer,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+railway_railway_id,integer,"PRIMARY KEY : (""railway_railway_id"")",[],['railway_id'],[]
+railway,text,,,,
+builder,text,,,,
+built,text,,,,
+wheels,text,,,,
+location,text,,,,
+objectnumber,text,,,,

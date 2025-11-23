@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_award_vote_award_id,text,,"[FOREIGN KEY: ""player_award_vote_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name).]",[],[{'player_award_vote_player_id': 'player.player_player_id'}]
+player_award_vote_year,integer,,,,
+player_award_vote_league_id,text,,,,
+player_award_vote_player_id,text,,,,
+player_award_vote_points_won,double,,,,
+player_award_vote_points_max,integer,,,,
+player_award_vote_votes_first,double,,,,

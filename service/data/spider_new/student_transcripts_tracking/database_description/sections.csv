@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+section_id,integer,,"[FOREIGN KEY: ""sections_course_id"" REFERENCES ""courses.courses_course_id"" (table_name.column_name).]",[],[{'sections_course_id': 'courses.courses_course_id'}]
+sections_course_id,integer,,,,
+section_name,text,,,,
+section_description,text,,,,
+sections_other_details,text,,,,

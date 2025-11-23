@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+candidate_assessments_candidate_id,integer,"PRIMARY KEY : (""candidate_assessments_candidate_id"", "" qualification"")","[FOREIGN KEY: ""candidate_assessments_candidate_id"" REFERENCES ""candidates.candidates_candidate_id"" (table_name.column_name).]","['candidate_id, qualification']",[{'candidate_assessments_candidate_id': 'candidates.candidates_candidate_id'}]
+qualification,text,,,,
+assessment_date,date,,,,
+asessment_outcome_code,text,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+aircraft_aircraft_id,integer,"PRIMARY KEY : (""aircraft_aircraft_id"")",[],['aircraft_id'],[]
+aircraft,text,,,,
+description,text,,,,
+max_gross_weight,text,,,,
+total_disk_area,text,,,,
+max_disk_loading,text,,,,

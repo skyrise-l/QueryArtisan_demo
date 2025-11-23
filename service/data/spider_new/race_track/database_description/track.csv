@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+track_track_id,integer,"PRIMARY KEY : (""track_track_id"")",[],['track_id'],[]
+track_name,text,,,,
+location,text,,,,
+seating,double,,,,
+year_opened,double,,,,

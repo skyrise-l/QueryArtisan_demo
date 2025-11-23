@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+farm_farm_id,integer,"PRIMARY KEY : (""farm_farm_id"")",[],['farm_id'],[]
+farm_year,integer,,,,
+total_horses,double,,,,
+working_horses,double,,,,
+total_cattle,double,,,,
+oxen,double,,,,
+bulls,double,,,,
+cows,double,,,,
+pigs,double,,,,
+sheep_and_goats,double,,,,

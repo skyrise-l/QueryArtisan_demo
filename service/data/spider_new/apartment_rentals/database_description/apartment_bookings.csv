@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+apartment_bookings_apt_booking_id,integer,"PRIMARY KEY : (""apartment_bookings_apt_booking_id"")","[FOREIGN KEY: ""apartment_bookings_apt_id"" REFERENCES ""apartments.apartments_apt_id"" (table_name.column_name)., FOREIGN KEY: ""apartment_bookings_guest_id"" REFERENCES ""guests.guests_guest_id"" (table_name.column_name).]",['apt_booking_id'],"[{'apartment_bookings_apt_id': 'apartments.apartments_apt_id'}, {'apartment_bookings_guest_id': 'guests.guests_guest_id'}]"
+apartment_bookings_apt_id,integer,,,,
+apartment_bookings_guest_id,integer,,,,
+booking_status_code,text,,,,
+booking_start_date,date,,,,
+booking_end_date,date,,,,

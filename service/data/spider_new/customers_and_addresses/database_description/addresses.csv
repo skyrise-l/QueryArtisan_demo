@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+addresses_address_id,integer,,[],[],[]
+address_content,text,,,,
+city,text,,,,
+zip_postcode,text,,,,
+state_province_county,text,,,,
+country,text,,,,
+other_address_details,text,,,,

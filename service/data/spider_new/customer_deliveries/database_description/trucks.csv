@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+trucks_truck_id,integer,,[],[],[]
+truck_licence_number,text,,,,
+truck_details,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+film_actor_actor_id,integer,,"[FOREIGN KEY: ""film_actor_actor_id"" REFERENCES ""actor.actor_actor_id"" (table_name.column_name)., FOREIGN KEY: ""film_actor_film_id"" REFERENCES ""film.film_film_id"" (table_name.column_name).]",[],"[{'film_actor_actor_id': 'actor.actor_actor_id'}, {'film_actor_film_id': 'film.film_film_id'}]"
+film_actor_film_id,integer,,,,
+film_actor_last_update,date,,,,

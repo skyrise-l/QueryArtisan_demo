@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+staff_id,integer,,[],[],[]
+staff_name,text,,,,
+gender,text,,,,
+other_staff_details,text,,,,

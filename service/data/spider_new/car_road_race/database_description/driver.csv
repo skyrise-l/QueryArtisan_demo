@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+driver_driver_id,integer,"PRIMARY KEY : (""driver_driver_id"")",[],['driver_id'],[]
+driver_name,text,,,,
+entrant,text,,,,
+constructor,text,,,,
+chassis,text,,,,
+engine,text,,,,
+age,integer,,,,

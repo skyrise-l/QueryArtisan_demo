@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+cars_data_id,integer,,"[FOREIGN KEY: ""cars_data_id"" REFERENCES ""car_names.makeid"" (table_name.column_name).]",[],[{'cars_data_id': 'car_names.makeid'}]
+mpg,text,,,,
+cylinders,integer,,,,
+edispl,double,,,,
+horsepower,text,,,,
+weight,integer,,,,
+accelerate,double,,,,
+year,integer,,,,

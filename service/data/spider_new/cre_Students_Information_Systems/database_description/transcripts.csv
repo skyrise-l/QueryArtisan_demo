@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+transcript_id,integer,"PRIMARY KEY : (""transcript_id"")","[FOREIGN KEY: ""transcripts_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",['transcript_id'],[{'transcripts_student_id': 'students.students_student_id'}]
+transcripts_student_id,integer,,,,
+date_of_transcript,date,,,,
+transcript_details,text,,,,

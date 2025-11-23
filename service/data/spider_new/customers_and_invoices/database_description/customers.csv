@@ -1,0 +1,13 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_customer_id,integer,,[],[],[]
+customer_first_name,text,,,,
+customer_middle_initial,text,,,,
+customer_last_name,text,,,,
+gender,text,,,,
+email_address,text,,,,
+login_name,text,,,,
+login_password,text,,,,
+phone_number,text,,,,
+town_city,text,,,,
+state_county_province,text,,,,
+country,text,,,,

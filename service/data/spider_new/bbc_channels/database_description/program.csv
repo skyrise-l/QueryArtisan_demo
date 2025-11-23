@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+program_id,integer,"PRIMARY KEY : (""program_id"")","[FOREIGN KEY: ""program_director_id"" REFERENCES ""director.director_director_id"" (table_name.column_name)., FOREIGN KEY: ""program_channel_id"" REFERENCES ""channel.channel_channel_id"" (table_name.column_name).]",['program_id'],"[{'program_director_id': 'director.director_director_id'}, {'program_channel_id': 'channel.channel_channel_id'}]"
+start_year,double,,,,
+title,text,,,,
+program_director_id,integer,,,,
+program_channel_id,integer,,,,

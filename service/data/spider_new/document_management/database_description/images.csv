@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+images_image_id,integer,,[],[],[]
+image_alt_text,text,,,,
+image_name,text,,,,
+image_url,text,,,,

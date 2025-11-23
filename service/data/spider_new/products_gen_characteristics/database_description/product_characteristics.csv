@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+product_characteristics_product_id,integer,,"[FOREIGN KEY: ""product_characteristics_characteristic_id"" REFERENCES ""characteristics.characteristics_characteristic_id"" (table_name.column_name)., FOREIGN KEY: ""product_characteristics_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name).]",[],"[{'product_characteristics_characteristic_id': 'characteristics.characteristics_characteristic_id'}, {'product_characteristics_product_id': 'products.products_product_id'}]"
+product_characteristics_characteristic_id,integer,,,,
+product_characteristic_value,text,,,,

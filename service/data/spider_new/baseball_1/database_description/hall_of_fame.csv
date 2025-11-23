@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+hall_of_fame_player_id,text,,"[FOREIGN KEY: ""hall_of_fame_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name).]",[],[{'hall_of_fame_player_id': 'player.player_player_id'}]
+yearid,integer,,,,
+votedby,text,,,,
+ballots,double,,,,
+needed,double,,,,
+votes,double,,,,
+inducted,text,,,,
+category,text,,,,
+needed_note,text,,,,

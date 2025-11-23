@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employee_employee_id,integer,"PRIMARY KEY : (""employee_employee_id"")",[],['employee_id'],[]
+employee_name,text,,,,
+age,integer,,,,
+city,text,,,,

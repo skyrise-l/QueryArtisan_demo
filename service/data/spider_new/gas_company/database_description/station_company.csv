@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+station_company_station_id,integer,"PRIMARY KEY : (""station_company_station_id"", ""station_company_company_id"")","[FOREIGN KEY: ""station_company_station_id"" REFERENCES ""gas_station.gas_station_station_id"" (table_name.column_name)., FOREIGN KEY: ""station_company_company_id"" REFERENCES ""company.company_company_id"" (table_name.column_name).]","['station_id,company_id']","[{'station_company_station_id': 'gas_station.gas_station_station_id'}, {'station_company_company_id': 'company.company_company_id'}]"
+station_company_company_id,integer,,,,
+rank_of_the_year,integer,,,,

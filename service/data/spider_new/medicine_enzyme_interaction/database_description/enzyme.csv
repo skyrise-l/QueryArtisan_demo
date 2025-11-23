@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+enzyme_id,integer,"PRIMARY KEY : (""enzyme_id"")",[],['id'],[]
+enzyme_name,text,,,,
+location,text,,,,
+product,text,,,,
+chromosome,text,,,,
+omim,integer,,,,
+porphyria,text,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+game_id,integer,"PRIMARY KEY : (""injury_accident_id"")","[FOREIGN KEY: ""game_id"" REFERENCES ""game.game_id"" (table_name.column_name).]",['id'],[{'game_id': 'game.game_id'}]
+injury_accident_id,integer,,,,
+player,text,,,,
+injury,text,,,,
+number_of_matches,text,,,,
+source,text,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+region_region_id,integer,"PRIMARY KEY : (""region_region_id"")",[],['region_id'],[]
+region_name,text,,,,
+date,text,,,,
+label,text,,,,
+format,text,,,,
+catalogue,text,,,,

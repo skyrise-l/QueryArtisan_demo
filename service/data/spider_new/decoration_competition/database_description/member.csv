@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_member_id,integer,"PRIMARY KEY : (""member_member_id"")","[FOREIGN KEY: ""member_college_id"" REFERENCES ""college.college_college_id"" (table_name.column_name).]",['member_id'],[{'member_college_id': 'college.college_college_id'}]
+member_name,text,,,,
+country,text,,,,
+member_college_id,integer,,,,

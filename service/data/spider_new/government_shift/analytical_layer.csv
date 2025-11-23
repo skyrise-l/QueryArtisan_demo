@@ -1,0 +1,16 @@
+analytical_id,analytical_layer_customers_and_services_id,pattern_recognition,analytical_layer_type_code
+11,123,Normal,Bottom
+12,203,Normal,Bottom
+17,677,Normal,Middle
+32,677,Normal,Middle
+36,123,Normal,Middle
+39,766,Normal,Top
+41,606,Normal,Top
+48,475,Normal,Top
+58,123,Special,Top
+60,228,Normal,Top
+66,823,Normal,Bottom
+68,680,Normal,Bottom
+72,465,Special,Bottom
+77,123,Special,Bottom
+82,420,Special,Bottom

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+made_by_id,integer,"PRIMARY KEY : (""made_by_id"")","[FOREIGN KEY: ""made_by_msid"" REFERENCES ""copyright.copyright_msid"" (table_name.column_name)., FOREIGN KEY: ""made_by_pid"" REFERENCES ""producer.producer_pid"" (table_name.column_name).]",['id'],"[{'made_by_msid': 'copyright.copyright_msid'}, {'made_by_pid': 'producer.producer_pid'}]"
+made_by_msid,integer,,,,
+made_by_pid,integer,,,,

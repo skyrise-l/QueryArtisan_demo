@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+engineer_visit_id,integer,,"[FOREIGN KEY: ""engineer_visits_fault_log_entry_id"" REFERENCES ""fault_log.fault_log_fault_log_entry_id"" (table_name.column_name)., FOREIGN KEY: ""engineer_visits_engineer_id"" REFERENCES ""maintenance_engineers.maintenance_engineers_engineer_id"" (table_name.column_name)., FOREIGN KEY: ""contact_staff_id"" REFERENCES ""staff.staff_id"" (table_name.column_name).]",[],"[{'engineer_visits_fault_log_entry_id': 'fault_log.fault_log_fault_log_entry_id'}, {'engineer_visits_engineer_id': 'maintenance_engineers.maintenance_engineers_engineer_id'}, {'contact_staff_id': 'staff.staff_id'}]"
+contact_staff_id,integer,,,,
+engineer_visits_engineer_id,integer,,,,
+engineer_visits_fault_log_entry_id,integer,,,,
+engineer_visits_fault_status,text,,,,
+visit_start_datetime,date,,,,
+visit_end_datetime,date,,,,
+other_visit_details,text,,,,

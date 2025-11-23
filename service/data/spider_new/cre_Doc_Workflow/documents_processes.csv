@@ -1,0 +1,11 @@
+documents_processes_document_id,documents_processes_process_id,documents_processes_process_outcome_code,documents_processes_process_status_code
+0,9,finish,ct
+4,9,start,ct
+7,9,start,pp
+24,9,start,ct
+52,9,finish,pp
+462,9,working,ct
+927,9,working,pp
+435463,9,start,ct
+461893,9,finish,pp
+782065904,9,working,ct

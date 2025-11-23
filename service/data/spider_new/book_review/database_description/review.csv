@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+review_id,integer,"PRIMARY KEY : (""review_id"")","[FOREIGN KEY: ""review_book_id"" REFERENCES ""book.book_book_id"" (table_name.column_name).]",['review_id'],[{'review_book_id': 'book.book_book_id'}]
+review_book_id,integer,,,,
+rating,double,,,,
+readers_in_million,double,,,,
+rank,integer,,,,

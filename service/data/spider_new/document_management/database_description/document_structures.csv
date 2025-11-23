@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_structures_document_structure_code,text,,[],[],[]
+parent_document_structure_code,text,,,,
+document_structure_description,text,,,,

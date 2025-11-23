@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+catalog_structure_catalog_level_number,integer,,"[FOREIGN KEY: ""catalog_structure_catalog_id"" REFERENCES ""catalogs.catalogs_catalog_id"" (table_name.column_name).]",[],[{'catalog_structure_catalog_id': 'catalogs.catalogs_catalog_id'}]
+catalog_structure_catalog_id,integer,,,,
+catalog_level_name,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stadium_id,integer,"PRIMARY KEY : (""game_id"")","[FOREIGN KEY: ""stadium_id"" REFERENCES ""stadium.stadium_id"" (table_name.column_name).]",['id'],[{'stadium_id': 'stadium.stadium_id'}]
+game_id,integer,,,,
+season,integer,,,,
+date,text,,,,
+home_team,text,,,,
+away_team,text,,,,
+score,text,,,,
+competition,text,,,,

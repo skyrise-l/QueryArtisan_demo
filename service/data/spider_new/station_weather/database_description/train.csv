@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+train_id,integer,"PRIMARY KEY : (""train_id"")",[],['id'],[]
+train_number,integer,,,,
+name,text,,,,
+origin,text,,,,
+destination,text,,,,
+time,text,,,,
+interval,text,,,,

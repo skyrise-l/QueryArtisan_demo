@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+candidate_id,integer,"PRIMARY KEY : (""candidate_id"")","[FOREIGN KEY: ""candidate_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]",['candidate_id'],[{'candidate_people_id': 'people.people_people_id'}]
+candidate_people_id,integer,,,,
+poll_source,text,,,,
+date,text,,,,
+support_rate,double,,,,
+consider_rate,double,,,,
+oppose_rate,double,,,,
+unsure_rate,double,,,,

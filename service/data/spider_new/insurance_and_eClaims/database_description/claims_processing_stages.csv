@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claims_processing_stages_claim_stage_id,integer,"PRIMARY KEY : (""claims_processing_stages_claim_stage_id"")",[],['claim_stage_id'],[]
+next_claim_stage_id,integer,,,,
+claim_status_name,text,,,,
+claim_status_description,text,,,,

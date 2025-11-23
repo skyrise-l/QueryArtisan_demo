@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+asset_parts_asset_id,integer,,"[FOREIGN KEY: ""asset_parts_part_id"" REFERENCES ""parts.parts_part_id"" (table_name.column_name)., FOREIGN KEY: ""asset_parts_asset_id"" REFERENCES ""assets.assets_asset_id"" (table_name.column_name).]",[],"[{'asset_parts_part_id': 'parts.parts_part_id'}, {'asset_parts_asset_id': 'assets.assets_asset_id'}]"
+asset_parts_part_id,integer,,,,

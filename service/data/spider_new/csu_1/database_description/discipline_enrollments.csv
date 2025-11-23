@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+discipline_enrollments_campus,integer,"PRIMARY KEY : (""discipline_enrollments_campus"", "" discipline"")","[FOREIGN KEY: ""discipline_enrollments_campus"" REFERENCES ""campuses.id"" (table_name.column_name).]","['campus, discipline']",[{'discipline_enrollments_campus': 'campuses.id'}]
+discipline,integer,,,,
+discipline_enrollments_year,integer,,,,
+undergraduate,integer,,,,
+graduate,integer,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+airlines_alid,integer,,[],[],[]
+airlines_name,text,,,,
+airlines_iata,text,,,,
+airlines_icao,text,,,,
+callsign,text,,,,
+airlines_country,text,,,,
+active,text,,,,

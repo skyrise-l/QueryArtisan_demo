@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+council_tax_council_tax_id,integer,"PRIMARY KEY : (""council_tax_council_tax_id"")","[FOREIGN KEY: ""council_tax_cmi_cross_ref_id"" REFERENCES ""cmi_cross_references.cmi_cross_references_cmi_cross_ref_id"" (table_name.column_name).]",['council_tax_id'],[{'council_tax_cmi_cross_ref_id': 'cmi_cross_references.cmi_cross_references_cmi_cross_ref_id'}]
+council_tax_cmi_cross_ref_id,integer,,,,

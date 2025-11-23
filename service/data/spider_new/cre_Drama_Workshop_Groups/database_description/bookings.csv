@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+booking_id,integer,"PRIMARY KEY : (""booking_id"")","[FOREIGN KEY: ""bookings_customer_id"" REFERENCES ""clients.client_id"" (table_name.column_name)., FOREIGN KEY: ""bookings_workshop_group_id"" REFERENCES ""drama_workshop_groups.drama_workshop_groups_workshop_group_id"" (table_name.column_name).]",['booking_id'],"[{'bookings_customer_id': 'clients.client_id'}, {'bookings_workshop_group_id': 'drama_workshop_groups.drama_workshop_groups_workshop_group_id'}]"
+bookings_customer_id,integer,,,,
+bookings_workshop_group_id,text,,,,
+status_code,text,,,,
+bookings_store_id,integer,,,,
+bookings_order_date,date,,,,
+bookings_planned_delivery_date,date,,,,
+bookings_actual_delivery_date,date,,,,
+bookings_other_order_details,text,,,,

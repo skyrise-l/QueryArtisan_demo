@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_sections_section_id,integer,,"[FOREIGN KEY: ""document_sections_document_code"" REFERENCES ""documents.documents_document_code"" (table_name.column_name).]",[],[{'document_sections_document_code': 'documents.documents_document_code'}]
+document_sections_document_code,text,,,,
+section_sequence,integer,,,,
+section_code,text,,,,
+section_title,text,,,,

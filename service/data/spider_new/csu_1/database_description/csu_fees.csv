@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+csu_fees_campus,integer,,"[FOREIGN KEY: ""csu_fees_campus"" REFERENCES ""campuses.id"" (table_name.column_name).]",[],[{'csu_fees_campus': 'campuses.id'}]
+csu_fees_year,integer,,,,
+campusfee,integer,,,,

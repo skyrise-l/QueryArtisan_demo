@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claim_header_id,integer,"PRIMARY KEY : (""claim_header_id"")","[FOREIGN KEY: ""claim_headers_policy_id"" REFERENCES ""policies.policies_policy_id"" (table_name.column_name).]",['claim_header_id'],[{'claim_headers_policy_id': 'policies.policies_policy_id'}]
+claim_status_code,text,,,,
+claim_type_code,text,,,,
+claim_headers_policy_id,integer,,,,
+date_of_claim,date,,,,
+date_of_settlement,date,,,,
+amount_claimed,text,,,,
+amount_piad,text,,,,

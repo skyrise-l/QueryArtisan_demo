@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+manager_award_vote_award_id,text,,[],[],[]
+manager_award_vote_year,integer,,,,
+manager_award_vote_league_id,text,,,,
+manager_award_vote_player_id,text,,,,
+manager_award_vote_points_won,integer,,,,
+manager_award_vote_points_max,integer,,,,
+manager_award_vote_votes_first,integer,,,,

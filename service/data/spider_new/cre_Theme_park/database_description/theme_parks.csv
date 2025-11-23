@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+theme_park_id,integer,"PRIMARY KEY : (""theme_park_id"")","[FOREIGN KEY: ""theme_park_id"" REFERENCES ""tourist_attractions.tourist_attractions_tourist_attraction_id"" (table_name.column_name).]",['theme_park_id'],[{'theme_park_id': 'tourist_attractions.tourist_attractions_tourist_attraction_id'}]
+theme_park_details,text,,,,

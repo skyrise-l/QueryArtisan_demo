@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+hotel_id,integer,"PRIMARY KEY : (""hotel_id"")","[FOREIGN KEY: ""hotels_star_rating_code"" REFERENCES ""ref_hotel_star_ratings.ref_hotel_star_ratings_star_rating_code"" (table_name.column_name).]",['hotel_id'],[{'hotels_star_rating_code': 'ref_hotel_star_ratings.ref_hotel_star_ratings_star_rating_code'}]
+hotels_star_rating_code,text,,,,
+pets_allowed_yn,text,,,,
+price_range,double,,,,
+other_hotel_details,text,,,,

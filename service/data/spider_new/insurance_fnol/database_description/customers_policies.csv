@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_policies_customer_id,integer,"PRIMARY KEY : (""customers_policies_customer_id"", "" policy_id"")","[FOREIGN KEY: ""customers_policies_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name)., FOREIGN KEY: ""customers_policies_policy_id"" REFERENCES ""available_policies.available_policies_policy_id"" (table_name.column_name).]","['customer_id, policy_id']","[{'customers_policies_customer_id': 'customers.customers_customer_id'}, {'customers_policies_policy_id': 'available_policies.available_policies_policy_id'}]"
+customers_policies_policy_id,integer,,,,
+date_opened,date,,,,
+date_closed,date,,,,

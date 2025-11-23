@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+operate_company_id,integer,"PRIMARY KEY : (""operate_company_id"")",[],['id'],[]
+operate_company_name,text,,,,
+type,text,,,,
+principal_activities,text,,,,
+incorporated_in,text,,,,
+group_equity_shareholding,double,,,,

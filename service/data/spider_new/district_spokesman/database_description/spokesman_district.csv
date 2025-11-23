@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+spokesman_district_spokesman_id,integer,"PRIMARY KEY : (""spokesman_district_spokesman_id"")","[FOREIGN KEY: ""spokesman_district_spokesman_id"" REFERENCES ""spokesman.spokesman_spokesman_id"" (table_name.column_name)., FOREIGN KEY: ""spokesman_district_district_id"" REFERENCES ""district.district_district_id"" (table_name.column_name).]",['spokesman_id'],"[{'spokesman_district_spokesman_id': 'spokesman.spokesman_spokesman_id'}, {'spokesman_district_district_id': 'district.district_district_id'}]"
+spokesman_district_district_id,integer,,,,
+start_year,text,,,,

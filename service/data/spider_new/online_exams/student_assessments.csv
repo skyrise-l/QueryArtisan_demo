@@ -1,0 +1,16 @@
+student_assessments_student_answer_id,student_assessments_valid_answer_id,student_assessments_student_answer_text,student_assessments_satisfactory_yn,assessment
+162,3,B,0,Very Good
+172,4,B,0,Excellent
+2,3,A,1,Very Good
+307,2,True,0,Very Good
+340,3,False,1,OK
+421,1,B,1,Excellent
+438,2,True,0,Excellent
+518,3,B,0,OK
+536,4,A,1,Excellent
+540,5,True,1,OK
+565,6,True,1,Excellent
+9,7,A,0,OK
+956,10,A,1,Excellent
+961,10,False,0,OK
+980,10,A,1,Excellent

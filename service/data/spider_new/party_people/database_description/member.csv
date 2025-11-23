@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_id,integer,"PRIMARY KEY : (""member_id"")","[FOREIGN KEY: ""member_party_id"" REFERENCES ""party.party_party_id"" (table_name.column_name).]",['member_id'],[{'member_party_id': 'party.party_party_id'}]
+member_name,text,,,,
+member_party_id,text,,,,
+in_office,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+residents_resident_id,integer,"PRIMARY KEY : (""residents_resident_id"", "" property_id"", "" date_moved_in"")","[FOREIGN KEY: ""residents_property_id"" REFERENCES ""properties.properties_property_id"" (table_name.column_name).]","['resident_id, property_id, date_moved_in']",[{'residents_property_id': 'properties.properties_property_id'}]
+residents_property_id,integer,,,,
+residents_date_moved_in,date,,,,
+date_moved_out,date,,,,
+residents_other_details,text,,,,

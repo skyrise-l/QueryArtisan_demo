@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+name,text,"PRIMARY KEY : (""phone_phone_id"")",[],['phone_id'],[]
+phone_phone_id,integer,,,,
+memory_in_g,integer,,,,
+carrier,text,,,,
+price,double,,,,

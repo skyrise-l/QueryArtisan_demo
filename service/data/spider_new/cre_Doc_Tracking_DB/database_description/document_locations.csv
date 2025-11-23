@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_locations_document_id,integer,"PRIMARY KEY : (""document_locations_document_id"", "" location_code"", "" date_in_location_from"")","[FOREIGN KEY: ""document_locations_location_code"" REFERENCES ""ref_locations.ref_locations_location_code"" (table_name.column_name)., FOREIGN KEY: ""date_in_location_from"" REFERENCES ""ref_calendar.calendar_date"" (table_name.column_name)., FOREIGN KEY: ""date_in_locaton_to"" REFERENCES ""ref_calendar.calendar_date"" (table_name.column_name)., FOREIGN KEY: ""document_locations_document_id"" REFERENCES ""all_documents.all_documents_document_id"" (table_name.column_name).]","['document_id, location_code, date_in_location_from']","[{'document_locations_location_code': 'ref_locations.ref_locations_location_code'}, {'date_in_location_from': 'ref_calendar.calendar_date'}, {'date_in_locaton_to': 'ref_calendar.calendar_date'}, {'document_locations_document_id': 'all_documents.all_documents_document_id'}]"
+document_locations_location_code,text,,,,
+date_in_location_from,date,,,,
+date_in_locaton_to,date,,,,

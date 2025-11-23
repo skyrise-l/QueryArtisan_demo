@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+projects_project_id,integer,,"[FOREIGN KEY: ""projects_organisation_id"" REFERENCES ""organisations.organisations_organisation_id"" (table_name.column_name).]",[],[{'projects_organisation_id': 'organisations.organisations_organisation_id'}]
+projects_organisation_id,integer,,,,
+project_details,text,,,,

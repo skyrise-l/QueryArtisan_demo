@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_arrange_course_id,integer,"PRIMARY KEY : (""course_arrange_course_id"", ""course_arrange_teacher_id"", ""grade"")","[FOREIGN KEY: ""course_arrange_course_id"" REFERENCES ""course.course_course_id"" (table_name.column_name)., FOREIGN KEY: ""course_arrange_teacher_id"" REFERENCES ""teacher.teacher_teacher_id"" (table_name.column_name).]","['course_id,teacher_id,grade']","[{'course_arrange_course_id': 'course.course_course_id'}, {'course_arrange_teacher_id': 'teacher.teacher_teacher_id'}]"
+course_arrange_teacher_id,integer,,,,
+grade,integer,,,,

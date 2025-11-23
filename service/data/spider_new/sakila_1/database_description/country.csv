@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+country_country_id,integer,,[],[],[]
+country,text,,,,
+country_last_update,date,,,,

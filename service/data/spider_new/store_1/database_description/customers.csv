@@ -1,0 +1,14 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_id,integer,,"[FOREIGN KEY: ""support_rep_id"" REFERENCES ""employees.employees_id"" (table_name.column_name).]",[],[{'support_rep_id': 'employees.employees_id'}]
+customers_first_name,text,,,,
+customers_last_name,text,,,,
+company,text,,,,
+customers_address,text,,,,
+customers_city,text,,,,
+customers_state,text,,,,
+customers_country,text,,,,
+customers_postal_code,text,,,,
+customers_phone,text,,,,
+customers_fax,text,,,,
+customers_email,text,,,,
+support_rep_id,integer,,,,

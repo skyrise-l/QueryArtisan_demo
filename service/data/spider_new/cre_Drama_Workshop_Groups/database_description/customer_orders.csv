@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_orders_order_id,integer,"PRIMARY KEY : (""customer_orders_order_id"")","[FOREIGN KEY: ""customer_orders_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name)., FOREIGN KEY: ""customer_orders_store_id"" REFERENCES ""stores.stores_store_id"" (table_name.column_name).]",['order_id'],"[{'customer_orders_customer_id': 'customers.customers_customer_id'}, {'customer_orders_store_id': 'stores.stores_store_id'}]"
+customer_orders_customer_id,integer,,,,
+customer_orders_store_id,integer,,,,
+customer_orders_order_date,date,,,,
+customer_orders_planned_delivery_date,date,,,,
+customer_orders_actual_delivery_date,date,,,,
+customer_orders_other_order_details,text,,,,

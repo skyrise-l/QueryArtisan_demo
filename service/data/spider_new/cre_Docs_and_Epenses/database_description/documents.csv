@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+documents_document_id,integer,"PRIMARY KEY : (""documents_document_id"")","[FOREIGN KEY: ""documents_document_type_code"" REFERENCES ""ref_document_types.ref_document_types_document_type_code"" (table_name.column_name)., FOREIGN KEY: ""documents_project_id"" REFERENCES ""projects.projects_project_id"" (table_name.column_name).]",['document_id'],"[{'documents_document_type_code': 'ref_document_types.ref_document_types_document_type_code'}, {'documents_project_id': 'projects.projects_project_id'}]"
+documents_document_type_code,text,,,,
+documents_project_id,integer,,,,
+document_date,date,,,,
+document_name,text,,,,
+document_description,text,,,,
+other_details,text,,,,

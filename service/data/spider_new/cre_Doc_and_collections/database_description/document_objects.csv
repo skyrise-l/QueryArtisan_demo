@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_objects_document_object_id,integer,"PRIMARY KEY : (""document_objects_document_object_id"")",[],['document_object_id'],[]
+parent_document_object_id,integer,,,,
+owner,text,,,,
+description,text,,,,
+other_details,text,,,,

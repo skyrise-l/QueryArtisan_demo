@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+jobs_job_id,text,"PRIMARY KEY : (""jobs_job_id"")",[],['job_id'],[]
+job_title,text,,,,
+min_salary,text,,,,
+max_salary,text,,,,

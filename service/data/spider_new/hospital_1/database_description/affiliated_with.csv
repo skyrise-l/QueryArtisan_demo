@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+affiliated_with_physician,integer,"PRIMARY KEY : (""affiliated_with_physician"", "" department"")","[FOREIGN KEY: ""affiliated_with_physician"" REFERENCES ""physician.physician_employeeid"" (table_name.column_name)., FOREIGN KEY: ""department"" REFERENCES ""department.departmentid"" (table_name.column_name).]","['physician, department']","[{'affiliated_with_physician': 'physician.physician_employeeid'}, {'department': 'department.departmentid'}]"
+department,integer,,,,
+primaryaffiliation,text,,,,

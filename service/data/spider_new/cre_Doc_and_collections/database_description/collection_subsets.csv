@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+collection_subsets_collection_subset_id,integer,"PRIMARY KEY : (""collection_subsets_collection_subset_id"")",[],['collection_subset_id'],[]
+collection_subset_name,text,,,,
+collecrtion_subset_details,text,,,,

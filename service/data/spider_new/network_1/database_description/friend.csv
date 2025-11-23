@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+friend_student_id,integer,"PRIMARY KEY : (""friend_student_id"", ""friend_id"")","[FOREIGN KEY: ""friend_student_id"" REFERENCES ""highschooler.id"" (table_name.column_name)., FOREIGN KEY: ""friend_id"" REFERENCES ""highschooler.id"" (table_name.column_name).]","['student_id,friend_id']","[{'friend_student_id': 'highschooler.id'}, {'friend_id': 'highschooler.id'}]"
+friend_id,integer,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+company_company_id,double,"PRIMARY KEY : (""company_company_id"")",[],['company_id'],[]
+company_name,text,,,,
+headquarters,text,,,,
+industry,text,,,,
+sales_in_billion,double,,,,
+profits_in_billion,double,,,,
+assets_in_billion,double,,,,
+market_value_in_billion,double,,,,

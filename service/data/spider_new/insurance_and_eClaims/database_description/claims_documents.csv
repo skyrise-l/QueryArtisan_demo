@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+claims_documents_claim_id,integer,"PRIMARY KEY : (""claims_documents_claim_id"", "" document_type_code"")","[FOREIGN KEY: ""claims_documents_claim_id"" REFERENCES ""claim_headers.claim_header_id"" (table_name.column_name)., FOREIGN KEY: ""created_by_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name).]","['claim_id, document_type_code']","[{'claims_documents_claim_id': 'claim_headers.claim_header_id'}, {'created_by_staff_id': 'staff.staff_staff_id'}]"
+document_type_code,text,,,,
+created_by_staff_id,integer,,,,
+created_date,integer,,,,

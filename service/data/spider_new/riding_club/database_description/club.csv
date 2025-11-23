@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+club_club_id,integer,"PRIMARY KEY : (""club_club_id"")",[],['club_id'],[]
+club_name,text,,,,
+region,text,,,,
+start_year,integer,,,,

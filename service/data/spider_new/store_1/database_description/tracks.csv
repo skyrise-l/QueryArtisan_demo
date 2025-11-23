@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+tracks_id,integer,,"[FOREIGN KEY: ""album_id"" REFERENCES ""albums.albums_id"" (table_name.column_name)., FOREIGN KEY: ""genre_id"" REFERENCES ""genres.genres_id"" (table_name.column_name)., FOREIGN KEY: ""media_type_id"" REFERENCES ""media_types.media_types_id"" (table_name.column_name).]",[],"[{'album_id': 'albums.albums_id'}, {'genre_id': 'genres.genres_id'}, {'media_type_id': 'media_types.media_types_id'}]"
+tracks_name,text,,,,
+album_id,integer,,,,
+media_type_id,integer,,,,
+genre_id,integer,,,,
+composer,text,,,,
+milliseconds,integer,,,,
+bytes,integer,,,,
+tracks_unit_price,double,,,,

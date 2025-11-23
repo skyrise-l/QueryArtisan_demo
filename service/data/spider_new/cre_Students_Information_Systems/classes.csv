@@ -1,0 +1,21 @@
+class_id,classes_student_id,classes_teacher_id,class_details
+114,435,253,databases
+195,471,274,english
+235,811,282,writing
+248,471,252,statistics
+294,762,234,math 100
+354,287,302,math 300
+387,325,316,statistics 100
+411,811,316,databases 200
+424,669,252,computer science 100
+429,669,195,data structure
+451,762,274,programming
+455,471,274,art 300
+493,824,252,music 100
+529,567,127,computer science 300
+552,984,234,law 200
+553,762,226,art 100
+579,276,282,debate
+600,361,195,networks
+613,435,212,dancing
+621,811,234,acting

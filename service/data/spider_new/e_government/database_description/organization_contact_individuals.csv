@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+organization_contact_individuals_individual_id,integer,"PRIMARY KEY : (""organization_contact_individuals_individual_id"", ""organization_contact_individuals_organization_id"")","[FOREIGN KEY: ""organization_contact_individuals_organization_id"" REFERENCES ""organizations.organizations_organization_id"" (table_name.column_name)., FOREIGN KEY: ""organization_contact_individuals_individual_id"" REFERENCES ""individuals.individuals_individual_id"" (table_name.column_name).]","['individual_id,organization_id']","[{'organization_contact_individuals_organization_id': 'organizations.organizations_organization_id'}, {'organization_contact_individuals_individual_id': 'individuals.individuals_individual_id'}]"
+organization_contact_individuals_organization_id,integer,,,,
+date_contact_from,date,,,,
+date_contact_to,date,,,,

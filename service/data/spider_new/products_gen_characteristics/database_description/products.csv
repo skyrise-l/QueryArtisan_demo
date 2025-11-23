@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+products_product_id,integer,,"[FOREIGN KEY: ""products_product_category_code"" REFERENCES ""ref_product_categories.ref_product_categories_product_category_code"" (table_name.column_name)., FOREIGN KEY: ""products_color_code"" REFERENCES ""ref_colors.ref_colors_color_code"" (table_name.column_name).]",[],"[{'products_product_category_code': 'ref_product_categories.ref_product_categories_product_category_code'}, {'products_color_code': 'ref_colors.ref_colors_color_code'}]"
+products_color_code,text,,,,
+products_product_category_code,text,,,,
+product_name,text,,,,
+typical_buying_price,text,,,,
+typical_selling_price,text,,,,
+product_description,text,,,,
+other_product_details,text,,,,

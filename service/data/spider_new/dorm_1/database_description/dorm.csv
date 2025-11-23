@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+dorm_dormid,integer,,[],[],[]
+dorm_name,text,,,,
+student_capacity,integer,,,,
+gender,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+address_address_id,integer,,"[FOREIGN KEY: ""address_city_id"" REFERENCES ""city.city_city_id"" (table_name.column_name).]",[],[{'address_city_id': 'city.city_city_id'}]
+address,text,,,,
+address2,text,,,,
+district,text,,,,
+address_city_id,integer,,,,
+postal_code,text,,,,
+phone,text,,,,
+address_last_update,date,,,,

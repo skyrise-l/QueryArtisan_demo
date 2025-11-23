@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+participants_in_events_event_id,integer,"PRIMARY KEY : (""participants_in_events_event_id"", "" participant_id"")","[FOREIGN KEY: ""participants_in_events_participant_id"" REFERENCES ""participants.participants_participant_id"" (table_name.column_name)., FOREIGN KEY: ""participants_in_events_event_id"" REFERENCES ""events.events_event_id"" (table_name.column_name).]","['event_id, participant_id']","[{'participants_in_events_participant_id': 'participants.participants_participant_id'}, {'participants_in_events_event_id': 'events.events_event_id'}]"
+participants_in_events_participant_id,integer,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_coach_player_id,integer,"PRIMARY KEY : (""player_coach_player_id"", ""player_coach_coach_id"")","[FOREIGN KEY: ""player_coach_player_id"" REFERENCES ""player.player_player_id"" (table_name.column_name)., FOREIGN KEY: ""player_coach_coach_id"" REFERENCES ""coach.coach_coach_id"" (table_name.column_name).]","['player_id,coach_id']","[{'player_coach_player_id': 'player.player_player_id'}, {'player_coach_coach_id': 'coach.coach_coach_id'}]"
+player_coach_coach_id,integer,,,,
+starting_year,integer,,,,

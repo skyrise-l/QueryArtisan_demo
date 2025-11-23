@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+savings_custid,integer,,"[FOREIGN KEY: ""savings_custid"" REFERENCES ""accounts.accounts_custid"" (table_name.column_name).]",[],[{'savings_custid': 'accounts.accounts_custid'}]
+savings_balance,double,,,,

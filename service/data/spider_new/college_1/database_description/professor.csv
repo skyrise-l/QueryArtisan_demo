@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+professor_emp_num,integer,,"[FOREIGN KEY: ""professor_emp_num"" REFERENCES ""employee.employee_emp_num"" (table_name.column_name)., FOREIGN KEY: ""professor_dept_code"" REFERENCES ""department.department_dept_code"" (table_name.column_name).]",[],"[{'professor_emp_num': 'employee.employee_emp_num'}, {'professor_dept_code': 'department.department_dept_code'}]"
+professor_dept_code,text,,,,
+prof_office,text,,,,
+prof_extension,text,,,,
+prof_high_degree,text,,,,

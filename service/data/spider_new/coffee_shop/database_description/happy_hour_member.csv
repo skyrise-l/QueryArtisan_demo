@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+happy_hour_member_hh_id,integer,"PRIMARY KEY : (""happy_hour_member_hh_id"", ""happy_hour_member_member_id"")","[FOREIGN KEY: ""happy_hour_member_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name).]","['hh_id,member_id']",[{'happy_hour_member_member_id': 'member.member_member_id'}]
+happy_hour_member_member_id,integer,,,,
+total_amount,double,,,,

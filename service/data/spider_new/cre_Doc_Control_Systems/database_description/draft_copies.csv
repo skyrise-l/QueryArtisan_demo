@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+draft_copies_document_id,integer,"PRIMARY KEY : (""draft_copies_document_id"", "" draft_number"", "" copy_number"")","[FOREIGN KEY: ""document_id, draft_number"" REFERENCES ""document_drafts.document_id,draft_number"" (table_name.column_name).]","['document_id, draft_number, copy_number']","[{'document_id, draft_number': 'document_drafts.document_id,draft_number'}]"
+draft_copies_draft_number,integer,,,,
+draft_copies_copy_number,integer,,,,

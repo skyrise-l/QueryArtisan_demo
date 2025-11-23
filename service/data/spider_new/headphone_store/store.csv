@@ -1,0 +1,10 @@
+store_store_id,name,neighborhood,parking,date_opened
+1,Laurel Canyon,Valley Village,None,"October 29, 2005"
+2,Woodman,Valley Glen,None,"October 29, 2005"
+3,Sepulveda,Van Nuys,"1,205 Spaces","October 29, 2005"
+4,Woodley,Van Nuys,None,"October 29, 2005"
+5,Reseda,Tarzana,522 Spaces,"October 29, 2005"
+6,Tampa,Tarzana,n/a,"October 29, 2005"
+7,Pierce College,Winnetka,373 Spaces,"October 29, 2005"
+8,Sherman Way,Canoga Park,Park & Ride Lot,"June 30, 2012"
+9,Roscoe,Canoga Park,None,"June 30, 2012"

@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+professionals_professional_id,integer,,[],[],[]
+role_code,text,,,,
+professionals_first_name,text,,,,
+professionals_street,text,,,,
+professionals_city,text,,,,
+professionals_state,text,,,,
+professionals_zip_code,text,,,,
+professionals_last_name,text,,,,
+professionals_email_address,text,,,,
+professionals_home_phone,text,,,,
+professionals_cell_number,text,,,,

@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+competition_competition_id,integer,"PRIMARY KEY : (""competition_competition_id"")",[],['competition_id'],[]
+year,double,,,,
+competition_type,text,,,,
+country,text,,,,

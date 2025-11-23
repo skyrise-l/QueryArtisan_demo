@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+participant_id,integer,"PRIMARY KEY : (""participant_id"", "" songs_id"")","[FOREIGN KEY: ""participant_id"" REFERENCES ""participants.participants_id"" (table_name.column_name)., FOREIGN KEY: ""songs_id"" REFERENCES ""songs.songs_id"" (table_name.column_name).]","['participant_id, songs_id']","[{'participant_id': 'participants.participants_id'}, {'songs_id': 'songs.songs_id'}]"
+songs_id,integer,,,,
+voice_sound_quality,double,,,,
+rhythm_tempo,double,,,,
+stage_presence,double,,,,

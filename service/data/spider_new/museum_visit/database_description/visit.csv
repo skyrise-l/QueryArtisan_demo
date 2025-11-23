@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+visit_museum_id,integer,"PRIMARY KEY : (""visit_museum_id"", ""visitor_id"")","[FOREIGN KEY: ""visit_museum_id"" REFERENCES ""museum.museum_museum_id"" (table_name.column_name)., FOREIGN KEY: ""visitor_id"" REFERENCES ""visitor.id"" (table_name.column_name).]","['museum_id,visitor_id']","[{'visit_museum_id': 'museum.museum_museum_id'}, {'visitor_id': 'visitor.id'}]"
+visitor_id,text,,,,
+num_of_ticket,integer,,,,
+total_spent,double,,,,

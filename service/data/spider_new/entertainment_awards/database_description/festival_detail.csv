@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+festival_detail_festival_id,integer,"PRIMARY KEY : (""festival_detail_festival_id"")",[],['festival_id'],[]
+festival_name,text,,,,
+chair_name,text,,,,
+location,text,,,,
+year,integer,,,,
+num_of_audience,integer,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+part_faults_part_fault_id,integer,,"[FOREIGN KEY: ""part_faults_part_id"" REFERENCES ""parts.parts_part_id"" (table_name.column_name).]",[],[{'part_faults_part_id': 'parts.parts_part_id'}]
+part_faults_part_id,integer,,,,
+fault_short_name,text,,,,
+part_faults_fault_description,text,,,,
+part_faults_other_fault_details,text,,,,

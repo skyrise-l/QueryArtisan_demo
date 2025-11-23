@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+gas_station_station_id,integer,"PRIMARY KEY : (""gas_station_station_id"")",[],['station_id'],[]
+open_year,integer,,,,
+location,text,,,,
+manager_name,text,,,,
+vice_manager_name,text,,,,
+representative_name,text,,,,

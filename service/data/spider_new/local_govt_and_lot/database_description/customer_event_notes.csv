@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customer_event_note_id,integer,"PRIMARY KEY : (""customer_event_note_id"")","[FOREIGN KEY: ""customer_event_notes_customer_event_id"" REFERENCES ""customer_events.customer_events_customer_event_id"" (table_name.column_name).]",['customer_event_note_id'],[{'customer_event_notes_customer_event_id': 'customer_events.customer_events_customer_event_id'}]
+customer_event_notes_customer_event_id,integer,,,,
+customer_event_notes_service_type_code,text,,,,
+customer_event_notes_resident_id,integer,,,,
+customer_event_notes_property_id,integer,,,,
+customer_event_notes_date_moved_in,date,,,,

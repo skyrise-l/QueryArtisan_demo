@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+customers_and_services_customers_and_services_id,integer,"PRIMARY KEY : (""customers_and_services_customers_and_services_id"")","[FOREIGN KEY: ""customers_and_services_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name)., FOREIGN KEY: ""customers_and_services_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",['customers_and_services_id'],"[{'customers_and_services_service_id': 'services.services_service_id'}, {'customers_and_services_customer_id': 'customers.customers_customer_id'}]"
+customers_and_services_customer_id,integer,,,,
+customers_and_services_service_id,integer,,,,
+customers_and_services_details,text,,,,

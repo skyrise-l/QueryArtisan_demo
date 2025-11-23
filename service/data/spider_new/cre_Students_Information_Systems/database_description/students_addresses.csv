@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_address_id,integer,"PRIMARY KEY : (""student_address_id"")","[FOREIGN KEY: ""students_addresses_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""students_addresses_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""students_addresses_address_type_code"" REFERENCES ""ref_address_types.ref_address_types_address_type_code"" (table_name.column_name).]",['student_address_id'],"[{'students_addresses_student_id': 'students.students_student_id'}, {'students_addresses_address_id': 'addresses.addresses_address_id'}, {'students_addresses_address_type_code': 'ref_address_types.ref_address_types_address_type_code'}]"
+students_addresses_address_id,integer,,,,
+students_addresses_address_type_code,text,,,,
+students_addresses_student_id,integer,,,,
+date_from,date,,,,
+date_to,date,,,,

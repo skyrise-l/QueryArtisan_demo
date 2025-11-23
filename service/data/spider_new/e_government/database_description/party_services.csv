@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+booking_id,integer,,"[FOREIGN KEY: ""party_services_service_id"" REFERENCES ""services.services_service_id"" (table_name.column_name)., FOREIGN KEY: ""customer_id"" REFERENCES ""parties.parties_party_id"" (table_name.column_name).]",[],"[{'party_services_service_id': 'services.services_service_id'}, {'customer_id': 'parties.parties_party_id'}]"
+customer_id,integer,,,,
+party_services_service_id,integer,,,,
+service_datetime,date,,,,
+booking_made_date,date,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+player_id,integer,,[],[],[]
+player_player_api_id,integer,,,,
+player_name,text,,,,
+player_player_fifa_api_id,integer,,,,
+birthday,text,,,,
+height,integer,,,,
+weight,integer,,,,

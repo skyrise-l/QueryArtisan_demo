@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+team_team_id,integer,"PRIMARY KEY : (""team_team_id"")",[],['team_id'],[]
+team,text,,,,
+team_make,text,,,,
+manager,text,,,,
+sponsor,text,,,,
+car_owner,text,,,,

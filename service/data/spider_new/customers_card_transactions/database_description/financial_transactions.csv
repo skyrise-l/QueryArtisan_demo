@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+transaction_id,integer,,"[FOREIGN KEY: ""financial_transactions_card_id"" REFERENCES ""customers_cards.customers_cards_card_id"" (table_name.column_name)., FOREIGN KEY: ""financial_transactions_account_id"" REFERENCES ""accounts.accounts_account_id"" (table_name.column_name).]",[],"[{'financial_transactions_card_id': 'customers_cards.customers_cards_card_id'}, {'financial_transactions_account_id': 'accounts.accounts_account_id'}]"
+previous_transaction_id,integer,,,,
+financial_transactions_account_id,integer,,,,
+financial_transactions_card_id,integer,,,,
+transaction_type,text,,,,
+transaction_date,date,,,,
+transaction_amount,double,,,,
+transaction_comment,text,,,,
+other_transaction_details,text,,,,

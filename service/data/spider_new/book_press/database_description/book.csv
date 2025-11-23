@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+book_id,integer,"PRIMARY KEY : (""book_id"")","[FOREIGN KEY: ""book_author_id"" REFERENCES ""author.author_author_id"" (table_name.column_name)., FOREIGN KEY: ""book_press_id"" REFERENCES ""press.press_press_id"" (table_name.column_name).]",['book_id'],"[{'book_author_id': 'author.author_author_id'}, {'book_press_id': 'press.press_press_id'}]"
+title,text,,,,
+book_series,text,,,,
+book_author_id,integer,,,,
+book_press_id,integer,,,,
+sale_amount,text,,,,
+release_date,text,,,,

@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+payment_id,integer,,"[FOREIGN KEY: ""payments_booking_id"" REFERENCES ""bookings.bookings_booking_id"" (table_name.column_name)., FOREIGN KEY: ""payments_customer_id"" REFERENCES ""customers.customers_customer_id"" (table_name.column_name).]",[],"[{'payments_booking_id': 'bookings.bookings_booking_id'}, {'payments_customer_id': 'customers.customers_customer_id'}]"
+payments_booking_id,integer,,,,
+payments_customer_id,integer,,,,
+payment_type_code,text,,,,
+amount_paid_in_full_yn,text,,,,
+payment_date,date,,,,
+amount_due,text,,,,
+amount_paid,text,,,,

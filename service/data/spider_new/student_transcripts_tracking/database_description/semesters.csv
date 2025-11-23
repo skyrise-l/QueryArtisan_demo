@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+semesters_semester_id,integer,,[],[],[]
+semester_name,text,,,,
+semester_description,text,,,,
+semesters_other_details,text,,,,

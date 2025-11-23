@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_enrolment_student_enrolment_id,integer,,"[FOREIGN KEY: ""student_enrolment_degree_program_id"" REFERENCES ""degree_programs.degree_programs_degree_program_id"" (table_name.column_name)., FOREIGN KEY: ""student_enrolment_semester_id"" REFERENCES ""semesters.semesters_semester_id"" (table_name.column_name)., FOREIGN KEY: ""student_enrolment_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name).]",[],"[{'student_enrolment_degree_program_id': 'degree_programs.degree_programs_degree_program_id'}, {'student_enrolment_semester_id': 'semesters.semesters_semester_id'}, {'student_enrolment_student_id': 'students.students_student_id'}]"
+student_enrolment_degree_program_id,integer,,,,
+student_enrolment_semester_id,integer,,,,
+student_enrolment_student_id,integer,,,,
+student_enrolment_other_details,text,,,,

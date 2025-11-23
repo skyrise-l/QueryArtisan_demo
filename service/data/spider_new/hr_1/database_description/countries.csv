@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+countries_country_id,text,"PRIMARY KEY : (""countries_country_id"")","[FOREIGN KEY: ""countries_region_id"" REFERENCES ""regions.regions_region_id"" (table_name.column_name).]",['country_id'],[{'countries_region_id': 'regions.regions_region_id'}]
+country_name,text,,,,
+countries_region_id,text,,,,

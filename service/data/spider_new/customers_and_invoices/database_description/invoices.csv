@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+invoices_invoice_number,integer,,"[FOREIGN KEY: ""invoices_order_id"" REFERENCES ""orders.orders_order_id"" (table_name.column_name).]",[],[{'invoices_order_id': 'orders.orders_order_id'}]
+invoices_order_id,integer,,,,
+invoice_date,date,,,,

@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+department_dept_code,text,,"[FOREIGN KEY: ""department_emp_num"" REFERENCES ""employee.employee_emp_num"" (table_name.column_name).]",[],[{'department_emp_num': 'employee.employee_emp_num'}]
+dept_name,text,,,,
+school_code,text,,,,
+department_emp_num,integer,,,,
+dept_address,text,,,,
+dept_extension,text,,,,

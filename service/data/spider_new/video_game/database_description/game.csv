@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+game_game_id,integer,"PRIMARY KEY : (""game_game_id"")","[FOREIGN KEY: ""game_platform_id"" REFERENCES ""platform.platform_platform_id"" (table_name.column_name).]",['game_id'],[{'game_platform_id': 'platform.platform_platform_id'}]
+title,text,,,,
+release_date,text,,,,
+franchise,text,,,,
+developers,text,,,,
+game_platform_id,integer,,,,
+units_sold_millions,integer,,,,

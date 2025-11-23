@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+broadcast_share_channel_id,integer,"PRIMARY KEY : (""broadcast_share_channel_id"", ""broadcast_share_program_id"")","[FOREIGN KEY: ""broadcast_share_channel_id"" REFERENCES ""channel.channel_channel_id"" (table_name.column_name)., FOREIGN KEY: ""broadcast_share_program_id"" REFERENCES ""program.program_program_id"" (table_name.column_name).]","['channel_id,program_id']","[{'broadcast_share_channel_id': 'channel.channel_channel_id'}, {'broadcast_share_program_id': 'program.program_program_id'}]"
+broadcast_share_program_id,integer,,,,
+date,text,,,,
+broadcast_share_share_in_percent,double,,,,

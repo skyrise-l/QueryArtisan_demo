@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+departments_department_id,integer,,"[FOREIGN KEY: ""departments_dept_store_id"" REFERENCES ""department_stores.department_stores_dept_store_id"" (table_name.column_name).]",[],[{'departments_dept_store_id': 'department_stores.department_stores_dept_store_id'}]
+departments_dept_store_id,integer,,,,
+department_name,text,,,,

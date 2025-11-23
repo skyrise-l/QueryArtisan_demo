@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+area_code,integer,"PRIMARY KEY : (""area_code"")",[],['area_code'],[]
+area_code_state_state,text,,,,

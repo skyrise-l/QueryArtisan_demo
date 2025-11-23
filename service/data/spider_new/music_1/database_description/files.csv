@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+files_f_id,double,"PRIMARY KEY : (""files_f_id"")","[FOREIGN KEY: ""files_artist_name"" REFERENCES ""artist.artist_artist_name"" (table_name.column_name).]",['f_id'],[{'files_artist_name': 'artist.artist_artist_name'}]
+files_artist_name,text,,,,
+file_size,text,,,,
+duration,text,,,,
+formats,text,,,,

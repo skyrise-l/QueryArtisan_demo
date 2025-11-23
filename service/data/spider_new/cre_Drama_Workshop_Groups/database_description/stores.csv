@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stores_store_id,text,"PRIMARY KEY : (""stores_store_id"")","[FOREIGN KEY: ""stores_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""stores_marketing_region_code"" REFERENCES ""marketing_regions.marketing_regions_marketing_region_code"" (table_name.column_name).]",['store_id'],"[{'stores_address_id': 'addresses.addresses_address_id'}, {'stores_marketing_region_code': 'marketing_regions.marketing_regions_marketing_region_code'}]"
+stores_address_id,integer,,,,
+stores_marketing_region_code,text,,,,
+stores_store_name,text,,,,
+stores_store_phone,text,,,,
+stores_store_email_address,text,,,,
+stores_other_details,text,,,,

@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+apartment_buildings_building_id,integer,"PRIMARY KEY : (""apartment_buildings_building_id"")",[],['building_id'],[]
+building_short_name,text,,,,
+building_full_name,text,,,,
+building_description,text,,,,
+building_address,text,,,,
+building_manager,text,,,,
+building_phone,text,,,,

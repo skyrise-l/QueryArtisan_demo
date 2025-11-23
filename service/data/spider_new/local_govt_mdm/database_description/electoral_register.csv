@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+electoral_register_id,integer,"PRIMARY KEY : (""electoral_register_id"")","[FOREIGN KEY: ""electoral_register_cmi_cross_ref_id"" REFERENCES ""cmi_cross_references.cmi_cross_references_cmi_cross_ref_id"" (table_name.column_name).]",['electoral_register_id'],[{'electoral_register_cmi_cross_ref_id': 'cmi_cross_references.cmi_cross_references_cmi_cross_ref_id'}]
+electoral_register_cmi_cross_ref_id,integer,,,,

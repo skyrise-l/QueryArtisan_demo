@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+employees_employee_id,integer,"PRIMARY KEY : (""employees_employee_id"")","[FOREIGN KEY: ""employees_role_code"" REFERENCES ""roles.roles_role_code"" (table_name.column_name).]",['employee_id'],[{'employees_role_code': 'roles.roles_role_code'}]
+employees_role_code,text,,,,
+employee_name,text,,,,
+employees_other_details,text,,,,

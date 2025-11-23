@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+organizations_organization_id,integer,"PRIMARY KEY : (""organizations_organization_id"")",[],['organization_id'],[]
+parent_organization_id,integer,,,,
+organization_details,text,,,,

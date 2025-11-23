@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+actual_order_products_actual_order_id,integer,,"[FOREIGN KEY: ""actual_order_products_product_id"" REFERENCES ""products.products_product_id"" (table_name.column_name)., FOREIGN KEY: ""actual_order_products_actual_order_id"" REFERENCES ""actual_orders.actual_orders_actual_order_id"" (table_name.column_name).]",[],"[{'actual_order_products_product_id': 'products.products_product_id'}, {'actual_order_products_actual_order_id': 'actual_orders.actual_orders_actual_order_id'}]"
+actual_order_products_product_id,integer,,,,

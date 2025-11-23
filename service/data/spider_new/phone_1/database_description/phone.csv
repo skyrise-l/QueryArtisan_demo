@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+company_name,text,"PRIMARY KEY : (""hardware_model_name"")","[FOREIGN KEY: ""screen_mode"" REFERENCES ""screen_mode.graphics_mode"" (table_name.column_name)., FOREIGN KEY: ""chip_model"" REFERENCES ""chip_model.model_name"" (table_name.column_name).]",['hardware_model_name'],"[{'screen_mode': 'screen_mode.graphics_mode'}, {'chip_model': 'chip_model.model_name'}]"
+hardware_model_name,text,,,,
+accreditation_type,text,,,,
+accreditation_level,text,,,,
+date,text,,,,
+chip_model,text,,,,
+screen_mode,text,,,,

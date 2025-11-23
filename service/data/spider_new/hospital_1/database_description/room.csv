@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+roomnumber,integer,,"[FOREIGN KEY: ""blockfloor, blockcode"" REFERENCES ""block.blockfloor, blockcode"" (table_name.column_name).]",[],"[{'blockfloor, blockcode': 'block.blockfloor, blockcode'}]"
+roomtype,text,,,,
+room_blockfloor,integer,,,,
+room_blockcode,integer,,,,
+unavailable,text,,,,

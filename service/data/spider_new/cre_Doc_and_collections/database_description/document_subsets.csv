@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_subsets_document_subset_id,integer,"PRIMARY KEY : (""document_subsets_document_subset_id"")",[],['document_subset_id'],[]
+document_subset_name,text,,,,
+document_subset_details,text,,,,

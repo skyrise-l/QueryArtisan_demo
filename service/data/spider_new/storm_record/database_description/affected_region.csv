@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+affected_region_region_id,integer,"PRIMARY KEY : (""affected_region_region_id"", ""affected_region_storm_id"")","[FOREIGN KEY: ""affected_region_region_id"" REFERENCES ""region.region_region_id"" (table_name.column_name)., FOREIGN KEY: ""affected_region_storm_id"" REFERENCES ""storm.storm_storm_id"" (table_name.column_name).]","['region_id,storm_id']","[{'affected_region_region_id': 'region.region_region_id'}, {'affected_region_storm_id': 'storm.storm_storm_id'}]"
+affected_region_storm_id,integer,,,,
+number_city_affected,double,,,,

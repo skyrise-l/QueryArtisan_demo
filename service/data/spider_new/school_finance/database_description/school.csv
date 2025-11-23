@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_school_id,text,"PRIMARY KEY : (""school_school_id"")",[],['school_id'],[]
+school_name,text,,,,
+location,text,,,,
+mascot,text,,,,
+enrollment,integer,,,,
+ihsaa_class,text,,,,
+ihsaa_football_class,text,,,,
+county,text,,,,

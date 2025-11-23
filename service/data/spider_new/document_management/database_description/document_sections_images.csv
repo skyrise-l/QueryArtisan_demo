@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+document_sections_images_section_id,integer,"PRIMARY KEY : (""document_sections_images_section_id"", ""document_sections_images_image_id"")","[FOREIGN KEY: ""document_sections_images_section_id"" REFERENCES ""document_sections.document_sections_section_id"" (table_name.column_name)., FOREIGN KEY: ""document_sections_images_image_id"" REFERENCES ""images.images_image_id"" (table_name.column_name).]","['section_id,image_id']","[{'document_sections_images_section_id': 'document_sections.document_sections_section_id'}, {'document_sections_images_image_id': 'images.images_image_id'}]"
+document_sections_images_image_id,integer,,,,

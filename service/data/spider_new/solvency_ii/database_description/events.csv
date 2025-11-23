@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+events_event_id,integer,"PRIMARY KEY : (""events_event_id"")","[FOREIGN KEY: ""events_location_id"" REFERENCES ""locations.locations_location_id"" (table_name.column_name)., FOREIGN KEY: ""events_address_id"" REFERENCES ""addresses.addresses_address_id"" (table_name.column_name)., FOREIGN KEY: ""events_finance_id"" REFERENCES ""finances.finances_finance_id"" (table_name.column_name).]",['event_id'],"[{'events_location_id': 'locations.locations_location_id'}, {'events_address_id': 'addresses.addresses_address_id'}, {'events_finance_id': 'finances.finances_finance_id'}]"
+events_address_id,integer,,,,
+events_channel_id,integer,,,,
+event_type_code,text,,,,
+events_finance_id,integer,,,,
+events_location_id,integer,,,,

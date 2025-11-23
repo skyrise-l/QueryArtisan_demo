@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+platform_platform_id,integer,"PRIMARY KEY : (""platform_platform_id"")",[],['platform_id'],[]
+platform_name,text,,,,
+market_district,text,,,,
+download_rank,integer,,,,

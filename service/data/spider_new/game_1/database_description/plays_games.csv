@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+plays_games_stuid,integer,,"[FOREIGN KEY: ""plays_games_gameid"" REFERENCES ""video_games.video_games_gameid"" (table_name.column_name)., FOREIGN KEY: ""plays_games_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name).]",[],"[{'plays_games_gameid': 'video_games.video_games_gameid'}, {'plays_games_stuid': 'student.student_stuid'}]"
+plays_games_gameid,integer,,,,
+hours_played,integer,,,,

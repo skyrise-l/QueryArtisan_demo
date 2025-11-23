@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stock_shop_id,integer,"PRIMARY KEY : (""stock_shop_id"", ""stock_device_id"")","[FOREIGN KEY: ""stock_shop_id"" REFERENCES ""shop.shop_shop_id"" (table_name.column_name)., FOREIGN KEY: ""stock_device_id"" REFERENCES ""device.device_device_id"" (table_name.column_name).]","['shop_id,device_id']","[{'stock_shop_id': 'shop.shop_shop_id'}, {'stock_device_id': 'device.device_device_id'}]"
+stock_device_id,integer,,,,
+quantity,integer,,,,

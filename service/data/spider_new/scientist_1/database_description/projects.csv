@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+code,text,"PRIMARY KEY : (""code"")",[],['code'],[]
+projects_name,text,,,,
+hours,integer,,,,

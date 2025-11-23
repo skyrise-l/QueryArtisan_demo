@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+election_id,integer,"PRIMARY KEY : (""election_id"")","[FOREIGN KEY: ""election_representative_id"" REFERENCES ""representative.representative_representative_id"" (table_name.column_name).]",['election_id'],[{'election_representative_id': 'representative.representative_representative_id'}]
+election_representative_id,integer,,,,
+date,text,,,,
+votes,double,,,,
+vote_percent,double,,,,
+seats,double,,,,
+place,double,,,,

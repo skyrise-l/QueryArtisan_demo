@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+airport_airport_id,integer,"PRIMARY KEY : (""airport_airport_id"")",[],['airport_id'],[]
+airport_name,text,,,,
+total_passengers,double,,,,
+%_change_2007,text,,,,
+international_passengers,double,,,,
+domestic_passengers,double,,,,
+transit_passengers,double,,,,
+aircraft_movements,double,,,,
+freight_metric_tonnes,double,,,,

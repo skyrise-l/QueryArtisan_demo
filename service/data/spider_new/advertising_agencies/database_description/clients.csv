@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+clients_client_id,integer,,"[FOREIGN KEY: ""clients_agency_id"" REFERENCES ""agencies.agencies_agency_id"" (table_name.column_name).]",[],[{'clients_agency_id': 'agencies.agencies_agency_id'}]
+clients_agency_id,integer,,,,
+sic_code,text,,,,
+client_details,text,,,,

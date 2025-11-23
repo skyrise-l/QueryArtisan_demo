@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+poker_player_id,integer,"PRIMARY KEY : (""poker_player_id"")","[FOREIGN KEY: ""poker_player_people_id"" REFERENCES ""people.people_people_id"" (table_name.column_name).]",['poker_player_id'],[{'poker_player_people_id': 'people.people_people_id'}]
+poker_player_people_id,integer,,,,
+final_table_made,double,,,,
+best_finish,double,,,,
+money_rank,double,,,,
+earnings,double,,,,

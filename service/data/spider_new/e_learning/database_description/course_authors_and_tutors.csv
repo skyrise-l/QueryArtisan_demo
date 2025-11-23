@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+course_authors_and_tutors_author_id,integer,,[],[],[]
+author_tutor_atb,text,,,,
+course_authors_and_tutors_login_name,text,,,,
+course_authors_and_tutors_password,text,,,,
+course_authors_and_tutors_personal_name,text,,,,
+course_authors_and_tutors_middle_name,text,,,,
+course_authors_and_tutors_family_name,text,,,,
+gender_mf,text,,,,
+address_line_1,text,,,,

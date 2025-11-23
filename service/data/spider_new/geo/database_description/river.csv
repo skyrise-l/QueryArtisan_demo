@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+river_name,text,"PRIMARY KEY : (""river_name"")","[FOREIGN KEY: ""traverse"" REFERENCES ""state.state_state_name"" (table_name.column_name).]",['river_name'],[{'traverse': 'state.state_state_name'}]
+length,integer,,,,
+river_country_name,text,,,,
+traverse,text,,,,

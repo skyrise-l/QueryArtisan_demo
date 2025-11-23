@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+school_school_id,integer,"PRIMARY KEY : (""school_school_id"")",[],['school_id'],[]
+school,text,,,,
+location,text,,,,
+enrollment,double,,,,
+founded,double,,,,
+denomination,text,,,,
+boys_or_girls,text,,,,
+day_or_boarding,text,,,,
+year_entered_competition,double,,,,
+school_colors,text,,,,

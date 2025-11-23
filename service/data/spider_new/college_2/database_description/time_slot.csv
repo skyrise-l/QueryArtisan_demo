@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+time_slot_time_slot_id,text,"PRIMARY KEY : (""time_slot_time_slot_id"", "" day"", "" start_hr"", "" start_min"")",[],"['time_slot_id, day, start_hr, start_min']",[]
+day,text,,,,
+start_hr,double,,,,
+start_min,double,,,,
+end_hr,double,,,,
+end_min,double,,,,

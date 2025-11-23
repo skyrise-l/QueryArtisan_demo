@@ -1,0 +1,2432 @@
+affiliation_affiliation_id,affiliation_name,address
+0,20/20 Speech Ltd.,Malvern UK
+1,3SOFT GmbH,Erlangen Germany
+2,"A-Life Medical, Inc.",San Diego CA
+3,A.I. DuPont Hospital for Children,Wilmington DE
+4,ABP Pvt. Ltd.,Calcutta India
+5,AE Solutions,Worcestershire UK
+6,AETHRA,Ancona Italy
+7,"AIA Information Technology Co., Ltd.",Beijing China
+8,AOL India R&D,Bangalore India
+9,AT&T Bell Labs,Columbus OH
+10,AT&T Bell Labs,Murray Hill NJ
+11,"AT&T Bell Labs, Murray Hill NJ; Carleton University",Ottawa ON
+12,"AT&T Bell Labs, Murray Hill NJ; Columbia University",New York NY
+13,"AT&T Bell Labs, Murray Hill NJ; University of Toronto",Toronto ON
+14,"AT&T Bell Labs, Murray Hill NJ; University of Umea",Umea Sweden
+15,AT&T Interactive Research,Glendale CA
+16,AT&T Labs-Research,Florham Park NJ
+17,"AT&T Labs-Research, Florham Park NJ; University of Groningen",Groningen The Netherlands
+18,"ATG, Inc.",Washington D.C.
+19,ATP,Washington D.C.
+20,ATR Human Information Processing Research Laboratories,Kyoto Japan
+21,ATR Intelligent Robotics and Communcations Labs,Kyoto Japan
+22,ATR Interpreting Telecommunications Research Laboratories,Kyoto Japan
+23,ATR Interpreting Telephony Research Laboratories,Osaka Japan
+24,ATR Knowledge Science Laboratories,Kyoto Japan
+25,ATR Media Information Science Labs,Japan
+26,ATR Spoken Language Communication Research Laboratories,Kyoto Japan
+27,ATR Spoken Language Translation Research Laboratories,Kyoto Japan
+28,"ATR Spoken Language Translation Research Laboratories, Kyoto Japan; Doshisha University",Kyoto Japan
+29,"ATR Spoken Language Translation Research Laboratories, Kyoto Japan; Kobe University",Kobe Japan
+30,"ATR Spoken Language Translation Research Laboratories, Kyoto Japan; Kyoto University",Kyoto Japan
+31,"ATR Spoken Language Translation Research Laboratories, Kyoto Japan; Waseda University",Tokyo Japan
+32,AU-KBC Research Center,Chennai India
+33,AWZAR Co.,Yangon Myanmar
+34,Aalborg University,Aalborg Denmark
+35,Abdou Moumouni University,Niamey Niger
+36,Academia Sinica,Taiwan
+37,"Academia Sinica, Taiwan; Hong Kong Polytechnic University",Hung Hom Hong Kong
+38,"Academia Sinica, Taiwan; National Taiwan University",Taipei Taiwan
+39,"Academia Sinica, Taiwan; National Tsinghua University",Hsinchu Taiwan
+40,Academy of Sciences of the Czech Republic,Czech Republic
+41,Academy of Sciences of the DDR,Berlin Germany
+42,Acadia University,Wolfville NS
+43,Accenture Technology Labs,Chicago IL
+44,Acheuron Hungary Ltd.,Szeged Hungary
+45,Acorn Computers Ltd.,Cambridge UK
+46,Adam Mickiewicz University,Poznan Poland
+47,Addis Ababa University,Ethiopia
+48,Addis Abada University,Ethiopia
+49,Advanced Decision Systems,Mountain View CA
+50,Advanced Research Projects Agency,Arlington VA
+51,"Advanced Resource Technology, Inc.",Alexandria VA
+52,Aerospace and Marine International,Aberdeenshire UK
+53,Aerospatiale-CCR,France
+54,,Aethys
+55,,Affiliation Unknown
+56,African Languages Technology Initiative,Ibadan Nigeria
+57,Agency for Assessment and Application of Technology,Jakarta Indonesia
+58,"AgoraNet, Inc.",Newark DE
+59,Agricultural University of Athens,Athens Greece
+60,Aichi Prefectural University,Aichi-Ken Japan
+61,Aichi University of Education,Aichi Japan
+62,Air Force Research Laboratory,Mesa AZ
+63,Air Force Research Laboratory,Rome NY
+64,Alakhawayn University,Ifrane Morocco
+65,Alberta Research Council,Calgary AB
+66,"Alias I, Inc.",Brooklyn NY
+67,Alibaba Group,China
+68,Amebis d.o.o.,Slovenia
+69,American Management Systems,Bern Switzerland
+70,American University in Cairo,Cairo Egypt
+71,Amman University,Jordan
+72,Amrita Institute of Technology and Science,Coimbatore India
+73,Anadolu University,Turkey
+74,Andhra University,Andhra India
+75,Anite Systems,Luxembourg
+76,Anna University,Chennai India
+77,"AnswerLogic, Inc.",Washington D.C.
+78,Aoyama Gakuin University,Tokyo Japan
+79,AppTek Inc.,Ankara Turkey
+80,Appen,Australia
+81,"Apple Computer, Inc.",Cupertino CA
+82,"Apple Computer, Inc., Cupertino CA; California Institute of Technology",Pasadena CA
+83,Apple Technology Inc.,Japan
+84,,Arab Open University
+85,Arab Open University,Amman Jordan
+86,Aristotle University of Thessaloniki,Thessaloniki Greece
+87,Arity Corporation,Concord MA
+88,Arizona State University,Phoenix AZ
+89,Arizona State University,Tempe AZ
+90,Army Research Laboratory,Adelphi MD
+91,"Army Research Laboratory, Adelphi MD; Advanced Resources Technology, Inc.",Alexandria VA
+92,Arris Pharmaceutical Corporation,San Francisco CA
+93,"Arthur D. Little, Inc.",Cambridge MA
+94,Artificial Intelligence Corporation,Newton Centre MA
+95,Ask.com,Oakland CA
+96,,Association for Computing Machinery (ACM)
+97,Aston University,Birmingham UK
+98,,AstraZeneca R&D
+99,Athens University of Economics and Business,Athens Greece
+100,"Athens University of Economics and Business, Athens Greece; Institute of Informatics and Telecommunications, National Centre for Scientific Research ï¾“DEMOKRITOSï¾”",Athens Greece
+101,"Athens University of Economics and Business, Athens Greece; Research Centre â€œAthenaâ€",Athens Greece
+102,Atomic Energy Commission,Fontenay-aux-Roses France
+103,Atos Origin,Madrid Spain
+104,Attensity Corporation,Salt Lake City UT
+105,Attentio SA,Brussels Belgium
+106,Auburn University,Auburn AL
+107,Australia and Overseas Telecommunications Corporation,Clayton Australia
+108,Australian National University,Canberra Australia
+109,"Australian National University, Canberra Australia; National ICT Australia",Locked Bag Australia
+110,"Australian National University, Canberra Australia; University of Melbourne, Melbourne Australia; University of Sydney",Sydney Australia
+111,Austrian Academy of Sciences,Vienna Austria
+112,Austrian Research Institute for Artificial Intelligence,Vienna Austria
+113,Automated Language Processing Systems,Provo UT
+114,Autonomous Metropolitan University,Cuajimalpa Mexico
+115,Autonomous University of Barcelona,Barcelona Spain
+116,Autonomous University of Madrid,Madrid Spain
+117,"Autonomous University of Madrid, Madrid Spain; Tokyo Institute of Technology",Tokyo Japan
+118,Autonomous University of Sinaloa,Culiacan Mexico
+119,B'VITAL,Grenoble France
+120,B.I.M.,Everberg Belgium
+121,BAE Systems,Burlington MA
+122,BBN Technologies,Cambridge MA
+123,BBN Technologies,Cambridge MA; Human Language Technology Center for Excellence
+124,BBN Technologies,Columbia MD
+125,BCL Technologies Inc.,Santa Clara CA
+126,BMW Group Research Technology,Munich Germany
+127,BPPT,Indonesia
+128,BSO/Research,Utrecht The Netherlands
+129,BT Laboratories,Ipswich UK
+130,BTC R&D Center,Hsinchu Taiwan
+131,Babes-Bolyai University,Cluj-Napoca Romania
+132,Baekseok University,Cheonan Korea
+133,Bangor University,Bangor UK
+134,Bar Ilan University,Ramat Gan Israel
+135,Barry University,Miami Shores FL
+136,Bashkir State University,Ufa Russia
+137,Basis Technology Corp.,Cambridge MA
+138,Battelle's Columbus Laboratories,Columbus OH
+139,Baylor University,Waco TX
+140,"BeVocal, Inc.",Mountain View CA
+141,Behavior Design Corporation,Hsinchu Taiwan
+142,Beijing Institute of Technology,Beijing China
+143,Beijing Language and Culture University,Beijing China
+144,Beijing Normal University,Beijing China
+145,Beijing University of Posts and Telecommunications,Beijing China
+146,"Beijing University of Posts and Telecommunications, Beijing China; Nokia (China) Research Center",Beijing China
+147,Bellcore,Morristown NJ
+148,"Bellcore, Morristown NJ; Columbia University",New York NY
+149,Ben Gurion University of the Negev,Be'er Sheva Israel
+150,Berlin-Brandenburg Academy of Sciences and Humanities,Berlin Germany
+151,"Berlin-Brandenburg Academy of Sciences and Humanities, Berlin Germany; Princeton University",Princeton NJ
+152,Bhrigus Software Pvt Ltd.,Hyderabad India
+153,Biblioteca Nazionale Centrale di Firenze,Florence Italy
+154,Bilkent University,Ankara Turkey
+155,"Bilkent University, Ankara Turkey; New Mexico State University",Las Cruces NM
+156,Biovista,Athens Greece
+157,Birkbeck College,London UK
+158,Birmingham University,Birmingham UK
+159,Bitext.com,Madrid Spain
+160,Bogazici University,Istanbul Turkey
+161,Boston University,Boston MA
+162,"Boston University, Boston MA; BBN Technologies",Cambridge MA
+163,Bowdoin College,Brunswick ME
+164,Bowling Green State University,Bowling Green OH
+165,Brandeis University,Waltham MA
+166,"Brandeis University, Waltham MA; Digital Equipment Corporation",Cambridge MA
+167,"Brandeis University, Waltham MA; The MITRE Corporation",Bedford MA
+168,Brattle Research Corporation,Boston MA
+169,BravoBrava! LLC,Union City CA
+170,Bremen University,Bremen Germany
+171,Bridgewater College,Bridgewater VA
+172,Brigham Young University,Provo UT
+173,Brigham and Women's Hospital,Boston MA
+174,"Britannica.com, Inc.",La Jolla CA
+175,British Telecom Group (BT Americas),Jacksonville FL
+176,British Telecom Group,England
+177,British University in Dubai,Dubai UAE
+178,Brno University of Technology,Brno Czech Republic
+179,Brown University,Providence RI
+180,"Brown University, Providence RI; SIL International",Dallas TX
+181,Brunel University,Uxbridge UK
+182,Bryn Mawr College,Bryn Mawr PA
+183,Budapest University of Technology,Budapest Hungary
+184,"Budapest University of Technology, Budapest Hungary; Humboldt University of Berlin",Berlin Germany
+185,Budapest University,Budapest Hungary
+186,"Budapest University, Budapest Hungary; University of Amsterdam, Amsterdam The Netherlands; Hungarian Academy of Sciences",Budapest Hungary
+187,Bulgarian Academy of Sciences,Bulgaria
+188,Bunker-Ramo Corporation,Canoga Park CA
+189,Bureau of the Census,Washington D.C.
+190,Burroughs Corporation,Paoli PA
+191,Butler Hill Group,Bloomington IN
+192,Butler Hill Group,Redmond WA
+193,Butler Hill Group,Reston VA
+194,CACI International,In.
+195,CAMS,Paris France
+196,CAP SESA Innovation,Meylan France
+197,CAP SOGETI Innovation,Paris France
+198,CCRIT Communications Canada,Laval QU
+199,CDAC Mumbai,Mumbai India
+200,CEA-LIST/LIC2M,Fontenay-aux-Roses France
+201,CEA-Saclay,France
+202,CEDIAG-BULL A.I. Corporate Center,Louveciennes France
+203,CEDRIC Laboratory,Paris France
+204,"CEDRIC Laboratory, Paris France; INRIA",Le Chesnay France
+205,CEFRIEL,Milan Italy
+206,CEHQ Inc.,Needham MA
+207,CELI,Turin Italy
+208,CELTA,Nancy France
+209,"CELTA, Nancy France; University of Paris 4",Paris France
+210,CERVED SpA,Padua Italy
+211,CETA,St. Martin d'Heres France
+212,CGE-Marcoussis,Marcoussis France
+213,CJK Dictionary Institute,Saitama Japan
+214,CL Research,Damascus MD
+215,CNR-CNUCE Institute,Pisa Italy
+216,CNR-Institute for Informatics and Telematics,Pisa Italy
+217,CNR-Institute for System Analysis and Computer Science,Rome Italy
+218,CNR-Institute for Systems Science and Biomedical Engineering,Padua Italy
+219,CNR-Institute of Cognitive Sciences and Technology,Rome Italy
+220,CNR-Institute of Computational Linguistics,Pisa Italy
+221,"CNR-Institute of Computational Linguistics, Pisa Italy; University of Pisa",Pisa Italy
+222,CNR-Institute of Information Science and Technology,Pisa Italy
+223,CNR-Institute of Psychology,Rome Italy
+224,CNR-Laboratory for Applied Ontology,Rome Italy
+225,CNRS,France
+226,"CNRS, France; ATILF",France
+227,"CNRS, France; CAMS",Paris France
+228,"CNRS, France; CAMS, Paris France; Electricity of France (EDF) Research Center",France
+229,"CNRS, France; CAMS, Paris France; School for Advanced Studies in the Social Sciences, Paris France; University of Paris 4",Paris France
+230,"CNRS, France; CELLMA/IRMC",Tunis
+231,"CNRS, France; CNRS",Hanoi Vietnam
+232,"CNRS, France; ERSS",France
+233,"CNRS, France; GRTC",France
+234,"CNRS, France; Groupe Intelligence Artificielle",Marseille France
+235,"CNRS, France; INIST",France
+236,"CNRS, France; INaLF",Vandoeuvre-les-Nancy France
+237,"CNRS, France; IRISA",Rennes France
+238,"CNRS, France; ISG/IRMC",Tunis
+239,"CNRS, France; Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1",Grenoble France
+240,"CNRS, France; Institute of Research in Informatics Toulouse",Toulouse France
+241,"CNRS, France; Institute of Research in Informatics Toulouse, Toulouse France; National Institute for Applied Sciences",Toulouse France
+242,"CNRS, France; Institute of Research in Informatics Toulouse, Toulouse France; University of Toulouse 3",Toulouse France
+243,"CNRS, France; Institute of Research in Informatics Toulouse, Toulouse France; University of Toulouse 3, Toulouse France; Electricity of France (EDF) Research Center",France
+244,"CNRS, France; Institute of Science and Technical Information",Vandoeuvre-les-Nancy France
+245,"CNRS, France; LACITO",Paris France
+246,"CNRS, France; LLF",Paris France
+247,"CNRS, France; LORIA",Vandoeuvre-les-Nancy France
+248,"CNRS, France; LPL",France
+249,"CNRS, France; LTCI, France; Telecom ParisTech",Paris France
+250,"CNRS, France; Laboratoire d'Informatique Pour les Sciences de l'Homme",Paris France
+251,"CNRS, France; MoDyCo",France
+252,"CNRS, France; School for Advanced Studies in the Social Sciences",Paris France
+253,"CNRS, France; Telecom Bretagne",Brest France
+254,"CNRS, France; Telecom ParisTech",Paris France
+255,"CNRS, France; URA",Marseille France
+256,"CNRS, France; University of Avignon",Avignon France
+257,"CNRS, France; University of Caen",Caen France
+258,"CNRS, France; University of Grenoble 3",Grenoble France
+259,"CNRS, France; University of Lyon",Lyon France
+260,"CNRS, France; University of Manchester",Manchester UK
+261,"CNRS, France; University of Nantes",Nantes France
+262,"CNRS, France; University of Nice Sophia Antipolis",Nice France
+263,"CNRS, France; University of Paris 10",Nanterre France
+264,"CNRS, France; University of Paris 11",Paris France
+265,"CNRS, France; University of Paris 13",Villetaneuse France
+266,"CNRS, France; University of Paris 3",Paris France
+267,"CNRS, France; University of Paris 7",Paris France
+268,"CNRS, France; University of Provence",Aix-en Provence France
+269,"CNRS, France; University of Provence, Aix-en Provence France; Vassar College",Poughkeepsie NY
+270,"CNRS, France; University of Toulouse 2",Toulouse France
+271,"CNRS, France; University of the Mediterranean",Marseille France
+272,"CNRS, France; Vassar College",Poughkeepsie NY
+273,"CNRS, France; idl",Paris France
+274,CNRS,Hanoi Vietnam
+275,CREST Japan Science and Technology Corporation,Saitama Japan
+276,"CREST Japan Science and Technology Corporation, Saitama Japan; National Institute of Informatics (NII)",Tokyo Japan
+277,"CREST Japan Science and Technology Corporation, Saitama Japan; University of Tokyo",Tokyo Japan
+278,CRIN,France
+279,CSELT-Centro Studi e Laboratori Telecomunicazioni,Turin Italy
+280,CSI-Piemonte,Italy
+281,CSIRO,Sydney Australia
+282,"CSIRO, Sydney Australia; Macquarie University",Sydney Australia
+283,CSK Research Institute,Tokyo Japan
+284,Cairo University,Giza Egypt
+285,"Cairo University, Giza Egypt; Autonomous University of Madrid",Madrid Spain
+286,California Digital Library,Oakland CA
+287,California Institute of Technology,Pasadena CA
+288,California State University Fresno,Fresno CA
+289,Calspan Corporation,Buffalo NY
+290,Cambridge Language Research Unit,Cambridge UK
+291,Cambridge Language Services Ltd.,Ware UK
+292,Cambridge University Press,Cambridge UK
+293,Cambridge University,Cambridge UK
+294,Canadian Space Agency,St. Hubert QU
+295,Canadian Workplace Automation Research Centre,Laval QU
+296,Canon Inc.,Kawasaki Japan
+297,Canon Research Centre Europe Ltd.,Surrey UK
+298,Cap Gemini Innovation,Paris France
+299,"Cap Gemini Innovation, Paris France; IRISA-Lannion",Lannion France
+300,Carleton University,Ottawa ON
+301,"Carleton University, Ottawa ON; University of Ottawa",Ottawa ON
+302,Carnegie Group Inc.,Pittsburgh PA
+303,Carnegie Mellon University,Pittsburgh PA
+304,"Carnegie Mellon University, Pittsburgh PA; ATR Interpreting Telephony Research Laboratories",Osaka Japan
+305,"Carnegie Mellon University, Pittsburgh PA; Carnegie Group Inc.",Pittsburgh PA
+306,Carnegie Mellon University,Pittsburgh PA; Cepstral LLC
+307,"Carnegie Mellon University, Pittsburgh PA; Department of Defense",Washington D.C.
+308,"Carnegie Mellon University, Pittsburgh PA; Federal University of Sao Carlos",Brazil
+309,"Carnegie Mellon University, Pittsburgh PA; Just Research",Pittsburgh PA
+310,"Carnegie Mellon University, Pittsburgh PA; Mobile Technologies",Inc.
+311,"Carnegie Mellon University, Pittsburgh PA; Polish Academy of Sciences",Warsaw Poland
+312,"Carnegie Mellon University, Pittsburgh PA; Sabanci University",Istanbul Turkey
+313,"Carnegie Mellon University, Pittsburgh PA; System Development Corporation",Santa Monica CA
+314,"Carnegie Mellon University, Pittsburgh PA; Technical University of Lisbon",Lisbon Portugal
+315,"Carnegie Mellon University, Pittsburgh PA; Toshiba Research Europe",Cambridge UK
+316,"Carnegie Mellon University, Pittsburgh PA; University of Edinburgh",Edinburgh UK
+317,"Carnegie Mellon University, Pittsburgh PA; University of Karlsruhe",Karlsruhe Germany
+318,Case Western Reserve University,Cleveland OH
+319,"Catalan Institution for Research and Advanced Studies (ICREA), Spain; Pompeu Fabra University",Barcelona Spain
+320,Catena-Resource Laboratories Inc.,Tokyo Japan
+321,Catholic University of Leuven,Leuven Belgium
+322,Catholic University of Leuven,Leuven Belgium; Research Foundation-Flanders
+323,"Catholic University of Leuven, Leuven Belgium; University Hospital Gasthuisberg",Leuven Belgium
+324,Catholic University of Louvain,Louvain-la-Neuve Belgium
+325,Catholic University of Sao Paulo,Sao Paulo Brazil
+326,Catholic University of Tilburg,Tilburg The Netherlands
+327,Catholic University of the Sacred Heart,Milan Italy
+328,"Celer Soluciones, S.L.",Madrid Spain
+329,Center for Applied Linguistics,Washington D.C.
+330,Center for General Linguistics,Berlin Germany
+331,Center for Language Technology,Copenhagen Denmark
+332,Center for Scientific and Technological Research,Trento Italy
+333,"Center for Scientific and Technological Research, Trento Italy; CNR-Institute of Psychology",Rome Italy
+334,"Center for Scientific and Technological Research, Trento Italy; University of Trento",Trento Italy
+335,Center for Sprogteknologi,Copenhagen Denmark
+336,Center for the Evaluation of Language and Communication Technologies,Trento Italy
+337,Central China Normal University,Wuhan China
+338,Central Institute for the Deaf,St. Louis MO
+339,"Central Institute for the Deaf, St. Louis MO; Washington University",St. Louis MO
+340,,Central Institute of Indian Languages
+341,Central Michigan University,Mt. Pleasant MI
+342,Central Research Institute of Electric Power Industry,Tokyo Japan
+343,"Central Research Institute of Electric Power Industry, Tokyo Japan; Tokyo Institute of Technology",Tokyo Japan
+344,Central University,Hyderabad India
+345,Centre National d'Etudes des Telecommunications,Lannion France
+346,Centre de recerche Informatique de Montreal (CRIM),Montreal QU
+347,Centre for Development of Advanced Computing,Pune India
+348,Centre for Information Technology Innovation,Laval QU
+349,Centro Ricerche Fiat,Orbassano Italy
+350,Centro Tecnologico do Exercito,Rio de Janeiro Brazil
+351,Centrum Wiskunde en Informatica,Amsterdam The Netherlands
+352,,Cepstral LLC
+353,Chalmers University of Technology,Goteborg Sweden
+354,"Chalmers University of Technology, Goteborg Sweden; Goteborg University",Goteborg Sweden
+355,Changwon University,Changwon Korea
+356,Chaoyang University of Technology,Taiwan
+357,Charles 3 University of Madrid,Madrid Spain
+358,Charles University,Prague Czech Republic
+359,Chemical Abstracts Service,Columbus OH
+360,Chi-Mei Medical Center,Tainan Taiwan
+361,Chiba University,Chiba Japan
+362,Chicago State University,Chicago IL
+363,Children's Hospital of Philadelphia,Philadelphia PA
+364,China Center for Information Industry Development,Beijing China
+365,China Software Technique Corp.,China
+366,Chinchor,Nancy A.
+367,Chinese Academy of Sciences,Beijing China
+368,"Chinese Academy of Sciences, Beijing China; Huazhong Normal University of Science and Technology",Wuhan China
+369,"Chinese Academy of Sciences, Beijing China; Peking University",Beijing China
+370,"Chinese Academy of Sciences, Beijing China; University of Science and Technology",Beijing China
+371,Chinese Academy of Social Sciences,Beijing China
+372,Chonan University,Chonan Korea
+373,Chongqing University,Chongqing China
+374,Chonnam National University,Gwangju Korea
+375,Christopher Newport University,Newport News VA
+376,Chukyo University,Nagoya Japan
+377,Chulalongkorn University,Thailand
+378,Chung Cheng University,Min-Hsiung Taiwan
+379,Chung Yuan Christian University,Taiwan
+380,"Chunghwa Telecom Co., Ltd.",Chungli Taiwan
+381,"Chunghwa Telecom Co., Ltd., Chungli Taiwan; National Taiwan University of Science and Technology",Taiwan
+382,"Chunghwa Telecom Co., Ltd., Chungli Taiwan; National Tsinghua University",Hsinchu Taiwan
+383,Chungnam National University,Daejeon Korea
+384,Cincinnati Children's Hospital Medical Center,Cincinnati OH
+385,"Cincinnati Children's Hospital Medical Center, Cincinnati OH; Nicolaus Copernicus University",Torun Poland
+386,City University of Hong Kong,Kowloon Hong Kong
+387,"City University of Hong Kong, Kowloon Hong Kong; Department of Foreign Trade & Economics",China
+388,"City University of Hong Kong, Kowloon Hong Kong; Soochow University",Suzhou China
+389,"City University of Hong Kong, Kowloon Hong Kong; Tsinghua University",Beijing China
+390,"City University of Hong Kong, Kowloon Hong Kong; University of California at Berkeley",Berkeley CA
+391,"City University of Hong Kong, Kowloon Hong Kong; University of Sheffield",Sheffield UK
+392,City University of New York-Brooklyn College,Brooklyn NY
+393,City University of New York-City College,New York NY
+394,City University of New York-Graduate Center,New York NY
+395,City University of New York-Hunter College,New York NY
+396,"City University of New York-Hunter College, New York NY; IBM T.J. Watson Research Center",Yorktown Heights NY
+397,City University of New York-Lehman College,New York NY
+398,City University of New York-Queens College,Flushing NY
+399,"City University of New York-Queens College, Flushing NY; City University of New York-Graduate Center",New York NY
+400,Clairvoyance Corporation,Pittsburgh PA
+401,Clark Training & Consulting,Dolores CO
+402,Cluster Reply,Turin Italy
+403,"CoGenTex, Inc.",Ithaca NY
+404,"CoGenTex, Inc., Ithaca NY; University of Paris 7",Paris France
+405,Cognitive Research Laboratory,Tokyo Japan
+406,Cognitive Science Center Amsterdam,Amsteradam The Netherlands
+407,Cognitive Systems Inc.,New Haven CT
+408,"Coherent Research, Inc.",East Syracuse NY
+409,Colgate University,Hamilton NY
+410,College Militaire Royale,St. Jean QU
+411,College of Business Studies,Hawaly Kuwait
+412,College of Mexico,Mexico City Mexico
+413,Collins Publishers,Glasgow UK
+414,Columbia University,New York NY
+415,Commission of the European Communities,Luxembourg
+416,Commonwealth Scientific and Industrial Research Organisation (CSIRO),Sydney Australia
+417,Communication University of China,Beijing China
+418,Communications Research Laboratory,Kyoto Japan
+419,"Communications Research Laboratory, Kyoto Japan; Kobe University",Kobe Japan
+420,Complutense University of Madrid,Madrid Spain
+421,Computer Corporation of America,Cambridge MA
+422,Computer Technology Institute,Patras Greece
+423,Concordia University,Montreal QU
+424,Conexor Oy,Helsinki Finland
+425,Connecticut Valley Hospital,Middletown CT
+426,Consultants for Language Technology,Saabrucken Germany
+427,Content Technologies Inc.,Arlington MA
+428,Copenhagen Business School,Copenhagen Denmark
+429,Cornell University,Ithaca NY
+430,"Cornell University, Ithaca NY; Carnegie Mellon University",Pittsburgh PA
+431,Cornell University,Ithaca NY; SIL International
+432,Corporation for National Research Initiatives,Reston VA
+433,Curie Institute,Paris France
+434,Cyber Solutions Laboratories,Kyoto Japan
+435,Cycorp Inc.,Austin TX
+436,Cymfony Inc.,Williamsville NY
+437,"Cymfony Inc., Williamsville NY; University of Pennsylvania",Philadelphia PA
+438,Czech Technical University in Prague,Prague Czech Republic
+439,Czechoslovak Academy of Sciences,Prague Czechoslovakia
+440,"Czechoslovak Academy of Sciences, Prague Czechoslovakia; Charles University",Prague Czech Republic
+441,DIAM-INSERM,Paris France
+442,DIPF,Stuttgart Germany
+443,,DISTIL Interactive
+444,DLI Foreign Language Center,Monterey CA
+445,DSO National Laboratories,Singapore
+446,"DSO National Laboratories, Singapore; Defence Medical Research Institute",Singapore
+447,"DSO National Laboratories, Singapore; National University of Singapore",Singapore
+448,DaNang University,DaNang City Vietnam
+449,Daimler AG,Germany
+450,Dalhousie University,Halifax NS
+451,Dalian University of Technology,Dalian China
+452,Dalle Mole Institute for Artificial Intelligence,Lugano Switzerland
+453,,Danish Institute for Educational Research
+454,Danish Language and Literature Society,Copenhagen Denmark
+455,Darmstadt University of Technology,Darmstadt Germany
+456,Dartmouth College,Hanover NH
+457,Dassault Aviation,St. Cloud France
+458,"Dassault Aviation, St. Cloud France; University of Caen",Caen France
+459,Daum Communications Corp,Seoul Korea
+460,David Sarnoff Research Center,Princeton NJ
+461,Dayeh University,Changhua Taiwan
+462,De La Salle University,Manila Philippines
+463,"De La Salle University, Manila Philippines; University of Toulouse 3",Toulouse France
+464,"DeAnza College, Cupertino CA; NASA Ames Research Center",Moffett Field CA
+465,DePaul University,Chicago IL
+466,Deception Discovery Technologies,Minneapolis MN
+467,Deception Discovery Technologies,Oxford NJ
+468,Defense R&D,Bangalore India
+469,Defense Science and Technology Organisation,Edinburgh Australia
+470,Delegation Generale pour l'Armement (DGA),Arcueil France
+471,Delft University of Technology,Delft The Netherlands
+472,Delhi University,Delhi India
+473,Department of Defense,Washington D.C.
+474,Deuchemie Industries Inc.,Hsinchu Taiwan
+475,Deutsche Telekom Laboratories,Berlin Germany
+476,"Deutsche Telekom Laboratories, Berlin Germany; Technical University of Berlin",Berlin Germany
+477,Deutsche Telekom,Darmstadt Germany
+478,Digital Enterprise Research Institute (DERI)-Galway,Galway Ireland
+479,Digital Equipment Corporation,Amsterdam The Netherlands
+480,Digital Equipment Corporation,Cambridge MA
+481,"Digital Equipment Corporation, Cambridge MA; Brandeis University",Waltham MA
+482,,Digital Pebble Ltd.
+483,Dima Logic,Turin Italy
+484,Diquest Inc.,Seoul Korea
+485,Distance Distance University of Hagen,Hagen Germany
+486,Distance University of Hagen,Hagen Germany
+487,Divine Inc.,Burlington MA
+488,DocRec Ltd.,Nelson New Zealand
+489,Dolores Labs,San Francisco
+490,Dong-A University,Busan Korea
+491,Dortmund University,Dortmund Germany
+492,Doshisha University,Kyoto Japan
+493,"Doshisha University, Kyoto Japan; ATR Spoken Language Communication Research Laboratories",Kyoto Japan
+494,DrWolf s.r.l.,Italy
+495,Dragon Systems Inc.,Newton MA
+496,"Dresden University of Technology, Dresden Germany; Academy of Sciences of the DDR",Berlin Germany
+497,Drexel University,Philadelphia PA
+498,Dublin City University,Dublin Ireland
+499,"Dublin City University, Dublin Ireland; IBM Dublin Center for Advanced Studies",Dublin Ireland
+500,Dublin Institute of Technology,Dublin Ireland
+501,Duke University,Durham NC
+502,"Duke University, Durham NC; Research Triangle Institute",Research Triangle Park NC
+503,E-Speech Corporation,Princeton NJ
+504,"EF, Direction des Etudes et des Recherches",Clamart France
+505,EML Research GmbH,Heidelberg Germany
+506,"EML Research GmbH, Heidelberg Germany; University of Stuttgart",Stuttgart Germany
+507,ENST/TSI,Paris France
+508,ERLI,France
+509,"ERSS, France; University of Toulouse 2",Toulouse France
+510,ETRI,Daejeon Korea
+511,EURAC Research,Bolzano Italy
+512,EUROCONTROL Experimental Centre,France
+513,Earlham College,Richmond IN
+514,East Carolina University,Greenville NC
+515,East China Normal University,Shanghai China
+516,Ecole Nationale de L'Industrie Minerale,Rabat Morocco
+517,Ecole Nationale des Chartes,Sorbonne France
+518,Ecole Normale Superieure de Fontenay-St. Cloud,Fontena-aux-Roses France
+519,"Ecole Normale Superieure de Fontenay-St. Cloud, Fontena-aux-Roses France; Electricity of France (EDF) Research Center",France
+520,Ecole Polytechnique Federale de Lausanne,Lausanne Switzerland
+521,Ecole de L'Institut Telecom,Paris France
+522,Ecological Linguistics,Washington D.C.
+523,Educational Testing Service,Princeton NJ
+524,Eindhoven University of Technology,Eindhoven The Netherlands
+525,"Eindhoven University of Technology, Eindhoven The Netherlands; Tilburg University",Tilburg The Netherlands
+526,"Eindhoven University of Technology, Eindhoven The Netherlands; University of Antwerp",Antwerp Belgium
+527,El Camino Hospital,Mountain View CA
+528,Electricity of France (EDF) Research Center,France
+529,Electronic Data Systems Corp.,Albuquerque NM
+530,Electrotechnical Laboratory,Tsukuba Japan
+531,Elettronica San Giorgio-ELSAG SpA,Genova Italy
+532,Elhuyar R&D,Basque Country
+533,Emory University,Atlanta GA
+534,Engineering Company for the Development of Computer Systems,Egypt
+535,Entropic Research Laboratory,Washington D.C.
+536,Environment Canada,Toronto ON
+537,Epimenides Corp.,New York NY
+538,Erasmus University,Rotterdam The Netherlands
+539,Erbach,Gregor
+540,Eschenweg 3,Germany
+541,European Bioinformatics Institute,Cambridge UK
+542,European Commission,Luxembourg
+543,European Molecular Biology Laboratory,Heidelberg Germany
+544,European University of Brittany,Rennes France
+545,European University of Madrid,Madrid Spain
+546,,Eurospider Information Technology (EIT) AG
+547,,Eurotra
+548,Eurotra; University of Copenhagen,Copenhagen Denmark
+549,Evaluations and Language Resources Distribution Agency (ELDA),Paris France
+550,"Evaluations and Language Resources Distribution Agency (ELDA), Paris France; CNRS, France; University of Paris 13",Villetaneuse France
+551,"Evaluations and Language Resources Distribution Agency (ELDA), Paris France; University of Paris 13",Villetaneuse France
+552,Ewha Women's University,Seoul Korea
+553,FCCN,Portugal
+554,FSO Prague,Prague Czechoslovakia
+555,FX Palo Alto Laboratory,Palo Alto CA
+556,Facebook,Palo Alto CA
+557,Fair Isaac Corporation,San Diego CA
+558,Fairchild Camera and Instrument Corporation,Palo Alto CA
+559,Fatih University,Istanbul Turkey
+560,Federal University of Para,Belem Brazil
+561,Federal University of Pernambuco,Recife Brazil
+562,Federal University of Rio Grande do Sul,Porto Alegre Brazil
+563,"Federal University of Rio Grande do Sul, Porto Alegre Brazil; Bath University",UK
+564,Federal University of Santa Catarina,Florianopolis Brazil
+565,Federal University of Sao Carlos,Brazil
+566,Financial Crimes Enforcement Network,Vienna VA
+567,Flinders University of South Australia,Adelaide Australia
+568,Florida Institute for Human and Machine Cognition,Pensacola FL
+569,Florida International University,Miami FL
+570,Florida State University,Tallahassee Florida
+571,Fondazione Bruno Kessler,Trento Italy
+572,"Fondazione Bruno Kessler, Trento Italy; Center for Scientific and Technological Research",Trento Italy
+573,Food and Agricultural Organization of the United Nations,Rome Italy
+574,Fordham University,Bronx NY
+575,Fordyce,Cameron
+576,Forschungsgruppe LIMAS,Bonn Germany
+577,France Telecom R&D Center (Beijing),Beijing China
+578,"France Telecom R&D Center (Beijing), Beijing China; Beijing University of Posts and Telecommunications",Beijing China
+579,Fraunhofer Institute for Computer Graphics (IGD),Darmstadt Germany
+580,Fraunhofer Institute for Industrial Engineering,Stuttgart Germany
+581,"Fraunhofer Institute for Industrial Engineering, Stuttgart Germany; University of Stuttgart",Stuttgart Germany
+582,Fraunhofer Institute for Intelligent Analysis and Information Systems (IAIS),Germany
+583,Frederick Institute of Technology,Cyprus
+584,Free University Brussels,Brussels Belgium
+585,Free University of Bolzano Bozen,Bolzano Bozen Italy
+586,Frei University,Berlin Germany
+587,Freiburg University,Freiburg Germany
+588,"Freiburg University, Freiburg Germany; University of Jena",Jena Germany
+589,French National Institute for Agricultural Research Rennes,Rennes France
+590,French National Institute for Agricultural Research,Domaine de Vilvert France
+591,French Telecom R&D,Lannion France
+592,Fudan University,Shanghai China
+593,Fuji Xerox Co. Ltd.,Kanagawa Japan
+594,Fujitsu Laboratories,Kawasaki Japan
+595,"Fujitsu Limited, Tokyo Japan; Nara Institute of Science and Technology",Nara Japan
+596,Fujitsu Ltd.,Yokohama Japan
+597,"Fujitsu Nexion, Inc.",St. Louis MO
+598,"Fujitsu R&D Center Co., Ltd.",Beijing China
+599,Fukui University,Fukui Japan
+600,Fukuoka University,Fukuoka Japan
+601,Future University,Hakodate Japan
+602,,GE Aerospace
+603,GE Company,Santa Barbara CA
+604,GE Corporate Research & Development,Schenectady NY
+605,GTE Government Systems,Mountain View CA
+606,"GTE Laboratories, Inc.",Waltham MA
+607,"Galatasaray University, Istanbul Turkey; CEDRIC Laboratory",Paris France
+608,General Dynamics,Greensboro NC
+609,General Motors Research Laboratories,Warren MI
+610,Geneva Bioinformatics,Geneva Switzerland
+611,"Geneva Bioinformatics, Geneva Switzerland; Swiss Institute of Bioinformatics",Geneva Switzerland
+612,"Geneva Bioinformatics, Geneva Switzerland; University of Geneva",Geneva Switzerland
+613,Gensym Corporation,Cambridge UK
+614,George Mason University,Fairfax VA
+615,"George Mason University, Fairfax VA; The MITRE Corporation",McLean VA
+616,George Washington University,Ashburn VA
+617,"George Washington University, Ashburn VA; University of Bologna",Bologna Italy
+618,Georgetown University,Washington D.C.
+619,Georgia Institute of Technology,Atlanta GA
+620,"Georgia Institute of Technology, Atlanta GA; University of Georgia",Athens Georgia
+621,Georgia Southwestern State University,Americus GA
+622,German National Library,Frankfurt Germany
+623,German National Research Center for Information Technology,Darmstadt Germany
+624,German Research Center for Artificial Intelligence,Saarbrucken Germany
+625,"German Research Center for Artificial Intelligence, Saarbrucken Germany; Saarland University",Saarbrucken Germany
+626,"German Research Center for Artificial Intelligence, Saarbrucken Germany; Saarland University, Saarbrucken Germany; University of Melbourne",Melbourne Australia
+627,"German Research Center for Artificial Intelligence, Saarbrucken Germany; University of Lisbon",Lisbon Portugal
+628,"German University in Cairo, Cairo Egypt; IBM Cairo Technology Development Center",Giza Egypt
+629,Ghent University,Ghent Belgium
+630,"Ghent University, Ghent Belgium; University of Western Cape",South Africa
+631,Gifu University,Gifu Japan
+632,Gonzaga University,Spokane WA
+633,Google Inc.,Bangalore India
+634,Google Inc.,Mountain View CA
+635,"Google Inc., Mountain View CA; Charles University",Prague Czech Republic
+636,"Google Inc., Mountain View CA; Oregon Health & Science University",OR
+637,Google Inc.,New York NY
+638,Google Inc.,Pittsburgh PA
+639,Google Inc.,Pyrmont Australia
+640,Google Inc.,Seattle WA
+641,Google Inc.,Zurich Switzerland
+642,Goteborg University,Goteborg Sweden
+643,"Goteborg University, Goteborg Sweden; University of Boras",Boras Sweden
+644,,GrapeCity Inc.
+645,Graphitech,Trento Italy
+646,Graz University of Technology,Graz Austria
+647,Grenoble Institute of Technology,Grenoble France
+648,Grupo gdt.,Sevilla Spain
+649,HCM University of Industry,HCM City Vietnam
+650,"HNC Software, LLC",San Diego CA
+651,"HRL Laboratories, LLC",Malibu CA
+652,Hankuk University of Foreign Studies,Seoul Korea
+653,Hanoi University of Technology,Hanoi Vietnam
+654,Hansung University,Seoul Korea
+655,Harbin Institute of Technology,Harbin China
+656,"Harbin Institute of Technology, Harbin China; Hong Kong Polytechnic University",Hung Hom Hong Kong
+657,"Harbin Institute of Technology, Harbin China; Toshiba (China) Research and Development Center",Beijing China
+658,Hargraves,Orin
+659,Harlequin Ltd.,Edinburgh UK
+660,Harvard University,Cambridge MA
+661,"Harvard University, Cambridge MA; BBN Technologies",Cambridge MA
+662,Hebrew University of Jerusalem,Jerusalem Israel
+663,"Hebrew University of Jerusalem, Jerusalem Israel; Bar Ilan University",Ramat Gan Israel
+664,Heilongjiang University,Harbin China
+665,Helsinki University of Technology,Helsinki Finland
+666,Helsinki University,Helsinki Finland
+667,"Helsinki University, Helsinki Finland; University of Art and Design Helsinki",Helsinki Finland
+668,"Helsinki University, Helsinki Finland; University of Washington",Seattle WA
+669,Heriot-Watt University,Edinburgh UK
+670,Hertzen Pedagogical University,St. Petersburg USSR
+671,Hewlett Packard Company,Palo Alto CA
+672,Hewlett Packard Laboratories,Bristol UK
+673,"Hewlett Packard Laboratories, Bristol UK; Hewlett Packard Company",Palo Alto CA
+674,"Hewlett Packard Laboratories, Bristol UK; University of Pennsylvania",Philadelphia PA
+675,Higher Institute of Engineering and Building,Sofia Bulgaria
+676,Himeji College,Himeji Japan
+677,"Hipp, Wyrick & Company, Inc.",Charlotte NC
+678,Hiroshima City University,Hiroshima Japan
+679,Hiroshima University,Hiroshima Japan
+680,"Hitachi Dublin Laboratory, Dublin Ireland; Trinity College Dublin",Dublin Ireland
+681,Hitachi Ltd.,Kanagawa Japan
+682,Hitachi Ltd.,Kawasaki Japan
+683,Hitachi Ltd.,Saitama Japan
+684,Hitachi Ltd.,Tokyo Japan
+685,"Hitachi Ltd., Tokyo Japan; University of Tokyo",Tokyo Japan
+686,Hofstra University,Hempstead NY
+687,Hokkai-Gakuen University,Sapporo Japan
+688,Hokkaido University,Sapporo Japan
+689,"Hokuto System Co., Ltd.",Sapporo Japan
+690,"Honda Research Institute Japan Co., Ltd.",Saitama Japan
+691,Honda Research Institute,Mountain View CA
+692,Honeywell International,Minneapolis MN
+693,Hong Kong Polytechnic University,Hung Hom Hong Kong
+694,"Hong Kong Polytechnic University, Hung Hom Hong Kong; Tianjin University",Tianjin China
+695,"Hong Kong Polytechnic University, Hung Hom Hong Kong; Wuhan University",Wuhan China
+696,"Hong Kong Polytechnic University, Hung Hom Hong Kong; Wuhan University, Wuhan China; IBM China",Beijing China
+697,Hosei University,Tokyo Japan
+698,Hottolink Inc.,Tokyo Japan
+699,Houghton-Mifflin Company,Boston MA
+700,"Howard University, Washington D.C.; Software Troubleshooters",Washington D.C.
+701,Hsieh,Shu-Kai
+702,Huafan University,Shihding Taiwan
+703,Huazhong Normal University,Wuhan China
+704,Hubbell,James
+705,Hughes Research Laboratories,Malibu CA
+706,Human Media Interaction Twente,Twente The Netherlands
+707,Humboldt University of Berlin,Berlin Germany
+708,Hunan University,Hunan China
+709,Hungarian Academy of Sciences,Budapest Hungary
+710,Hyogo University of Teacher Education,Hyogo Japan
+711,IBM Almaden Research Center,San Jose CA
+712,IBM Cairo Technology Development Center,Giza Egypt
+713,IBM China,Beijing China
+714,IBM Corp.,Boca Raton FL
+715,"IBM Corporation, Cambridge MA; Harvard University",Cambridge MA
+716,IBM Czech Republic,Prague Czech Republic
+717,IBM Data Systems Division,White Plains NY
+718,IBM Dublin Center for Advanced Studies,Dublin Ireland
+719,IBM Germany GmbH,Stuttgart Germany
+720,IBM India Research Lab,Bangalore India
+721,IBM Israel Scientific Center,Haifa Israel
+722,"IBM Israel Scientific Center, Haifa Israel; University of Haifa",Haifa Israel
+723,IBM Japan Ltd.,Kanagawa Japan
+724,IBM Los Angeles Scientific Center,Los Angeles CA
+725,IBM Madrid Scientific Center,Madrid Spain
+726,IBM Palo Alto Scientific Center,Palo Alto CA
+727,IBM Paris Scientific Center,Paris France
+728,IBM Research India,New Delhi India
+729,"IBM Research India, New Delhi India; Indian Institute of Technology",New Delhi India
+730,IBM Research Rome,Rome Italy
+731,IBM Research Tokyo,Tokyo Japan
+732,IBM Research UK,Winchester UK
+733,IBM Scientific Center,Heidelberg Germany
+734,IBM Systems Research Institute,New York NY
+735,IBM T.J. Watson Research Center,Yorktown Heights NY
+736,"IBM T.J. Watson Research Center, Yorktown Heights NY; Cambridge University",Cambridge UK
+737,"IBM T.J. Watson Research Center, Yorktown Heights NY; City University of New York-Hunter College",New York NY
+738,"IBM T.J. Watson Research Center, Yorktown Heights NY; New York University",New York NY
+739,"IBM T.J. Watson Research Center, Yorktown Heights NY; University of Pisa, Pisa Italy; CNR-Institute of Computational Linguistics",Pisa Italy
+740,"IBM T.J. Watson Research Center, Yorktown Heights NY; Wayne State University",Detroit MI
+741,IBM Toronto,North York ON
+742,IDA Center for Computing Sciences,Bowie MD
+743,IDIAP Research Institute,Martigny Switzerland
+744,IFCI,Grenoble France
+745,ILTEC,Lisbon Portugal
+746,INALCO,Paris France
+747,INESC,Lisbon Portugal
+748,"INESC, Lisbon Portugal; Higher Institute of Labor Science and Enterprise",Lisbon Portugal
+749,"INESC, Lisbon Portugal; New York University, New York NY; Technical University of Lisbon",Lisbon Portugal
+750,"INESC, Lisbon Portugal; Technical University of Lisbon",Lisbon Portugal
+751,"INIST, France; University of Paris 13",Villetaneuse France
+752,INOV,Lisbon Portugal
+753,INRIA Futurs,Lille France
+754,INRIA,Le Chesnay France
+755,"INRIA, Le Chesnay France; CNRS",France
+756,"INRIA, Le Chesnay France; IRISA",Rennes France
+757,"INRIA, Le Chesnay France; LORIA",Vandoeuvre-les-Nancy France
+758,"INRIA, Le Chesnay France; LORIA, Vandoeuvre-les-Nancy France; University of Nancy 1",Nancy France
+759,"INRIA, Le Chesnay France; New University of Lisbon",Lisbon Portugal
+760,"INRIA, Le Chesnay France; University of Orleans",Orleans France
+761,"INRIA, Le Chesnay France; University of Paris 4",Paris France
+762,"INRIA, Le Chesnay France; University of Paris 7",Paris France
+763,INRS-Telecommunications,Montreal QU
+764,"INRS-Telecommunications, Montreal QU; Bell-Northern Research",Montreal QU
+765,INSA-Strasbourg,Strasbourg France
+766,INSERM,Villejuif France
+767,INSSEE,Malakoff France
+768,IRISA,Rennes France
+769,"IRISA, Rennes France; CNRS",France
+770,"IRISA, Rennes France; Centre National d'Etudes des Telecommunications",Lannion France
+771,"IRISA, Rennes France; INSA-Rennes",Rennes France
+772,"IRISA, Rennes France; University of Rennes 1",Rennes France
+773,Ibaraki University,Ibaraki Japan
+774,Ikuni Inc.,Palo Alto CA
+775,Illinois Institute of Technology,Chicago IL
+776,Im Mellsig 25,Franfurt Germany
+777,InQuizit Technologies Inc.,Santa Monica CA
+778,"Index, Oy",Helsinki Finland
+779,Indian Institute of Information Technology,Allahabad India
+780,Indian Institute of Technology,Bombay India
+781,Indian Institute of Technology,Kanpur India
+782,Indian Institute of Technology,Kharagpur India
+783,Indian Institute of Technology,Madras India
+784,Indian Institute of Technology,New Delhi India
+785,Indian Statistical Institute,Bangalore India
+786,Indian Statistical Institute,Calcutta India
+787,Indiana University,Bloomington IN
+788,Indus Research Center,Chennai India
+789,Industrial Technology Research Institute,Hsinchu Taiwan
+790,Infineon Technologies,Munich Germany
+791,InforSense LLC,Cambridge MA
+792,Information Center of PEOPLE'S DAILY,China
+793,Information and Communications University,Daejeon Korea
+794,Information-technology Promotion Agency,Tokyo Japan
+795,Informatique-CDC,Arcueil France
+796,"Informatique-CDC, Arcueil France; University of Paris 6",Paris France
+797,Insightful Corporation,Seattle WA
+798,Institut EURECOM,Valbonne France
+799,Institut National de l'Audiovisuel,Bry-sur-Marne France
+800,Institut de Recherche et Coordination Acoustique Musique (IRCAM),Paris France
+801,Institute for Defense Analyses,Alexandria VA
+802,Institute for Defense Analyses,Princeton NJ
+803,Institute for Dutch Lexicology,Leiden The Netherlands
+804,Institute for Electrical Research,Cuernavaca Mexico
+805,Institute for German Language,Mannheim Germany
+806,Institute for Infocomm Research,Singapore
+807,"Institute for Infocomm Research, Singapore; National University of Singapore",Singapore
+808,"Institute for Infocomm Research, Singapore; Soochow University",Suzhou China
+809,Institute for Language Technology and Artificial Intelligence (ITK),Tilburg The Netherlands
+810,Institute for Language and Speech Processing,Athens Greece
+811,"Institute for Language and Speech Processing, Athens Greece; National Technical University of Athens",Athens Greece
+812,Institute for New Generation Computer Technology,Tokyo Japan
+813,Institute for Perception Research,Eindhoven The Netherlands
+814,Institute for Scientific Information,Philadelphia PA
+815,Institute for Scientific Technical and Economic Information,Warsaw Poland
+816,Institute for the Development of New Technologies,Monte de Caparica Portugal
+817,Institute of Behavioral Sciences,Tokyo Japan
+818,Institute of Biological Structures,France
+819,Institute of Computing Technology,Beijing China
+820,Institute of Formal and Applied Linguistics,Prague Czech Republic
+821,"Institute of Informatics and Telecommunications, National Centre for Scientific Research ï¾“DEMOKRITOSï¾”",Athens Greece
+822,Institute of Information and Applied Mathematics Grenoble,Grenoble France
+823,"Institute of Information and Applied Mathematics Grenoble, Grenoble France;  MICA",Vietnam
+824,"Institute of Information and Applied Mathematics Grenoble, Grenoble France; Scientific and Medical University of Grenoble",Grenoble France
+825,"Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1",Grenoble France
+826,"Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1, Grenoble France; CNRS",France
+827,"Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1, Grenoble France; CNRS, France; ATR Interpreting Telephony Research Laboratories",Osaka Japan
+828,"Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1, Grenoble France; CNRS, France; WinSoft S.A.",Grenoble France
+829,Institute of Information and Applied Mathematics Grenoble-TIMC/IMAG,La Tronche France
+830,Institute of Information and Applied Mathematics Grenoble; University of Grenoble 1,Grenoble France
+831,"Institute of Information and Applied Mathematics Grenoble; University of Grenoble 3, Grenoble France; Domaine Universitaire de St. Martin d'Heres",Grenoble France
+832,Institute of Linguistics,Budapest Hungary
+833,Institute of Mathematical Sciences,Chennai India
+834,Institute of Mathematics,Bucharest Romania
+835,Institute of Phonetics and Speech Processing,Munich Germany
+836,Institute of Physical and Chemical Research,Yokohama Japan
+837,Institute of Research in Informatics Toulouse,Toulouse France
+838,"Institute of Research in Informatics Toulouse, Toulouse France; CNRS",France
+839,"Institute of Research in Informatics Toulouse, Toulouse France; CNRS, France; University of Toulouse 2",Toulouse France
+840,"Institute of Research in Informatics Toulouse, Toulouse France; CNRS, France; University of Toulouse",Toulouse France
+841,"Institute of Research in Informatics Toulouse, Toulouse France; University of Toulouse 3",Toulouse France
+842,Institute of Technology Chihuahua,Chihuahua Mexico
+843,Institute of the Estonian Language,Tallinn Estonia
+844,Institute of the Russian Language,Moscow USSR
+845,Insubria University,Varese Italy
+846,,Integrated Knowledge Systems
+847,Intel China Research Center,Beijing China
+848,Intel Research,Santa Clara CA
+849,Intellectual Property Association,Washington D.C.
+850,"Intelligent Interface Group (COES), Rome NY; Cambridge University",Cambridge UK
+851,"Intelligent Software, Inc.",Van Nuys CA
+852,"Intelligent Text Processing, Inc.",Santa Monica CA
+853,Intelligent Views,Darmstadt Germany
+854,Intelliseek Inc.,Pittsburgh PA
+855,Intendi Inc.,Hong Kong
+856,"Intendi Inc., Hong Kong; University of Science and Technology",Clear Water Bay Hong Kong
+857,"Interactive Systems, Inc.",Pittsburgh PA
+858,International Christian University,Tokyo Japan
+859,International Institute of Information Technology,Hyderabad India
+860,International Language Centre,Beirut Lebanon
+861,"Inxight Software Inc., Sunnyvale CA; University of California",San Diego CA
+862,Iona College,New Rochelle NY
+863,Ionian University,Corfu Greece
+864,Iowa State University,Ames IA
+865,Irion Technologies,Delft The Netherlands
+866,IsoQuest Inc.,Fairfax VA
+867,,Israel National Security Council
+868,Istanbul Technical University,Istanbul Turkey
+869,Iwate Prefectural University,Iwate Japan
+870,Jadavpur University,Calcutta India
+871,Jagiellonian University,Krakow Poland
+872,James 1 University,Castellon de la Plana Spain
+873,James Cook University,Townsville Australia
+874,James Madison University,Harrisonburg VA
+875,Janua Linguarum Foundation,France
+876,Janya Inc.,Amherst NY
+877,"Janya Inc., Amherst NY; University of Buffalo",Buffalo NY
+878,Japan Advanced Institute of Science and Technology,Nomi Japan
+879,"Japan Advanced Institute of Science and Technology, Nomi Japan; ATR Media Information Science Labs",Japan
+880,"Japan Advanced Institute of Science and Technology, Nomi Japan; CREST Japan Science and Technology Corporation",Saitama Japan
+881,"Japan Airlines Co., Ltd.",Japan
+882,"Japan Biological Informatics Consortium, Japan; National Institute of Advanced Industrial Science and Technology",Tokyo Japan
+883,"Japan Electronic Dictionary Research Institute, Ltd.",Tokyo Japan
+884,Japan Information Center of Science and Technology,Tokyo Japan
+885,Japan Institute for Educational Measurement Inc.,Tokyo Japan
+886,Japan Research Group for Medical Ontology,Japan
+887,Japan Science and Technology Agency,Tokyo Japan
+888,Japan Society for the Promotion of Science,Japan
+889,Jawaharlal Nehru Unversity,Delhi India
+890,Jerusalem College of Technology,Jerusalem Israel
+891,Jin Wen Institute of Technology,Taipei Taiwan
+892,Joanneum Research,Graz Austria
+893,Johns Hopkins University,Baltimore MD
+894,"Johns Hopkins University, Baltimore MD; BBN Technologies",Cambridge MA
+895,"Johns Hopkins University, Baltimore MD; Cambridge University",Cambridge UK
+896,"Johns Hopkins University, Baltimore MD; University of Maryland",College Park MD
+897,"Johns Hopkins University, Baltimore MD; Weniwan Technologies",Hong Kong
+898,Joint Research Center,Ispra Italy
+899,Jozef Stefan Institute,Ljubljana Slovenia
+900,Just Research,Pittsburgh PA
+901,Justsystem Corporation,Tokushima Japan
+902,K-PRO Ltd.,Hungary
+903,KDDI R&D Labs,Saitama Japan
+904,KVAL Research Institute for Information Science,Stockholm Sweden
+905,Kalamazoo College,Kalamazoo MI
+906,Kangnam University,Kyunggi Korea
+907,Kangwon National University,Chuncheon Korea
+908,"Karl Marx University, Leipzig Germany; Academy of Sciences of the DDR",Berlin Germany
+909,Karolinska Institute,Stockholm Sweden
+910,Kasetsart University,Bangkok Thailand
+911,"Kasetsart University, Bangkok Thailand; National Electronic and Computer Technology Center",Pathumthani Thailand
+912,Kathpol Technologies Inc.,Elkridge MD
+913,Keio Research Institute at SFC,Kanagawa Japan
+914,Keio University,Tokyo Japan
+915,Kent Ridge Digital Labs,Singapore
+916,Kent State University,Kent OH
+917,King Abdulaziz City for Science and Technology,Riyadh Saudi Arabia
+918,King Fahd University of Petroleum and Minerals,Dhahran Saudi Arabia
+919,King John Charles University,Madrid Spain
+920,King's College London,London UK
+921,Knowbotic Systems,Frankfurt Germany
+922,Knowledge Analysis Technologies,Boulder CO
+923,Kobe Shoin Women's University,Kobe Japan
+924,Kobe University,Kobe Japan
+925,"Kobe University, Kobe Japan; National Institute of Information and Communications Technology",Kyoto Japan
+926,Koc University,Istanbul Turkey
+927,Kofax Image Products,San Diego CA
+928,Kogakuin University,Tokyo Japan
+929,Konan University,Kobe Japan
+930,Kookmin University,Seoul Korea
+931,Korea Academy of Industrial Technology,Seoul Korea
+932,Korea Advanced Institute of Science and Technology,Korea
+933,"Korea Advanced Institute of Science and Technology, Korea; Daum Communications Corp",Seoul Korea
+934,"Korea Advanced Institute of Science and Technology, Korea; University of Marne la Vallee",Marne la Vallee France
+935,"Korea Advanced Institute of Science and Technology, Korea; Yanbian University of Science and Technology",Yanji City China
+936,Korea Institute of Science and Technology,Seoul Korea
+937,Korea Telecom,Korea
+938,Korea University,Seoul Korea
+939,Korlex Software,Bedford NS
+940,Kumoh National Institute of Technology,Kumi Korea
+941,Kurume Institute of Technology,Kurume Japan
+942,Kyoto Institute of Technology,Kyoto Japan
+943,Kyoto University,Kyoto Japan
+944,"Kyoto University, Kyoto Japan; Nagoya University",Nagoya Japan
+945,"Kyoto University, Kyoto Japan; National Institute of Information and Communications Technology",Kyoto Japan
+946,Kyung Hee University,Seoul Korea
+947,Kyungpook National University,Daegu Korea
+948,Kyushu Institute of Technology,Japan
+949,"Kyushu Institute of Technology, Japan; PRESTO Japan Science and Technology Corporation",Saitama Japan
+950,Kyushu University,Fukuoka Japan
+951,LDCIL,CIIL-Mysore India
+952,LG Electronics Institute of Technology,Seoul Korea
+953,LINGLINK,Luxembourg
+954,LORIA,Vandoeuvre-les-Nancy France
+955,"LORIA, Vandoeuvre-les-Nancy France; CNRS",France
+956,"LORIA, Vandoeuvre-les-Nancy France; INRIA",Le Chesnay France
+957,"LORIA, Vandoeuvre-les-Nancy France; INRIA, Le Chesnay France; University of Nancy 1",Nancy France
+958,"LORIA, Vandoeuvre-les-Nancy France; National Polytechnic Institute of Lorraine",Nancy France
+959,"LORIA, Vandoeuvre-les-Nancy France; University of Nancy 1",Nancy France
+960,La Trobe University,Melbourne Australia
+961,,Laboratoire de Traduction Mecanique de l'institut des Langues Etrangeres
+962,Laboratoires de Marcoussis,Marcoussis France
+963,Laboratories for Information Technology,Singapore
+964,Laboratory of Cognitive Science and Psycholinguistics,Paris France
+965,Lancaster University,Lancaster UK
+966,Langenscheidt KG,Munich Germany
+967,Langkilde-Geary,Irene
+968,Language Computer Corporation,Richardson TX
+969,Language Systems Inc.,Woodland Hills CA
+970,Language Technologies Institute,Pittsburgh PA
+971,Language Technologies Research Centre,Gatineau QU
+972,"Language Technology, Inc.",Austin TX
+973,Language Weaver Inc.,Marina del Rey CA
+974,Language and Computing NV,Belgium
+975,Languagelens,Copenhagen Denmark
+976,Larisa Zlatic Language Services,Austin TX
+977,Laval University,Quebec City QU
+978,Lavergne,Thomas
+979,"Leeds Metropolitan University, Leeds UK; University of York",York UK
+980,Leiden University,Leiden The Netherlands
+981,Lernout & Hauspie,Wemmel Belgium
+982,"Lernout Lernout & Hauspie, Belgium Hauspie",Wemmel Belgium
+983,"Lernout Lernout & Hauspie, Belgium Hauspie, Wemmel Belgium; Ghent University",Ghent Belgium
+984,Les Logiciels Machina Sapiens Inc.,Montreal QU
+985,Lexical Computing Ltd.,Brighton UK
+986,,Lexicography Master Class
+987,,Lexis-Nexis
+988,Lexware Labs,Goteborg Sweden
+989,Lhomme,Stanislas
+990,Library of Congress,Washington D.C.
+991,LingIT,Norway
+992,Linguistech Consortium,NJ
+993,,Lingway
+994,Linkoping University,Linkoping Sweden
+995,Litton PRC,McLean VA
+996,Lockheed Martin Corp.,Arlington VA
+997,Lockheed Martin Corp.,Camden NJ
+998,Lockheed Martin Corp.,Philadelphia PA
+999,Lockheed Martin Systems Integration,Owego NY
+1000,LogicDIS Group,Patras Greece
+1001,Logica Cambridge Ltd.,Cambridge UK
+1002,Logical Properties Inc.,Montreal QU
+1003,Logicon,Arlington VA
+1004,Logicon,Woodland Hills CA
+1005,Long Island University,Greenvale NY
+1006,Longman Dictionaries,Harlow UK
+1007,Lopresti,Daniel
+1008,Los Alamos National Laboratory,Los Alamos NM
+1009,Los Angeles Software Inc.,Santa Monica CA
+1010,Lotus Development Corporation,Cambridge MA
+1011,Loughborough University,Loughborough UK
+1012,Louisiana State University,Baton Rouge LA
+1013,Loyola College in Maryland,Baltimore MD
+1014,Lund University,Sweden
+1015,Lycos Inc.,Waltham MA
+1016,Lymba Corporation,Richardson TX
+1017,MARI Computer Systems Ltd.,Ashington UK
+1018,MAYA Design Inc.,Pittsburgh PA
+1019,MCC,Austin TX
+1020,"MCC, Austin TX; University of Texas at Austin",Austin TX
+1021,MICA,Vietnam
+1022,Machina Sapiens,Montreal QU
+1023,,Machine Intelligence Corporation
+1024,Machine Translation Lab-SERI,Taejon Korea
+1025,Macquarie University,Sydney Australia
+1026,"Macquarie University, Sydney Australia; CSIRO",Sydney Australia
+1027,"Macquarie University, Sydney Australia; Capital Markets CRC Limited",Sydney Australia
+1028,"Macquarie University, Sydney Australia; University of Provence",Aix-en Provence France
+1029,Madan Puraskar Pustakalaya (MPP),Nepal
+1030,Makerere University,Kampala Uganda
+1031,Malaviya National Institute of Technology,Jaipur India
+1032,Manchester Metropolitan University,Manchester UK
+1033,Marche Polytechnic University,Ancona Italy
+1034,Marquette University,Milwaukee WI
+1035,Masaryk University,Brno Czech Republic
+1036,Massachusetts Institute of Technology,Cambridge MA
+1037,"Massachusetts Institute of Technology, Cambridge MA; BBN Technologies",Cambridge MA
+1038,"Massachusetts Institute of Technology, Cambridge MA; Thinking Machines Corporation",Cambridge MA
+1039,Massey University,Palmerston North New Zealand
+1040,Matsushita Electric Industrial Co. Ltd.,Japan
+1041,,Max Planck Digital Library
+1042,Max Planck Institute for Computer Science,Saarbrucken Germany
+1043,Max Planck Institute for Evolutionary Anthropology,Leipzig Germany
+1044,Max Planck Institute for Informatics,Saarbrucken Germany
+1045,Max Planck Institute for Psycholinguistics,Nijmegen The Netherlands
+1046,"Max Planck Institute for Psycholinguistics, Nijmegen The Netherlands; Leiden University",Leiden The Netherlands
+1047,Mayo Clinic,Rochester MN
+1048,McDonnell Douglas Electronics Systems Company,Santa Ana CA
+1049,McGill University,Montreal QU
+1050,Med Vth University,Rabat Morocco
+1051,MediCel Ltd.,Helsinki Finland
+1052,Media Lab Europe,Dublin Ireland
+1053,Media Research and Education Center,Budapest Hungary
+1054,Medical College of Pennsylvania,Philadelphia PA
+1055,Medical College of Wisconsin,Milwaukee WI
+1056,Medical University,Vienna Austria
+1057,Meertens Institute,Amsterdam The Netherlands
+1058,Meio University,Nago Japan
+1059,Melingo Ltd.,Tel Aviv Israel
+1060,Memodata,Caen France
+1061,"Memodata, Caen France; University of Caen",Caen France
+1062,Memorial University of Newfoundland,St. John's NF
+1063,Memorial University of Newfoundland,St. John's NL
+1064,Mentasys GmbH,Karlsruhe Germany
+1065,Meraka Institute,Pretoria South Africa
+1066,MetaCarta Inc.,Cambridge MA
+1067,Metagram,New York NY
+1068,Michigan State University,East Lansing MI
+1069,"Microsoft Co., Ltd.",Japan
+1070,Microsoft Institute,North Ryde Australia
+1071,"Microsoft Institute, North Ryde Australia; Macquarie University",Sydney Australia
+1072,Microsoft Research Asia,Beijing China
+1073,Microsoft Research Cambridge,Cambridge UK
+1074,Microsoft Research India,Bangalore India
+1075,Microsoft Research,Munich Germany
+1076,Microsoft Research,Redmond WA
+1077,"Microsoft Research, Redmond WA; Brown University",Providence RI
+1078,"Microsoft Research, Redmond WA; Powerset, Inc.",San Francisco CA
+1079,Middle East Technical University,Ankara Turkey
+1080,Middlesex University,London UK
+1081,Mie University,Mie Japan
+1082,Millersville University,Millersville PA
+1083,Ming Chuan University,Taoyuan Taiwan
+1084,Minho University,Braga Portugal
+1085,Ministry of Communications & Information Technology,Government of India
+1086,Ministry of Education,China
+1087,Ministry of Higher Education Scientific Research and Technology,Tunisia
+1088,Mission Critical,Brussels Belgium
+1089,Mississippi State University,Starkville MS
+1090,Mitsubishi Electric Corp.,Japan
+1091,"Mitsubishi Electric Corp., Japan; Telecommunications Advancement Organization of Japan",Japan
+1092,Mitsubishi Electric Research Labs,Cambridge MA
+1093,"Mitsui Knowledge Industry Co., Ltd.",Tokyo Japan
+1094,Mobile Technologies,Inc.
+1095,Mohammed V University at Agdal,Agdal Morocco
+1096,Monash University,Clayton Australia
+1097,Monmouth University,West Long Branch NJ
+1098,Monster Worldwide Inc.,Mountain View CA
+1099,Montclair State University,Montclair NJ
+1100,"Montpellier Laboratory of Computer Science, Robotics, and Microelectronics",Montpellier France
+1101,Moretti,Lorenzo
+1102,MorphoLogic,Budapest Hungary
+1103,"MorphoLogic, Budapest Hungary; Hungarian Academy of Sciences",Budapest Hungary
+1104,"MorphoLogic, Budapest Hungary; OPKM Computing Centre",Budapest Hungary
+1105,Moscow State University,Moscow Russia
+1106,Motorola Labs,Schaumburg IL
+1107,Moudenc,Thierry
+1108,Mount Holyoke College,South Hadley MA
+1109,Mount Sinai Hospital,Toronto ON
+1110,Multilinguism & Speech Technology Group,Madrid Spain
+1111,Multimodal Technologies,Inc.
+1112,Myanmar Unicode and NLP Research Center,Yangon Myanmar
+1113,NASA Ames Research Center,Moffett Field CA
+1114,"NASA Ames Research Center, Moffett Field CA; SRI International, Menlo Park CA; Netdecisions",Cambridge UK
+1115,"NASA Ames Research Center, Moffett Field CA; University of California",Santa Cruz
+1116,NEC Corporation,Kanagawa Japan
+1117,NEC Laboratories America,Cupertino CA
+1118,NEC Laboratories,Beijing China
+1119,NEC Research Institute,Princeton NJ
+1120,NHK STRL,Tokyo Japan
+1121,"NHK STRL, Tokyo Japan; Telecommunications Advancement Organization of Japan",Japan
+1122,NISLab,Denmark
+1123,NSIS Corporation,Kawasaki Japan
+1124,NTT Advanced Technology Corporation,Yokohama Japan
+1125,NTT Basic Research Laboratories,Japan
+1126,NTT Basic Research Laboratories,Kanagawa Japan
+1127,NTT Communication Science Laboratories,Kyoto Japan
+1128,"NTT Communication Science Laboratories, Kyoto Japan; University of Melbourne",Melbourne Australia
+1129,NTT Cyber Solutions Laboratory,Kanagawa Japan
+1130,NTT Cyber Space Laboratories,Kanagawa Japan
+1131,"NTT Cyber Space Laboratories, Kanagawa Japan; NTT Data Corporation",Kawasaki Japan
+1132,NTT Data Corporation,Kawasaki Japan
+1133,NTT Electrical Communication Laboratories,Yokosuka Japan
+1134,NTT Human Interface Laboratories,Yokosuka Japan
+1135,NTT Information and Communication Systems Laboratories,Yokosuka Japan
+1136,"NTT Intelligent Technology Co., Ltd.",Yokohama Japan
+1137,NTT Musashino Electrical Communication Laboratories,Musashino Japan
+1138,NTT Network Information Systems Laboratories,Yokosuka Japan
+1139,NYNEX Science and Technology,White Plains NY
+1140,"NYNEX Science and Technology, White Plains NY; Utrecht University",Utrecht The Netherlands
+1141,Nagaoka University of Technology,Nagaoka City Japan
+1142,Nagasaki University,Nagasaki Japan
+1143,Nagoya Institute of Technology,Nagoya Japan
+1144,"Nagoya Institute of Technology, Nagoya Japan; National Institute of Information and Communications Technology",Kyoto Japan
+1145,Nagoya University,Nagoya Japan
+1146,Nanjing Normal University,Nanjing China
+1147,Nanjing University,Nanjing China
+1148,"Nanjing University, Nanjing China; Nanjing Normal University",Nanjing China
+1149,Nankai University,China
+1150,Nanyang Technical University,Singapore
+1151,Nara Institute of Science and Technology,Nara Japan
+1152,"Nara Institute of Science and Technology, Nara Japan; Kasetsart University",Bangkok Thailand
+1153,"Nara Institute of Science and Technology, Nara Japan; NTT Cyber Space Laboratories",Kanagawa Japan
+1154,"Nara Institute of Science and Technology, Nara Japan; Oki Electric Industry Co., Ltd.",Osaka Japan
+1155,"Nara Institute of Science and Technology, Nara Japan; Osaka Prefecture University",Sakai Japan
+1156,"Nara Institute of Science and Technology, Nara Japan; Osaka University",Osaka Japan
+1157,Naresuan University,Phitsanulok Thailand
+1158,National Autonomous University of Mexico,Mexico City Mexico
+1159,National Center for Biotechnology Information,Bethesda MD
+1160,"National Center for Biotechnology Information, Bethesda MD; National Library of Medicine",Bethesda MD
+1161,National Center for Science Information Systems,Tokyo Japan
+1162,National Center for Text Mining,UK
+1163,National Center for University Entrance Examinations,Tokyo Japan
+1164,National Center of Biotechnology,Madrid Spain
+1165,National Central University,Taoyuan Taiwan
+1166,National Cheng Kung University,Tainan Taiwan
+1167,"National Cheng Kung University, Tainan Taiwan; Industrial Technology Research Institute",Hsinchu Taiwan
+1168,"National Cheng Kung University, Tainan Taiwan; University of Southern California",Marina del Rey CA
+1169,National Chengchi University,Taipei Taiwan
+1170,National Chi-Nan University,Puli Taiwan
+1171,National Chiao Tung University,Hsinchu Taiwan
+1172,National Civil Engineering Laboratory (LNEC),Lisbon Portugal
+1173,National Educational Library and Museum,Budapest Hungary
+1174,National Electronic and Computer Technology Center,Pathumthani Thailand
+1175,National Hellenic Research Foundation,Athens Greece; Eurotra
+1176,National Ilan University,Ilan City Taiwan
+1177,National Institute for Japanese Language,Japan
+1178,National Institute for Korean Language,South Korea
+1179,National Institute of Advanced Industrial Science and Technology,Tokyo Japan
+1180,"National Institute of Advanced Industrial Science and Technology, Tokyo Japan; Hokkaido University",Sapporo Japan
+1181,"National Institute of Advanced Industrial Science and Technology, Tokyo Japan; National Institute of Genetics",Japan
+1182,"National Institute of Astrophysics, Optics and Electronics",Puebla Mexico
+1183,"National Institute of Astrophysics, Optics and Electronics, Puebla Mexico; Technical University of Valencia",Valencia Spain
+1184,National Institute of Development Administration,Bangkok Thailand
+1185,National Institute of Health,Bethesda MD
+1186,National Institute of Informatics (NII),Tokyo Japan
+1187,"National Institute of Informatics (NII), Tokyo Japan; National Institute of Advanced Industrial Science and Technology",Tokyo Japan
+1188,"National Institute of Informatics (NII), Tokyo Japan; University of Paris 6",Paris France
+1189,National Institute of Information and Communications Technology Asia Research Center,Pathumthani Thailand
+1190,"National Institute of Information and Communications Technology Asia Research Center, Pathumthani Thailand; National Electronic and Computer Technology Center",Pathumthani Thailand
+1191,National Institute of Information and Communications Technology Asia Research Center,Pathumthani Thailand; Thai Computational Linguistics Laboratory
+1192,National Institute of Information and Communications Technology,Kyoto Japan
+1193,"National Institute of Information and Communications Technology, Kyoto Japan; ATR Spoken Language Communication Research Laboratories",Kyoto Japan
+1194,"National Institute of Information and Communications Technology, Kyoto Japan; ATR Spoken Language Communication Research Laboratories, Kyoto Japan; Kinki University",Osaka Japan
+1195,"National Institute of Information and Communications Technology, Kyoto Japan; ATR Spoken Language Translation Research Laboratories",Kyoto Japan
+1196,"National Institute of Information and Communications Technology, Kyoto Japan; Kinki University",Osaka Japan
+1197,"National Institute of Information and Communications Technology, Kyoto Japan; Kobe University",Kobe Japan
+1198,"National Institute of Information and Communications Technology, Kyoto Japan; Kyoto University",Kyoto Japan
+1199,"National Institute of Information and Communications Technology, Kyoto Japan; Ryukoku University",Otsu Japan
+1200,National Institute of Japanese Literature,Tokyo Japan
+1201,National Institute of Standards and Technology,Gaithersburg MD
+1202,National Institute of Technology,Allahabad India
+1203,National Institute of Technology,Kurukshetra India
+1204,National Institute of Technology,Rourkela India
+1205,National Institute of Technology,Suratkal India
+1206,National Institute of Telecommunications,Evry France
+1207,National Laboratory for Parallel and Distributed Processing,Changsha China
+1208,"National Laboratory for Parallel and Distributed Processing, Changsha China; Beihang University",Beijing China
+1209,National Language Research Institute,Japan
+1210,National Language Research Institute,Tokyo Japan
+1211,National Library of Medicine,Bethesda MD
+1212,"National Library of Medicine, Bethesda MD; Vanderbilt University",Nashville TN
+1213,National Ministry of Education,Niger
+1214,National Museum of Ethnology,Osaka Japan
+1215,National Physical Laboratory,Teddington UK
+1216,National Polytechnic Institute,Mexico City Mexico
+1217,"National Research Council (Fredericton), Fredericton NB; University of Toronto",Toronto ON
+1218,National Research Council (Gatineau),Gatineau QU
+1219,"National Research Council (Gatineau), Gatineau QU; University of Quebec",Gatineau QU
+1220,National Research Council (Ottawa),Ottawa ON
+1221,National Research Institute for Mathematics and Computer Science,Amsterdam The Netherlands
+1222,"National Research Institute for Mathematics and Computer Science, Amsterdam The Netherlands; Utrecht University",Utrecht The Netherlands
+1223,National Science Foundation,Washington D.C.
+1224,National Statistical Office,Bangkok Thailand
+1225,National Taiwan Normal University,Taipei Taiwan
+1226,National Taiwan Ocean University,Keelung Taiwan
+1227,National Taiwan University of Science and Technology,Taiwan
+1228,National Taiwan University,Taipei Taiwan
+1229,"National Taiwan University, Taipei Taiwan; Academia Sinica",Taiwan
+1230,National Technical University of Athens,Athens Greece
+1231,National Tsinghua University,Hsinchu Taiwan
+1232,"National Tsinghua University, Hsinchu Taiwan; Behavior Design Corporation",Hsinchu Taiwan
+1233,National University of Computer and Emerging Sciences,Faisal Town Pakistan
+1234,National University of Cordoba,Argentina
+1235,National University of Defense Technology,Changsha China
+1236,National University of Distance Education,Ciudad Universitaria Spain
+1237,"National University of Ireland Galway, Galway Ireland; Digital Enterprise Research Institute (DERI)-Galway",Galway Ireland
+1238,National University of Ireland,Maynooth Ireland
+1239,National University of Malaysia,Bangi Malaysia
+1240,National University of Mongolia,Ulaanbaatar Mongolia
+1241,National University of Singapore,Singapore
+1242,National University of Vietnam,Vietnam
+1243,Natural Language Inc.,Berkeley CA
+1244,Naval Air Warfare Training Systems Division,Orlando FL
+1245,"Naval Command, Control, and Ocean Surveillance Center",San Diego CA
+1246,Naval Postgraduate School,Monterey CA
+1247,Naval Research Laboratory,Washington D.C.
+1248,Naval Weapons Center,China Lake CA
+1249,Navistar International,Oakbrook Terrace IL
+1250,Nederlandse Taalunie Lange Voorhout,The Netherlands
+1251,"Nederlandse Taalunie Lange Voorhout, The Netherlands; Wetenschap en Innovatie",Brussels Belgium
+1252,NetEase Information Technology (Beijing) Co. Ltd.,Beijing China
+1253,NetPatrol Consulting,Haifa Israel
+1254,Netdecisions,Cambridge UK
+1255,New Jersey Institute of Technology,Newark NJ
+1256,New Mexico State University,Las Cruces NM
+1257,"New Mexico State University, Las Cruces NM; Department of Defense, Washington D.C.; Carnegie Mellon University",Pittsburgh PA
+1258,"New Mexico State University, Las Cruces NM; NEC Corporation",Kanagawa Japan
+1259,"New Mexico State University, Las Cruces NM; Purdue University",West Lafayette IN
+1260,New University of Lisbon,Lisbon Portugal
+1261,New Univesity of Lisbon,Lisbon Portugal
+1262,New York Presbyterian Hospital,New York NY
+1263,New York University,New York NY
+1264,Nexidia Inc.,Atlanta GA
+1265,Nicolaus Copernicus University,Torun Poland
+1266,Nihon Unisys Ltd.,Tokyo Japan
+1267,"Nitol, LLC",Moscow Russia
+1268,Nitsuko Corporation,Japan
+1269,Nokia (China) Research Center,Beijing China
+1270,Nokia Research Center,Cambridge MA
+1271,Nokia Research Center,Helsinki Finland
+1272,"Nokia Research Center, Helsinki Finland; Helsinki University of Technology",Helsinki Finland
+1273,,NorTel Networks
+1274,North Carolina State University,Raleigh NC
+1275,"North Carolina State University, Raleigh NC; Applied Research Associates, Inc.",Raleigh NC
+1276,North Central College,Naperville IL
+1277,North-West University,Potchefstroom South Africa
+1278,Northeastern University,Boston MA
+1279,Northeastern University,China
+1280,"Northeastern University, China; Microsoft Research Asia",Beijing China
+1281,Northern Arizona University,Flagstaff AZ
+1282,Northern Illinois University,DeKalb IL
+1283,Northumbria University,Newcastle upon Tyne UK
+1284,Northwestern University,Evanston IL
+1285,"Northwestern University, Evanston IL; Telecom ParisTech",Paris France
+1286,"Norwegian Resarch Council, Norway; Massachusetts Institute of Technology",Cambridge MA
+1287,,Norwegian Sami Parliament
+1288,Norwegian University of Science and Technology,Trondheim Norway
+1289,"Norwegian University of Science and Technology, Trondheim Norway; Norwegian Defence Research Establishment",Kjeller Norway
+1290,Notre Dame Seishin University,Okayama Japan
+1291,Nottingham Trent University,Nottingham UK
+1292,Nottingham University,Nottingham UK
+1293,Novamente LLC,Rockville MD
+1294,Nstein Technologies,Montreal QU
+1295,Nuance Communications GmbH,Aachen Germany
+1296,Nuance Communications,Burlington MA
+1297,Nuance Communications,Ghent Belgium
+1298,Nuance Communications,Montreal QU
+1299,Nucleo Interinstitucional de Linguistica Computational (NILC),Sao Carlos Brazil
+1300,Oberta University of Catalonia,Spain
+1301,Obirin University,Tokyo Japan
+1302,Odense University,Odense Denmark
+1303,Odyssey Research Associates,Montreal QU
+1304,Office of Advanced Analytic Tools,Washington D.C.
+1305,Office of Research and Development,Washington D.C.
+1306,Ohio State University,Columbus OH
+1307,Ohio University,Athens OH
+1308,Oita University,Oita Japan
+1309,Okayama University,Okayama Japan
+1310,"Oki Electric Industry Co., Ltd.",Osaka Japan
+1311,Okinawa Institute of Science and Technology,Okinawa Japan
+1312,Old Dominion University,Norfolk VA
+1313,Ontario Institute for Studies in Education,Toronto ON
+1314,Ontotext AD,Sofia Bulgaria
+1315,Onyx Consulting,Inc.
+1316,Open University of Catalonia,Barcelona Spain
+1317,"Operating Systems, Inc.",Woodland Hills CA
+1318,Orange Labs,Cairo Egypt
+1319,Orange Labs,Lannion France
+1320,Oregon Health & Science University,OR
+1321,Oregon State University,Corvallis OR
+1322,Osaka Prefecture University,Sakai Japan
+1323,Osaka University,Osaka Japan
+1324,"Osaka University, Osaka Japan; Nara Institute of Science and Technology",Nara Japan
+1325,"Osaka University, Osaka Japan; National Institute of Information and Communications Technology",Kyoto Japan
+1326,Otemon Gakuin University,Osaka Japan
+1327,Oxford University Press,Oxford UK
+1328,Oxford University,Oxford UK
+1329,"Oxford University, Oxford UK; Fribourg University",Fribourg Switzerland
+1330,PECO Energy,Philadelphia PA
+1331,,PPrice Speech and Language
+1332,PRC Inc.,McLean VA
+1333,PRESTO Japan Science and Technology Corporation,Saitama Japan
+1334,,PST Research Group
+1335,PUDIS,Prague Czechoslovakia
+1336,Pacific Northwest National Laboratory,Richland WA
+1337,Palo Alto Research Center,Palo Alto CA
+1338,"Palo Alto Research Center, Palo Alto CA; Stanford University",Stanford CA
+1339,"Palo Alto Research Center, Palo Alto CA; Technical University of Munich",Munich Germany
+1340,Pan American Health Organization,Washington D.C.
+1341,Par.O.La sas,Pisa Italy
+1342,Parana Catholic University,Curitiba Brazil
+1343,"Parana Catholic University, Curitiba Brazil; Freiburg University",Freiburg Germany
+1344,Park,Hunil
+1345,,Paula S. Newman
+1346,Pearson Knowledge Technologies,Palo Alto CA
+1347,,Pearson Technologies
+1348,Peking University,Beijing China
+1349,"Peking University, Beijing China; NEC Laboratories",Beijing China
+1350,Pennsylvania State University,State College PA
+1351,"Perfect Market, Inc.",Pasadena CA
+1352,Petersburg Transport University,St. Petersburg Russia
+1353,Philips Research Laboratories Aachen,Aachen Germany
+1354,Philips Research Laboratories,Eindhoven The Netherlands
+1355,Pisa Research Consortium,Pisa Italy
+1356,Plovdiv University,Plovdiv Bulgaria
+1357,Pohang University of Science and Technology,Pohang Korea
+1358,Polish Academy of Sciences,Warsaw Poland
+1359,"Polish Academy of Sciences, Warsaw Poland; Warsaw University",Warsaw Poland
+1360,"Polish Scientific Publishers PWN, Warsaw Poland; Warsaw University",Warsaw Poland
+1361,Polish-Japanese Institute of Information Technology,Warsaw Poland
+1362,Polytechnic Institute of New York University,Hawthorne NY
+1363,Polytechnic University of Bari,Bari Italy
+1364,Pompeu Fabra University,Barcelona Spain
+1365,"Pompeu Fabra University, Barcelona Spain; Catalan Institution for Research and Advanced Studies (ICREA)",Spain
+1366,Pondicherry University,Pondicherry India
+1367,Pontifical Catholic University of Rio Grande do Sul,Porto Alegre Brazil
+1368,Pontifical Catholic University of Rio de Janeiro,Rio de Janeiro Brazil
+1369,Port and Airport Research Institute,Kanagawa Japan
+1370,Potsdam University,Potsdam Germany
+1371,"Powerset, Inc.",San Francisco CA
+1372,Poznan University of Economics,Poznan Poland
+1373,Poznan University of Technology,Poznan Poland
+1374,"Poznan University of Technology, Poznan Poland; Adam Mickiewicz University",Poznan Poland
+1375,Princeton University,Princeton NJ
+1376,"Princeton University, Princeton NJ; City University of New York-Hunter College",New York NY
+1377,"Princeton University, Princeton NJ; Rider University",Lawrenceville NJ
+1378,Prism Associates,Towswon MD
+1379,Providence University,Taiwan
+1380,Punjabi University,Patiala India
+1381,Purdue University,West Lafayette IN
+1382,"Purdue University, West Lafayette IN; Onyx Consulting",Inc.
+1383,"Purdue University, West Lafayette IN; University of Maryland",College Park MD
+1384,Pusan National University,Pusan Korea
+1385,Putra University Malaysia,Serdang Malaysia
+1386,Queen's University of Belfast,Belfast Northern Ireland
+1387,Queen's University,Kingston ON
+1388,Queensland University of Technology,Brisbane Australia
+1389,"Queensland University of Technology, Brisbane Australia; University of Muenster",Muenster Germany
+1390,Quinary SpA,Milan Italy
+1391,RABA Technologies,Columbia MD
+1392,RAND Corporation,Santa Monica CA
+1393,"RES International, Canada; University of Ottawa",Ottawa ON
+1394,RIKEN,Kanagawa Japan
+1395,RMIT University,Melbourne Australia
+1396,RTI International,Research Triangle Park NC
+1397,RWTH Aachen University,Aachen Germany
+1398,Radboud University Nijmegen,Nijmegen The Netherlands
+1399,Rashtriya Sanskrit Vidyapeeth,Tirupati India
+1400,Real World Computing Partnership,Kawasaki Japan
+1401,Reed-Elsevier Inc.,Burlington MA
+1402,Renaissance Technologies Corp.,Stony Brook NY
+1403,Renaissance Technologies,Stony Brook NY
+1404,Rensselaer Polytechnic Institute,Troy NY
+1405,Research Center of Samt,Tehran Iran
+1406,Research Institute for Applied Computer Science,Budapest Hungary
+1407,Research Institute for Computer Techniques and Informatics,Bucharest Romania
+1408,Research Institute for Informatics,Bucharest Romania
+1409,"Research Institute for Informatics, Bucharest Romania; Romanian Academy",Bucharest Romania
+1410,Research Institute for Knowledge Systems,The Netherlands
+1411,Research Institute for the Languages of Finland,Helsinki Finland
+1412,Research Institute of Mathematical Machines,Prague Czechoslovakia
+1413,Research Institute of National Defense Operations Research Center,Stockholm Sweden
+1414,"Research Institute of Science and Technology for Society, Tokyo Japan; Massachusetts Institute of Technology",Cambridge MA
+1415,"Research Organization of Information and System, Japan; University of Tokyo",Tokyo Japan
+1416,Reuters Ltd.,London UK
+1417,Reykjavik University,Reykjavik Iceland
+1418,Rhetorical Systems Ltd.,Edinburgh UK
+1419,Ribbit Software Systems Inc.,Kelowna BC
+1420,"Ricoh Co., Ltd.",Tokyo Japan
+1421,"Ricoh Software Research Center Beijing Co., Ltd.",Beijing China
+1422,Rigel Pharmaceuticals Inc.,San Francisco CA
+1423,Ritsumeikan University,Kyoto Japan
+1424,Robert Bosch LLC,Palo Alto CA
+1425,Robert Gordon University,Aberdeen UK
+1426,Rochester Institute of Technology,Rochester NY
+1427,Roessingh Research and Development,Enschede The Netherlands
+1428,Romanian Academy,Bucharest Romania
+1429,,Romanian Mathematical Society
+1430,Rome Laboratory,Rome NY
+1431,,Rosetta Stone Labs
+1432,Roskilde University,Roskilde Denmark
+1433,Roswell Park Memorial Institute,Buffalo NY
+1434,Rovira i Virgili University,Tarragona Spain
+1435,Royal Institute of Technology,Stockholm Sweden
+1436,"Royal Institute of Technology, Stockholm Sweden; Euroling AB",Stockholm Sweden
+1437,"Royal Institute of Technology, Stockholm Sweden; Stockholm University",Stockholm Sweden
+1438,Royal Society of Chemistry,Cambridge UK
+1439,Ruhr University Bochum,Bochum Germany
+1440,Russian Academy of Sciences,Moscow Russia
+1441,Russian Research Institute for Artificial Intelligence,Moscow Russia
+1442,Rutgers University,New Brunswick NJ
+1443,Ryukoku University,Otsu Japan
+1444,"Ryukoku University, Otsu Japan; National Institute of Information and Communications Technology",Kyoto Japan
+1445,S.V.U. College of Engineering,Tirupati India
+1446,SAIC,Kingstowne VA
+1447,SAP Research CEC,St. Gallen Switzerland
+1448,SIL International,Dallas TX
+1449,SIL International,Lancaster SC
+1450,SIL International,Thailand
+1451,SIL International-Verano,Lima Peru
+1452,SINTEF,Oslo Norway
+1453,SITE,Maisons-Alfort France
+1454,SITRA Foundation,Helsinki Finland
+1455,"SITRA Foundation, Helsinki Finland; Helsinki University of Technology",Helsinki Finland
+1456,SK Telecom,Seoul Korea
+1457,SONY Computer Science Lab,Paris France
+1458,"SONY Computer Science Lab, Paris France; Free University Brussels",Brussels Belgium
+1459,SONY US Research Labs,San Jose CA
+1460,SONY-Kihara Research Center Inc.,Japan
+1461,"SPARTA, Inc.",Berkeley CA
+1462,SPAWAR Systems Center,San Diego CA
+1463,SRA Corporation,Linthicum MD
+1464,SRA International,Fairfax VA
+1465,SRI International,Cambridge UK
+1466,"SRI International, Cambridge UK; Cambridge University",Cambridge UK
+1467,SRI International,Menlo Park CA
+1468,"SRI International, Menlo Park CA; Bellcore",Morristown NJ
+1469,"SRI International, Menlo Park CA; Stanford University",Stanford CA
+1470,"SRI International, Menlo Park CA; University of California at Berkeley",Berkeley CA
+1471,"SRI International, Menlo Park CA; University of Pennsylvania",Philadelphia PA
+1472,SRI International,San Diego CA
+1473,STIM/AP-HP,Paris France
+1474,"STIM/AP-HP, Paris France; Institut National de l'Audiovisuel",Bry-sur-Marne France
+1475,SWP-Berlin,Berlin Germany
+1476,SYSTRAN SA,Paris France
+1477,"SYSTRAN SA, Paris France; University of Edinburgh",Edinburgh UK
+1478,SYSTRAN Software Inc.,San Diego CA
+1479,Saarland University,Saarbrucken Germany
+1480,Saarland University,Saarbrucken Germany; Eurotra
+1481,"Saarland University, Saarbrucken Germany; German Research Center for Artificial Intelligence",Saarbrucken Germany
+1482,"Saarland University, Saarbrucken Germany; German Research Center for Artificial Intelligence, Saarbrucken Germany; Freiburg University",Freiburg Germany
+1483,"Saarland University, Saarbrucken Germany; Polytechnic University of Bari",Bari Italy
+1484,"Saarland University, Saarbrucken Germany; Stanford University",Stanford CA
+1485,"Saarland University, Saarbrucken Germany; University of Sydney",Sydney Australia
+1486,Sabanci University,Istanbul Turkey
+1487,Sabir Research,Gaithersburg MD
+1488,Salzburg University,Salzburg Austria
+1489,,Sampo Research Institute
+1490,Samsung Advanced Institute of Technology,Gyeonggi-do Korea
+1491,San Diego State University,San Diego CA
+1492,San Jose State University,San Jose CA
+1493,Sandia National Laboratories,Albuquerque NM
+1494,Sangmyung University,Chonan Korea
+1495,Santa Clara University,Santa Clara CA
+1496,"Sanyo Electric Co., Ltd., Osaka Japan; Nagoya University",Nagoya Japan
+1497,Sao Paulo State University (UNESP),Sao Paulo Brazil
+1498,Satyam Computer Services Ltd.,Bangalore India
+1499,School for Advanced Studies in the Social Sciences,Paris France
+1500,"School for Advanced Studies in the Social Sciences, Paris France; Electricity of France (EDF) Research Center",France
+1501,"School for Advanced Studies in the Social Sciences, Paris France; Electricity of France (EDF) Research Center, France; CNRS",France
+1502,"Scicon Ltd., London UK; University of Hamburg",Hamburg Germany
+1503,Science Applications International Corporation,McLean VA
+1504,Science Applications International Corporation,San Diego CA
+1505,Scientific Analysis Group,Delhi India
+1506,Scientific and Medical University of Grenoble,Grenoble France
+1507,Scivetti,Laura
+1508,,Screamware
+1509,Scuola Normale Superiore di Pisa,Pisa Italy
+1510,Secretary of State,Ottawa ON
+1511,"Sehda, Inc.",Mountain View CA
+1512,Seinan Jo Gakuin University,Fukuoka Japan
+1513,Seinan Jo Gakuin Universiy,Fukuoka Japan
+1514,Senshu University,Kawasaki Japan
+1515,Sentivision Polska Sp. z o.o.,Warsaw Poland
+1516,Seokyeong University,Seoul Korea
+1517,Seoul National University,Seoul Korea
+1518,Shahid Beheshti University,Tehran Iran
+1519,Shanghai Jiaotong University,Shanghai China
+1520,"Shanghai Jiaotong University, Shanghai China; Guizhou University",Guiyang China
+1521,"Shanghai Jiaotong University, Shanghai China; Microsoft Research Asia",Beijing China
+1522,Shantou University,Guangdong China
+1523,Shanxi University,Taiyuan China
+1524,Sharif University of Technology,Tehran Iran
+1525,Sharp Corporation,Nara Japan
+1526,Sharp Laboratories,Oxford UK
+1527,Shell Oil Company,New York NY
+1528,Shenyang Institute of Aeronautical Engineering,Shenyang China
+1529,Shenyang Normal University,Shenyang China
+1530,Shih,Chilin
+1531,Shimane National University,Matsue City Japan
+1532,Shinshu University,Matsumoto Japan
+1533,Shiraz University,Shiraz Iran
+1534,Shungshin Women's University,Seoul Korea
+1535,Siemens AG,Munich Germany
+1536,"Siemens AG, Munich Germany; Darmstadt University of Technology",Darmstadt Germany
+1537,"Siemens AG, Munich Germany; German Research Center for Artificial Intelligence",Saarbrucken Germany
+1538,Siemens CDS,Spain
+1539,Siemens Corporate Research,Princeton NJ
+1540,Siemens Corporation,Boca Raton FL
+1541,Siemens Information Systems,Austin TX
+1542,,Siemens Medical Solutions
+1543,Siemens NLP Research; Catholic University of Leuven,Leuven Belgium
+1544,Siemens-Nixdorf Software Liege,Liege Belgium
+1545,"Siemens-Nixdorf Software Liege, Liege Belgium; Catholic University of Leuven",Leuven Belgium
+1546,Siena College,Loudonville NY
+1547,Sietec Systemtechnik,Berlin Germany
+1548,Signition Inc.,Los Alamos NM
+1549,Simon Fraser University,Burnaby BC
+1550,"Simon Fraser University, Burnaby BC; TCC Communications",Victoria BC
+1551,Sinequa,Ivry-sur-Seine France
+1552,"Sinequa, Ivry-sur-Seine France; University of Avignon",Avignon France
+1553,"Sinequa, Ivry-sur-Seine France; University of Paris 10",Nanterre France
+1554,Singapore Management University,Singapore
+1555,"Singapore Management University, Singapore; Peking University",Beijing China
+1556,Singapore-MIT Alliance,Singapore
+1557,"Singapore-MIT Alliance, Singapore; National University of Singapore",Singapore
+1558,Sirindhorn International Institute of Technology,Pathumthani Thailand
+1559,Sirma AI Ltd.,Sofia Bulgaria
+1560,"Sirma AI Ltd., Sofia Bulgaria; University of Sheffield",Sheffield UK
+1561,Sofia University,Sofia Bulgaria
+1562,Software Design and Management GmbH & Co. KG,Munichi Germany
+1563,Software ITC,Cluj-Napoca Romania
+1564,Sogang University,Seoul Korea
+1565,Sohar University,Sohar Oman
+1566,"Sohar University, Sohar Oman; University of Queensland",St. Lucia Australia
+1567,Sohu Inc. R&D Center,Beijing China
+1568,Sony Computer Science Labs,Tokyo Japan
+1569,Sony International,Stuttgart Germany
+1570,Soochow University,Suzhou China
+1571,"Soochow University, Suzhou China; City University of Hong Kong",Kowloon Hong Kong
+1572,"Soochow University, Suzhou China; Institute for Infocomm Research",Singapore
+1573,Soochow University,Taipei Taiwan
+1574,Soongsil University,Seoul Korea
+1575,Sophia University,Tokyo Japan
+1576,South China University of Technology,Guangzhou China
+1577,Southern Illinois University-Carbondale,Carbondale IL
+1578,Southern Illinois University-Edwardsville,Edwardsville IL
+1579,Southern Methodist University,Dallas TX
+1580,Southwest Research Institute,San Antonio TX
+1581,Space Application Services,Belgium
+1582,"Speech Communications Research Laboratory, Inc.",Santa Barbara CA
+1583,Speech Processing Expertise Center (SPEX),Nijmegen The Netherlands
+1584,Speech Research Unit-RSRE,Malvern UK
+1585,Speech Systems Inc.,Tarzana CA
+1586,SpeechCycle,New York NY
+1587,SpeechWorks International Ltd.,New York NY
+1588,Sperry Univac,Blue Bell PA
+1589,Spiezio,Antonella
+1590,"Spoken Translation, Inc.",Berkeley CA
+1591,St. Anselm College,Manchester NH
+1592,St. Anthony's College,Meghalaya India
+1593,St. John's University,Jamaica NY
+1594,St. Patrick's College,Dublin Ireland
+1595,St. Petersburg State University,St. Petersburg Russia
+1596,Standard Elektrik Lorenz AG,Pforzheim Germany
+1597,Stanford University,Stanford CA
+1598,"Stanford University, Stanford CA; German Research Center for Artificial Intelligence",Saarbrucken Germany
+1599,"Stanford University, Stanford CA; Hewlett Packard Company",Palo Alto CA
+1600,"Stanford University, Stanford CA; Palo Alto Research Center",Palo Alto CA
+1601,"Stanford University, Stanford CA; SRI International",Menlo Park CA
+1602,"Stanford University, Stanford CA; University of Wisconsin-Madison",Madison WI
+1603,"Stanford University, Stanford CA; YY Technologies",Mountain View CA
+1604,State Intellectual Property Office of P.R.,Beijing China
+1605,State University of New York at Albany,Albany NY
+1606,State University of New York at Albany,Albany NY; AMITIES Consortium
+1607,"State University of New York at Albany, Albany NY; Polish Academy of Sciences",Warsaw Poland
+1608,"Sterling Software, ITD",McLean VA
+1609,Stockholm University,Stockholm Sweden
+1610,"Stockholm University, Stockholm Sweden; Royal Institute of Technology",Stockholm
+1611,"Stockholm University, Stockholm Sweden; Royal Institute of Technology",Stockholm Sweden
+1612,Stony Brook University,Stony Brook NY
+1613,Structural Semantics,Palo Alto CA
+1614,Sultan Qaboos University,Muscat Oman
+1615,"Sumitomo Electric Information Systems Co., Ltd.",Osaka Japan
+1616,Summer Institute of Linguistics,Waxhaw NC
+1617,Sun Microsystems Laboratories,Burlington MA
+1618,Sunflare Company,Tokyo Japan
+1619,Sungkyunkwan University,Seoul Korea
+1620,Surugadai University,Saitama Japan
+1621,Suwon University,Kyungki Korea
+1622,Swansea University,Swansea UK
+1623,Swarthmore College,Swarthmore PA
+1624,Swedish Institute of Computer Science,Stockholm Sweden
+1625,"Swedish Institute of Computer Science, Stockholm Sweden; Helsinki University",Helsinki Finland
+1626,"Swedish Institute of Computer Science, Stockholm Sweden; Norwegian University of Science and Technology",Trondheim Norway
+1627,Swiss Federal Institute of Technology (ETH),Zurich Switzerland
+1628,Swiss Life,Zurich Switzerland
+1629,"Syllogic, Amersfoot The Netherlands; University of Amsterdam",Amsterdam The Netherlands
+1630,Symantec Corporation,Cupertino CA
+1631,Synapse Development,Toulouse France
+1632,"Synchronetics, Inc.",Baltimore MD
+1633,Synthema,Pisa Italy
+1634,Syracuse University,Syracuse NY
+1635,System Development Corporation,Santa Monica CA
+1636,Systems Biology Institute,Tokyo Japan
+1637,TA Triumph-Adler AG,Nuremberg Germany
+1638,TASC Inc.,Herndon VA
+1639,TEMIC Speech Dialog Systems,Ulm Germany
+1640,,TIPSTER SE/CM
+1641,TIS Inc.,Osaka Japan
+1642,"TNO Defense, Security and Safety",Soesterberg The Netherlands
+1643,TNO Information and Communication Technology,Delft The Netherlands
+1644,TRW Systems Development Division,Redondo Beach CA
+1645,Taegu University,Kyungsan Korea
+1646,Tallinn University of Technology,Tallinn Estonia
+1647,Tamagawa University,Tamagawa Japan
+1648,Tamil University,Thanjavur India
+1649,"Tandem Computers, Inc.",Cupertino CA
+1650,Tata Institute for Fundamental Research,Bombay India
+1651,Tatung University,Taipei Taiwan
+1652,Techne Knowledge Systems,Toronto ON
+1653,Technical Operations Research,Burlington MA
+1654,Technical University of Berlin,Berlin Germany
+1655,Technical University of Budapest,Budapest Hungary
+1656,Technical University of Catalonia,Barcelona Spain
+1657,Technical University of Cluj-Napoca,Cluj-Napoca Romania
+1658,Technical University of Denmark,Lyngby Denmark
+1659,Technical University of Dresden,Dresden Germany
+1660,Technical University of Gdansk,Gdansk Poland
+1661,Technical University of Hamburg,Hamburg Germany
+1662,Technical University of Lisbon,Lisbon Portugal
+1663,Technical University of Lodz,Lodz Poland
+1664,Technical University of Madrid,Madrid Spain
+1665,"Technical University of Madrid, Madrid Spain; Complutense University of Madrid",Madrid Spain
+1666,Technical University of Milan,Milan Italy
+1667,Technical University of Moldova,Chisinau Moldova
+1668,Technical University of Munich,Munich Germany
+1669,Technical University of Ostrava,Ostrava Czech Republic
+1670,Technical University of Valencia,Valencia Spain
+1671,"Technical University of Valencia, Valencia Spain; Autonomous University of Puebla",Puebla Mexico
+1672,Technical University of Vienna,Vienna Austria
+1673,Technion-Israel Institute of Technology,Haifa Israel
+1674,"Technion-Israel Institute of Technology, Haifa Israel; IBM Israel Scientific Center",Haifa Israel
+1675,"Technion-Israel Institute of Technology, Haifa Israel; Netherlands Institute for Advanced Study",Wassenaar The Netherlands
+1676,Technological Institute of Crete,Crete Greece
+1677,Teesside Polytechnic,Middlesbrough UK
+1678,Teikyo University of Technology,Chiba Japan
+1679,Teknowledge Inc.,Palo Alto CA
+1680,"Tektronix, Inc.",Beaverton OR
+1681,Tel Aviv University,Tel Aviv Israel
+1682,Telecommunication University of Madrid,Spain
+1683,Telecommunications Advancement Organization of Japan,Japan
+1684,Telecommunications Research Center Vienna,Vienna Austria
+1685,"Telecommunications Research Center Vienna, Vienna Austria; Graz University of Technology",Graz Austria
+1686,Telefonica I+D Madrid,Madrid Spain
+1687,Telematica Instituut,Enschede The Netherlands
+1688,Teleos,Cambridge MA
+1689,Telesensory Speech Systems,Palo Alto CA
+1690,Telia Research AB,Haninge Sweden
+1691,Telia Research,Farsta Sweden
+1692,TeliaSonera-Research and Development,Farsta Sweden
+1693,Telisma,Lannion France
+1694,Telkom Indonesia,Bandung Indonesia
+1695,Telstra Research Laboratories,Clayton Australia
+1696,Temis,Paris France
+1697,Temple University,Philadelphia PA
+1698,Teragram Corp.,Boston MA
+1699,Texas A&M University,College Station TX
+1700,Texas Instruments Inc.,Dallas TX
+1701,Texas Tech University,Lubbock TX
+1702,Texas Women's University,Denton TX
+1703,TextWise LLC,Syracuse NY
+1704,Textkernel BV,Amsterdam The Netherlands
+1705,Tezpur University,Tezpur India
+1706,Thales,Colombes France
+1707,"Thales, Colombes France; University of Paris 13",Villetaneuse France
+1708,Thammasat University,Pathumthani Thailand
+1709,The Boeing Company,Philadelphia PA
+1710,The Boeing Company,Seattle WA
+1711,The Chinese University of Hong Kong,Shatin Hong Kong
+1712,"The Chinese University of Hong Kong, Shatin Hong Kong; Hong Kong Polytechnic University",Hung Hom Hong Kong
+1713,"The Chinese University of Hong Kong, Shatin Hong Kong; Robert Bosch LLC",Palo Alto CA
+1714,The Japanese Discourse Research Initiative,Japan
+1715,The MITRE Corporation,Bedford MA
+1716,"The MITRE Corporation, Bedford MA; Brandeis University",Waltham MA
+1717,"The MITRE Corporation, Bedford MA; Cornell University",Ithaca NY
+1718,"The MITRE Corporation, Bedford MA; Georgetown University",Washington D.C.
+1719,The MITRE Corporation,Hanover MD
+1720,The MITRE Corporation,McLean VA
+1721,"The MITRE Corporation, McLean VA; ATR Interpreting Telephony Research Laboratories",Osaka Japan
+1722,"The MITRE Corporation, McLean VA; University of Colorado at Denver",Denver CO
+1723,The MITRE Corporation,Reston VA
+1724,The Marathon Group,Tel Aviv Israel
+1725,The Open University,Milton Keynes UK
+1726,The Pangburn Company Inc.,New Roads LA
+1727,The Sanger Centre,Cambridge UK
+1728,,The Syriac Institute
+1729,The Toin Corporation,Japan
+1730,The Weizmann Institute of Science,Rehovot Israel
+1731,Thinking Machines Corporation,Cambridge MA
+1732,"Thinking Machines Corporation, Cambridge MA; Brandeis University",Waltham MA
+1733,Thomson Corp.,Eagan MN
+1734,Thomson Technical Labs,Rockville MD
+1735,"Thomson-CSF, Orsay France; Institute of Information and Applied Mathematics Grenoble",Grenoble France
+1736,"Thomson-CSF, Orsay France; Telecom ParisTech",Paris France
+1737,Tianjin University,Tianjin China
+1738,Tilburg University,Tilburg The Netherlands
+1739,"Tilburg University, Tilburg The Netherlands; Eindhoven University of Technology",Eindhoven The Netherlands
+1740,"Tilburg University, Tilburg The Netherlands; University of Amsterdam",Amsterdam The Netherlands
+1741,"Tilburg University, Tilburg The Netherlands; University of Antwerp",Antwerp Belgium
+1742,Tilde,Riga Latvia
+1743,Tohoku University,Sendai Japan
+1744,Tokushima University,Tokushima Japan
+1745,"Tokushima University, Tokushima Japan; Beijing University of Posts and Telecommunications",Beijing China
+1746,"Tokyo Central R&D Labs., Inc.",Nagakute Japan
+1747,Tokyo Denki University,Tokyo Japan
+1748,Tokyo Institute of Technology,Tokyo Japan
+1749,"Tokyo Institute of Technology, Tokyo Japan; Hitachi Ltd.",Tokyo Japan
+1750,"Tokyo Institute of Technology, Tokyo Japan; INTEC Web and General Semantics Co.",Japan
+1751,Tokyo Kasei Gakuin Tsukuba Women's University,Tsukuba Japan
+1752,Tokyo Metropolitan University,Tokyo Japan
+1753,Tokyo University of Agriculture and Technology,Tokyo Japan
+1754,Tokyo University of Foreign Studies,Tokyo Japan
+1755,Tokyo University of Mercantile Marine,Tokyo Japan
+1756,Tokyo University of Science,Tokyo Japan
+1757,Tokyo University of Technology,Tokyo Japan
+1758,Toshiba (China) Research and Development Center,Beijing China
+1759,Toshiba Corporate R&D Center,Kawasaki Japan
+1760,Toshiba Corporation,Tokyo Japan
+1761,Toshiba Research Europe,Cambridge UK
+1762,Tottori University,Tottori Japan
+1763,,Touche Ross Management Consultants
+1764,Toyama National College of Maritime Technology,Imizu Japan
+1765,Toyama University,Toyama Japan
+1766,Toyo University,Saitama Japan
+1767,Toyohashi University of Technology,Toyohashi Japan
+1768,"Toyota Central R&D Labs., Inc.",Nagakute Aichi Japan
+1769,Toyota Technological Institute,Chicago IL
+1770,Trinity College Dublin,Dublin Ireland
+1771,Tsinghua University,Beijing China
+1772,"Tsinghua University, Beijing China; State Intellectual Property Office of P.R.",Beijing China
+1773,"Tsinghua University, Beijing China; State Intellectual Property Office of P.R., Beijing China; Korea Advanced Institute of Science and Technology",Korea
+1774,Tsuda College,Tokyo Japan
+1775,"Tsurumi University, Yokohama Japan; University of California at Berkeley",Berkeley CA
+1776,Tufts University,Medford MA
+1777,Tung Nan Institute of Technology,Taipei Taiwan
+1778,U.S. Army Research Institute,Alexandria VA
+1779,UPMAIL,Uppsala Sweden
+1780,US WEST Advanced Technologies,Boulder CO
+1781,,US West Advanced Technologies
+1782,USSR Academy of Sciences-Siberian Division,Novosibirsk USSR
+1783,USSR Center for Translation of Scientific and Technical Literature and Documentation,Moscow USSR
+1784,UZEI,Donostia Spain
+1785,Ugo Bordoni Foundation,Rome Italy
+1786,Uiduk University,Gyeongju Korea
+1787,"Umbria, Inc.",Boulder CO
+1788,Unilever Corporate Research,Bedford UK
+1789,Union College,Schenectady NY
+1790,Union University,Jackson TN
+1791,Unisys Corporation,Paoli PA
+1792,Unisys Corporation,Santa Monica CA
+1793,United States Military Academy,West Point
+1794,,United States Naval Academy
+1795,United States Secret Service,Washington D.C.
+1796,Universidade Federal do Para,Belem Brazil
+1797,Universiti Sains Malaysia,Pulau Pinang Malaysia
+1798,University College Cork,Cork Ireland
+1799,University College Dublin,Dublin Ireland
+1800,"University College Ghent, Ghent Belgium; Ghent University",Ghent Belgium
+1801,University College London,London UK
+1802,University Kiril and Metodij,Skopje Yugoslavia
+1803,University L. Kossuth,Debrecen Hungary
+1804,University Sharjah,Sharjah U.A.E.
+1805,University for Health Informatics and Technology Tyrol,Bad Oeynhausen Germany
+1806,University of A Coruna,A Coruna Spain
+1807,University of Aalborg,Aalborg Denmark
+1808,University of Aberdeen,Aberdeen UK
+1809,University of Abertay Dundee,Dundee UK
+1810,University of Alabama at Birmingham,Birmingham AL
+1811,University of Alabama,Tuscaloosa AL
+1812,University of Alaska,Fairbanks AK
+1813,University of Alberta,Edmonton AB
+1814,University of Alcala,Madrid Spain
+1815,University of Alicante,Alicante Spain
+1816,"University of Alicante, Alicante Spain; Institute for the Protection and Security of the Citizen",Ispra Italy
+1817,University of Amsterdam,Amsterdam The Netherlands
+1818,"University of Amsterdam, Amsterdam The Netherlands; University of Leeds",Leeds UK
+1819,University of Angers,Angers France
+1820,University of Antwerp,Antwerp Belgium
+1821,"University of Antwerp, Antwerp Belgium; University of Nairobi",Kenya
+1822,University of Applied Sciences and Arts,Hannover Germany
+1823,University of Arizona,Tucson AZ
+1824,University of Arkansas,Little Rock AR
+1825,University of Art and Design Helsinki,Helsinki Finland
+1826,University of Athens,Athens Greece
+1827,University of Auckland,Auckland New Zealand
+1828,University of Avignon,Avignon France
+1829,"University of Avignon, Avignon France; CNRS",France
+1830,"University of Avignon, Avignon France; Ecole Polytechnique de Montreal",Montreal QU
+1831,"University of Avignon, Avignon France; University of Provence",Aix-en Provence France
+1832,University of Balamand,Lebanon
+1833,University of Barcelona,Barcelona Spain
+1834,University of Bari,Bari Italy
+1835,University of Basel,Basel Switzerland
+1836,University of Beira Interior,Covilha Portugal
+1837,University of Belgrade,Serbia and Montenegro
+1838,University of Bergen,Bergen Norway
+1839,University of Bielefeld,Bielefeld Germany
+1840,"University of Bielefeld, Bielefeld Germany; University of Toronto",Toronto ON
+1841,University of Birmingham,Birmingham UK
+1842,University of Bologna,Bologna Italy
+1843,University of Bonn,Bonn Germany
+1844,"University of Bonn, Bonn Germany; German Research Center for Artificial Intelligence",Saarbrucken Germany
+1845,University of Bordeaux 3,Bordeaux France
+1846,University of Brighton,Brighton UK
+1847,"University of Brighton, Brighton UK; University of Edinburgh",Edinburgh UK
+1848,University of Bristol,Bristol UK
+1849,University of British Columbia,Vancouver BC
+1850,University of Brussels,Brussels Belgium
+1851,"University of Brussels, Brussels Belgium; SONY Computer Science Lab",Paris France
+1852,University of Bucharest,Bucharest Romania
+1853,University of Buenos Aires,Buenos Aires Argentina
+1854,University of Buffalo,Buffalo NY
+1855,"University of Buffalo, Buffalo NY; Saarland University",Saarbrucken Germany
+1856,"University of Buffalo, Buffalo NY; State University of New York at Fredonia",Fredonia NY
+1857,University of Cadiz,Cadiz Spain
+1858,University of Caen,Caen France
+1859,University of Calgary,Calgary AB
+1860,University of California at Berkeley,Berkeley CA
+1861,"University of California at Berkeley, Berkeley CA; Bulgarian Academy of Sciences",Bulgaria
+1862,"University of California at Berkeley, Berkeley CA; California State University East Bay",Hayward CA
+1863,"University of California at Berkeley, Berkeley CA; Columbia University",New York NY
+1864,"University of California at Berkeley, Berkeley CA; Palo Alto Research Center",Palo Alto CA
+1865,"University of California at Berkeley, Berkeley CA; Purdue University",West Lafayette IN
+1866,"University of California at Berkeley, Berkeley CA; SRI International",Menlo Park CA
+1867,"University of California at Berkeley, Berkeley CA; Technion-Israel Institute of Technology",Haifa Israel
+1868,"University of California at Berkeley, Berkeley CA; University of Science and Technology",Beijing China
+1869,University of California at Irvine,Irvine CA
+1870,University of California at Los Angeles,Los Angeles CA
+1871,"University of California at Los Angeles, Los Angeles CA; University of Southern California",Marina del Rey CA
+1872,University of California at San Francisco,San Francisco CA
+1873,"University of California at San Francisco, San Francisco CA; University of California at Berkeley",Berkeley CA
+1874,University of California,San Diego CA
+1875,"University of California, San Diego CA; Fair Isaac Corporation",San Diego CA
+1876,University of California,Santa Barbara CA
+1877,University of California,Santa Cruz
+1878,University of California,Santa Cruz CA
+1879,"University of California, Santa Cruz CA; Stanford University",Stanford CA
+1880,"University of California, Santa Cruz; NASA Ames Research Center",Moffett Field CA
+1881,University of Castilla-La Mancha,Albacete Spain
+1882,University of Catania,Catania Italy
+1883,University of Central Florida,Orlando FL
+1884,University of Central Lancashire,Preston UK
+1885,University of Chicago,Chicago IL
+1886,University of Cincinnati,Cincinnati OH
+1887,"University of Cincinnati, Cincinnati OH; Nicolaus Copernicus University",Torun Poland
+1888,University of Clermont-Ferrand 2,Clermont-Ferrand France
+1889,"University of Clermont-Ferrand 2, Clermont-Ferrand France; University of Amsterdam",Amsterdam The Netherlands
+1890,"University of Clermont-Ferrand 2, Clermont-Ferrand France; University of Edinburgh",Edinburgh UK
+1891,University of Coimbra,Coimbra Portugal
+1892,University of Cologne,Cologne Germany
+1893,University of Colombo School of Computing,Colombo Sri Lanka
+1894,University of Colorado at Boulder,Boulder CO
+1895,"University of Colorado at Boulder, Boulder CO; Boulder Language Technologies",Boulder CO
+1896,"University of Colorado at Boulder, Boulder CO; Umbria, Inc.",Boulder CO
+1897,University of Colorado at Colorado Springs,Colorado Spring CO
+1898,University of Colorado at Denver,Denver CO
+1899,University of Connecticut,Storrs CT
+1900,University of Copenhagen,Copenhagen Denmark
+1901,University of Copenhagen,Copenhagen Denmark; Eurotra
+1902,University of Delaware,Newark DE
+1903,"University of Delaware, Newark DE; University of Pennsylvania",Philadelphia PA
+1904,University of Deusto,Deusto Spain
+1905,University of Duisburg-Essen,Duisburg and Essen Germany
+1906,University of Dundee,Dundee UK
+1907,University of Durham,Durham UK
+1908,University of Dusseldorf,Dusseldorf Germany
+1909,"University of Dusseldorf, Dusseldorf Germany; University of Stuttgart",Stuttgart Germany
+1910,University of East Anglia,Norwich UK
+1911,University of Eastern Piedmont,Italy
+1912,University of Edinburgh,Edinburgh UK
+1913,"University of Edinburgh, Edinburgh UK; National Electronic and Computer Technology Center",Pathumthani Thailand
+1914,"University of Edinburgh, Edinburgh UK; SIL Cameroon",Yaounde Cameroon
+1915,"University of Edinburgh, Edinburgh UK; Saarland University",Saarbrucken Germany
+1916,"University of Edinburgh, Edinburgh UK; Tatung University",Taipei Taiwan
+1917,"University of Edinburgh, Edinburgh UK; University of Clermont-Ferrand 2",Clermont-Ferrand France
+1918,"University of Edinburgh, Edinburgh UK; University of Glasgow",Glasgow UK
+1919,"University of Edinburgh, Edinburgh UK; University of Pennsylvania",Philadelphia PA
+1920,University of Electro-Communications,Tokyo Japan
+1921,University of Electronic Science and Technology,Chengdu China
+1922,"University of Electronic Science and Technology, Chengdu China; National University of Singapore",Singapore
+1923,University of Erlangen-Nuremberg,Erlangen Germany
+1924,University of Essex,Essex UK
+1925,"University of Essex, Essex UK; Cambridge University",Cambridge UK
+1926,"University of Essex, Essex UK; University of Paris 6",Paris France
+1927,"University of Essex, Essex UK; University of Trento",Trento Italy
+1928,University of Evora,Evora Portugal
+1929,University of Exeter,Exeter UK
+1930,University of Florence,Florence Italy
+1931,University of Florida,Gainesville FL
+1932,University of Franche-Comte,Besancon France
+1933,"University of Franche-Comte, Besancon France; University of Panama",Panama City Panama
+1934,University of Fribourg,Fribourg Switzerland
+1935,University of Geneva,Geneva Switzerland
+1936,"University of Geneva, Geneva Switzerland; Ecole Polytechnique Federale de Lausanne",Lausanne Switzerland
+1937,"University of Geneva, Geneva Switzerland; Powerset, Inc.",San Francisco CA
+1938,"University of Geneva, Geneva Switzerland; University of Pennsylvania",Philadelphia PA
+1939,University of Genoa,Genoa Italy
+1940,"University of Genoa, Genoa Italy; Technical University of Valencia",Valencia Spain
+1941,University of Georgia,Athens GA
+1942,University of Georgia,Athens Georgia
+1943,University of Giessen,Giessen Germany
+1944,University of Girona,Girona Spain
+1945,University of Glasgow,Glasgow UK
+1946,,University of Gothenburg
+1947,University of Granada,Granada Spain
+1948,University of Graz,Graz Austria
+1949,University of Grenoble 1,Grenoble France
+1950,"University of Grenoble 1, Grenoble France; Institute of Information and Applied Mathematics Grenoble",Grenoble France
+1951,University of Grenoble 3,Grenoble France
+1952,"University of Grenoble 3, Grenoble France; University of Le Havre",Le Havre France
+1953,University of Groningen,Groningen The Netherlands
+1954,"University of Groningen, Groningen The Netherlands; Maastricht University",Maastricht The Netherlands
+1955,"University of Groningen, Groningen The Netherlands; Saarland University",Saarbrucken Germany
+1956,University of Guelph,Guelph ON
+1957,University of Hagen,Hagen Germany
+1958,University of Haifa,Haifa Israel
+1959,"University of Halle-Wittenberg, Halle Germany; Academy of Sciences of the DDR",Berlin Germany
+1960,University of Hamamatsu,Hamamatsu Japan
+1961,University of Hamburg,Hamburg Germany
+1962,"University of Hamburg, Hamburg Germany; Bowdoin College",Brunswick ME
+1963,"University of Hamburg, Hamburg Germany; Speech Services",Ulm Germany
+1964,University of Hannover,Hannover Germany
+1965,University of Hawaii,Honolulu HI
+1966,University of Heidelberg,Heidelberg Germany
+1967,University of Hertfordshire,Hatfield UK
+1968,University of Hertfordshire,Hertfordshire UK
+1969,University of Hildesheim,Hildesheim Germany
+1970,University of Hong Kong,Pokfulam Hong Kong
+1971,University of Houston,Houston TX
+1972,University of Houston-Downtown,Houston TX
+1973,University of Huddersfield,Queensgate UK
+1974,University of Hyderabad,Hyderabad India
+1975,University of Iasi,Iasi Romania
+1976,"University of Iceland, Reykjavik Iceland; Iceland Genomics Corp.",Rekjavik Iceland
+1977,University of Illinois at Chicago,Chicago IL
+1978,"University of Illinois at Chicago, Chicago IL; University of Melbourne",Melbourne Australia
+1979,University of Illinois at Urbana-Champaign,Urbana IL
+1980,"University of Illinois at Urbana-Champaign, Urbana IL; BBN Technologies",Cambridge MA
+1981,University of Indonesia,Jakarta Indonesia
+1982,University of Iowa,Iowa City IA
+1983,University of Jaen,Jaen Spain
+1984,University of Jena,Jena Germany
+1985,University of Joensuu,Joensuu Finland
+1986,University of Joinville,Brazil
+1987,University of Kaiserslautern,Kaiserslautern Germany
+1988,University of Kansas,Lawrence KS
+1989,University of Karlsruhe,Karlsruhe Germany
+1990,"University of Karlsruhe, Karlsruhe Germany; Carnegie Mellon University",Pittsburgh PA
+1991,"University of Karlsruhe, Karlsruhe Germany; Learning Lab Lower Saxony",Germany
+1992,University of Kentucky,Lexington KY
+1993,University of Koblenz and Landau,Koblenz Germany
+1994,University of Konstanz,Konstanz Germany
+1995,University of Lausanne,Lausanne Switzerland
+1996,"University of Le Havre, Le Havre France; CELTA",Nancy France
+1997,University of Le Mans,Le Mans France
+1998,University of Leeds,Leeds UK
+1999,"University of Leeds, Leeds UK; University of Amsterdam",Amsterdam The Netherlands
+2000,"University of Leeds, Leeds UK; University of Edinburgh",Edinburgh UK
+2001,University of Leipzig,Leipzig Germany
+2002,"University of Leipzig, Leipzig Germany; University of Buffalo",Buffalo NY
+2003,University of Lethbridge,Lethbridge AB
+2004,University of Library and Information Science,Tsukuba Japan
+2005,"University of Library and Information Science, Tsukuba Japan; CREST Japan Science and Technology Corporation",Saitama Japan
+2006,University of Liege,Liege Belgium
+2007,University of Lille 3,Lille France
+2008,"University of Lille 3, Lille France; CNRS",France
+2009,University of Limerick,Limerick Ireland
+2010,University of Lisbon,Lisbon Portugal
+2011,"University of Lisbon, Lisbon Portugal; Technical University of Lisbon",Lisbon Portugal
+2012,University of Liverpool,Liverpool UK
+2013,University of Ljubljana,Ljubljana Slovenia
+2014,University of Lleida,Lleida Spain
+2015,University of Lodz,Lodz Poland
+2016,University of London,London UK
+2017,University of London-Queen Mary,London UK
+2018,University of London-Royal Holloway,Egham UK
+2019,University of Louisiana at Lafayette,Lafayette LA
+2020,University of Louisiana,Louisiana LA
+2021,"University of Lyon 2, Lyon France; ENSSB",France
+2022,University of Lyon 3,Lyon France
+2023,"University of Lyon 3, Lyon France; Drexel University",Philadelphia PA
+2024,University of Macau,Taipa Macau
+2025,University of Madrid,Madrid Spain
+2026,"University of Madrid, Madrid Spain; Royal Spanish Academy",Madrid Spain
+2027,University of Magdeburg,Magdeburg Germany
+2028,University of Maine,Le Mans France
+2029,"University of Maine, Le Mans France; Specinov",Trelaze France
+2030,University of Maine,Orono ME
+2031,University of Mainz,Germersheim Germany
+2032,University of Malaga,Malaga Spain
+2033,University of Malaya,Kuala Lumpur Malaysia
+2034,University of Malta,Msida Malta
+2035,University of Manchester,Manchester UK
+2036,"University of Manchester, Manchester UK; Matsushita Electric Industrial Co. Ltd.",Japan
+2037,"University of Manchester, Manchester UK; National Center for Text Mining",UK
+2038,"University of Manchester, Manchester UK; Sony Computer Science Labs",Tokyo Japan
+2039,University of Manitoba,Winnipeg MB
+2040,"University of Manitoba, Winnipeg MB; Nalante Inc.",Winnipeg MB
+2041,"University of Manitoba, Winnipeg MB; University of Maryland",College Park MD
+2042,University of Mannheim,Mannheim Germany
+2043,University of Marburg,Marburg Germany
+2044,University of Maribor,Maribor Slovenia
+2045,University of Marne la Vallee,Marne la Vallee France
+2046,"University of Marne la Vallee, Marne la Vallee France; CNRS",France
+2047,University of Maryland Baltimore County,Baltimore MD
+2048,"University of Maryland Baltimore County, Baltimore MD; Onyx Consulting",Inc.
+2049,University of Maryland,College Park MD
+2050,"University of Maryland, College Park MD; Army Research Laboratory",Adelphi MD
+2051,University of Maryland,College Park MD; HumanLanguage Technology Center for Excellence
+2052,"University of Maryland, College Park MD; Johns Hopkins University",Baltimore MD
+2053,"University of Maryland, College Park MD; Purdue University",West Lafayette IN
+2054,"University of Maryland, College Park MD; University of Geneva",Geneva Switzerland
+2055,University of Massachusetts,Amherst MA
+2056,University of Massachusetts,Boston MA
+2057,University of Melbourne,Melbourne Australia
+2058,"University of Melbourne, Melbourne Australia; La Trobe University",Melbourne Australia
+2059,"University of Melbourne, Melbourne Australia; Nara Institute of Science and Technology",Nara Japan
+2060,"University of Melbourne, Melbourne Australia; University of Pennsylvania",Philadelphia PA
+2061,University of Memphis,Memphis TN
+2062,University of Messina,Messina Italy
+2063,University of Metz,Metz France
+2064,University of Michigan,Ann Arbor MI
+2065,"University of Michigan, Ann Arbor MI; Palo Alto Research Center",Palo Alto CA
+2066,University of Milan-Bicocca,Milan Italy
+2067,University of Minnesota Duluth,Duluth MN
+2068,University of Minnesota Twin Cities,Minneapolis MN
+2069,University of Minnesota-Morris,Morris MN
+2070,University of Miskolc,Miskolc-Egyetemvaros Hungary
+2071,University of Mississippi,University MS
+2072,University of Missouri-Kansas City,Kansas City MO
+2073,University of Moncton,Moncton NB
+2074,University of Mondragon,Mondragon Spain
+2075,University of Montpellier 2,Montpellier France
+2076,"University of Montpellier 2, Montpellier France; CNRS, France; LIRMM",France
+2077,"University of Montpellier 2, Montpellier France; LIRMM",France
+2078,University of Montreal,Montreal QU
+2079,"University of Montreal, Montreal QU; CoGenTex, Inc.",Ithaca NY
+2080,University of Montreal,Montreal QU; Eurotra
+2081,University of Munich,Munich Germany
+2082,University of Munster,Munster Germany
+2083,University of Nairobi,Kenya
+2084,University of Namur,Namur Belgium
+2085,"University of Namur, Namur Belgium; National Research Institute for Mathematics and Computer Science",Amsterdam The Netherlands
+2086,University of Nancy 2,Nancy France
+2087,University of Nantes,Nantes France
+2088,"University of Nantes, Nantes France; CNRS",France
+2089,University of Napier,Edinburgh UK
+2090,University of Naples Frederico II,Naples Italy
+2091,University of Nebraska,Lincoln NE
+2092,"University of Nebraska, Lincoln NE; University of Vienna",Vienna Austria
+2093,University of Neuchatel,Neuchatel Switzerland
+2094,University of New Brunswick,Fredericton NB
+2095,University of New Castle,New Castle UK
+2096,University of New England,Armidale Australia
+2097,University of New Hampshire,Durham NH
+2098,University of New South Wales,Sydney Australia
+2099,University of Newcastle,Newcastle UK
+2100,University of Nijmegen,Nijmegen The Netherlands
+2101,University of North Carolina at Asheville,Asheville NC
+2102,University of North Carolina at Greensboro,Greensboro NC
+2103,University of North Carolina,Chapel Hill NC
+2104,University of North Texas,Denton TX
+2105,"University of North Texas, Denton TX; Daxtron Laboratories, Inc.",TX
+2106,University of Northern British Columbia,Prince George BC
+2107,University of Nottingham,Nottingham UK
+2108,University of Odense,Odense Denmark
+2109,University of Oregon,Eugene OR
+2110,University of Oriente,Cuba
+2111,University of Orleans,Orleans France
+2112,"University of Orleans, Orleans France; INRIA",Le Chesnay France
+2113,University of Osaka,Osaka Japan
+2114,University of Oslo,Oslo Norway
+2115,"University of Oslo, Oslo Norway; Stanford University",Stanford CA
+2116,University of Osnabruck,Osnabruck Germany
+2117,University of Otago,Dunedin New Zealand
+2118,University of Ottawa,Ottawa ON
+2119,"University of Ottawa, Ottawa ON; Polish Academy of Sciences",Warsaw Poland
+2120,University of Oulu,Oulu Finland
+2121,University of Paderborn,Paderborn Germany
+2122,University of Padua,Padua Italy
+2123,University of Paris 10,Nanterre France
+2124,University of Paris 13,Villetaneuse France
+2125,"University of Paris 13, Villetaneuse France; CNRS",France
+2126,University of Paris 3,Paris France
+2127,"University of Paris 3, Paris France; University of Paris 6",Paris France
+2128,University of Paris 4,Paris France
+2129,"University of Paris 5, Paris France; INSERM",Villejuif France
+2130,University of Paris 6,Paris France
+2131,"University of Paris 6, Paris France; University of Paris 5, Paris France; INSERM",Villejuif France
+2132,University of Paris 7,Paris France
+2133,"University of Paris 7, Paris France; CNRS",France
+2134,"University of Paris 7, Paris France; CNRS, France; LADL",France
+2135,"University of Paris 7, Paris France; IBM Paris Scientific Center",Paris France
+2136,"University of Paris 7, Paris France; INRIA",Le Chesnay France
+2137,"University of Paris 7, Paris France; LORIA",Vandoeuvre-les-Nancy France
+2138,University of Paris 8,Saint Denis France
+2139,University of Passau,Passau Germany
+2140,University of Patras,Patras Greece
+2141,University of Pavia,Pavia Italy
+2142,University of Pennsylvania,Philadelphia PA
+2143,"University of Pennsylvania, Philadelphia PA; Bowdoin College",Brunswick ME
+2144,"University of Pennsylvania, Philadelphia PA; Chinese Academy of Sciences",Beijing China
+2145,"University of Pennsylvania, Philadelphia PA; CoGenTex, Inc.",Ithaca NY
+2146,"University of Pennsylvania, Philadelphia PA; University of Edinburgh",Edinburgh UK
+2147,"University of Pennsylvania, Philadelphia PA; University of Geneva",Geneva Switzerland
+2148,University of Perugia,Perugia Italy
+2149,University of Peshawar,Peshawar Pakistan
+2150,University of Pisa,Pisa Italy
+2151,"University of Pisa, Pisa Italy; CNR-Institute of Computational Linguistics",Pisa Italy
+2152,"University of Pisa, Pisa Italy; Scuola Normale Superiore di Pisa",Pisa Italy
+2153,University of Pittsburgh,Pittsburgh PA
+2154,"University of Pittsburgh, Pittsburgh PA; AT&T Bell Labs",Murray Hill NJ
+2155,University of Porto,Porto Portugal
+2156,University of Portsmouth,Portsmouth UK
+2157,University of Potsdam,Potsdam Germany
+2158,"University of Potsdam, Potsdam Germany; Humboldt University of Berlin",Berlin Germany
+2159,University of Pretoria,Pretoria South Africa
+2160,"University of Pretoria, Pretoria South Africa; Ribbit Software Systems Inc.",Kelowna BC
+2161,University of Provence,Aix-en Provence France
+2162,"University of Provence, Aix-en Provence France; CNRS",France
+2163,University of Puerto Rico at Mayaguez,Mayaguez Puerto Rico
+2164,University of Quebec at Gatineau,Gatineau QU
+2165,University of Quebec at Montreal,Montreal QU
+2166,"University of Quebec at Montreal, Montreal QU; University of Geneva",Geneva Switzerland
+2167,University of Quebec at Trois-Rivieres,Trois-Rivieres QU
+2168,University of Queensland,St. Lucia Australia
+2169,University of Reading,Reading UK
+2170,University of Regensburg,Regensburg Germany
+2171,University of Rennes 1,Rennes France
+2172,"University of Rennes 1, Rennes France; Centre National d'Etudes des Telecommunications",Lannion France
+2173,"University of Rennes 1, Rennes France; IRISA",Rennes France
+2174,University of Rochester,Rochester NY
+2175,University of Rome La Sapienza,Rome Italy
+2176,University of Rome Tor Vergata,Rome Italy
+2177,"University of Rome Tor Vergata, Rome Italy; Academy of Economic Studies",Bucharest Romania
+2178,University of Saint Etienne,Saint Etienne France
+2179,"University of Salerno, Salerno Italy; University of Grenoble 1, Grenoble France; University of Paris 7",Paris France
+2180,University of Salford,Salford UK
+2181,University of Santiago de Compostela,Santiago de Compostela Spain
+2182,University of Sao Paulo,Sao Paulo Brazil
+2183,University of Saskatchewan,Saskatoon SK
+2184,University of Science Malaysia,Penang Malaysia
+2185,"University of Science Malaysia, Penang Malaysia; Institute of Information and Applied Mathematics Grenoble",Grenoble France
+2186,University of Science and Technology of China,Anhui China
+2187,University of Science and Technology,Beijing China
+2188,University of Science and Technology,Clear Water Bay Hong Kong
+2189,"University of Science and Technology, Clear Water Bay Hong Kong; Hong Kong Polytechnic University",Hung Hom Hong Kong
+2190,"University of Science and Technology, Clear Water Bay Hong Kong; Peking University",Beijing China
+2191,University of Science and Technology,Hefei China
+2192,University of Sevilla,Sevilla Spain
+2193,University of Sfax,Sfax Tunisia
+2194,University of Sheffield,Sheffield UK
+2195,University of Shizuoka,Shizuoka Japan
+2196,University of Skovde,Skovde Sweden
+2197,"University of Skovde, Skovde Sweden; Goteborg University",Goteborg Sweden
+2198,University of South Africa,South Africa
+2199,"University of South Africa, South Africa; Mareka Institute",South Africa
+2200,"University of South Africa, South Africa; Meraka Institute",Pretoria South Africa
+2201,University of Southampton,Southampton UK
+2202,University of Southern California,Marina del Rey CA
+2203,"University of Southern California, Marina del Rey CA; Language Weaver Inc.",Marina del Rey CA
+2204,"University of Southern California, Marina del Rey CA; University of Michigan",Ann Arbor MI
+2205,University of Southern Denmark,Odense Denmark
+2206,University of St. Andrews,St. Andrews UK
+2207,"University of St. Andrews, St. Andrews UK; University of Amsterdam",Amsterdam The Netherlands
+2208,University of St. Thomas,St. Paul MN
+2209,University of Stellenbosch,South Africa
+2210,University of Stirling,Stirling Scotland
+2211,University of Stirling,Stirling UK
+2212,University of Strasbourg 2,Strasbourg France
+2213,University of Strathclyde,Glasgow UK
+2214,University of Stuttgart,Stuttgart Germany
+2215,"University of Stuttgart, Stuttgart Germany; University of Pretoria",Pretoria South Africa
+2216,University of Sunderland,Sunderland UK
+2217,University of Surrey,Surrey UK
+2218,University of Sussex,East Sussex UK
+2219,"University of Sussex, East Sussex UK; University of Geneva",Geneva Switzerland
+2220,University of Suwon,Hwaseong Korea
+2221,University of Sydney,Sydney Australia
+2222,University of Szeged,Szeged Hungary
+2223,"University of Szeged, Szeged Hungary; Hungarian Academy of Sciences",Budapest Hungary
+2224,University of Tampere,Tampere Finland
+2225,University of Tartu,Tartu Estonia
+2226,"University of Technology of Compiegne, Compiegne France; CNRS, France; URA",Marseille France
+2227,"University of Technology of Troyes, Troyes France; University â€œA.I. Cuzaâ€",Iasi Romania
+2228,University of Teeside,Middlesbrough UK
+2229,University of Tennessee,Knoxville TN
+2230,University of Texas at Arlington,Arlington TX
+2231,University of Texas at Austin,Austin TX
+2232,"University of Texas at Austin, Austin TX; Brigham Young University",Provo UT
+2233,"University of Texas at Austin, Austin TX; MCC",Austin TX
+2234,"University of Texas at Austin, Austin TX; SRI International, Menlo Park CA; Stanford University",Stanford CA
+2235,University of Texas at Dallas,Richardson TX
+2236,"University of Texas at Dallas, Richardson TX; Baylor University",Waco TX
+2237,University of Texas at El Paso,El Paso TX
+2238,University of The Republic,Montevideo Uruguay
+2239,University of Timisoara,Timisoara Romania
+2240,University of Tokushima,Tokushima Japan
+2241,University of Tokyo,Tokyo Japan
+2242,"University of Tokyo, Tokyo Japan; ATR Spoken Language Translation Research Laboratories",Kyoto Japan
+2243,"University of Tokyo, Tokyo Japan; Brain Science Institute",Japan
+2244,"University of Tokyo, Tokyo Japan; CREST Japan Science and Technology Corporation",Saitama Japan
+2245,"University of Tokyo, Tokyo Japan; Electrotechnical Laboratory, Tsukuba Japan; Institute for New Generation Computer Technology",Tokyo Japan
+2246,"University of Tokyo, Tokyo Japan; Japan Biological Informatics Consortium, Japan; National Institute of Advanced Industrial Science and Technology",Tokyo Japan
+2247,"University of Tokyo, Tokyo Japan; PRESTO Japan Science and Technology Corporation",Saitama Japan
+2248,"University of Tokyo, Tokyo Japan; Research Organization of Information and System",Japan
+2249,"University of Tokyo, Tokyo Japan; SORST Japan Science and Technology Corporation",Saitama Japan
+2250,"University of Tokyo, Tokyo Japan; University of Manchester",Manchester UK
+2251,"University of Tokyo, Tokyo Japan; University of Manchester, Manchester UK; CREST Japan Science and Technology Corporation",Saitama Japan
+2252,"University of Tokyo, Tokyo Japan; University of Manchester, Manchester UK; National Center for Text Mining",UK
+2253,"University of Tokyo, Tokyo Japan; University of Manchester, Manchester UK; SORST Japan Science and Technology Corporation",Saitama Japan
+2254,University of Toronto,Toronto ON
+2255,"University of Toronto, Toronto ON; National Research Council (Ottawa)",Ottawa ON
+2256,"University of Toronto, Toronto ON; Redeemer College",Ancaster ON
+2257,"University of Toronto, Toronto ON; University of Ulm",Ulm Germany
+2258,University of Toulouse 2,Toulouse France
+2259,University of Toulouse 3,Toulouse France
+2260,University of Toulouse,Toulouse France
+2261,University of Tours,Tours France
+2262,University of Toyama,Toyama Japan
+2263,University of Trento,Trento Italy
+2264,"University of Trento, Trento Italy; Fondazione Bruno Kessler",Trento Italy
+2265,"University of Trento, Trento Italy; University of Essex",Essex UK
+2266,University of Trier,Trier Germany
+2267,University of Trieste,Trieste Italy
+2268,University of Tromso,Tromso Norway
+2269,University of Trondheim,Trondheim Norway
+2270,University of Tsukuba,Tsukuba Japan
+2271,University of Tubingen,Tubingen Germany
+2272,"University of Tubingen, Tubingen Germany; Friedrich-Naumann-Stiftung (FNS)",Germany
+2273,University of Turin,Turin Italy
+2274,University of Turku,Turku Finland
+2275,University of Twente,Enschede The Netherlands
+2276,University of Udine,Udine Italy
+2277,"University of Udine, Udine Italy; International Center for Mechanical Sciences",Udine Italy
+2278,"University of Udine, Udine Italy; Technical University of Milan",Milan Italy
+2279,"University of Udine, Udine Italy; University of Milan",Milan Italy
+2280,"University of Udine, Udine Italy; University of Trieste",Trieste Italy
+2281,University of Ulm,Ulm Germany
+2282,"University of Ulm, Ulm Germany; University of Toronto",Toronto ON
+2283,University of Ulsan,Ulsan Korea
+2284,University of Ulster,Northern Ireland
+2285,University of Utah,Salt Lake City UT
+2286,University of Valladolid,Valladolid Spain
+2287,University of Venice,Venice Italy
+2288,"University of Venice, Venice Italy; Fondazione Bruno Kessler",Trento Italy
+2289,University of Vermont,Burlington VT
+2290,University of Victoria,Victoria BC
+2291,University of Vienna,Vienna Austria
+2292,University of Vigo,Vigo Spain
+2293,University of Waikato,Hamilton New Zealand
+2294,University of Wales,Aberystwyth UK
+2295,University of Wales,Cardiff UK
+2296,University of Washington,Seattle WA
+2297,University of Waterloo,Waterloo ON
+2298,"University of Waterloo, Waterloo ON; Tsinghua University",Beijing China
+2299,"University of Waterloo, Waterloo ON; University of Massachusetts",Amherst MA
+2300,"University of Waterloo, Waterloo ON; University of Toronto",Toronto ON
+2301,University of West Bohemia,Pilsen Czech Republic
+2302,University of Western Australia,Perth Australia
+2303,University of Western Australia,Perth Western Australia
+2304,University of Western Ontario,London ON
+2305,University of Windsor,Windsor ON
+2306,University of Wisconsin at Milwaukee,Milwaukee WI
+2307,University of Wisconsin-Madison,Madison WI
+2308,University of Wisconsin-Parkside,Kenosha WI
+2309,University of Wolverhampton,Wolverhampton UK
+2310,"University of Wolverhampton, Wolverhampton UK; University of Alicante",Alicante Spain
+2311,University of Wuppertal,Wuppertal Germany
+2312,University of Wurzburg,Wurzburg Germany
+2313,University of Yamagata,Yonezawa Japan
+2314,University of York,York UK
+2315,University of Zadar,Zadar Croatia
+2316,University of Zagreb,Zagreb Croatia
+2317,University of Zurich,Zurich Switzerland
+2318,"University of Zurich, Zurich Switzerland; University of Geneva",Geneva Switzerland
+2319,University of the Aegean,Samos Greece
+2320,University of the Algarve,Faro Portugal
+2321,"University of the Algarve, Faro Portugal; INESC",Lisbon Portugal
+2322,University of the Andes,Bogota Colombia
+2323,University of the Basque Country,Donostia Spain
+2324,University of the Basque Country,Donostia Spain; Eleka S.L.
+2325,University of the Mediterranean,Marseille France
+2326,University of the Ryukyus,Okinawa Japan
+2327,University of the Sinos Valley,Sao Leopoldo Brazil
+2328,University of the West Indies,St. Augustine Trinidad
+2329,University â€œA.I. Cuzaâ€,Iasi Romania
+2330,"University â€œA.I. Cuzaâ€, Iasi Romania; Romanian Academy",Bucharest Romania
+2331,"University â€œA.I. Cuzaâ€, Iasi Romania; Romanian Academy",Iasi Romania
+2332,"University â€œA.I. Cuzaâ€, Iasi Romania; University of Alicante",Alicante Spain
+2333,Uppsala University,Uppsala Sweden
+2334,"Uppsala University, Uppsala Sweden; Tilburg University",Tilburg The Netherlands
+2335,"Uppsala University, Uppsala Sweden; Vaxjo University",Vaxjo Sweden
+2336,Upsala College,East Orange NJ
+2337,Utrecht University,Utrecht The Netherlands
+2338,Utrecht University,Utrecht The Netherlands; Eurotra
+2339,"Utrecht University, Utrecht The Netherlands; University of Essex",Essex UK
+2340,Utsunomiya University,Utsunomiya Japan
+2341,V,Krishnakumar
+2342,Valparaiso University,Valparaiso IN
+2343,Van Nung Institute of Technology,Taiwan
+2344,Vanderbilt University,Nashville TN
+2345,Vassar College,Poughkeepsie NY
+2346,Vaxjo University,Vaxjo Sweden
+2347,"Vaxjo University, Vaxjo Sweden; Uppsala University",Uppsala Sweden
+2348,Vecsys,France
+2349,,Velti S.A.
+2350,,Verity Inc.
+2351,Versatile Information Systems Inc.,Framingham MA
+2352,Vienna University of Economics and Business Administration,Vienna Austria
+2353,Vietlex,Hanoi Vietnam
+2354,Vietnam Lexicography Centre,Vietnam
+2355,Vietnam National University of HCMC,HCM City Vietnam
+2356,Vietnam National University,Hanoi Vietnam
+2357,"Vietnam National University, Hanoi Vietnam; LORIA",Vandoeuvre-les-Nancy France
+2358,Villanova University,Villanova PA
+2359,Virage Advanced Technology Group,Woburn MA
+2360,Virginia Polytechnic University,Blacksburg VA
+2361,Virtual Genetics Laboratory AB,Stockholm Sweden
+2362,"Vivisimo, Inc.",Pittsburgh PA
+2363,Voice Insight,Brussels Belgium
+2364,Volkswagen of America,Palo Alto CA
+2365,Vox Generation Limited,London UK
+2366,Vrije University,Amsterdam The Netherlands
+2367,"Vrije University, Amsterdam The Netherlands; Irion Technologies",Delft The Netherlands
+2368,Vsesojuznyj Centr Perevodov,Moscow Russia
+2369,Vytautas Magnus University,Kaunas Lithuania
+2370,W.L. Gore & Associates,Inc.
+2371,Waikato University,Hamilton New Zealand
+2372,Warsaw University,Warsaw Poland
+2373,Waseda University,Tokyo Japan
+2374,"Waseda University, Tokyo Japan; Telecommunications Advancement Organization of Japan",Japan
+2375,Washington State University,Pullman WA
+2376,Washington University,St. Louis MO
+2377,Watson,Richard E.
+2378,Wayne State University,Detroit MI
+2379,Webster University,Geneva Switzerland
+2380,"Weidner Communications, Inc.",Provo UT
+2381,Weizmann Institute of Science,Rehovot Israel
+2382,West Group,Eagan MN
+2383,"West Virginia University, Morgantown WV; MedQuist Inc.",Morgantown WV
+2384,Western General Hospital,Edinburgh UK
+2385,,Western Union Telegraph Co.
+2386,,Westminster Hebrew Institute
+2387,Willamette University,Salem OR
+2388,Williams College,Williamstown MA
+2389,,World Wide Web Consortium
+2390,Wroclaw University of Technology,Wroclaw Poland
+2391,Wuhan University,Wuhan China
+2392,Xerox Research Centre Europe,Grenoble France
+2393,"Xerox Research Centre Europe, Grenoble France; Academy of Finland",Helsinki Finland
+2394,"Xerox Research Centre Europe, Grenoble France; Institute of Information and Applied Mathematics Grenoble",Grenoble France
+2395,"Xerox Research Centre Europe, Grenoble France; Institute of Information and Applied Mathematics Grenoble, Grenoble France; University of Grenoble 1",Grenoble France
+2396,,Xerox Webster Research Center
+2397,Xiamen University,Xiamen China
+2398,"Xinjiang University, Urumqi China; Communication University of China",Beijing China
+2399,XtraMind Technologies GmbH,Saarbrucken Germany
+2400,YY Technologies,Mountain View CA
+2401,Yahoo! Barcelona,Barcelona Spain
+2402,"Yahoo! Barcelona, Barcelona Spain; University of Pisa",Pisa Italy
+2403,Yahoo! Inc.,Santa Clara CA
+2404,Yahoo! Research Tokyo,Tokyo Japan
+2405,Yahoo! Research,New York NY
+2406,Yahoo! Research,Sunnyvale CA
+2407,Yale University,New Haven CT
+2408,Yamagata University,Yamagata Japan
+2409,Yamanashi University,Yamanashi Japan
+2410,Yanbian University of Science and Technology,Yanji City China
+2411,Yandex Labs,Burlingame CA
+2412,Yokohama National University,Yokohama Japan
+2413,Yonsei University,Seoul Korea
+2414,York University,North York ON
+2415,Yuan Ze University,Taoyuan Taiwan
+2416,Zagazig University,Zagazig Egypt
+2417,Zagreb University,Zagreb Yugoslavia
+2418,Zavod vypocetni techniky CSAD Prague,Prague Czechoslovakia
+2419,Zhang,Yi
+2420,Zhejiang University,Hangzhou China
+2421,Zurich University of Applied Sciences,Zurich Switzerland
+2422,acrolinx GmbH,Germany
+2423,conject AG,Munich Germany
+2424,deNovis Inc.,Lexington MA
+2425,eMotion Inc.,Vienna VA
+2426,"ftw. Telecommunications Research Center, Vienna Austria; Imperial College London",London UK
+2427,"gavagai Technology Inc., Vancouver BC; Simon Fraser University",Burnaby BC
+2428,osTechnology Pty. Ltd.,Australia
+2429,smartSpeed GmbH & Co. KG,Hamburg Germany
+2430,"Ã‰cole Normale SupÃ©rieure Lettres et Sciences Humaines, Lyon France; University of Lyon 2",Lyon France

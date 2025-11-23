@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+roomid,text,,[],[],[]
+roomname,text,,,,
+beds,integer,,,,
+bedtype,text,,,,
+maxoccupancy,integer,,,,
+baseprice,integer,,,,
+decor,text,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+major_ranking_rank,integer,"PRIMARY KEY : (""major_ranking_rank"", ""major_ranking_major_id"", ""major_ranking_university_id"")","[FOREIGN KEY: ""major_ranking_university_id"" REFERENCES ""university.university_university_id"" (table_name.column_name)., FOREIGN KEY: ""major_ranking_major_id"" REFERENCES ""major.major_major_id"" (table_name.column_name).]","['rank,major_id,university_id']","[{'major_ranking_university_id': 'university.university_university_id'}, {'major_ranking_major_id': 'major.major_major_id'}]"
+major_ranking_university_id,integer,,,,
+major_ranking_major_id,integer,,,,

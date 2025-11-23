@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+district_district_id,integer,"PRIMARY KEY : (""district_district_id"")",[],['district_id'],[]
+district_name,text,,,,
+headquartered_city,text,,,,
+city_population,double,,,,
+city_area,double,,,,

@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+city1_code,text,,"[FOREIGN KEY: ""city1_code"" REFERENCES ""city.city_city_code"" (table_name.column_name)., FOREIGN KEY: ""city2_code"" REFERENCES ""city.city_city_code"" (table_name.column_name).]",[],"[{'city1_code': 'city.city_city_code'}, {'city2_code': 'city.city_city_code'}]"
+city2_code,text,,,,
+distance,integer,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+event_id,integer,"PRIMARY KEY : (""event_id"")","[FOREIGN KEY: ""student_events_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""student_events_event_type_code"" REFERENCES ""ref_event_types.ref_event_types_event_type_code"" (table_name.column_name).]",['event_id'],"[{'student_events_student_id': 'students.students_student_id'}, {'student_events_event_type_code': 'ref_event_types.ref_event_types_event_type_code'}]"
+student_events_event_type_code,text,,,,
+student_events_student_id,integer,,,,
+event_date,date,,,,
+student_events_other_details,text,,,,

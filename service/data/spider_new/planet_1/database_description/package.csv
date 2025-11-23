@@ -1,0 +1,7 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+shipment,integer,"PRIMARY KEY : (""shipment"", "" packagenumber"")","[FOREIGN KEY: ""shipment"" REFERENCES ""shipment.shipmentid"" (table_name.column_name)., FOREIGN KEY: ""sender"" REFERENCES ""client.accountnumber"" (table_name.column_name)., FOREIGN KEY: ""recipient"" REFERENCES ""client.accountnumber"" (table_name.column_name).]","['shipment, packagenumber']","[{'shipment': 'shipment.shipmentid'}, {'sender': 'client.accountnumber'}, {'recipient': 'client.accountnumber'}]"
+packagenumber,integer,,,,
+contents,text,,,,
+weight,double,,,,
+sender,integer,,,,
+recipient,integer,,,,

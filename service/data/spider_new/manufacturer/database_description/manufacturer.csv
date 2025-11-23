@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+manufacturer_manufacturer_id,integer,"PRIMARY KEY : (""manufacturer_manufacturer_id"")",[],['manufacturer_id'],[]
+open_year,double,,,,
+manufacturer_name,text,,,,
+num_of_factories,integer,,,,
+num_of_shops,integer,,,,

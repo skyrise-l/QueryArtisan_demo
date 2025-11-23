@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+movietheaters_code,integer,,"[FOREIGN KEY: ""movie"" REFERENCES ""movies.movies_code"" (table_name.column_name).]",[],[{'movie': 'movies.movies_code'}]
+name,text,,,,
+movie,integer,,,,

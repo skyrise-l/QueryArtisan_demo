@@ -1,0 +1,11 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+manager_half_player_id,text,,"[FOREIGN KEY: ""manager_half_team_id"" REFERENCES ""team.team_team_id"" (table_name.column_name).]",[],[{'manager_half_team_id': 'team.team_team_id'}]
+manager_half_year,integer,,,,
+manager_half_team_id,text,,,,
+manager_half_league_id,text,,,,
+manager_half_inseason,integer,,,,
+manager_half_half,integer,,,,
+manager_half_g,integer,,,,
+manager_half_w,integer,,,,
+manager_half_l,integer,,,,
+manager_half_rank,integer,,,,

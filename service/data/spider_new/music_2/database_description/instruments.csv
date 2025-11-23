@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+instruments_songid,integer,"PRIMARY KEY : (""instruments_songid"", "" bandmateid"", "" instrument"")","[FOREIGN KEY: ""instruments_songid"" REFERENCES ""songs.songs_songid"" (table_name.column_name)., FOREIGN KEY: ""bandmateid"" REFERENCES ""band.id"" (table_name.column_name).]","['songid, bandmateid, instrument']","[{'instruments_songid': 'songs.songs_songid'}, {'bandmateid': 'band.id'}]"
+bandmateid,integer,,,,
+instrument,text,,,,

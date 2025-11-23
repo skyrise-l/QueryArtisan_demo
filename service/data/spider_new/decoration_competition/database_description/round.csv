@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+round_id,integer,"PRIMARY KEY : (""round_member_id"", ""round_id"")","[FOREIGN KEY: ""round_member_id"" REFERENCES ""member.member_member_id"" (table_name.column_name).]","['member_id,round_id']",[{'round_member_id': 'member.member_member_id'}]
+round_member_id,integer,,,,
+decoration_theme,text,,,,
+rank_in_round,integer,,,,

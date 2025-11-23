@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+league_id,integer,,"[FOREIGN KEY: ""country_id"" REFERENCES ""country.country_id"" (table_name.column_name).]",[],[{'country_id': 'country.country_id'}]
+country_id,integer,,,,
+league_name,text,,,,

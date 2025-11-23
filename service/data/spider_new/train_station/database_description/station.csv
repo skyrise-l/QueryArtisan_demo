@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+station_station_id,integer,"PRIMARY KEY : (""station_station_id"")",[],['station_id'],[]
+station_name,text,,,,
+annual_entry_exit,double,,,,
+annual_interchanges,double,,,,
+total_passengers,double,,,,
+location,text,,,,
+main_services,text,,,,
+number_of_platforms,integer,,,,

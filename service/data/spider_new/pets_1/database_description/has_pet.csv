@@ -1,0 +1,3 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+has_pet_stuid,integer,,"[FOREIGN KEY: ""has_pet_petid"" REFERENCES ""pets.pets_petid"" (table_name.column_name)., FOREIGN KEY: ""has_pet_stuid"" REFERENCES ""student.student_stuid"" (table_name.column_name).]",[],"[{'has_pet_petid': 'pets.pets_petid'}, {'has_pet_stuid': 'student.student_stuid'}]"
+has_pet_petid,integer,,,,

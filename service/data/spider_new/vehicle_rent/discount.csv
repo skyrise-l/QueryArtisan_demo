@@ -1,0 +1,6 @@
+discount_id,discount_name,discount_membership_credit
+1,no discount,0
+2,20% off,1000
+3,40% off for over $6000,2000
+4,50% off,4000
+5,70% off,400000

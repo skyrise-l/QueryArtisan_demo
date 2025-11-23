@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+headphone_headphone_id,integer,"PRIMARY KEY : (""headphone_headphone_id"")",[],['headphone_id'],[]
+model,text,,,,
+class,text,,,,
+driver-matched_db,double,,,,
+construction,text,,,,
+earpads,text,,,,
+price,integer,,,,

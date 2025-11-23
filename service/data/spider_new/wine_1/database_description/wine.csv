@@ -1,0 +1,12 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+wine_no,integer,,"[FOREIGN KEY: ""wine_grape"" REFERENCES ""grapes.grapes_grape"" (table_name.column_name)., FOREIGN KEY: ""wine_appelation"" REFERENCES ""appellations.appellations_appelation"" (table_name.column_name).]",[],"[{'wine_grape': 'grapes.grapes_grape'}, {'wine_appelation': 'appellations.appellations_appelation'}]"
+wine_grape,text,,,,
+winery,text,,,,
+wine_appelation,text,,,,
+wine_state,text,,,,
+name,text,,,,
+year,integer,,,,
+price,integer,,,,
+score,integer,,,,
+cases,integer,,,,
+drink,text,,,,

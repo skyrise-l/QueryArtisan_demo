@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+id,integer,,[],[],[]
+campuses_campus,text,,,,
+location,text,,,,
+county,text,,,,
+campuses_year,integer,,,,

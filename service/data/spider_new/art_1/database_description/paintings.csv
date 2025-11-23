@@ -1,0 +1,10 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+paintingid,integer,"PRIMARY KEY : (""paintingid"")","[FOREIGN KEY: ""painterid"" REFERENCES ""artists.artistid"" (table_name.column_name).]",['paintingid'],[{'painterid': 'artists.artistid'}]
+paintings_title,text,,,,
+paintings_year,integer,,,,
+height_mm,integer,,,,
+width_mm,integer,,,,
+paintings_medium,text,,,,
+mediumon,text,,,,
+paintings_location,text,,,,
+painterid,integer,,,,

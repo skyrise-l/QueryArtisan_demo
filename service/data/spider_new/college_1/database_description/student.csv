@@ -1,0 +1,13 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+student_stu_num,integer,,"[FOREIGN KEY: ""student_dept_code"" REFERENCES ""department.department_dept_code"" (table_name.column_name).]",[],[{'student_dept_code': 'department.department_dept_code'}]
+stu_lname,text,,,,
+stu_fname,text,,,,
+stu_init,text,,,,
+stu_dob,date,,,,
+stu_hrs,integer,,,,
+stu_class,text,,,,
+stu_gpa,double,,,,
+stu_transfer,double,,,,
+student_dept_code,text,,,,
+stu_phone,text,,,,
+student_prof_num,integer,,,,

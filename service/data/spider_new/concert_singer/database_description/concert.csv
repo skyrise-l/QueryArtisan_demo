@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+concert_concert_id,integer,"PRIMARY KEY : (""concert_concert_id"")","[FOREIGN KEY: ""concert_stadium_id"" REFERENCES ""stadium.stadium_stadium_id"" (table_name.column_name).]",['concert_id'],[{'concert_stadium_id': 'stadium.stadium_stadium_id'}]
+concert_name,text,,,,
+theme,text,,,,
+concert_stadium_id,text,,,,
+year,text,,,,

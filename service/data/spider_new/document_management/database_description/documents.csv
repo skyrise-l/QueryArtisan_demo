@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+documents_document_code,text,,"[FOREIGN KEY: ""documents_document_structure_code"" REFERENCES ""document_structures.document_structures_document_structure_code"" (table_name.column_name).]",[],[{'documents_document_structure_code': 'document_structures.document_structures_document_structure_code'}]
+documents_document_structure_code,text,,,,
+document_type_code,text,,,,
+access_count,integer,,,,
+document_name,text,,,,

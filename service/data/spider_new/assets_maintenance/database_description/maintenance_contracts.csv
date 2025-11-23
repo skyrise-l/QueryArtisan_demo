@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+maintenance_contracts_maintenance_contract_id,integer,,"[FOREIGN KEY: ""maintenance_contract_company_id"" REFERENCES ""third_party_companies.third_party_companies_company_id"" (table_name.column_name).]",[],[{'maintenance_contract_company_id': 'third_party_companies.third_party_companies_company_id'}]
+maintenance_contract_company_id,integer,,,,
+contract_start_date,date,,,,
+contract_end_date,date,,,,
+other_contract_details,text,,,,

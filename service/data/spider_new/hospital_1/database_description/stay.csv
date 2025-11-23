@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+stayid,integer,,"[FOREIGN KEY: ""stay_patient"" REFERENCES ""patient.patient_ssn"" (table_name.column_name)., FOREIGN KEY: ""room"" REFERENCES ""room.roomnumber"" (table_name.column_name).]",[],"[{'stay_patient': 'patient.patient_ssn'}, {'room': 'room.roomnumber'}]"
+stay_patient,integer,,,,
+room,integer,,,,
+staystart,date,,,,
+stayend,date,,,,

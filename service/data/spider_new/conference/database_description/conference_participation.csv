@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+conference_participation_conference_id,integer,"PRIMARY KEY : (""conference_participation_staff_id"", ""conference_participation_conference_id"")","[FOREIGN KEY: ""conference_participation_staff_id"" REFERENCES ""staff.staff_staff_id"" (table_name.column_name)., FOREIGN KEY: ""conference_participation_conference_id"" REFERENCES ""conference.conference_conference_id"" (table_name.column_name).]","['staff_id,conference_id']","[{'conference_participation_staff_id': 'staff.staff_staff_id'}, {'conference_participation_conference_id': 'conference.conference_conference_id'}]"
+conference_participation_staff_id,integer,,,,
+role,text,,,,

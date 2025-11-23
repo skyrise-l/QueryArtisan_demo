@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+member_member_id,integer,"PRIMARY KEY : (""member_member_id"")",[],['member_id'],[]
+name,text,,,,
+membership_card,text,,,,
+age,integer,,,,
+time_of_purchase,integer,,,,
+level_of_membership,integer,,,,
+member_address,text,,,,

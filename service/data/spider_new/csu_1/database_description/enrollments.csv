@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+enrollments_campus,integer,"PRIMARY KEY : (""enrollments_campus"", "" year"")","[FOREIGN KEY: ""enrollments_campus"" REFERENCES ""campuses.id"" (table_name.column_name).]","['campus, year']",[{'enrollments_campus': 'campuses.id'}]
+enrollments_year,integer,,,,
+totalenrollment_ay,integer,,,,
+fte_ay,integer,,,,

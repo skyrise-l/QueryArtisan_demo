@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+paper_paperid,integer,"PRIMARY KEY : (""paper_paperid"")","[FOREIGN KEY: ""paper_journalid"" REFERENCES ""journal.journal_journalid"" (table_name.column_name)., FOREIGN KEY: ""paper_venueid"" REFERENCES ""venue.venue_venueid"" (table_name.column_name).]",['paperid'],"[{'paper_journalid': 'journal.journal_journalid'}, {'paper_venueid': 'venue.venue_venueid'}]"
+title,text,,,,
+paper_venueid,integer,,,,
+year,integer,,,,
+numciting,integer,,,,
+numcitedby,integer,,,,
+paper_journalid,integer,,,,

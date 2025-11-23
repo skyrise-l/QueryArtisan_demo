@@ -1,0 +1,8 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+lost_in_battle,integer,"PRIMARY KEY : (""ship_id"")","[FOREIGN KEY: ""lost_in_battle"" REFERENCES ""battle.battle_id"" (table_name.column_name).]",['id'],[{'lost_in_battle': 'battle.battle_id'}]
+ship_id,integer,,,,
+ship_name,text,,,,
+tonnage,text,,,,
+ship_type,text,,,,
+location,text,,,,
+disposition_of_ship,text,,,,

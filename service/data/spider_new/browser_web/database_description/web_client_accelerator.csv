@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+web_client_accelerator_id,integer,"PRIMARY KEY : (""web_client_accelerator_id"")",[],['id'],[]
+web_client_accelerator_name,text,,,,
+operating_system,text,,,,
+client,text,,,,
+connection,text,,,,

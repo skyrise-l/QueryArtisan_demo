@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+language_language_id,integer,"PRIMARY KEY : (""language_language_id"")",[],['language_id'],[]
+language_name,text,,,,
+language_last_update,text,,,,

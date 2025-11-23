@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+integration_platform_id,integer,"PRIMARY KEY : (""integration_platform_id"")","[FOREIGN KEY: ""integration_platform_customer_interaction_id"" REFERENCES ""customer_interactions.customer_interactions_customer_interaction_id"" (table_name.column_name).]",['integration_platform_id'],[{'integration_platform_customer_interaction_id': 'customer_interactions.customer_interactions_customer_interaction_id'}]
+integration_platform_customer_interaction_id,integer,,,,
+integration_platform_details,text,,,,

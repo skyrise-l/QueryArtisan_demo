@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+party_host_party_id,integer,"PRIMARY KEY : (""party_host_party_id"", ""party_host_host_id"")","[FOREIGN KEY: ""party_host_host_id"" REFERENCES ""host.host_host_id"" (table_name.column_name)., FOREIGN KEY: ""party_host_party_id"" REFERENCES ""party.party_party_id"" (table_name.column_name).]","['party_id,host_id']","[{'party_host_host_id': 'host.host_host_id'}, {'party_host_party_id': 'party.party_party_id'}]"
+party_host_host_id,integer,,,,
+is_main_in_charge,text,,,,

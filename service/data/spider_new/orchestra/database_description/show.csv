@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+show_id,integer,,"[FOREIGN KEY: ""show_performance_id"" REFERENCES ""performance.performance_performance_id"" (table_name.column_name).]",[],[{'show_performance_id': 'performance.performance_performance_id'}]
+show_performance_id,integer,,,,
+if_first_show,text,,,,
+result,text,,,,
+attendance,double,,,,

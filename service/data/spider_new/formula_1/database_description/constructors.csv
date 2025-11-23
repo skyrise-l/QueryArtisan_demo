@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+constructors_constructorid,integer,,[],[],[]
+constructorref,text,,,,
+constructors_name,text,,,,
+constructors_nationality,text,,,,
+constructors_url,text,,,,

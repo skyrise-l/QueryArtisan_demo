@@ -1,0 +1,5 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+class_id,integer,"PRIMARY KEY : (""class_id"")","[FOREIGN KEY: ""classes_student_id"" REFERENCES ""students.students_student_id"" (table_name.column_name)., FOREIGN KEY: ""classes_teacher_id"" REFERENCES ""teachers.teachers_teacher_id"" (table_name.column_name).]",['class_id'],"[{'classes_student_id': 'students.students_student_id'}, {'classes_teacher_id': 'teachers.teachers_teacher_id'}]"
+classes_student_id,integer,,,,
+classes_teacher_id,integer,,,,
+class_details,text,,,,

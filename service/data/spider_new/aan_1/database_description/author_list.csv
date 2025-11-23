@@ -1,0 +1,4 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+author_list_paper_id,text,"PRIMARY KEY : (""author_list_paper_id"", ""author_list_author_id"")","[FOREIGN KEY: ""author_list_paper_id"" REFERENCES ""paper.paper_paper_id"" (table_name.column_name)., FOREIGN KEY: ""author_list_author_id"" REFERENCES ""author.author_author_id"" (table_name.column_name)., FOREIGN KEY: ""author_list_affiliation_id"" REFERENCES ""affiliation.affiliation_affiliation_id"" (table_name.column_name).]","['paper_id,author_id']","[{'author_list_paper_id': 'paper.paper_paper_id'}, {'author_list_author_id': 'author.author_author_id'}, {'author_list_affiliation_id': 'affiliation.affiliation_affiliation_id'}]"
+author_list_author_id,integer,,,,
+author_list_affiliation_id,integer,,,,

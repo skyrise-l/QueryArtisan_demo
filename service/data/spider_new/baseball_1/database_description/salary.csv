@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+salary_year,integer,,[],[],[]
+salary_team_id,text,,,,
+salary_league_id,text,,,,
+salary_player_id,text,,,,
+salary,integer,,,,

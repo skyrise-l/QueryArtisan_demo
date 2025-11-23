@@ -1,0 +1,9 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+flight_id,integer,"PRIMARY KEY : (""flight_id"")","[FOREIGN KEY: ""airport_id"" REFERENCES ""airport.airport_id"" (table_name.column_name)., FOREIGN KEY: ""company_id"" REFERENCES ""operate_company.operate_company_id"" (table_name.column_name).]",['id'],"[{'airport_id': 'airport.airport_id'}, {'company_id': 'operate_company.operate_company_id'}]"
+vehicle_flight_number,text,,,,
+date,text,,,,
+pilot,text,,,,
+velocity,double,,,,
+altitude,double,,,,
+airport_id,integer,,,,
+company_id,integer,,,,

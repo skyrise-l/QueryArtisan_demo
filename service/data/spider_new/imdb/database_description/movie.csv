@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+mid,integer,"PRIMARY KEY : (""mid"")",[],['mid'],[]
+movie_title,text,,,,
+movie_release_year,integer,,,,
+movie_title_aka,text,,,,
+movie_budget,text,,,,

@@ -1,0 +1,6 @@
+original_column_name,data_format,primary_key,foreign_key,ret_pks,ret_fks
+ship_ship_id,integer,"PRIMARY KEY : (""ship_ship_id"")",[],['ship_id'],[]
+name,text,,,,
+type,text,,,,
+nationality,text,,,,
+tonnage,integer,,,,
